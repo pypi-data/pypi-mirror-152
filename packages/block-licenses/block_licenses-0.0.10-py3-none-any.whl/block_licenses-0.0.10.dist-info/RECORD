@@ -1,0 +1,12 @@
+app/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app/main.py,sha256=QM8Wp4xIr4952jiWAR6MoqpXyGRd0MI0r4ub5fqStxs,9680
+app/config/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app/config/default.ini,sha256=D-Qg-pivIhSVLqn2RI2d2mVDa_OHwpXyc24vIcG7DM8,1349
+app/core/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+app/core/package_class.py,sha256=09gLi5Gi84z1ccyzyqf8m9amtYpfBLckF7zH74qT_Es,5728
+block_licenses-0.0.10.dist-info/LICENSE,sha256=c0B1X6W1DP8GLhmu7Yp6crenanuGvS81T3XVPmkkT2g,1078
+block_licenses-0.0.10.dist-info/METADATA,sha256=Le6G3-HS7s3S9Axf-rmcn1VxvNDIiWg51Mh2dRiQRko,2551
+block_licenses-0.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+block_licenses-0.0.10.dist-info/entry_points.txt,sha256=ZM0HoLu0yQBqJZlyq3W8ABLsCe6D8i0CIchKLsWqwSc,48
+block_licenses-0.0.10.dist-info/top_level.txt,sha256=io9g7LCbfmTG1SFKgEOGXmCFB9uMP2H5lerm0HiHWQE,4
+block_licenses-0.0.10.dist-info/RECORD,,
