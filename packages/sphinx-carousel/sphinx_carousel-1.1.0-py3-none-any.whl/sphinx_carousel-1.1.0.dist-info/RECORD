@@ -1,0 +1,12 @@
+sphinx_carousel/__init__.py,sha256=zT4Pg7y_hoUGG0aUM_zWmRCmEB5-q8tIIkr66HOFWHA,98
+sphinx_carousel/_static/bootstrap-carousel.min.css,sha256=Ww7i9RvKqv7sqYTJRL0_vIL6HglK2kxAOGEfLKgzMwY,64707
+sphinx_carousel/_static/bootstrap-carousel.min.js,sha256=3Gc6XWYb8AUGr34PrynSL4gEhJ-gr3CqjauNHeiFXJI,15546
+sphinx_carousel/_static/carousel-custom.css_t,sha256=EcEG6CU9z-mbty5YSFRsjnNP1PdGHURQ34xrgJoCc2k,1887
+sphinx_carousel/carousel.py,sha256=9WkRPjVILliY2yUGS-0YN_IypJIJUJ1I3Wu7luDcCoY,3697
+sphinx_carousel/directives.py,sha256=C51gqUj9VqZ1e-Oz3UrPo0GqOQq29hou0VmqChIas1w,6019
+sphinx_carousel/nodes.py,sha256=cRrf_x6W1IUcQKrnKp1gjXXyMqO4-Hd8SYb3B1OOGwc,12649
+sphinx_carousel-1.1.0.dist-info/COPYING,sha256=2E_bGGKu67u5DesZ_klVwKPnOc0VR3BfQAuisBAgzac,1318
+sphinx_carousel-1.1.0.dist-info/LICENSE,sha256=2E_bGGKu67u5DesZ_klVwKPnOc0VR3BfQAuisBAgzac,1318
+sphinx_carousel-1.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+sphinx_carousel-1.1.0.dist-info/METADATA,sha256=y0HW2avtCCpkO5r6x6htnZjbfRc72pjg95PGwqLzSNU,3560
+sphinx_carousel-1.1.0.dist-info/RECORD,,
