@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: gefran-pid
+Version: 0.1.0
+Summary: Unofficial package to control a Gefran PID controller (with Modbus RTU) in Python. Not affiliated with Gefran.
+Home-page: https://github.com/thvranken/gefran_pid
+Author: Thomas Vranken
+Author-email: thvranken@gmail.com
+License: GNU
+Download-URL: https://pypi.org/project/gefran-pid/
+Keywords: Gefran,PID,Temperature
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Readme - Gefran PID
+Python package to control Gefran PID temperature controllers.
+Requires a Gefran PID controller, equiped with a Modbus RTU communication interface.
+Tested with a Gefran 650 PID controller. 
+
+# History - Gefran PID
+Development version
+

@@ -1,0 +1,4 @@
+hein_utilities
+numpy
+modbus_tk
+pyserial
