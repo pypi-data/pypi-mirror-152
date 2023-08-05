@@ -1,0 +1,12 @@
+echemdb/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+echemdb/local.py,sha256=u-ljAd1XoRN5WFkc7TtIPH2ze9ZrLsw8z85jW8QXUfY,2737
+echemdb/remote.py,sha256=hIAOI4zYON2P_-xR6tUgA2Lt27doecbnYiUM3N0hjiE,3474
+echemdb/cv/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+echemdb/cv/database.py,sha256=NmfIZ_sV5DNuR4ghHScjslOHgB7P66K75bdos58npy4,8887
+echemdb/cv/descriptor.py,sha256=dZlMuRtJS3GS1CVhypbL9us7Kekscbrlk632dLnrU0M,7375
+echemdb/cv/entry.py,sha256=xjx1B9Eqhq0RjXOEWZG-sANgnAvWyOU8F2ZDaIhaJ8k,20773
+echemdb-0.4.0.dist-info/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+echemdb-0.4.0.dist-info/METADATA,sha256=EjxxtB0oAnGsgZRH216sNmQNIc-FiQvN76rGCi52u7Y,4414
+echemdb-0.4.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+echemdb-0.4.0.dist-info/top_level.txt,sha256=xMnpcyfFbrsQwyVuuAZhNS44Jyw_DXzhT_sLnZmo4dw,8
+echemdb-0.4.0.dist-info/RECORD,,
