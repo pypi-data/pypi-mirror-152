@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: pykernel
+Version: 0.1.4
+Summary: Python & text Windows CMD Editior written with only native libaries
+Home-page: https://github.com/coolnicecool/editor
+Author: Raleigh Priour
+Author-email: raleigh@1337maps.com
+License: LINCENSE.rst
+Description: 2 Python Files With No Dependence that allow you to edit any file through keyboard or mouse. Allows you to run python files and paste/copy/cut/highlight
+Platform: UNKNOWN
