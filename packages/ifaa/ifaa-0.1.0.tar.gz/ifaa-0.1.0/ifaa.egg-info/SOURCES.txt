@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+ifaa/__init__.py
+ifaa/loadData.py
+ifaa/source.py
+ifaa.egg-info/PKG-INFO
+ifaa.egg-info/SOURCES.txt
+ifaa.egg-info/dependency_links.txt
+ifaa.egg-info/requires.txt
+ifaa.egg-info/top_level.txt
+ifaa/data/dataC.csv
+ifaa/data/dataM.csv
