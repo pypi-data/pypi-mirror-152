@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: sentinel-django
+Version: 0.1.1
+Summary: 
+Author: Niranjan
+Author-email: sentinel@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: Django (>=4.0.4,<5.0.0)
