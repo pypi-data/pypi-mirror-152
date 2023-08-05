@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+repliconfig/__init__.py
+repliconfig/config.py
+repliconfig/configurable.py
+repliconfig/statistics.py
+repliconfig.egg-info/PKG-INFO
+repliconfig.egg-info/SOURCES.txt
+repliconfig.egg-info/dependency_links.txt
+repliconfig.egg-info/top_level.txt
