@@ -1,0 +1,163 @@
+Metadata-Version: 2.1
+Name: robotframework-dockerlibrary
+Version: 1.0.0
+Summary: A Robot Framework Docker Library
+Home-page: UNKNOWN
+Author: Oliver Uhlar
+Author-email: oliverkolombo@gmail.com
+License: Apache License 2.0
+Keywords: testing testautomation robotframework docker dind containerization
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Testing
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Framework :: Robot Framework :: Library
+Description-Content-Type: text/markdown
+Requires-Dist: packaging
+Requires-Dist: robotframework (==4.1.2)
+
+# DockerLibrary
+
+**Library version:**  &nbsp;  1.0
+
+**Library scope:**   &nbsp; &nbsp; &nbsp;Docker
+
+---
+
+## Introduction
+A library providing keywords for handling docker.
+
+DockerLibrary is Robot Framework's library that provides a set of keywords for handling docker. This library support all Docker CLI(docker) commands and options to work with docker. Furthermore, It provides handling multiple containers and also phenomenon called "docker in docker". The last extra feature is class DotDictionary which makes it easier to work with the output of basic Docker CLI commands.
+
+### Table of contents
+* [Docker CLI(docker)](#docker-clidocker)
+* [Multiple Docker containers](#multiple-docker-containers)
+* [Docker in Docker](#docker-in-docker)
+* [DotDictionary and parse commands](#parse-commands)
+
+---
+
+## Docker CLI(docker)
+
+The basic [docker (base command)](https://docs.docker.com/engine/reference/commandline/docker/) takes this form:
+
+```
+docker | <base command> | [OPTIONS]
+```
+
+**Example:**
+
+```
+docker  run  --name  test  -dt  ubuntu
+```
+
+---
+
+## Multiple Docker containers
+Keywords for handling multiple conatiners at once.
+### Create multiple containers
+
+Keywords for creating multiple containers with one command.
+
+**Returns:** List[str], where strings are containers ids which were created
+
+&nbsp;
+
+```
+create multiple containers | <number of containers> | <name of image>
+```
+**Example:**
+```
+create multiple containers  3  ubuntu
+```
+
+### Docker command for all containers
+
+Keywords for executing basic Docker CLI commands for multiple containers at once.
+
+**Returns:**
+* if parameter \<parse to dotd\> is true: Dict[str, DotDictionary], where keys are containers ids and values are outputs from command execution converted to DotDictionary
+* if parameter \<parse to dotd\> is false: Dict[str, str], where keys are containers ids and values are strings outputs from command execution
+```
+docker command for all | <containers ids> | <parse to dotd> | <base command> | [OPTIONS]
+```
+**Example:**
+```
+${containers_id} =  docker  ps  -a  -q
+docker command for all  ${containers_id.stdout}  False  rm  -f
+```
+
+---
+
+## Docker in Docker
+Keyword for handling docker in docker.
+
+### docker in docker
+Runs host docker in docker using default Unix socket ```/var/run/docker.sock``` and then it creates multiple containers of given image
+
+There are three options for docker in docker host:
+* Ubuntu
+* Alpine
+* Centos
+
+**Returns:** Dict[str, List[str]], where key is host container id and value is list of containers ids which where created
+
+&nbsp;
+
+```
+docker in docker | alpine/ubuntu/centos | <custom image> | <number of containers to create>
+```
+
+**Example:**
+
+```
+docker in docker  alpine  ubuntu  5
+```
+
+---
+
+## Parse commands
+Keywords that helps to parse outputs from docker.
+
+### Parse docker response
+
+If parameter \<parse to dotd\> is set True, It will try to parse the output given to DotDictionary and if it fails it returns string.
+If parameter \<parse to dotd\> is set False. It will remove all whitespace characters from string given and return that string.
+
+**Returns:** DotDictionary or List[DotDictionary] or string
+
+DotDictionary is a class for easier working with output of docker commands.
+
+**Example of using DotDictionary:**
+```
+${containers_id} =  docker  ps  -a  -q
+${dictionary} =  docker command for all  ${containers_id.stdout}  True  inspect
+${values} =  Get Dictionary Values  ${dictionary}
+Log  ${values[0].Config.Entrypoint}
+```
+
+**Returns:** DotDictionary or List[DotDictionary] or string
+```
+parse docker response | <response> | <parse to dotd>
+```
+**Example:**
+```
+${parsed_to_dotd_output} =  parse docker response  ${result.stdout}  True
+```
+
+### get containers ids
+
+Keyword to get containers ids.
+
+**Returns:** List[str], where strings are container ids
+```
+get containers ids
+```
+**Example:**
+```
+${containers_ids} =  get containers ids
+```
+
+
