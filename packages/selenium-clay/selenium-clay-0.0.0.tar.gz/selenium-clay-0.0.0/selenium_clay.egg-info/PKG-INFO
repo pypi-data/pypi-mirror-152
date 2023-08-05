@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: selenium-clay
+Version: 0.0.0
+Summary: it is hard to use a web browser nowadays
+Home-page: https://github.com/xloem/selenium-clay
+License: UNKNOWN
+Keywords: selenium,headless
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+
+UNKNOWN
+

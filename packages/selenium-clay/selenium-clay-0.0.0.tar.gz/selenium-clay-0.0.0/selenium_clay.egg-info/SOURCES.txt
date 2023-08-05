@@ -1,0 +1,7 @@
+setup.py
+selenium_clay/__init__.py
+selenium_clay.egg-info/PKG-INFO
+selenium_clay.egg-info/SOURCES.txt
+selenium_clay.egg-info/dependency_links.txt
+selenium_clay.egg-info/requires.txt
+selenium_clay.egg-info/top_level.txt
