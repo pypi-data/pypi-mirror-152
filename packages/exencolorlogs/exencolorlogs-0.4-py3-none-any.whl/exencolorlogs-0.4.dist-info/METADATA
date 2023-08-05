@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: exencolorlogs
+Version: 0.4
+Summary: Package for colorlogs
+Home-page: https://github.com/Exenifix/exencolorlogs
+Author: Exenifix
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: termcolor (>=0.2)
+
+# exencolorlogs
+
+A module for colored logs (personal purpose)
