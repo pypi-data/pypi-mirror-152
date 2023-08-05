@@ -1,0 +1,16 @@
+geo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+geo/admindiv.py,sha256=hRwvnr5S94D8wRq255DWTCoVXyiCNBgzzMb_t0Zislg,897
+geo/cities.py,sha256=bG0buIBDKLu7i7Zc-53-9JOzXDybf_z6Z1ibEfLfDMM,852
+geo/countries.py,sha256=YRFx8c-uDrGLFVFfsllrur0_XTdBZdJyBCzevg1V_Ds,811
+locales/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+locales/currencies.py,sha256=C1qqGVxWEkX2sDfCSMzM40nzWKtfyTBLBprAtgDGn6U,774
+locales/languages.py,sha256=QER5vAwdC-ufy8FP2kC9kernvcHuAof7KXE5H8j9Sys,665
+locales/timezone.py,sha256=quXPmMSKavAmAJobs-7LMwOBUgbYvkwmJHPrpfEHc0I,828
+utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+utils/config.py,sha256=43tyWs7HQrjgPJ-c5IIX77bpH0Wp3w7ZGqzsDN_bACs,217
+utils/helpers.py,sha256=F5a3c1714bE7R6--NPNjnn39FdXQPoXPiIwtf5pxo8o,2082
+geodbpyclient-1.1.1.dist-info/LICENSE.md,sha256=4TapfAD19XTohAKqOAICh0lwlkxUa0QSsJa6Gc3_c84,1106
+geodbpyclient-1.1.1.dist-info/METADATA,sha256=IlzuDee6HCLZoZPZ7cTUyPAJ-mnIffb9Gi42DhFrreM,339
+geodbpyclient-1.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+geodbpyclient-1.1.1.dist-info/top_level.txt,sha256=sV8VNtgkVBiL1AQUrQWWY9DK5pFVpbskdJsZoMO9-nQ,18
+geodbpyclient-1.1.1.dist-info/RECORD,,
