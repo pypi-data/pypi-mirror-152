@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sr3-x"
+version = "0.0.1"
+description = "An implementation of SR3 from Google"
+authors = ["paulcjh <paulcjh@protonmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+torch = "^1.11.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
