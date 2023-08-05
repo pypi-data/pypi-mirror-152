@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: FreeFortniteAPI
+Version: 1.0.1
+Summary: Easy to use FreeFortniteAPI module.
+Home-page: 
+Author: faktor
+Author-email: minibots010@gmail.com
+License: MIT
+Keywords: FreeFortniteAPI
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+FreeFortniteAPI
+===============
+
+.. image:: https://discord.com/api/guilds/881251978951397396/embed.png
+    :target: https://discord.com/invite/pFUTyqqcUx
+    :alt: Discord server invite
+
+Easy to use FreeFortniteAPI module.
+
+
+Installing
+~~~~~~~~~~
+
+**Python 3.5 or higher is required**
+
+
+.. code:: sh
+    
+    pip install FreeFortniteAPI
+
+
+
+Documentation
+~~~~~~~~~~~~~
+
+To get started we first need to import the api and initialize the client.
+
+.. code:: py
+
+    import FreeFortniteAPI
+
+    api = FreeFortniteAPI.FortniteAPI
+
+
+Aes
+~~~
+
+.. code:: py
+
+    api.aes("build", "main key", "updated")
+
+
+News
+~~~~
+
+.. code:: py
+    
+    api.news("image gif", "date", "hash")
