@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: Cookies_Auth
+Version: 0.0.2
+Summary: Personal simple authentication system for HWID using pastebin
+Home-page: UNKNOWN
+Author: Callumgm
+Author-email: Callumgm20052005@gmail.com
+License: MIT
+Keywords: authentication,pastebin,simpleauth
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+This is a very simple HWID whitelist security using pastebin link to scrape for hwid'scrape
+
+----------------------------------------------------------------------------------------------------------
+
+Commands:
+
+auth(pastebin_link)
+
+
+Change Log
+==========
+
+0.0.1 (23/05/2022)
+-------------------
+- First Release
+
+
