@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: whatsapp-business-api
+Version: 0.1.4
+Summary: A wrapper for WhatsApp Business Cloud API provided by Meta.
+Home-page: https://github.com/cerob/whatsapp-business-api-py
+License: MIT
+Author: Abdurrahman Dilmac
+Requires-Python: >=3.6.2,<4.0
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: FastAPI
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11  
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Communications :: Chat
+Classifier: Typing :: Typed
+Requires-Dist: fastapi (>=0.78.0,<0.79.0)
+Requires-Dist: pydantic (>=1.9.1,<2.0.0)
+Requires-Dist: requests (>=2.27.1,<3.0.0)
+Project-URL: Bug Tracker, https://github.com/python-poetry/poetry/issues
+Project-URL: Repository, https://github.com/cerob/whatsapp-business-api-py
+Description-Content-Type: text/markdown
+
+# Whatsapp Business Cloud API
+
+This repository is a wrapper for Meta's Whatsapp Business Cloud API.
+
+## Use
+
+```python
+from whatsapp_business_api import WhatsappAPI
+
+phone_number_id = 'YOUR_SENDER_ID'
+access_token = 'YOUR_ACCESS_TOKEN'
+
+w = WhatsappAPI(phone_number_id=phone_number_id,
+                access_token=access_token)
+
+w.send_text_message(to='49xxxxxxxxxxx', message='This is a test!')
+```
+
