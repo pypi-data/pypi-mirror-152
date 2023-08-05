@@ -1,0 +1,2 @@
+[console_scripts]
+gluettalax = gluettalax:main
