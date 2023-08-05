@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ada-assistant
+Version: 1.2.0
+Summary: Ada: cmd helper that does lot of things
+Author: yuquanshan
+License: MIT
+Requires-Python: >=3
+Description-Content-Type: text/x-rst
+Requires-Dist: pycrypto
+
+To be added when author is free...
