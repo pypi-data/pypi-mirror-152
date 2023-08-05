@@ -1,0 +1,3 @@
+[console_scripts]
+marppy = marppy.__main__:main
+
