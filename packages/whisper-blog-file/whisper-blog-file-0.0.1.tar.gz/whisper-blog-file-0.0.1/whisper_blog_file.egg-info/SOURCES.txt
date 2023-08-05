@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+whisper/file/__init__.py
+whisper/file/config.py
+whisper/file/py.typed
+whisper_blog_file.egg-info/PKG-INFO
+whisper_blog_file.egg-info/SOURCES.txt
+whisper_blog_file.egg-info/dependency_links.txt
+whisper_blog_file.egg-info/namespace_packages.txt
+whisper_blog_file.egg-info/not-zip-safe
+whisper_blog_file.egg-info/requires.txt
+whisper_blog_file.egg-info/top_level.txt
