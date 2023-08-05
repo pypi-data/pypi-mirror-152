@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dave-metrics
+Version: 0.0.1
+Requires-Dist: datadog (==0.42.0)
+Provides-Extra: test
+Requires-Dist: pytest (==6.2.2) ; extra == 'test'
+Requires-Dist: pytest-mock (==3.5.1) ; extra == 'test'
+Requires-Dist: pytest-env ; extra == 'test'
+
