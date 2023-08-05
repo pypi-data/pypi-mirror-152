@@ -1,0 +1,9 @@
+chemparse
+dill
+ipython
+matplotlib
+numpy
+pandas
+periodictable
+plotly
+rpy2
