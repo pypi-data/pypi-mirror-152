@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: spinthon
+Version: 0.2
+Summary: A python package intended to simulate spin dynamics
+Home-page: http://github.com/bennomeier/spinthon
+Author: Benno Meier
+Author-email: meier.benno@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
