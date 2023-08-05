@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: amtrak
+Version: 0.0.1
+Requires-Dist: cloudpickle (>=2.0.0)
+Requires-Dist: gcsfs (>=2021.7.0)
+Requires-Dist: python-configuration[yaml] (~=0.8)
+Requires-Dist: pandas (>=1.0.0)
+Requires-Dist: smart-open (~=5.0)
+Provides-Extra: test
+Requires-Dist: pytest (==6.2.2) ; extra == 'test'
+Requires-Dist: pytest-env ; extra == 'test'
+
