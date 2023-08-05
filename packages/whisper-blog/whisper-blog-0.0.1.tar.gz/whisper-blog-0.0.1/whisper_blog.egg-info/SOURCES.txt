@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+instance/config.example.py
+whisper_blog.egg-info/PKG-INFO
+whisper_blog.egg-info/SOURCES.txt
+whisper_blog.egg-info/dependency_links.txt
+whisper_blog.egg-info/requires.txt
+whisper_blog.egg-info/top_level.txt
