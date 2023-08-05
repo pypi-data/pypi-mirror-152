@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: skymarshal
+Version: 0.3.dev2
+Summary: "Python implementation of marshalling for LCM messages"
+Author: "Skydio, Inc"
+License: "LGPL-2.1"
+License-File: LICENSE
