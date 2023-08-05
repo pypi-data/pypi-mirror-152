@@ -1,0 +1,3 @@
+[console_scripts]
+AM-PM-to-HM-converter = AM_PM_to_HM_converter.AM_PM_to_24
+
