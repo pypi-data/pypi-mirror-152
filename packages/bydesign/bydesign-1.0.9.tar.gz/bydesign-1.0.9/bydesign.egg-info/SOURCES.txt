@@ -1,0 +1,14 @@
+README.md
+setup.py
+bydesign/__init__.py
+bydesign/admin.py
+bydesign/inspected.py
+bydesign/models.py
+bydesign/routers.py
+bydesign.egg-info/PKG-INFO
+bydesign.egg-info/SOURCES.txt
+bydesign.egg-info/dependency_links.txt
+bydesign.egg-info/not-zip-safe
+bydesign.egg-info/pbr.json
+bydesign.egg-info/requires.txt
+bydesign.egg-info/top_level.txt
