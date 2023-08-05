@@ -1,0 +1,66 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import scipy
+from numpy import vectorize, sqrt, log, inf, exp, pi, tanh
+from scipy.constants import k, mu_0
+from lmfit import Parameters
+from scipy.integrate import quad
+
+x_data = [-7.0, -6.5, -6.0, -5.5, -5.0, -4.5, -4.0, -3.5, -3.0, -2.5, -2.0, -1.5, -1.0,
+          -0.95, -0.9, -0.85, -0.8, -0.75, -0.7, -0.65, -0.6, -0.55, -0.5, -0.45, -0.4,
+          -0.35, -0.3, -0.25, -0.2, -0.1,-0.05, 3e-6, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3,
+          0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.0,
+          1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0]
+y_data = [-61.6, -61.6, -61.6, -61.5, -61.5, -61.4, -61.3, -61.2, -61.1, -61.0, -60.8,
+          -60.4, -59.8, -59.8, -59.7, -59.5, -59.4, -59.3, -59.1, -58.9, -58.7, -58.4,
+          -58.1, -57.7, -57.2, -56.5, -55.6, -54.3, -52.2, -48.7, -41.8, -27.3, 2.6,
+          30.1, 43.1, 49.3, 52.6, 54.5, 55.8, 56.6, 57.3, 57.8, 58.2, 58.5, 58.7, 59.0,
+          59.1, 59.3, 59.5, 59.6, 59.7, 59.8, 59.9, 60.5, 60.8, 61.0, 61.2, 61.3, 61.4,
+          61.4, 61.5, 61.6, 61.6, 61.7, 61.7]
+
+params = Parameters()
+params.add('Dm' , value = 8e-9   , vary = True, min = 0, max = 1) # magnetic diameter (m)
+params.add('s'  , value = 0.4    , vary = True, min = 0.0, max = 10.0) # sigma, unitless
+params.add('Ms' , value = 61.0    , vary = True) #, min = 30.0 , max = 100.0) # saturation magnetization (emu/g)
+
+params.add('Msb', value = 446000 * 1e-16, vary = False) # Bulk magnetite saturation magnetization (A/m)
+params.add('T'  , value = 300    , vary = False) # Temperature (K)
+
+def Mag(x_data, params):
+
+    v = params.valuesdict() # put parameters into a dictionary
+
+    def numerator(D, x_data, params):
+
+        # langevin
+        a_numerator = pi * v['Msb'] * x_data * D**3
+        a_denominator = 6*k*v['T']
+        a = a_numerator / a_denominator
+        langevin = (1/tanh(a)) - (1/a)
+
+        # PDF
+        exp_num = (log(D/v['Dm']))**2
+        exp_denom = 2 * v['s']
+        exponential = exp(-exp_num/exp_denom)
+        pdf = exponential/(sqrt(2*pi) * v['s'] * D)
+
+        return D**3 * langevin * pdf
+
+    def denominator(D, params):
+
+        # PDF
+        exp_num = (log(D/v['Dm']))**2
+        exp_denom = 2 * v['s']
+        exponential = exp(-exp_num/exp_denom)
+        pdf = exponential/(sqrt(2*pi) * v['s'] * D)
+        return D**3 * pdf
+
+    # return integrals
+    return v['Ms'] * quad(numerator, 0, inf, args=(x_data, params))[0]  / quad(denominator, 0, inf,args=(params))[0]
+
+# vectorize
+vcurve = np.vectorize(Mag, excluded=set([1]))
+
+plt.plot(x_data, vcurve(x_data, params))
+plt.scatter(x_data, y_data)
