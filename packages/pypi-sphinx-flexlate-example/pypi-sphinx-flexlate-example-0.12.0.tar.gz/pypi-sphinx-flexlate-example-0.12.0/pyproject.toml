@@ -1,0 +1,6 @@
+[tool.black]
+include = 'pypi_sphinx_flexlate_example|tests'
+
+[tool.isort]
+profile = "black"
+extend_skip = ["docsrc/source/conf.py"]
