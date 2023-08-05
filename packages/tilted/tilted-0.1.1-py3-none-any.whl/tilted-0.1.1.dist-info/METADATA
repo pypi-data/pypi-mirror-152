@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tilted
+Version: 0.1.1
+Summary: Tilted is a lightweight, open-source Python package with a simple interface for poker hand evaluation & comparison.
+Author: Max Atkinson
+Author-email: hiremaxatkinson@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
