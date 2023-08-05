@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: davesci
+Version: 0.0.1
+Requires-Dist: Jinja2 (>=2.0.0)
+Requires-Dist: smart-open (>=3.0.0)
+Requires-Dist: snowflake-connector-python (>=1.0.0)
+Provides-Extra: test
+Requires-Dist: pytest (==6.2.2) ; extra == 'test'
+Requires-Dist: pytest-mock (>=3.7.0) ; extra == 'test'
+
