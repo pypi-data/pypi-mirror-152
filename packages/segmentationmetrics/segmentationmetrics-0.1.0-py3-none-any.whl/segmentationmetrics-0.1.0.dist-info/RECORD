@@ -1,0 +1,13 @@
+segmentationmetrics/__init__.py,sha256=k4Dr_itlqyL0eCuv2IHSzT03zd7J9y_0TCrOZjO6l5g,41
+segmentationmetrics/metrics.py,sha256=HvGkO-5zLbK05R3zACDpQzh6B4kQLp_I5wAeCSDk7r4,6459
+segmentationmetrics/surface_distance/__init__.py,sha256=u0a4y15nQnRB4uldRA0HNVsw0sUA6GiA8OYIjzc5bEM,793
+segmentationmetrics/surface_distance/lookup_tables.py,sha256=XfgNAvGfKF_yCVuYWexasRHBaQ5n90i3d4Ctfpftx7w,22757
+segmentationmetrics/surface_distance/metrics.py,sha256=oBeaJND9fe58ZqOB6grXd9iWN7jELYc0579GVOTu62g,18369
+segmentationmetrics/tests/__init__.py,sha256=4RnJjBjPIfB7BPmJr4XiIZtMs4CuR0KegYHExBEI4QA,50
+segmentationmetrics/tests/test_metrics.py,sha256=Dpsg7cctaq3hwTbecOqSUf_3NGrHnNvaTsyvwNuApns,6329
+segmentationmetrics/tests/test_surface_distance.py,sha256=hk33vjP-A2I81H45UWiNXtVHFY3CU0XVgjB0wZoVPd8,14129
+segmentationmetrics-0.1.0.dist-info/LICENSE.md,sha256=CUvt2ilcBwKAfRAnoA4RNPTLcdUj3En21LPK9YkFMGg,11358
+segmentationmetrics-0.1.0.dist-info/METADATA,sha256=zkoMSeSHZz2l88eb2M2hGcXmUXpJnvyFGjF-j588q3w,2764
+segmentationmetrics-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+segmentationmetrics-0.1.0.dist-info/top_level.txt,sha256=a_MjKyOsJIDSAbRnpGFFtAdfpeEVMZsRDEmmtPuVmgs,20
+segmentationmetrics-0.1.0.dist-info/RECORD,,
