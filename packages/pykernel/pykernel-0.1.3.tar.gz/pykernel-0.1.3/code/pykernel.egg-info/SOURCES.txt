@@ -1,0 +1,8 @@
+LICENSE.rst
+README.md
+setup.cfg
+setup.py
+code/pykernel.egg-info/PKG-INFO
+code/pykernel.egg-info/SOURCES.txt
+code/pykernel.egg-info/dependency_links.txt
+code/pykernel.egg-info/top_level.txt
