@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+CookiesTestersa.egg-info/PKG-INFO
+CookiesTestersa.egg-info/SOURCES.txt
+CookiesTestersa.egg-info/dependency_links.txt
+CookiesTestersa.egg-info/top_level.txt
+calc/__init__.py
