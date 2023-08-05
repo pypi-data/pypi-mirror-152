@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pydle_game/__init__.py
+pydle_game/__main__.py
+pydle_game/_stats.py
+pydle_game/cli.py
+pydle_game/game.py
+pydle_game.egg-info/PKG-INFO
+pydle_game.egg-info/SOURCES.txt
+pydle_game.egg-info/dependency_links.txt
+pydle_game.egg-info/entry_points.txt
+pydle_game.egg-info/requires.txt
+pydle_game.egg-info/top_level.txt
+pydle_game/data/words.json
