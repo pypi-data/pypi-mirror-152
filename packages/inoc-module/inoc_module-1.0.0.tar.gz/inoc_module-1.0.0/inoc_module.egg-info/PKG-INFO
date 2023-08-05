@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: inoc-module
+Version: 1.0.0
+Summary: Shared code to run the inoc reporter.
+Author: Rachel Powers
+Author-email: rachelpowers@horizonriver.com

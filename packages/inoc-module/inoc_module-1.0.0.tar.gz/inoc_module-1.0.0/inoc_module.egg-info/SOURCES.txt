@@ -1,0 +1,11 @@
+setup.py
+inoc_module.egg-info/PKG-INFO
+inoc_module.egg-info/SOURCES.txt
+inoc_module.egg-info/dependency_links.txt
+inoc_module.egg-info/requires.txt
+inoc_module.egg-info/top_level.txt
+inoc_reporter/__init__.py
+shared_code/__init__.py
+shared_code/connectDB.py
+shared_code/createtable.py
+shared_code/inoc_automator.py
