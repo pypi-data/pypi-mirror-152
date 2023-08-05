@@ -1,0 +1,3 @@
+[console_scripts]
+pythagoras_oneoff_wprker = p_cloud:outprocess_one_off_worker
+
