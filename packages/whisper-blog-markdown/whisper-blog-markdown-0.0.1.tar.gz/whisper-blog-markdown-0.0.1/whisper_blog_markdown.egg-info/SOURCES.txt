@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+whisper/markdown/__init__.py
+whisper/markdown/config.py
+whisper/markdown/proxy.py
+whisper/markdown/py.typed
+whisper_blog_markdown.egg-info/PKG-INFO
+whisper_blog_markdown.egg-info/SOURCES.txt
+whisper_blog_markdown.egg-info/dependency_links.txt
+whisper_blog_markdown.egg-info/namespace_packages.txt
+whisper_blog_markdown.egg-info/not-zip-safe
+whisper_blog_markdown.egg-info/requires.txt
+whisper_blog_markdown.egg-info/top_level.txt
