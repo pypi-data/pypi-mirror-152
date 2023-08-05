@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: windows-capture-device-list
+Version: 1.0
+Summary: Get device list with Windows DirectShow
+Home-page: https://github.com/yushulx/python-capture-device-list
+Author: yushulx
+License: MIT
+Description: # List Capture Devices for Python OpenCV on Windows
+        **OpenCV** does not have an API for listing capture devices. The sample shows how to create a Python extension to invoke DirectShow C++ APIs for enumerating capture devices.
+        
+        ## Environment
+        * [Microsoft Windows SDK][0]
+        * Python 2.7.9 / Python 3.6.5
+        * OpenCV 3.3.0
+        
+        ## How to Build the CPython Extension
+        - Create a source distribution:
+            
+            ```bash
+            python setup.py sdist
+            ```
+        
+        - distutils:
+            
+            ```bash
+            python .\setup_distutils.py build
+            ```
+        
+        - scikit-build:
+            
+            ```bash
+            pip wheel . --verbose
+            ```
+        
+        ## Test 
+        ```bash
+        python test.py
+        ```
+        ![camera list in Python](screenshot/python-list-device.PNG)
+        
+        ## Blog
+        [Listing Multiple Cameras for OpenCV-Python on Windows][1]
+        
+        [0]:https://en.wikipedia.org/wiki/Microsoft_Windows_SDK
+        [1]:https://www.dynamsoft.com/codepool/multiple-camera-opencv-python-windows.html
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development
+Description-Content-Type: text/markdown
