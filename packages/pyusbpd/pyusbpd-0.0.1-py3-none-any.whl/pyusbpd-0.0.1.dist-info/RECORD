@@ -1,0 +1,8 @@
+pyusbpd/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyusbpd/enum.py,sha256=jzrXK60kguBl7zuVMv4WLRtxShkB9f8G8GWx3R3I5i8,738
+pyusbpd/message.py,sha256=glk_l_24ACjCUcBauxd3Oi4VHJd3abaCbZXrCNS9FQ4,7887
+pyusbpd-0.0.1.dist-info/LICENSE,sha256=OTRkh_f3E04Mo-roQVEY3tDVETYzh-fBdf4RDpLgSu4,749
+pyusbpd-0.0.1.dist-info/METADATA,sha256=et4XMrKryOhjl7qK66rBhpMs568xEU2rBd2pBILTa0M,1016
+pyusbpd-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyusbpd-0.0.1.dist-info/top_level.txt,sha256=d04vOd47WsgQvnwK35M6QC1Lh5PlBivyJApdhAqnFMM,8
+pyusbpd-0.0.1.dist-info/RECORD,,
