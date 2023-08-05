@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: jamf
+Version: 0.1.0
+Summary: 
+Author: Trenten Oliver
+Author-email: trentenoliver@outlook.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: httpx (>=0.23.0,<0.24.0)
+Requires-Dist: keyring (>=23.5.1,<24.0.0)
+Requires-Dist: pydantic (>=1.9.1,<2.0.0)
