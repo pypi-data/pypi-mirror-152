@@ -1,0 +1,11 @@
+whisper_blog_markdown-0.0.1-py3.9-nspkg.pth,sha256=0W3c0B58LfcGrJBm6C5coPdvW55jLyj2TU58hVOIefc,544
+whisper/markdown/__init__.py,sha256=kK7AjXtCT3WJ1f-laueAbC4p5yg6h8iY8yr6ZGBm0cE,1298
+whisper/markdown/config.py,sha256=CoP6bZ4-vVtyZphozJtW0u0W6H5GW72ad2qPljEFo3s,482
+whisper/markdown/proxy.py,sha256=TfFnbEJI9syRbGNf5BIB69Iyz5DvSPWXU36Rnw1c_GE,173
+whisper/markdown/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+whisper_blog_markdown-0.0.1.dist-info/LICENSE,sha256=DZak_2itbUtvHzD3E7GNUYSRK6jdOJ-GqncQ2weavLA,34523
+whisper_blog_markdown-0.0.1.dist-info/METADATA,sha256=_8xEPXpTo-85Ir54-45wEZAjo6nOWsZ2oRPOCbptTW4,1592
+whisper_blog_markdown-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+whisper_blog_markdown-0.0.1.dist-info/namespace_packages.txt,sha256=e73_hD7PzIrqq5Qkj8xc0C3FVPiu7AOQae35YeSGDfQ,8
+whisper_blog_markdown-0.0.1.dist-info/top_level.txt,sha256=e73_hD7PzIrqq5Qkj8xc0C3FVPiu7AOQae35YeSGDfQ,8
+whisper_blog_markdown-0.0.1.dist-info/RECORD,,
