@@ -1,0 +1,9 @@
+nlp_time/__init__.py,sha256=ZizerR8Xml4okFHYsMV03DBiDqCFfUjC73bFgSRyXA4,68
+nlp_time/__version__.py,sha256=MUisJLy1CRhj8yPhBTcMuyUZPODcXsGTPfaFuU2N3O0,87
+nlp_time/core.py,sha256=6YZPXu1L7TZg7ziMmzWXHM7oJjLRNky8LK604v2Zo5w,4413
+nlp_time/utils.py,sha256=Ai0Qt7TIFqgcdQdAxLT9DuU9Y4ORC6qJtCF3B1h0xTU,376
+nlp_time-0.1.8.dist-info/LICENSE,sha256=5mGKT-8JivLkYytFwVxN4KGDFE_yBq8WU3VdjGwRQ7k,1060
+nlp_time-0.1.8.dist-info/METADATA,sha256=Xa9JA7bSLXp9Q0DB3-swdclcLW5nSQCmFcDrrBTbWH8,2906
+nlp_time-0.1.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+nlp_time-0.1.8.dist-info/top_level.txt,sha256=WCHp06yNB1P6aGQQ2dv1XF-DuBx8QPRexwmqjdfvvkA,9
+nlp_time-0.1.8.dist-info/RECORD,,
