@@ -1,0 +1,9 @@
+README.rst
+setup.py
+davesci/__init__.py
+davesci/__main__.py
+davesci.egg-info/PKG-INFO
+davesci.egg-info/SOURCES.txt
+davesci.egg-info/dependency_links.txt
+davesci.egg-info/requires.txt
+davesci.egg-info/top_level.txt
