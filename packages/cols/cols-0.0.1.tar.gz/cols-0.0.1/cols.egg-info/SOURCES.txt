@@ -1,0 +1,17 @@
+CHANGELOG.rst
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+cols/__init__.py
+cols/ansi.py
+cols/ansitowin32.py
+cols/initialise.py
+cols/intro.py
+cols/win32.py
+cols/winterm.py
+cols.egg-info/PKG-INFO
+cols.egg-info/SOURCES.txt
+cols.egg-info/dependency_links.txt
+cols.egg-info/top_level.txt
