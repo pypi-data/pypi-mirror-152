@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: openTB
+Version: 0.0.3
+Summary: this file is created to user have better interact between python and vivado testbench.
+Home-page: https://github.com/pypa/sampleproject
+Author: M.Mahdi Sayadi
+Author-email: mohammadmahdisayadi9323@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE

@@ -1,0 +1,9 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/openTB/__init__.py
+src/openTB/openTB.py
+src/openTB.egg-info/PKG-INFO
+src/openTB.egg-info/SOURCES.txt
+src/openTB.egg-info/dependency_links.txt
+src/openTB.egg-info/top_level.txt
