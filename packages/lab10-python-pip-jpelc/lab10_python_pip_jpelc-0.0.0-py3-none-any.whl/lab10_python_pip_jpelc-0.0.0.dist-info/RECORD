@@ -1,0 +1,10 @@
+v1/__init__.py,sha256=C_L9j4tVJJmXJbIBgP-XVxLYgYkz7CMFdnRwa-_6j18,35
+v1/countries.py,sha256=jpOY2w9AyfQrr6QiPlE5eVcaLfG2D531ooAa3qnqm5I,1034
+v1/weather.py,sha256=-nuWjYITqIb-hprnKTwTnu-VGPHajw6GaWQrNRWIh88,26695
+v2/__init__.py,sha256=bPerzLxoFpDQiUdjM7suhW2_T_w3CUANsUGc1fliEwg,35
+v2/countries.py,sha256=L_5SZgGktCe425KObFqzgdzOblY-PSOepMLwiYwWRlY,1111
+v2/weather.py,sha256=q7UCNhvDfk5Md7AdMZpeH6u1VpJD0txpkE_SBRe8Qf4,26783
+lab10_python_pip_jpelc-0.0.0.dist-info/METADATA,sha256=3DXwlnYoHJlrCY4oV3VziHbqxTU8vINnVSl4D-cziMA,191
+lab10_python_pip_jpelc-0.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+lab10_python_pip_jpelc-0.0.0.dist-info/top_level.txt,sha256=EFssjXvdRkJvIGfsI0sSCMibIb06G9HB1MeAJkqwGbU,6
+lab10_python_pip_jpelc-0.0.0.dist-info/RECORD,,
