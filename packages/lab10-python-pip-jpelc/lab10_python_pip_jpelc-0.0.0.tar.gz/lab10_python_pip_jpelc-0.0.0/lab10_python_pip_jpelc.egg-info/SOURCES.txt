@@ -1,0 +1,12 @@
+setup.py
+lab10_python_pip_jpelc.egg-info/PKG-INFO
+lab10_python_pip_jpelc.egg-info/SOURCES.txt
+lab10_python_pip_jpelc.egg-info/dependency_links.txt
+lab10_python_pip_jpelc.egg-info/requires.txt
+lab10_python_pip_jpelc.egg-info/top_level.txt
+v1/__init__.py
+v1/countries.py
+v1/weather.py
+v2/__init__.py
+v2/countries.py
+v2/weather.py
