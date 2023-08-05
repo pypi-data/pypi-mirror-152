@@ -1,0 +1,11 @@
+vidaug/__init__.py,sha256=g2SG0OPO-7svBvMD9aSiKyFx5VR5ZrPLkwE6OcxMVLA,35
+vidaug/classification/__init__.py,sha256=BfEm-RUgpVoqvAUbQ13yFd9r6mBQQ9DKkj7ATww5sRI,28
+vidaug/classification/augment.py,sha256=GYUQ2PmHCIlkQQQ83H-nKnuivng8vEJnbmnqBFIm3k4,2689
+vidaug/classification/utils/__init__.py,sha256=oxhbQCEI7l4OZOJOAZyrZ0T2h_FyRTcG8QFATrD6lF8,41
+vidaug/classification/utils/filter.py,sha256=oNLDNXhuQzo-Kk-_eetToJ-awhgQwSz4huzmD45JXmA,336
+vidaug/classification/utils/util.py,sha256=Ba_TmUPu-mcV7uj8cC_KoyOvquu45girAA-5aF9FX6c,705
+VideoAug-1.0.0.dist-info/LICENSE,sha256=O_E24KvGDGmjs6e6CYVsJfbAYWqkn3TIz9K-8UXZxrg,1074
+VideoAug-1.0.0.dist-info/METADATA,sha256=8n8VRQ6nr5Fas39sKSgh0Sz_dLhRc8fns8Acd01gxGE,355
+VideoAug-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+VideoAug-1.0.0.dist-info/top_level.txt,sha256=crIZ346wBJ36LtdR5cVeQMOlyXaz46uGNZa8XCf5nDI,7
+VideoAug-1.0.0.dist-info/RECORD,,
