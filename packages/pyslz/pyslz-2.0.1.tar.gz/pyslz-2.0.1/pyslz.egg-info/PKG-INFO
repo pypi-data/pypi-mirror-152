@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyslz
+Version: 2.0.1
+Summary: Pessoalize useful functions module
+Home-page: UNKNOWN
+Author: André Haffner
+Author-email: <andre.haffner@pessoalize.com>
+License: UNKNOWN
+Keywords: python,pessoalize
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+Functions that adjusts telephones, cpfs, cnpjs / postgres interaction functions
+
