@@ -1,0 +1,16 @@
+CHANGELOG.rst
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+Cookies_colorama/__init__.py
+Cookies_colorama/ansi.py
+Cookies_colorama/ansitowin32.py
+Cookies_colorama/initialise.py
+Cookies_colorama/win32.py
+Cookies_colorama/winterm.py
+Cookies_colorama.egg-info/PKG-INFO
+Cookies_colorama.egg-info/SOURCES.txt
+Cookies_colorama.egg-info/dependency_links.txt
+Cookies_colorama.egg-info/top_level.txt
