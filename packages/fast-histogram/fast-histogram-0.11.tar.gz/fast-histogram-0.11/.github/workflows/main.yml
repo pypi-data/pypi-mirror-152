@@ -1,0 +1,62 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+
+  tests:
+    uses: OpenAstronomy/github-actions-workflows/.github/workflows/tox.yml@main
+    with:
+      coverage: codecov
+      runs-on: |
+        linux: ubuntu-22.04
+      envs: |
+        - linux: py37-test-numpy116
+        - linux: py37-test-numpy117
+        - linux: py38-test-numpy118
+        - linux: py39-test
+        - linux: py310-test
+
+        - macos: py36-test-numpy113
+        - macos: py36-test-numpy114
+        - macos: py36-test-numpy115
+        # The following two jobs are disabled due to an issue that seems
+        # specific to Python 3.7 and not worth investigating.
+        # - macos: py37-test-numpy116
+        # - macos: py37-test-numpy117
+        - macos: py38-test-numpy118
+        - macos: py39-test
+        - macos: py310-test
+
+        - windows: py36-test-numpy113
+        - windows: py36-test-numpy114
+        - windows: py36-test-numpy115
+        - windows: py37-test-numpy116
+        - windows: py37-test-numpy117
+        - windows: py38-test-numpy118
+        - windows: py39-test
+        - windows: py310-test
+
+  publish:
+    uses: OpenAstronomy/github-actions-workflows/.github/workflows/publish.yml@main
+    with:
+      test_extras: test
+      test_command: pytest --pyargs fast_histogram -m "not hypothesis"
+      sdist-runs-on: ubuntu-22.04
+      targets: |
+        - cp*-manylinux_i686
+        - cp*-manylinux_x86_64
+        - cp*-manylinux_aarch64
+        # - cp*-musllinux_i686
+        - cp*-musllinux_x86_64
+        # - cp*-musllinux_aarch64
+        - pp*-manylinux_i686
+        - pp*-manylinux_x86_64
+        # - pp*-manylinux_aarch64
+        - cp*-macosx_x86_64
+        - cp*-macosx_arm64
+        - windows
+    secrets:
+      pypi_token: ${{ secrets.PYPI_TOKEN }}
