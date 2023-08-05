@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+src/treport/__init__.py
+src/treport/logger.py
+src/treport/report.py
+src/treport/treport.xsd
+src/treport.egg-info/PKG-INFO
+src/treport.egg-info/SOURCES.txt
+src/treport.egg-info/dependency_links.txt
+src/treport.egg-info/requires.txt
+src/treport.egg-info/top_level.txt
