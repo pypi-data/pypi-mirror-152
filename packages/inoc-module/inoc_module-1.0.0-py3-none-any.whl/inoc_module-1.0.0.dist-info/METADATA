@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: inoc-module
+Version: 1.0.0
+Summary: Shared code to run the inoc reporter.
+Author: Rachel Powers
+Author-email: rachelpowers@horizonriver.com
+Requires-Dist: beautifulsoup4 (==4.11.1)
+Requires-Dist: mypy (==0.950)
+Requires-Dist: mysql-connector-repackaged (==0.3.1)
+Requires-Dist: pandas (==1.4.1)
+Requires-Dist: python-dotenv (==0.20.0)
+Requires-Dist: selenium (==4.1.5)
+Requires-Dist: azure-functions (==1.11.2)
+
