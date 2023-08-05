@@ -1,0 +1,5 @@
+include .version
+exclude snap
+exclude snap/snapcraft.yml
+include freshenv/templates
+include freshenv/templates/simple
