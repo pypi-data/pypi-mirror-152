@@ -1,0 +1,6 @@
+pandas
+requests
+numpy
+datetime
+dict2xml
+xmltodict
