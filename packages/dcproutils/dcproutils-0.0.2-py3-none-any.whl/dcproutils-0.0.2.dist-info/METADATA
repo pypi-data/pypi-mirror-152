@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: dcproutils
+Version: 0.0.2
+Summary: DcPro utilities
+Home-page: UNKNOWN
+Author: Camel Blue
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: datetime
+Requires-Dist: json
+Requires-Dist: requests
+
+UNKNOWN
+
+
