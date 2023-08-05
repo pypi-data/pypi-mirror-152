@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pyusbpd/__init__.py
+pyusbpd/enum.py
+pyusbpd/message.py
+pyusbpd.egg-info/PKG-INFO
+pyusbpd.egg-info/SOURCES.txt
+pyusbpd.egg-info/dependency_links.txt
+pyusbpd.egg-info/top_level.txt
