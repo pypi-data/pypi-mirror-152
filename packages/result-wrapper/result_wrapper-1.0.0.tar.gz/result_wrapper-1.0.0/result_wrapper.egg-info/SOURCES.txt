@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+result_wrapper.egg-info/PKG-INFO
+result_wrapper.egg-info/SOURCES.txt
+result_wrapper.egg-info/dependency_links.txt
+result_wrapper.egg-info/requires.txt
+result_wrapper.egg-info/top_level.txt
+src/__init__.py
+src/exceptions.py
+src/result_wrapper.py
