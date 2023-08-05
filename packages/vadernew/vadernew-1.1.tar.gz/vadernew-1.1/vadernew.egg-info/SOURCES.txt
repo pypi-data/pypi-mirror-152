@@ -1,0 +1,7 @@
+README.txt
+setup.py
+vadernew.egg-info/PKG-INFO
+vadernew.egg-info/SOURCES.txt
+vadernew.egg-info/dependency_links.txt
+vadernew.egg-info/requires.txt
+vadernew.egg-info/top_level.txt
