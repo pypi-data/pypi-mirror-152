@@ -1,0 +1,14 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+Cookies_Auth/__init__.py
+Cookies_Auth/common.py
+Cookies_Auth/intro.py
+Cookies_Auth/main.py
+Cookies_Auth.egg-info/PKG-INFO
+Cookies_Auth.egg-info/SOURCES.txt
+Cookies_Auth.egg-info/dependency_links.txt
+Cookies_Auth.egg-info/requires.txt
+Cookies_Auth.egg-info/top_level.txt
