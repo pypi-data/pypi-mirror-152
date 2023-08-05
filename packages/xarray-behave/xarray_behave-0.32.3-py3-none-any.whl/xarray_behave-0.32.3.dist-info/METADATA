@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: xarray_behave
+Version: 0.32.3
+Summary: xarray tools for behavioral data.
+Requires-Python: >3.6
+Classifier: License :: OSI Approved :: MIT License
