@@ -1,0 +1,15 @@
+.gitignore
+MANIFEST.in
+README.md
+_config.yml
+pyCacheTemizleyici.sh
+pypiYukleyici.sh
+requirements.txt
+setup.py
+.github/FUNDING.yml
+eFatura/__init__.py
+eFatura.egg-info/PKG-INFO
+eFatura.egg-info/SOURCES.txt
+eFatura.egg-info/dependency_links.txt
+eFatura.egg-info/requires.txt
+eFatura.egg-info/top_level.txt
