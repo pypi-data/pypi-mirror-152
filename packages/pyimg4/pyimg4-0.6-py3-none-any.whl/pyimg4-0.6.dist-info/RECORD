@@ -1,0 +1,10 @@
+pyimg4/__init__.py,sha256=EkPp0vmyOzz-UaUMxFeh3vIaDZ8O2juWW-RYb3jOtik,221
+pyimg4/__main__.py,sha256=EZln8JWK7Fz9V8WMIOLiunvDIKGLz2o_A_al4aXjiDc,11759
+pyimg4/errors.py,sha256=nJDeyBnNPqxYUnznaPSRIW74gPaOBXnuSkhDY6Hb4uk,1224
+pyimg4/parser.py,sha256=CEgzix050c9YQIJ4OP9kEFsn1g3f8zRflGSUAdPWofc,24680
+pyimg4/types.py,sha256=BrL6TA0sfsPDH98yJVA3hffgTK9ckCZRrUM5enE3wus,192
+pyimg4-0.6.dist-info/entry_points.txt,sha256=dZDwWe6HMbRGMv7WM5EjM1wucwuW6gU-G9LXE5FAoeQ,46
+pyimg4-0.6.dist-info/LICENSE,sha256=Nh__8kdgSUxpKa1vcJkxQUAQ556XS90b9xwPbtjFe2Q,1061
+pyimg4-0.6.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pyimg4-0.6.dist-info/METADATA,sha256=j17WSID1wC8jWOSbjUBbLorBuSbFcseOisQNd6Wf0t0,3008
+pyimg4-0.6.dist-info/RECORD,,
