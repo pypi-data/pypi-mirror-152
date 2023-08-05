@@ -1,0 +1,17 @@
+Change Log
+==========
+
+0.0.1 (23/05/2022)
+-------------------
+- First Release
+
+0.0.2 (23/05/2022)
+-------------------
+- Fixed minor bugs
+
+0.0.3 (23/05/2022)
+-------------------
+- Fixed colors breaking when HWID not in database
+- Added small text to say the script is authenticating you
+- Cleaned code up for easier reading
+- Removed unnecessary functions from package
