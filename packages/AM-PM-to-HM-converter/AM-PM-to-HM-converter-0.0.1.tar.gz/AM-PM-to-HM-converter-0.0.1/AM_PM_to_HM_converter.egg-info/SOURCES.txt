@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+AM_PM_to_HM_converter/AM_PM_to_24.py
+AM_PM_to_HM_converter.egg-info/PKG-INFO
+AM_PM_to_HM_converter.egg-info/SOURCES.txt
+AM_PM_to_HM_converter.egg-info/dependency_links.txt
+AM_PM_to_HM_converter.egg-info/entry_points.txt
+AM_PM_to_HM_converter.egg-info/requires.txt
+AM_PM_to_HM_converter.egg-info/top_level.txt
