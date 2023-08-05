@@ -1,0 +1,4 @@
+[console_scripts]
+nnoir2dot=nnoir.dot:nnoir2dot
+nnrunner=nnoir.runner:main
+
