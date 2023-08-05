@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+VideoAug.egg-info/PKG-INFO
+VideoAug.egg-info/SOURCES.txt
+VideoAug.egg-info/dependency_links.txt
+VideoAug.egg-info/requires.txt
+VideoAug.egg-info/top_level.txt
+vidaug/__init__.py
+vidaug/classification/__init__.py
+vidaug/classification/augment.py
+vidaug/classification/utils/__init__.py
+vidaug/classification/utils/filter.py
+vidaug/classification/utils/util.py
