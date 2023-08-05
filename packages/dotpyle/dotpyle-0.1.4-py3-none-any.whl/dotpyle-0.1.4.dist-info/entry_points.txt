@@ -1,0 +1,4 @@
+[console_scripts]
+dotpyle=dotpyle.main:main
+test=pytest:main
+
