@@ -1,0 +1,44 @@
+package:
+  name: fastvarints
+  version: 0.0.1
+
+source:
+  path: ..
+
+build:
+  number: 0
+  script: python -m pip install . -vvv
+
+requirements:
+  build:
+    - {{ compiler('cxx') }}
+
+  host:
+    - python
+    - pip
+    - pybind11 >=2.6.0
+    - scikit-build
+    - cmake >=3.18
+    - ninja
+    - numpy >=1.22
+
+  run:
+    - python
+    - numpy >=1.22
+
+
+test:
+  imports:
+    - fastvarints
+    - numpy
+  requires:
+    - pytest
+    - numpy
+  source_files:
+    - tests
+  commands:
+    - pytest tests
+
+about:
+  summary: An example project built with pybind11 and scikit-build.
+  license_file: LICENSE
