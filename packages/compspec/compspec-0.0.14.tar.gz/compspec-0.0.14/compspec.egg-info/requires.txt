@@ -1,0 +1,7 @@
+clingo
+pyaml
+
+[all]
+clingo
+pyaml
+pytest>=4.6.2
