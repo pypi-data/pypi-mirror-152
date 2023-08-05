@@ -1,0 +1,3 @@
+[console_scripts]
+fib-number = nico_fib_py.cmd.fib_number:fib_numb
+
