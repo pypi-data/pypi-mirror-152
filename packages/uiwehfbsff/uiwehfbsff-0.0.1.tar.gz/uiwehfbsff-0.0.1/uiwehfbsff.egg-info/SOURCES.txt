@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+uiwehfbsff/__init__.py
+uiwehfbsff.egg-info/PKG-INFO
+uiwehfbsff.egg-info/SOURCES.txt
+uiwehfbsff.egg-info/dependency_links.txt
+uiwehfbsff.egg-info/top_level.txt
