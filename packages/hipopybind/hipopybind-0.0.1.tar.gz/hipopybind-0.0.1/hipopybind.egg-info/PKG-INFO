@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: hipopybind
+Version: 0.0.1
+Summary: A HIPO python library using PyBind11 and CMake
+Author: Matthew McEneaney
+Author-email: matthew.mceneaney@duke.edu
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+Provides-Extra: test
+
+# HipopyBind
