@@ -1,0 +1,9 @@
+cloudpickle>=2.0.0
+gcsfs>=2021.7.0
+python-configuration[yaml]~=0.8
+pandas>=1.0.0
+smart-open~=5.0
+
+[test]
+pytest==6.2.2
+pytest-env
