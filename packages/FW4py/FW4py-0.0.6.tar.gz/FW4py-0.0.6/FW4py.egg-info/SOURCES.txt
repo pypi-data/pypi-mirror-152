@@ -1,0 +1,9 @@
+LICENSE.txt
+README.txt
+setup.py
+FW4py/__init__.py
+FW4py.egg-info/PKG-INFO
+FW4py.egg-info/SOURCES.txt
+FW4py.egg-info/dependency_links.txt
+FW4py.egg-info/requires.txt
+FW4py.egg-info/top_level.txt
