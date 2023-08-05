@@ -1,0 +1,3 @@
+[console_scripts]
+file-collection-hash=file_collection_hash.__main__:run
+
