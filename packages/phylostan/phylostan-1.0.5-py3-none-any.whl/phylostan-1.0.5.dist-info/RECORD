@@ -1,0 +1,11 @@
+phylostan/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+phylostan/generate_script.py,sha256=iIpRitLVyxQO0EmOKIUpwD8n0dReq5mjLaG1qgx0lj0,47746
+phylostan/phylostan (Kai's conflicted copy 2021-12-05).py,sha256=gjiym6DwDzYLUVx_V9TwY-Dst_XYezkv42kZNYBTr8s,14662
+phylostan/phylostan.py,sha256=wG-H-P0P18LXTwBB95h_X6fCM5-ErJTTf5gfCvDfNwU,19406
+phylostan/utils.py,sha256=YpWqfsFJxMR_r7n9rAkzBmjulbIB1NMKci3mqUVA_Ws,14311
+phylostan-1.0.5.dist-info/LICENSE,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+phylostan-1.0.5.dist-info/METADATA,sha256=r-JD48i6yvdMra7onKRtFaaZV_3V60VVeSN3GwtIg8w,7148
+phylostan-1.0.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+phylostan-1.0.5.dist-info/entry_points.txt,sha256=Exyg967mubIS3Yl2yl7h7fyDkOQQyL3OznpkqeVDKkM,55
+phylostan-1.0.5.dist-info/top_level.txt,sha256=jqnviOn8sA6ffo7_NU7OyRkju_DSgnqbjOfFu0eKQ7A,10
+phylostan-1.0.5.dist-info/RECORD,,
