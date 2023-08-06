@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/UlifTor.egg-info/PKG-INFO
+src/UlifTor.egg-info/SOURCES.txt
+src/UlifTor.egg-info/dependency_links.txt
+src/UlifTor.egg-info/top_level.txt
+src/ulifdns/__init__.py
+src/ulifdns/ulif.py
