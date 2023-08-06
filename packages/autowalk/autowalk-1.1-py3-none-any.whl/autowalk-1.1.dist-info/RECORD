@@ -1,0 +1,11 @@
+autowalk/action.py,sha256=WUE79MtPC1BrQBBivDTy5qa6J6tqTfdRjb_1O3XcX4M,18140
+autowalk/config.py,sha256=7_W4Ef_9wkfCqPqrezt6-16IGxTwX5Ov2N0jldDyFW8,3070
+autowalk/formatter.py,sha256=qFh-oH2_P1WUKWszGiajbKY8PGWx9Z_an1EuDNPC4_8,2461
+autowalk/main.py,sha256=9d387vaunVef2uswEza43LWiVOK3Wi3pOUNwELeGkIQ,3292
+autowalk/utils/assign.py,sha256=C6HbguZJFQBIOD8xV_3K5qaKiiYBw7gXR19Gdx-zoq4,925
+autowalk/utils/color.py,sha256=4Sc5AfqdERzXqMlQEpVhbXVRB9tKq9XQpNo1jxinfUc,812
+autowalk-1.1.dist-info/METADATA,sha256=IBhJk-c65X4E3fmwvVle4fd6yYHmtqg0iGhiZVTWG_E,2020
+autowalk-1.1.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+autowalk-1.1.dist-info/entry_points.txt,sha256=oLaDeo7qYo68qlwIa7Ko8uA7hYsL0rWFiAdYvt8uqUM,42
+autowalk-1.1.dist-info/top_level.txt,sha256=C-48tOE7sJDFAq2VF_PXRGhFKoJernSyAIJHqyu6Pro,14
+autowalk-1.1.dist-info/RECORD,,
