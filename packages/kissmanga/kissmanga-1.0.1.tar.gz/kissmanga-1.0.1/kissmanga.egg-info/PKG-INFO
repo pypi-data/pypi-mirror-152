@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: kissmanga
+Version: 1.0.1
+Summary: KissManga Wrapper For Free Download Manga
+Home-page: https://github.com/moezilla/kissmangaapi.git
+Author: metavoid
+Author-email: metavoidteam@gmail.com
+License: License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# kissmangaapi
+An Unofficial Python API Library to Download Manga  for FREE...
