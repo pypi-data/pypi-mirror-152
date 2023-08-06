@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: nucypher
+Version: 6.1.0
+Summary: A proxy re-encryption network to empower privacy in decentralized systems.
+Home-page: https://github.com/nucypher/nucypher
+Author: NuCypher
+Author-email: dev@nucypher.com
+License: GNU Affero General Public License, Version 3
+Description: UNKNOWN
+Keywords: nucypher,proxy re-encryption
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Security
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Provides-Extra: benchmark
+Provides-Extra: deploy
+Provides-Extra: ursula
+Provides-Extra: alice
+Provides-Extra: bob
+Provides-Extra: porter
