@@ -1,0 +1,10 @@
+fastapi_advertising_prediction/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+fastapi_advertising_prediction/main.py,sha256=cxH_eH2uj5ituVxBLooNtFEDmiupMryXT0iRVNz01wI,960
+fastapi_advertising_prediction/run_train.py,sha256=fixVx_fxQC4VGj30Qk-KnDLeMwsYqzcFcBlZN34gIY0,101
+fastapi_advertising_prediction/schemas.py,sha256=gBNrkQU-kdBf1SZ_nUqoH5jf5zQoAmqPlOX2fCvZxr8,302
+fastapi_advertising_prediction/train.py,sha256=RtsEU4oI4CWPEZxj4-3oFeh-YmToJ744v3IepxBcWQY,1641
+fastapi_advertising_prediction-0.0.7.dist-info/LICENSE,sha256=mOEFPYHWYUqfmbSETQfCahJcAwfvjYU-YJ-rcsLXb8A,1067
+fastapi_advertising_prediction-0.0.7.dist-info/METADATA,sha256=9-AD3xH5D8-dHXHHoHtv2Eke38cYIi2-HyOqJgGopLA,7518
+fastapi_advertising_prediction-0.0.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+fastapi_advertising_prediction-0.0.7.dist-info/top_level.txt,sha256=yvePA-ipB5TVcCjySVw5nBsGJhNu1dIEgo34fw6v75U,31
+fastapi_advertising_prediction-0.0.7.dist-info/RECORD,,
