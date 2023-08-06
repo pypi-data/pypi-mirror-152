@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: torch-unified
+Version: 0.1
+Summary: add support for unified CPU/CUDA memory to pytorch.
+Home-page: https://github.com/siemanko/torch-unified
+Author: Szymon Sidor
+Author-email: szymon.szymon@gmail.com
+License: Public Domain
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Torch unified
+
+Adds support for [unified memory](https://developer.nvidia.com/blog/unified-memory-cuda-beginners/) to torch. 
+
+### Usage
+
+```python
+import torch
+from torch_unified import empty_unified
+
+tensor_cpu, tensor_gpu = empty_unified((10,), torch.float32)
+```
+
+
