@@ -1,0 +1,7 @@
+README.md
+setup.py
+redis_property.egg-info/PKG-INFO
+redis_property.egg-info/SOURCES.txt
+redis_property.egg-info/dependency_links.txt
+redis_property.egg-info/requires.txt
+redis_property.egg-info/top_level.txt
