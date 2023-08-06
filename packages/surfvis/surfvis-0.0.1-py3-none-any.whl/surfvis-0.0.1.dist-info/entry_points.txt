@@ -1,0 +1,4 @@
+[console_scripts]
+flagchi2 = surfvis.flagchi2:main
+surfchi2 = surfvis.surfchi2:main
+surfvis = surfvis.surfvis:main

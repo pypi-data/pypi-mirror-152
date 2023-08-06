@@ -1,0 +1,12 @@
+surfvis/__init__.py,sha256=Og08zrtbqpaZJxmNGUbt0a0QEFfUuBTqbgCXzIg3jDk,130
+surfvis/flagchi2.py,sha256=6YM1q-H60TgAjL8Tpu9i0K1camGEulTez576Pc7p4Mk,3555
+surfvis/surfchi2.py,sha256=sAZMmNSgLB4Pfi1ws9vVnw5OXpYnUWO4U8lPjLxucq4,9696
+surfvis/surfvis.py,sha256=8uWDRZxpRX5JBQAstLgTfkl-uNnPkCdRrlnI7uPpLz8,8574
+surfvis/utils.py,sha256=3mU1TaiTvHsOcaCzd312a8C69PDP_8jzcInSHhIIezg,4254
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_trivial.py,sha256=DrlLftUFC7izcn7kz6H-imDEKE5Unq5bvv5BszX9aZ0,44
+surfvis-0.0.1.dist-info/METADATA,sha256=-1cV3JXF5d3OSGyJwH87tPGeh8HoA0AoWJa47A05J4o,2010
+surfvis-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+surfvis-0.0.1.dist-info/entry_points.txt,sha256=hglpeKmXB1yaDt8UMpc-zM6CgNi63PgYUY52BfY9J5Q,115
+surfvis-0.0.1.dist-info/top_level.txt,sha256=sWP_wsqhSeGWYKD8BqKblcX9KDrAW6sqUrWB4EBafB8,14
+surfvis-0.0.1.dist-info/RECORD,,
