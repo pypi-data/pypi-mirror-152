@@ -1,0 +1,12 @@
+pokesummary/__init__.py,sha256=Xybt2skBZamGMNlLuOX1IG-h4uIxqUDGAO8MIGWrJac,22
+pokesummary/__main__.py,sha256=REusZ-exo7PjFDjdA0Ij0Zljsr1v_B2XY1vSxHjvHy0,3468
+pokesummary/data/__init__.py,sha256=T-6DbtOU2Q5C_oXi2AJYQZAKtuzo4Yt5NwEgyuZV2UU,1295
+pokesummary/data/pokemon_modified.csv,sha256=4n0Owpk4RWbZs4Mrisv6AHC-Maus3gVMIgmsfY-RIAI,73204
+pokesummary/data/type_defenses_modified.csv,sha256=sGxGGwSzjKu5noV3TM6j2hZMcicy3qtkFTBoBRRpFiY,1613
+pokesummary/model.py,sha256=VCfrMOf8zHMVTF-na-W1pzRRcvaSdGujOQ58hAj7HoE,2647
+pokesummary/view.py,sha256=z4Z8uqy3RmBv96cfr5GYRoAxWNeIN62RgreZb-uy26Y,4557
+pokesummary-2.1.0.dist-info/entry_points.txt,sha256=cmYhLWxTBAaqr1zUraGJjbOwyV_CM0SaD__2doo7hL8,57
+pokesummary-2.1.0.dist-info/LICENSE.txt,sha256=VeY_WEfd7vKRz42Yuizq5t9a1TAoB_nLxG0orYo9tnE,1073
+pokesummary-2.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+pokesummary-2.1.0.dist-info/METADATA,sha256=shpLjn74hg11UGWErW_r_BCsinJ3SdktGICthLnY8_E,3476
+pokesummary-2.1.0.dist-info/RECORD,,
