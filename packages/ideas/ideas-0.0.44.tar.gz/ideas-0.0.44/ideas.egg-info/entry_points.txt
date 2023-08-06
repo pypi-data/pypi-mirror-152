@@ -1,0 +1,3 @@
+[console_scripts]
+ideas = ideas.__main__:main
+
