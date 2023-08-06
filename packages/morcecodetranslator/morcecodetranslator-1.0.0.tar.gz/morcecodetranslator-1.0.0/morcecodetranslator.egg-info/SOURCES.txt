@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+morcecodetranslator/__init__.py
+morcecodetranslator/morce.py
+morcecodetranslator.egg-info/PKG-INFO
+morcecodetranslator.egg-info/SOURCES.txt
+morcecodetranslator.egg-info/dependency_links.txt
+morcecodetranslator.egg-info/top_level.txt
