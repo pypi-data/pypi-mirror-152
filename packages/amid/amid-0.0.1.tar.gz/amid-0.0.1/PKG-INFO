@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: amid
+Version: 0.0.1
+Summary: A curated list of medical imaging datasets with unified interfaces
+Home-page: https://github.com/neuro-ml/amid
+Download-URL: https://github.com/neuro-ml/amid/archive/v0.0.1.tar.gz
+License: UNKNOWN
+Keywords: medical imaging,dataset
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Awesome Medical Imaging Datasets (AMID) - a curated list of medical imaging datasets with unified interfaces
+
+# Install
+
+Just get it from PyPi:
+
+```shell
+pip install amid
+```
+
+Or if you want to use version control features:
+
+```shell
+git clone https://github.com/neuro-ml/amid.git
+cd amid && pip install -e .
+```
+
+
