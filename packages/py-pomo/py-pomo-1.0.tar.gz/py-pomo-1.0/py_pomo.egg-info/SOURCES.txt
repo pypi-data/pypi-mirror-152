@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pomo.py
+setup.cfg
+setup.py
+py_pomo.egg-info/PKG-INFO
+py_pomo.egg-info/SOURCES.txt
+py_pomo.egg-info/dependency_links.txt
+py_pomo.egg-info/entry_points.txt
+py_pomo.egg-info/requires.txt
+py_pomo.egg-info/top_level.txt
