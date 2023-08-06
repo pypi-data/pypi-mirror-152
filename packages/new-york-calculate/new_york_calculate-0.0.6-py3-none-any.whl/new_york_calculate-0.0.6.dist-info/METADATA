@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: new-york-calculate
+Version: 0.0.6
+Summary: My first Python package
+Home-page: UNKNOWN
+Author: Andrey Makarov
+Author-email: <vivalaakam@gmail.com>
+License: UNKNOWN
+Keywords: python,first package
+Platform: UNKNOWN
+Requires-Dist: numpy
+
+My first Python package with a slightly longer description
+

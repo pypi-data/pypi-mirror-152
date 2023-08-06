@@ -1,0 +1,14 @@
+new_york_calculate/__init__.py,sha256=dn63Dnbjr9RI0rVXvmZhULHLQgumco0pCVe5srJUHOA,395
+new_york_calculate/calculate.py,sha256=vnOWFl1lh4LyfgxGH9bEKMw2JpguZTdTUM236JRMW7I,2929
+new_york_calculate/debug_best.py,sha256=PhDGadxJRkesHVJ-MGl8OFGXtPosHfMRibPo_hJVaUU,355
+new_york_calculate/format_candles.py,sha256=I05bPlK18b6lZfyo43VORQgdecfxACfOfsa_VPIlsWo,348
+new_york_calculate/format_result.py,sha256=egYrBJBBwVQMwiZhtBQvORboKadXQCLRklMjrc6nfXE,389
+new_york_calculate/get_id.py,sha256=0_lf4pmdz6qluQnx_LSCczn0K0l2wumpSp9oN7dCap8,435
+new_york_calculate/intervals.py,sha256=2ZfZo_RaenI3Byzm9AV3HLUrPIsQe3gzHhiYN2GP1Sk,113
+new_york_calculate/list_to_weights.py,sha256=NUc9CGpwvP67ehj0iMI3thra9K9aFrpLaOckMaoyJxM,255
+new_york_calculate/random_id.py,sha256=1c88619N5dN5Juue45N3woFkgH6fAtrethlgxdS_Gvs,156
+new_york_calculate/to_nearest.py,sha256=d7J06jTTrBi2Ig_jlLIkHnm-oYxafVW4uffUil0OPqg,162
+new_york_calculate-0.0.6.dist-info/METADATA,sha256=R1kwRz33li3O63Gwh7kyob366yUdFFz4jAToAS8Idl4,322
+new_york_calculate-0.0.6.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+new_york_calculate-0.0.6.dist-info/top_level.txt,sha256=eldpqeVE3YJQnT2oQi_T34QIR3tCUAUZZn3shSwowzI,19
+new_york_calculate-0.0.6.dist-info/RECORD,,
