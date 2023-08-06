@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+mynameisjurgen/__init__.py
+mynameisjurgen/jurgen.py
+mynameisjurgen.egg-info/PKG-INFO
+mynameisjurgen.egg-info/SOURCES.txt
+mynameisjurgen.egg-info/dependency_links.txt
+mynameisjurgen.egg-info/top_level.txt
