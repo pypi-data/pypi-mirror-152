@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+sleeb/sleeb.egg-info/PKG-INFO
+sleeb/sleeb.egg-info/SOURCES.txt
+sleeb/sleeb.egg-info/dependency_links.txt
+sleeb/sleeb.egg-info/top_level.txt
