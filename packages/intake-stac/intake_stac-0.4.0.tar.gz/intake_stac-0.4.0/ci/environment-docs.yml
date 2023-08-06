@@ -1,0 +1,27 @@
+name: intake-stac
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - aiohttp
+  - fsspec
+  - geopandas
+  - intake
+  - intake-xarray
+  - ipython
+  - mock
+  - nbsphinx
+  - numpydoc
+  - pillow
+  - pip
+  - pystac
+  - pystac-client
+  - pytest-cov
+  - rasterio
+  - scikit-image
+  - sphinx
+  - sphinx_rtd_theme
+  - xarray
+  - pip:
+      - ../ #installs intake-stac from root folder

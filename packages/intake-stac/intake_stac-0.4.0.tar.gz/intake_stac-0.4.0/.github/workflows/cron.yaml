@@ -1,0 +1,32 @@
+# Run a nightly test against unpinned conda environment
+name: Cron
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.4.0
+
+      - name: Setup Miniconda
+        uses: conda-incubator/setup-miniconda@v2.1.1
+        with:
+          auto-update-conda: true
+          auto-activate-base: false
+          activate-environment: intake-stac
+          environment-file: ci/environment-unpinned.yml
+
+      - name: Development Install Intake-STAC
+        shell: bash -l {0}
+        run: |
+          python -m pip install --no-deps -e .
+          conda list
+
+      - name: Run Tests
+        shell: bash -l {0}
+        run: |
+          pytest --verbose --junitxml=test-reports/junit.xml --cov=intake_stac --cov-config ci/.coveragerc --cov-report term-missing

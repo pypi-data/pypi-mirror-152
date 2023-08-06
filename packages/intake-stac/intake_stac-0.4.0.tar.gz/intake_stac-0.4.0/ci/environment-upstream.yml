@@ -1,0 +1,17 @@
+name: intake-stac
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - geopandas
+  - pip
+  - pytest-cov
+  - rasterio
+  - xarray
+  - pip:
+      - git+https://github.com/fsspec/filesystem_spec.git
+      - git+https://github.com/stac-utils/pystac.git
+      - git+https://github.com/intake/intake.git
+      - git+https://github.com/intake/intake-xarray.git
+      - git+https://github.com/intake/intake_geopandas.git
+      - git+https://github.com/intake/intake-parquet.git
