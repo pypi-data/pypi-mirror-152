@@ -1,0 +1,5 @@
+
+      [console_scripts]
+      swbs = bootstrap:bootstrap
+      bootstrap = bootstrap:bootstrap
+      
