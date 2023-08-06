@@ -1,0 +1,59 @@
+Metadata-Version: 2.1
+Name: mynameisminesweeper
+Version: 0.0.2
+Summary: Who is MineSweeper
+Home-page: https://github.com/visa2499
+Author: MineSweeper
+Author-email: MineSweeper@gmail.com
+License: MIT
+Download-URL: https://github.com/visa2499/mynameisminesweeper
+Keywords: MineSweeper,MineSweeper
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+แพ็คเกจนี้เป็นแพ็คเกจ python ที่โชว์ข้อมูลเกี่ยวกับ MineSweeper
+===============================================================
+
+PyPi: https://pypi.org/project/mynameisminesweeper/
+
+สวัสดีจ้าาาา
+
+วิธีติดตั้ง
+~~~~~~~~~~~
+
+เปิด CMD / Terminal
+
+.. code:: python
+
+   pip install mynameisminesweeper
+
+วิธีใช้งานแพ็คเพจนี้
+~~~~~~~~~~~~~~~~~~~~
+
+-  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+
+.. code:: python
+
+   from mynameisminesweeper import minesweeper
+
+   mine = minesweeper()
+   mine.show_name()
+   mine.show_page()
+   mine.show_youtube()
+   mine.about()
+   mine.show_art()
+
+
