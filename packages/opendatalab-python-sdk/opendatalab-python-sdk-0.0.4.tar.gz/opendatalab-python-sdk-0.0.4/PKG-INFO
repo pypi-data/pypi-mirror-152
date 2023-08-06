@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: opendatalab-python-sdk
+Version: 0.0.4
+Summary: Python SDK for reading dataset files.
+Home-page: https://gitlab.shlab.tech/dps/opendatalab-python-sdk
+Author: Zhang Chaobin, Wang Rui
+Author-email: zhangchaobin@sensetime.com, wangrui@pjlab.org.cn
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.shlab.tech/dps/opendatalab-python-sdk/-/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+## OpenDataLab Python SDK 0.0.4
+
+# Features:
+1. download dataset from offical website: https://opendatalab.com/
+2. preview dataset info online
+
+# Usage: 
+1. install
+```
+pip install opendatalab-python-sdk==0.0.4
+```
+
+2. download dataset into local path
+```
+script:
+$ python -m opendatalab.download --help    
+    Tool for download opendatalab public dataset.  
+
+  Options:
+    --name        TEXT    Name of the public dataset.
+    --format      TEXT    Format, avaiable options: source, standard.
+    --root        TEXT    Data root path, default: current working path.
+    --thread      INTEGER Number of thread for download, default: 10.
+    --limit_speed INTEGER Download limit speed: KB/s, 0 is unlimited, default: 0
+
+example:
+1). download dataset source compressed
+    $ python -m opendatalab.download --name coco --format source --root /home/XXX/coco
+
+2). download standard format compressed
+    $ python -m opendatalab.download --name coco --format standard --root /home/XXX/coco --thread   8 --limit_speed 5000
+```
+
+
+# Support
+More see: https://opendatalab.com/docs/3
+

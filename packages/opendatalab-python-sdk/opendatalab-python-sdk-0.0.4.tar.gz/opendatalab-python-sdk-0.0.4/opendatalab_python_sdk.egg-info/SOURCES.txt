@@ -1,0 +1,15 @@
+README.md
+setup.py
+opendatalab/__init__.py
+opendatalab/__version__.py
+opendatalab/api.py
+opendatalab/client.py
+opendatalab/dataset.py
+opendatalab/download.py
+opendatalab/exceptions.py
+opendatalab/utils.py
+opendatalab_python_sdk.egg-info/PKG-INFO
+opendatalab_python_sdk.egg-info/SOURCES.txt
+opendatalab_python_sdk.egg-info/dependency_links.txt
+opendatalab_python_sdk.egg-info/requires.txt
+opendatalab_python_sdk.egg-info/top_level.txt
