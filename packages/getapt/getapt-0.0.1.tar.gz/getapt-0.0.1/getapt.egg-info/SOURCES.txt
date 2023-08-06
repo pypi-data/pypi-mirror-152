@@ -1,0 +1,16 @@
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+getapt/__init__.py
+getapt/_nbdev.py
+getapt/apt.py
+getapt.egg-info/PKG-INFO
+getapt.egg-info/SOURCES.txt
+getapt.egg-info/dependency_links.txt
+getapt.egg-info/entry_points.txt
+getapt.egg-info/not-zip-safe
+getapt.egg-info/requires.txt
+getapt.egg-info/top_level.txt
