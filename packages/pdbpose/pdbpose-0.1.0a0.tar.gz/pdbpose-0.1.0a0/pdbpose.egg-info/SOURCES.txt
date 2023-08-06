@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pdbpose/__init__.py
+pdbpose/__main__.py
+pdbpose/cli.py
+pdbpose/pdbe.py
+pdbpose.egg-info/PKG-INFO
+pdbpose.egg-info/SOURCES.txt
+pdbpose.egg-info/dependency_links.txt
+pdbpose.egg-info/entry_points.txt
+pdbpose.egg-info/requires.txt
+pdbpose.egg-info/top_level.txt
