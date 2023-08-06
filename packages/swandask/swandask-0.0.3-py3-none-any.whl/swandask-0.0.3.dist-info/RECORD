@@ -1,0 +1,11 @@
+swandask/__init__.py,sha256=Y0vd71IYHpvSj9DEcKXavUYIZeaG0OAaoJKQ142V-nY,701
+swandask/__main__.py,sha256=876xZTqhPeDBD2GKKr8pKX33Af8PhFTosAI8bYQsFgQ,61
+swandask/_version.py,sha256=tlvag11U1FrHAJlDfGVLVMwyiGPdp6vrQifjPwRu87Y,103
+swandask/app.py,sha256=5iv2k_lusGfiujGzQM4IPlKKIoL7tb1ghShFEfXg0k4,1935
+swandask-0.0.3.data/data/etc/jupyter/jupyter_notebook_config.d/dask_labextension.json,sha256=-xHhIND3iNYSlwUuyU7F6RkYmiojMoVzE93zI0ZuSxE,95
+swandask-0.0.3.data/data/etc/jupyter/jupyter_server_config.d/dask_labextension.json,sha256=WYh50Q-EW2C9uz6xYLwHOFzBJjvqyGIqanQIs0blDTk,93
+swandask-0.0.3.dist-info/METADATA,sha256=9Qwcr9lHIutwlbL1kFzY9OknPaVd7vpfTCWbc7DFP9c,1699
+swandask-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+swandask-0.0.3.dist-info/entry_points.txt,sha256=em1Q0EsfBWLfEgZr7oi_E3ZGq59x4M3B50Jxh91DAtk,106
+swandask-0.0.3.dist-info/top_level.txt,sha256=mwTl9ewTah3AKf7xWbqcMhUAy9z9eQfriIDkntUrq7o,9
+swandask-0.0.3.dist-info/RECORD,,
