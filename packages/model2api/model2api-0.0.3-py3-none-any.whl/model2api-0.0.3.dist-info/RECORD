@@ -1,0 +1,16 @@
+model2api/__init__.py,sha256=7qPN26j74fKe5gqd3Ri2jSUK6aw4Qubxr1NHGBgrg3I,235
+model2api/_cli.py,sha256=3IWI0Cnd1sYoGVu3m_1Mrop1faqcwuc-__g2YIUZRgw,686
+model2api/core.py,sha256=z_-Sp9iRijfVmOAhwkUzkiSgzbqnzCP-NLD-poQqDw0,6641
+model2api/api/__init__.py,sha256=m1CRqnHwdvPJWGuGTA58VTco7PVJOE-2NIvt2WPJqYk,36
+model2api/api/fastapi_app.py,sha256=Ql7zdOs3RarnYuCvtrBsmgDQVcKW91gJSbCUqzukVSo,1676
+model2api/api/fastapi_utils.py,sha256=_HuxbdqSFvNlo8qB0_fc6T29WmLZFncrBfFgLKKKIUg,4289
+model2api/api/logging.py,sha256=u9jzoKFqin8kgvzq0OE4-UOg0t5b8hs65g_bYpfAAeg,754
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_core.py,sha256=nbY62GIp05hAdcOTdi3KLkFlfWE-WFtqmb4CDSarVCU,2754
+tests/test_fastapi_app.py,sha256=spCT03KBA2BX-EX0pvW5FcEmo37bO52n4fJuyaJHowA,926
+model2api-0.0.3.dist-info/LICENSE,sha256=CjooMjEo3tUkRQ7RDPh_ua4sFieGBVipNrD_yj-yx2Y,1064
+model2api-0.0.3.dist-info/METADATA,sha256=PJLI8lYXQUk67iWAHfCaCdW3IW70VJmeaqp3GThTVpc,3536
+model2api-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+model2api-0.0.3.dist-info/entry_points.txt,sha256=rzb4BoOyXHy8lS7vARAV56a0-cujhyuaYJmbJAGDiPc,49
+model2api-0.0.3.dist-info/top_level.txt,sha256=THp4lD-G24tGt-bhkXL1Z-qSDgS_GxyEhSSUeiPOX4g,16
+model2api-0.0.3.dist-info/RECORD,,

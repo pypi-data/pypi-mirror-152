@@ -1,0 +1,2 @@
+[console_scripts]
+model2api = model2api._cli:cli
