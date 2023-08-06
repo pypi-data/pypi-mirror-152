@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: python-wekan
+Version: 0.1.1
+Summary: This is a python client for interacting with the WeKan® REST-API
+Home-page: https://github.com/bastianwenske/python-wekan
+Download-URL: https://github.com/sarumont/py-trello
+Author: Bastian Wenske
+Author-email: 
+License: Apache License 2.0
+Keywords: python
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+
+This is a python client for interacting with the WeKan® REST-API.
+                        Each WeKan object is represented by a corresponding python object.
+                     
