@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: wiktionary_translate
+Version: 0.0.2
+Summary: Get English translations of foreign word with Wiktionary
+Home-page: https://github.com/Persie0/wiktionary_translate
+Author: Marvin perzi
+Author-email: hashcod3@protonmail.com
+License: mpl-2.0
+Download-URL: https://github.com/Persie0/wiktionary_translate/archive/refs/tags/v0.0.2.tar.gz
+Description: UNKNOWN
+Keywords: wiktionary,dictionary
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
