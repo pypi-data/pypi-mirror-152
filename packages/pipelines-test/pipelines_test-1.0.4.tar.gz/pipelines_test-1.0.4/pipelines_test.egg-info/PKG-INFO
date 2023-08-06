@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pipelines-test
+Version: 1.0.4
+Summary: SkillCorner API client
+Author: SkillCorner
+Author-email: support@skillcorner.com
+Requires-Python: >=3.6
+Provides-Extra: test
+Provides-Extra: release
