@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+stitch_sdk/__init__.py
+stitch_sdk/client.py
+stitch_sdk/exceptions.py
+stitch_sdk/main.py
+stitch_sdk/settings.py
+stitch_sdk.egg-info/PKG-INFO
+stitch_sdk.egg-info/SOURCES.txt
+stitch_sdk.egg-info/dependency_links.txt
+stitch_sdk.egg-info/requires.txt
+stitch_sdk.egg-info/top_level.txt
+stitch_sdk/queries/__init__.py
+stitch_sdk/queries/create_payment_authorisation.py
+stitch_sdk/queries/create_payment_request.py
+stitch_sdk/queries/shared_types.py
