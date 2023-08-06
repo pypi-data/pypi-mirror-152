@@ -1,0 +1,17 @@
+defusedxml>=0.7.1
+openpyxl>=3.0.9
+tabulate>=0.8.9
+
+[:sys_platform == "win32"]
+keyring>=23.5.0
+pywin32>=303
+
+[django]
+cmarkgfm>=0.8.0
+django-postgres-copy>=django-postgres-copy
+django>=4.0.4
+djangorestframework>=3.13.1
+psycopg2-binary>=2.9.3
+
+[pgsql]
+psycopg2-binary>=2.9.3

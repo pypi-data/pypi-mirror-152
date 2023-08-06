@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: zut
+Version: 0.1.0
+Summary: Reusable Python, Django and PostgreSql utilities
+Home-page: https://gitlab.com/ipamo/zut
+Author: Ipamo
+Author-email: dev@ipamo.net
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/ipamo/zut/issues
+Description: Zut
+        ===
+        
+        Reusable Python, Django and PostgreSql utilities.
+        
+        ## Install
+        
+            pip install git+https://gitlab.com/ipamo/zut.git@master#egg=zut[django,pgsql]
+        
+        ## Test
+        
+        Prepare:
+        
+            python3 -m venv .venv
+            . .venv/bin/activate
+            pip install -r requirements.txt
+        
+        Run tests:
+        
+            ./manage.py test
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: django
+Provides-Extra: pgsql
