@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: knikkersorteermachine
+Version: 1.0.0
+Summary: KnikkerSorteerMachine Arduino communication library
+Home-page: https://github.com/Thomas-More-Digital-Innovation/1-015-knikkersorteermachine
+Author: Jonas Claes
+Author-email: jonas@jonasclaes.be
+License: MIT
+Keywords: knikkersorteermachine,knikker,sorteer,machine
+License-File: LICENSE
+Requires-Dist: pyserial
+
