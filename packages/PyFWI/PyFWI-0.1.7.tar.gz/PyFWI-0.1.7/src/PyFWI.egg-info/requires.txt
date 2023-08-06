@@ -1,0 +1,9 @@
+setuptools>=42
+wheel
+numpy
+matplotlib
+scipy
+hdf5storage
+requests
+segyio
+datetime
