@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+TextSimila.egg-info/PKG-INFO
+TextSimila.egg-info/SOURCES.txt
+TextSimila.egg-info/dependency_links.txt
+TextSimila.egg-info/top_level.txt
