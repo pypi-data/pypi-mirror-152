@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: fastrestapi
+Version: 0.0.1
+Summary: rest api framework
+Author: abiao
+Author-email: eabiao@163.com
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
