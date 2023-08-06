@@ -1,0 +1,9 @@
+epomatti_aksmrc_core/__init__.py,sha256=bl0C9YRijr--e2YtIJMJ7qd_auFiThv1-IjWHjCJWAY,61
+epomatti_aksmrc_core/keyvault.py,sha256=sX3KnXKIPq_ccEahwG3QADpCCjUO_HVta4cDOAhEuvM,648
+epomatti_aksmrc_core/mongo.py,sha256=sEx2u6WsGVvKtpv269ue8tCMw7lEGLCJDpdTLjiu5Ds,468
+epomatti_aksmrc_core/msal.py,sha256=CxlUO3H5jSoohAjB9T9g2xK6Z6wED0OFNF5ytKV8jJk,866
+epomatti_aksmrc_core/token_credential.py,sha256=L3ypCeWbfnCEJoLJIA8xW1gEeFxqrdQbRhj1oRUV6v0,1531
+epomatti_aksmrc_core/utils.py,sha256=ZTsouy1RM5Lh6NecpfiJ-RDzToGMIUWPdyvSEN31jOQ,71
+epomatti_aksmrc_core-0.1.5.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+epomatti_aksmrc_core-0.1.5.dist-info/METADATA,sha256=nui5X9sEfHMonpcrTscywAa6XaFfQg4Si22JVg9cHhc,619
+epomatti_aksmrc_core-0.1.5.dist-info/RECORD,,
