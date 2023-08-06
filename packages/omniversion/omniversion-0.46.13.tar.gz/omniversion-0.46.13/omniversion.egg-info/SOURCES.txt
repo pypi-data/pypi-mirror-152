@@ -1,0 +1,17 @@
+README.md
+setup.py
+omniversion/__init__.py
+omniversion/omniversion.py
+omniversion.egg-info/PKG-INFO
+omniversion.egg-info/SOURCES.txt
+omniversion.egg-info/dependency_links.txt
+omniversion.egg-info/requires.txt
+omniversion.egg-info/top_level.txt
+omniversion/dashboard/website/static/css/style.css
+omniversion/dashboard/website/static/icons/cloud-download.svg
+omniversion/dashboard/website/static/icons/files.svg
+omniversion/dashboard/website/static/icons/lock-open.svg
+omniversion/dashboard/website/static/icons/package.svg
+omniversion/dashboard/website/static/icons/shield-lock.svg
+omniversion/dashboard/website/static/icons/world-download.svg
+test/test_omniversion.py
