@@ -1,0 +1,6 @@
+appPath: \python_venvs\packages
+cmds:
+- black
+defaultArgs:
+- boakboak
+name: clean_code

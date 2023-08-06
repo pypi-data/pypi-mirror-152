@@ -1,0 +1,8 @@
+appPath: \python_venvs\packages\boakboak
+cmds:
+  - python
+  - -m
+  - boakboak.testing.TestParams
+defaultArgs: null
+executable: C:\Users\Lars\.virtualenvs\boakboak-efmoU4on\Scripts\python.exe
+name: TestBoakboak
