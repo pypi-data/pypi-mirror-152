@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+paniko/__init__.py
+paniko/paniko.py
+paniko.egg-info/PKG-INFO
+paniko.egg-info/SOURCES.txt
+paniko.egg-info/dependency_links.txt
+paniko.egg-info/top_level.txt
