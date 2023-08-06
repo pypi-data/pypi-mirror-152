@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: homomorph
+Version: 0.0.1
+Summary: A numerically-stable implementation of essential HMM algorithms with tutorials on training methods
+Home-page: https://github.com/marcsingleton/homomorph
+Author: Marc Singleton
+Author-email: marcsingleton@berkeley.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Homomorph
+The HMM class is fully documented. However, the [tutorial]() is the recommended introduction to this package.
+
+## Dependencies
+Homomorph is designed to be lightweight and only requires NumPy for array calculations and SciPy for its implementation of random variables. The minimum versions were set to the most recent at the time of initial release (1.17 and 1.8, respectively), but no functionality specific to these releases is needed to my knowledge.
+
+## Installation
+To install Homomorph, run the following command:
+
+```
+pip install homomorph
+```
