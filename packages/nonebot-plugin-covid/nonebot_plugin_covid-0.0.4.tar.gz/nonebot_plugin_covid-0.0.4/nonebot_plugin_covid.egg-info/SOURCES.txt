@@ -1,0 +1,6 @@
+setup.py
+nonebot_plugin_covid.egg-info/PKG-INFO
+nonebot_plugin_covid.egg-info/SOURCES.txt
+nonebot_plugin_covid.egg-info/dependency_links.txt
+nonebot_plugin_covid.egg-info/requires.txt
+nonebot_plugin_covid.egg-info/top_level.txt
