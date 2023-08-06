@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ammp.egg-info/PKG-INFO
+src/ammp.egg-info/SOURCES.txt
+src/ammp.egg-info/dependency_links.txt
+src/ammp.egg-info/top_level.txt
+src/astronomical/__init__.py
+src/physics/__init__.py
+src/physics/bodies.py
+src/ui/__init__.py
+src/ui/mainwindowapp.py
