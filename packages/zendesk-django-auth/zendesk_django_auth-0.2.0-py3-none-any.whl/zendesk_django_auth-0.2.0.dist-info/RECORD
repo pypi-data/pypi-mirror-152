@@ -1,0 +1,10 @@
+zendesk_auth/__init__.py,sha256=o60DAGP4o9y3HFaBmBcHEjNzPJM3ZKdVv3diMl3Fphs,43
+zendesk_auth/models.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zendesk_auth/tests.py,sha256=QtDbDJA_SU4BV1m6Jiw4N5PxwMH_eytAKNl-vNtPf5A,15810
+zendesk_auth/urls.py,sha256=Rjm33pBIFk37kk18s3rlTaZHMsfPcBcnVKbErTqyaFs,462
+zendesk_auth/views.py,sha256=l7dSLJjNNVhk1E08FIejCDSZwZr-0eTqCjxTbwXUf8g,5728
+zendesk_django_auth-0.2.0.dist-info/LICENSE,sha256=HkP3pE04WehfWTy-6lF1RdbUwKp64_zF1D0-LkQ683A,1518
+zendesk_django_auth-0.2.0.dist-info/METADATA,sha256=_pMfoJ7Phw5JQGt5-UPX6ZM3vIkMQUfM8yY1PUgZlYU,2021
+zendesk_django_auth-0.2.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+zendesk_django_auth-0.2.0.dist-info/top_level.txt,sha256=G7cFvcEjx_zfFvZH1lcZLsIXoecaXiQGofVxLB0xXQY,13
+zendesk_django_auth-0.2.0.dist-info/RECORD,,
