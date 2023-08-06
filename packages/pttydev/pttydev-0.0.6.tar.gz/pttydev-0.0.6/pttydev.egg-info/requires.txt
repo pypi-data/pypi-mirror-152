@@ -1,0 +1,3 @@
+pyatomic==0.0.2
+pyserial
+websocket-client
