@@ -1,0 +1,109 @@
+Metadata-Version: 2.1
+Name: MonEater
+Version: 0.1.0
+Summary: Monitor, transform and upload program output to InfluxDB.
+Home-page: https://gitlab.cern.ch/berkeleylab/moneater
+Author: Karol Krizka
+Author-email: kkrizka@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Requires-Dist: influxdb
+Requires-Dist: pyyaml
+
+# Mon(itor)Eater
+
+Program for consuming monitoring data, transforming them and uploading the results to InfluxDB.
+
+The main program, `moneater`, reads the input on standard output and passes it to a custom parser called the eater. The eater is a, potentially user-written, Python class with a pre-defined interface. After parsing the input text line, the eater returns zero or more data points that will be then sent to InfluxDB.
+
+There is also an alterante program, `fileeater`, that monitors the contents of log files. This is useful when the data is stored in a file instead of standard output. The `fileeater` can also monitor multiple log files.
+
+Example usage:
+```shell
+program_with_output | moneater.py --host localhost --database mydb --table=program_data --tag location=berkeley --tag operator=kk ProgramEater
+```
+or
+```shell
+program_with_output | tee program.out
+fileeater.py --host localhost --database mydb --table=program_data --tag location=berkeley --tag operator=kk program.out ProgramEater
+```
+
+# Configuration
+## Database Settings
+The database connection settings can either be specified as arguments or inside a file.
+
+The use of arguments to specifci database authentication is not recommended. It will be visible to all users on a machine. It is only included for convenience.
+
+The database configuration can also be stored inside a YAML file. It is passed to the MonEater programs using the `--config`/`-c` argument. It will be processed before the other database specific arguments.
+
+An example of the format is:
+```yaml
+db:
+  host: localhost
+  port: 8086
+  user: root
+  password: root
+  database: mydb
+tags:
+  globaltag1: globalvalue1
+```
+
+## FileEater Specification
+The list of files/eaters used by a `fileater` program can be specified inside a YAML file. This also allows multiple files to be monitored by a single instance.
+
+If the `--spec`/`-s` argument is present, then the `file` and `eater` are treated as paths to directory containing the log files and the specification file.
+
+Each monitored file has its own eater, table and list of tags.
+
+An example of the specicification format is:
+```yaml
+monitor:
+  - eater: test
+    file: {logdir}/pb.out # The {logdir} will be replaced by `file` argument.
+    table: test
+    tags:
+      tag1: value1
+```
+
+# Eater Interface
+The eater is a Python class with the following interface. It does not have to be called `Eater`.
+```python
+class Eater:
+  def __init__(self):
+    """ Initialize any required tools or member variables """
+    pass
+  def parse_line(self,line):
+    """ Parse line and return any data points for sending to InfluxDB.
+    Return value:
+    None - No new data will be uploaded
+    Dictionary (or list of dictionaries) - points to be upload
+
+	The dictionary can have either of of the following formats. The format
+	is determined by checking for the special `fields` key.
+	
+	Format 1: key-value definition of a single point, multiple if returned as list of dictionaries
+	In this case, the time is taken as the time when the input line was received.
+	`{'field1':value1,'field2':value2}`
+
+	Format 2: Also can be returned as a list for multiple points.
+	`{'time':timestamp, 'fields': format1-definition-of-fields-for-point}`
+    """
+    # Parse input line into data
+    return data
+```
+
+The name of the desired eater is passed to the `moneater.py` program in the command line as the path in a module. If you define a `ProgramEater` inside `mypackage.py`,  then run `moneater.py mypackage.ProgramEater`.
+
+## Existing Eaters
+The following eaters are shipped with MonEater.
+
+- `eaters.tabeater.TabEater` Input format is tab-separate columns with the first row being the field names. For example:
+```
+Column1	Column2
+0	0.123
+1	0.5546
+2	0.245
+```
+
+
