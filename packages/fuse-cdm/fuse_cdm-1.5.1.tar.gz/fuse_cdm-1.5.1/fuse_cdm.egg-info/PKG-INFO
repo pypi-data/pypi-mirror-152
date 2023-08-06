@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: fuse-cdm
+Version: 1.5.1
+Summary: Access fuse common data model library for cellfie analysis suite
+Home-page:  
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# fuse-cdm
+Common Data Model for the FUSE ImmCellFIE project.
