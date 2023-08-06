@@ -1,0 +1,61 @@
+[project]
+name = "osgeonorge"
+description = "Tools and functions for interacting with geonorge.no"
+version = "0.2.0"
+authors = [
+    {name = "Stefan Blumentrath", email = "stefan.blumentrath@nina.no"}
+]
+readme = "README.md"
+python = "^3.6"
+homepage = "https://gitlab.com/ninsbl/osgeonorge"
+repository = "https://gitlab.com/ninsbl/osgeonorge"
+documentation = "https://osgeonorge.readthedocs.io/en/latest/"
+dependencies = ["requests", "psycopg2", "GDAL", "grass_session"]
+
+keywords = ["geonorge", "osgeo", "gdal", "postgis", "sosi", "fyba", "etl", "elt", "grass gis"]
+
+classifiers = [
+    "Topic :: Scientific/Engineering :: GIS",
+    "Intended Audience :: Developers",
+    "Development Status :: 3 - Alpha",
+    "Natural Language :: English",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3.6"
+]
+
+[project.optional-dependencies]
+test = ["pytest", "pytest-cov", "requests", "psycopg2", "GDAL", "grass_session"]
+
+
+[dev-dependencies]
+black = { version = "^18.3-alpha.0", python = "^3.6" }
+
+[build-system]
+build-backend = "flit_core.buildapi"
+requires = [
+    "flit_core >= 3.2",
+    "setuptools >= 35.0.2",
+    "setuptools_scm >= 2.0.0, <3",
+    "pytest-runner"
+]
+
+[tool.black]
+line-length = 88
+target_version = ['py36']
+include = '\.pyi?$'
+exclude = '''
+(
+  /(
+      \.eggs         # exclude a few common directories in the
+    | \.git          # root of the project
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+)
+'''
