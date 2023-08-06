@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: odvc
+Version: 1.0.0
+Summary: Ocean Dimensionless Vertical Coordinates
+Home-page: https://github.com/pyoceans/odvc
+Author: Filipe Fernandes
+Author-email: ocefpaf@gmail.com
+License: BSD-3-Clause
+Project-URL: Documentation, https://ioos.github.io/odvc
+Project-URL: Bug Tracker, https://github.com/ioos/odvc/issues
+Project-URL: Source Code, https://github.com/ioos/odvc
+Keywords: CF-conventions dimensionless coordinate vertical coordinate
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: netcdf4
+Requires-Dist: numpy
+
+# odvc
+
+Ocean Dimensionless Vertical Coordinates
+
+CAVEAT: this package is not ready for production use!
+
+The `formulas.py` works also as a guide on how to code the CF Ocean Dimensionless Vertical Coordinates in Python,
+while `utils.py` contains a few handy functions to use the formulas with dask arrays.
+
+For more information on how to integrate this into your project see the iris package vertical coordinates.

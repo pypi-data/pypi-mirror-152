@@ -1,0 +1,10 @@
+odvc/__init__.py,sha256=ZqjIzfyZljcArPMqS5jk1yPhwmBYGSJaXZWrves3f8U,536
+odvc/_version.py,sha256=Aj77VL1d5Mdku7sgCgKQmPuYavPpAHuZuJcy6bygQZE,21
+odvc/formulas.py,sha256=NpqBN2J0L-xqsK6Y4VNDEW_9lJBNFl6UlK_-k3ciY0w,3323
+odvc/parse_formula_terms.py,sha256=R5iuuk6U2uYJkU9TsHs40D3hVSjqG1-dYVvMUS5Ia00,3451
+odvc-1.0.0.dist-info/LICENSE.txt,sha256=KSXRhBX5yHjcYesdJCdHSP5mODQRK3aDD0xZa2E-gW8,1461
+odvc-1.0.0.dist-info/METADATA,sha256=ID6UWN5ngEdWuWeHY6bzCI3oQ1BMsHSIdav3HAMEocg,1551
+odvc-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+odvc-1.0.0.dist-info/top_level.txt,sha256=Y4Bg20flHZDRJeKT6pZsU9-IM7aBkuSqlTcOUirPx6E,5
+odvc-1.0.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+odvc-1.0.0.dist-info/RECORD,,
