@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: nextup
+Version: 0.1.0
+Summary: Next Up your Next Install
+License: MIT
+Author: VincentRPS
+Requires-Python: >=3.10,<3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: click (>=8.1.3,<9.0.0)
