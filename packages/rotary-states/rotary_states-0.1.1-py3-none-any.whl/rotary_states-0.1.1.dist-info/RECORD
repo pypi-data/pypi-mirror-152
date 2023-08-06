@@ -1,0 +1,16 @@
+rotary_states/__init__.py,sha256=EMCZRwQNlldO1kI6mkLow_SnD-rrhhJPdscQC5atgnc,147
+rotary_states/src/__init__.py,sha256=sHxAOzX2bFyEC0wdtX4Wbt6HfM28C9js0KyhBjastCY,109
+rotary_states/src/integrators/RK4.py,sha256=vI8SOztiCiWdUpmbb_R5WdDltNXAA-u4VqcMJuPoWkk,227
+rotary_states/src/integrators/__init__.py,sha256=U0cTQgaCCbdKtm917nvZiw7Efk18hXukt9Ag-ebBeNg,37
+rotary_states/src/integrators/jit_RK4.py,sha256=jBJ06mqtMMdvOByIq7IVtfv2r0Suc32d63Wmbcoonks,670
+rotary_states/src/limit_cycles/__init__.py,sha256=UfLVY5rM0znCXptuUdqKFOofXwKm-UD3ibXzKbFk6pE,123
+rotary_states/src/limit_cycles/jit_main_method.py,sha256=IpwoqbO8R9GpbkdSkdt0A9YaKQYsu24AfLROMP_x9y8,1092
+rotary_states/src/limit_cycles/main_method.py,sha256=3lw4gZvermaTNArJJgMqcrjPJUuWpL6f3CGx_Pg1W70,1420
+rotary_states/src/optimizers/__init__.py,sha256=_ILH1dsEtTpL1P6XdUvrhjgKojjIjVpK28X230LFe60,49
+rotary_states/src/optimizers/jit_newton.py,sha256=XZPt52XBZbj9OanL76UVCMIlatE75XHKUVIhgVcqtHc,1459
+rotary_states/src/optimizers/newton.py,sha256=f4H5YeTNkFWJKCfuG7NzB69MP-dW4Rsradf-5S2no58,603
+rotary_states/src/utils/do_jit.py,sha256=zcPWF4Fd_lGuvCDNLtj8F5z1FDFqQMnWMdpMVyL1HSc,185
+rotary_states-0.1.1.dist-info/LICENSE,sha256=DudHNYak2SDYgbsApx1KF-gm_fTve0xVN6mFa-jQcyY,1076
+rotary_states-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+rotary_states-0.1.1.dist-info/METADATA,sha256=AZiljZRgLn9eKjVZ_I77epEFMroIrAUvT1iSV1-jxOU,575
+rotary_states-0.1.1.dist-info/RECORD,,
