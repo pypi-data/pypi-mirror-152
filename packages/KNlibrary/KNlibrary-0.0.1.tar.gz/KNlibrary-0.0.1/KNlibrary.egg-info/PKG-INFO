@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: KNlibrary
+Version: 0.0.1
+Summary: Who is Kongdach
+Home-page: https://github.com/UncleEngineer/KNlibrary
+Author: KN
+Author-email: dach_n@gmail.com
+License: MIT
+Download-URL: https://github.com/UncleEngineer/MangoStickyRice/archive/v0.0.1.zip
+Keywords: kongdach,kn
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+ทดสอบสร้าง Library”
+===================
+
+Link:
+
+PyPi: https://pypi.org/project/KNlibrary/
+
+สวัสดีครับ ยินดีที่ได้รู้จัก
+
+วิธีติดตั้ง
+~~~~~~~~~~~
+
+เปิด CMD / Terminal
+
+.. code:: python
+
+   pip install KNlibrary
+
+วิธีใช้งานแพ็คเพจนี้
+~~~~~~~~~~~~~~~~~~~~
+
+-  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+
+.. code:: python
+
+   from KNlibrary import kninfo
+   name = kninfo()
+   name.show_name()
+   name.about()
+   name.show_art()
+
+
