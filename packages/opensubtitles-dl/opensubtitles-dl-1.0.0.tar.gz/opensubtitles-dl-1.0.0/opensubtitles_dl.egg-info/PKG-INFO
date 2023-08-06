@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: opensubtitles-dl
+Version: 1.0.0
+Summary: A simple cli tool to download from opensubtitles.org
+Home-page: https://github.com/quantumsnowball/opensubtitles-dl
+Author: Quantum Snowball
+Author-email: quantum.snowball@gmail.com
+License: UNKNOWN
+Keywords: subtitles,opensubtitles
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+
