@@ -1,0 +1,8 @@
+README.md
+setup.py
+Libreria/PowerI2C.py
+Libreria/__init__.py
+Libreria.egg-info/PKG-INFO
+Libreria.egg-info/SOURCES.txt
+Libreria.egg-info/dependency_links.txt
+Libreria.egg-info/top_level.txt
