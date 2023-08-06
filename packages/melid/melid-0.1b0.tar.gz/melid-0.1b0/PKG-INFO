@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: melid
+Version: 0.1b0
+Summary: A PyQt5 desktop application framework with simple and powerful features.
+Home-page: https://github.com/dev-47/melid
+Author: Dev 47 - Mohammed Al Ameen
+Author-email: ameenmohammed2311@gmail.com
+Project-URL: Bug Tracker, https://github.com/dev-47/melid/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Melid
+
+Melid is a PyQt5 Library for Desktop Applications containing commonly used utils and advanced widget implementations in very simple forms.
+
+# Features
+
+- [x] router -> done
+- [ ] store (state management) -> in progress
+- [ ] hot-reload -> in progress
+- [ ] CSS / SCSS\* Processor (TailwindCSS Syntax) -> in progress
