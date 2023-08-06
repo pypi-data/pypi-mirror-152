@@ -1,0 +1,8 @@
+LICENSE
+README
+listas_anidadas.py
+setup.py
+listas_anidadas.egg-info/PKG-INFO
+listas_anidadas.egg-info/SOURCES.txt
+listas_anidadas.egg-info/dependency_links.txt
+listas_anidadas.egg-info/top_level.txt
