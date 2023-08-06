@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: TextSimila
+Version: 0.0.4
+Summary: Text Similarity Recommendation System
+Home-page: https://github.com/dooboolab-co/TextSimila
+Author: dooboolab
+Author-email: support@dooboolab.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: ipykernel
+Requires-Dist: gensim (==4.2.0)
+Requires-Dist: soynlp
+Requires-Dist: nltk
+Requires-Dist: torch
+Requires-Dist: jupyter
+Requires-Dist: pyyaml
+Requires-Dist: argparse
+
+UNKNOWN
+
