@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: fb-video-downloader-renanrgs
+Version: 0.0.1
+Summary: Facebook Video Downloader
+Home-page: https://github.com/renanrgs/fb-video-downloader
+Author: Renan Silva
+Author-email: renan.rgsilva@gmail.com
+Requires-Python: >=3.10.4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: moviepy (==1.0.3)
+Requires-Dist: requests (==2.27.1)
+Requires-Dist: wget (==3.2)
+
