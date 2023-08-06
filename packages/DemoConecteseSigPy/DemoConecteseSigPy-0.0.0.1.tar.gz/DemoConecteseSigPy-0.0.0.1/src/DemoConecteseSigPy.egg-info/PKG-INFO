@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: DemoConecteseSigPy
+Version: 0.0.0.1
+Summary: Herramientas Demostración para el Conectese con SIG - ArcGIS Pro.
+Home-page: https://dev.azure.com/esrico-con-uaecd-ladm/ImportarEncuestaActualizacionCatastral
+Author: Esri Colombia
+Author-email: mtorres@esri.co
+License: MIT
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Other OS
+Classifier: Natural Language :: Spanish
+Requires-Python: >=3.6.10
+Description-Content-Type: text/markdown
+
+# Caja de Herramientas Demo Conectese con SIG
+Herramientas Demostración para el Conectese con SIG - ArcGIS Pro.
+Esri Colombia
