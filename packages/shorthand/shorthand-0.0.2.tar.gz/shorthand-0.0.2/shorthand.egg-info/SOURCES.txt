@@ -1,0 +1,15 @@
+setup.py
+shorthand/__init__.py
+shorthand.egg-info/PKG-INFO
+shorthand.egg-info/SOURCES.txt
+shorthand.egg-info/dependency_links.txt
+shorthand.egg-info/top_level.txt
+shorthand/aggregation/__init__.py
+shorthand/aggregation/aggregation.py
+shorthand/aggregation/builder.py
+shorthand/proposition/__init__.py
+shorthand/proposition/builder.py
+shorthand/proposition/proposition.py
+shorthand/transformation/__init__.py
+shorthand/transformation/builder.py
+shorthand/transformation/transformation.py
