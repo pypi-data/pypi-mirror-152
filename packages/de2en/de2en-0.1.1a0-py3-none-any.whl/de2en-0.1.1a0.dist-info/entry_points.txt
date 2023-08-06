@@ -1,0 +1,3 @@
+[console_scripts]
+de2en=de2en.__main__:app
+
