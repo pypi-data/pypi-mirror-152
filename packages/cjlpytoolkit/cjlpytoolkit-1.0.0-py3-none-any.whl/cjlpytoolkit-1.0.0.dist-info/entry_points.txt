@@ -1,0 +1,3 @@
+[console_scripts]
+test1 = ctools.main:test1
+unpack = ctools.main:unpack
