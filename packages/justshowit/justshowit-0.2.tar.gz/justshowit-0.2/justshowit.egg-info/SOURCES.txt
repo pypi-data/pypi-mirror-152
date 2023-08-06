@@ -1,0 +1,10 @@
+README.md
+setup.py
+justshowit/__checker.py
+justshowit/__init__.py
+justshowit/__show_logic.py
+justshowit.egg-info/PKG-INFO
+justshowit.egg-info/SOURCES.txt
+justshowit.egg-info/dependency_links.txt
+justshowit.egg-info/requires.txt
+justshowit.egg-info/top_level.txt
