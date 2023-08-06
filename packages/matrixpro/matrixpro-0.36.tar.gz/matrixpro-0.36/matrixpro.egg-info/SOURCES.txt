@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+matrixpro/__init__.py
+matrixpro/matrix.py
+matrixpro.egg-info/PKG-INFO
+matrixpro.egg-info/SOURCES.txt
+matrixpro.egg-info/dependency_links.txt
+matrixpro.egg-info/top_level.txt
