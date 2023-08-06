@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: resoto
+Version: 2.2.0
+Summary: Resoto bundle - single package for resoto components
+Home-page: https://github.com/someengineering/resoto
+License: Apache-2.0
+Author: Some Engineering Inc.
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Security
+Classifier: Topic :: Utilities
+Requires-Dist: resoto-plugins (==2.2.0)
+Requires-Dist: resotocore (==2.2.0)
+Requires-Dist: resotometrics (==2.2.0)
+Requires-Dist: resotoshell (==2.2.0)
+Requires-Dist: resotoworker (==2.2.0)
+Project-URL: Changelog, https://github.com/someengineering/resoto/releases
+Project-URL: Repository, https://github.com/someengineering/resoto
+Description-Content-Type: text/markdown
+
+Meta package containing all resoto components.
+
+Installation:
+
+```
+pip install resoto
+```
