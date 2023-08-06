@@ -1,0 +1,11 @@
+asrt_sdk/__init__.py,sha256=9M9fmcp-ZhBx9UQgw8iAE2rfxBL1xbIqrJhWOfW7YXc,1802
+asrt_sdk/speech_recognizer.py,sha256=l9Ypl0jb9y3dx5nzW7wt1lL7ZrPlhLgihPguqRxKEHc,9334
+asrt_sdk/utils.py,sha256=Jb1rjt5sMe0NljKQBryAbjDMsJHDTpEVdkMlj1J7bjY,4508
+asrt_sdk/network/__init__.py,sha256=y5y8MBDhHV375GguXya6kwAEQRHp2VI3j1fUD2VcOIk,1681
+asrt_sdk/network/http.py,sha256=i0kNvuKi5_TtfS3RcMQ4Uc-qCg-so-rc01Xj282tYhI,1336
+asrt_sdk/version/__init__.py,sha256=ioG_AgQ41dOGCWxmewxTVBvr6yQKtyMHhLZtzKsWkAQ,1668
+asrt_sdk-1.1.2.dist-info/LICENSE,sha256=UkEriS33Ho5tkzlsO9qXVBgQjZrrvxlFu7C1fYPgcYI,34801
+asrt_sdk-1.1.2.dist-info/METADATA,sha256=u6i2PNVoRigYR8SIPiGK0w52GARgh8rEZhmP_Q6p3gk,1810
+asrt_sdk-1.1.2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+asrt_sdk-1.1.2.dist-info/top_level.txt,sha256=gnkTJXYjnKnPMNM-UgveM4rNw7a75nKnCgO_daHgTq0,9
+asrt_sdk-1.1.2.dist-info/RECORD,,
