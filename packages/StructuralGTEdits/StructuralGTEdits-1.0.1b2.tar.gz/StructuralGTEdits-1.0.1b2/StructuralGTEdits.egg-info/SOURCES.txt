@@ -1,0 +1,51 @@
+LICENSE.txt
+README.md
+setup.py
+StructuralGTEdits/GT_Params.py
+StructuralGTEdits/GT_Params_multi.py
+StructuralGTEdits/GT_Params_noGUI.py
+StructuralGTEdits/GetWeights.py
+StructuralGTEdits/GetWeights_3d.py
+StructuralGTEdits/__init__.py
+StructuralGTEdits/__main__.py
+StructuralGTEdits/algorithm_benchmarks.py
+StructuralGTEdits/base.py
+StructuralGTEdits/convert.c
+StructuralGTEdits/error.py
+StructuralGTEdits/from_gsd_test.py
+StructuralGTEdits/gui_3d_image.py
+StructuralGTEdits/gui_multi_image.py
+StructuralGTEdits/gui_single_image.py
+StructuralGTEdits/multi_image_settings.py
+StructuralGTEdits/network.py
+StructuralGTEdits/process_image.py
+StructuralGTEdits/sbox.py
+StructuralGTEdits/settings.py
+StructuralGTEdits/settings_3d.py
+StructuralGTEdits/single_image_looper.py
+StructuralGTEdits/skel_ID.py
+StructuralGTEdits/skel_ID_3d.py
+StructuralGTEdits/skel_features.py
+StructuralGTEdits.egg-info/PKG-INFO
+StructuralGTEdits.egg-info/SOURCES.txt
+StructuralGTEdits.egg-info/dependency_links.txt
+StructuralGTEdits.egg-info/not-zip-safe
+StructuralGTEdits.egg-info/requires.txt
+StructuralGTEdits.egg-info/top_level.txt
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 001.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 002.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 003.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 004.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 005.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 006.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 007.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 008.tif
+StructuralGTEdits/pytest/data/ANF/Image1 - SliceImage - 009.tif
+StructuralGTEdits/pytest/data/ANF/img_options.json
+StructuralGTEdits/pytest/data/AgNWN/10um.tif
+StructuralGTEdits/pytest/data/AgNWN/img_options.json
+StructuralGTEdits/pytest/data/Rectangle1/img0.png
+StructuralGTEdits/pytest/data/Rectangle1/img1.png
+StructuralGTEdits/pytest/data/Rectangle1/img2.png
+StructuralGTEdits/pytest/data/Rectangle1/img3.png
+StructuralGTEdits/pytest/data/Rectangle1/img_options.json
