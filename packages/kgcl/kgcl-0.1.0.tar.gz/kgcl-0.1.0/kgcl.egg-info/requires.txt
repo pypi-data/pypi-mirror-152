@@ -1,0 +1,12 @@
+linkml
+lark
+twine
+
+[docs]
+sphinx
+sphinx-rtd-theme
+sphinx-autodoc-typehints
+sphinx-click
+
+[test]
+pytest

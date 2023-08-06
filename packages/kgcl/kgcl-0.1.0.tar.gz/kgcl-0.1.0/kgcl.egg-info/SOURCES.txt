@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+kgcl.egg-info/PKG-INFO
+kgcl.egg-info/SOURCES.txt
+kgcl.egg-info/dependency_links.txt
+kgcl.egg-info/not-zip-safe
+kgcl.egg-info/requires.txt
+kgcl.egg-info/top_level.txt
