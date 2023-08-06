@@ -1,0 +1,7 @@
+webdriver-manager
+selenium
+openpyxl
+pydantic
+ddt
+pytest
+pytest-html
