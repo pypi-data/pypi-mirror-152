@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: authoriz
+Version: 0.0.2
+Summary: Django-based authorization framework.
+Home-page: https://github.com/VoIlAlex/authoriz
+Download-URL: 
+Author: Ilya Vouk
+Author-email: ilya.vouk@gmail.com
+License: BSD-2
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 3.2
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
