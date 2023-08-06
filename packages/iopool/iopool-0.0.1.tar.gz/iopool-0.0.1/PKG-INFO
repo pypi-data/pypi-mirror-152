@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: iopool
+Version: 0.0.1
+Summary: IOPool API Client
+License: UNKNOWN
+Keywords: iopool,API,sensor,iot
+Author-email: Axel Haustant <noirbizarre@gmail.com>
+Requires-Python: >=3.9
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Home Automation
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Project-URL: repository, https://github.com/apihackers/iopool
+Description-Content-Type: text/markdown
+Description: # iopool
+        IOPool API Python Interface
+

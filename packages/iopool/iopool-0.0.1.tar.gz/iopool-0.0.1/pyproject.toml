@@ -1,0 +1,116 @@
+[build-system]
+requires = [
+    "pdm-pep517",
+]
+build-backend = "pdm.pep517.api"
+
+[project]
+name = "iopool"
+version = "0.0.1"
+description = "IOPool API Client"
+readme = "README.md"
+authors = [
+    { name = "Axel Haustant", email = "noirbizarre@gmail.com" },
+]
+keywords = [
+    "iopool",
+    "API",
+    "sensor",
+    "iot",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Home Automation",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+requires-python = ">=3.9"
+dependencies = [
+    "httpx >= 0.20.0",
+]
+
+[project.license]
+file = "LICENSE"
+
+[project.urls]
+repository = "https://github.com/apihackers/iopool"
+
+[tool.pdm.dev-dependencies]
+test = [
+    "pytest >= 5.2",
+    "pytest-asyncio >= 0.16.0",
+    "pytest-sugar >= 0.9.4",
+    "respx >= 0.18.0",
+]
+lint = [
+    "flakeheaven>=1.0.1",
+    "mypy>=0.960",
+]
+format = [
+    "isort >= 5.9.3",
+    "black >= 21.9b0",
+]
+doc = [
+    "Sphinx",
+    "sphinx-copybutton",
+    "sphinx-autobuild",
+    "sphinx-inline-tabs",
+    "myst-parser[linkify]",
+    "furo",
+]
+
+[tool.pdm.scripts]
+test = "pytest"
+doc = "sphinx-build docs docs/_build/html"
+"doc:watch" = "sphinx-autobuild docs docs/_build/html"
+
+[tool.pdm.scripts.lint]
+shell = "flakeheaven lint && mypy iopool"
+
+[tool.pytest.ini_options]
+norecursedirs = ".git build dist __pypackages__"
+testpaths = "tests"
+asyncio_mode = "strict"
+
+[tool.black]
+line-length = 100
+experimental-string-processing = true
+target-version = [
+    "py39",
+]
+include = "\\.pyi?$"
+exclude = "(\n  /(\n      \\.eggs        # exclude a few common directories in the\n    | \\.git         # root of the project\n    | \\.mypy_cache\n    | \\.venv\n    | \\venv\n  )/\n  | foo.py          # also separately exclude a file named foo.py in\n                    # the root of the project\n)\n"
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+include_trailing_comma = true
+line_length = 110
+
+[tool.mypy]
+python_version = "3.9"
+
+[tool.flakeheaven]
+format = "grouped"
+max_line_length = 110
+show_source = true
+exclude = [
+    ".git/**/*",
+    "__pycache__/**/*",
+    ".venv/**/*",
+    "__pypackages__/**/*",
+]
+
+[tool.flakeheaven.plugins]
+pycodestyle = [
+    "-E203",
+    "-W503",
+]
+pyflakes = [
+    "+*",
+    "-F401",
+]
+
+[tool.flakeheaven.exceptions."tests/"]
