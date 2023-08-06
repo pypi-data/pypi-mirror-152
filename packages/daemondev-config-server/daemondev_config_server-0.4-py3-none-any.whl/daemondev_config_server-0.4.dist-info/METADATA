@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: daemondev-config-server
+Version: 0.4
+Summary: Config-Files downloader
+Home-page: https://github.com/daemondev/daemondev-config-server
+Download-URL: https://github.com/daemondev/daemondev-config-server/archive/v_01.tar.gz
+Author: @daemondev
+Author-email: granlinux@gmail.com
+License: MIT
+Keywords: config-server,daemondev,config-files
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENSE.txt
+Requires-Dist: pyyaml
+
