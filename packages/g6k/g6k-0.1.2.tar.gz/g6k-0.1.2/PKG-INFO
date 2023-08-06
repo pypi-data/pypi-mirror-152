@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: g6k
+Version: 0.1.2
+Summary: General Sieve Kernel
+Home-page: https://github.com/fplll/g6k
+Author: G6K team
+Author-email: fplll-devel@googlegroups.com
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
