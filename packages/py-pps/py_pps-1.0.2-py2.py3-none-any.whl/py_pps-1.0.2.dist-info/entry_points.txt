@@ -1,0 +1,3 @@
+[console_scripts]
+pps = py_pps.app:main
+
