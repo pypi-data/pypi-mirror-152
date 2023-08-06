@@ -1,0 +1,14 @@
+multiweatherapi/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+multiweatherapi/campbell.py,sha256=iJBlvN_Shu70NpKvB_JPWjjYOjaIKywte3-V21Ap_J4,15955
+multiweatherapi/davis.py,sha256=T0NgVjnx2v-Wezn0r0KRFABLlxzWkVTZfWW1QOzkQJw,14974
+multiweatherapi/multiweatherapi.py,sha256=xUPbzwJK-5mlJkf9Z2PCbcP0RYbBXFdi67MisEOVas0,8354
+multiweatherapi/onset.py,sha256=ctNIiiP3wUVFaoSm3prfJWi9p17O0spzBljlIB81USA,15362
+multiweatherapi/rainwise.py,sha256=a1q1X3QO1c8WyZFoGvjYjkcLJbj5Acc1ldAzu2W9q8Y,13476
+multiweatherapi/sample_report.py,sha256=T9JkYp_mVILm0sGX5hzae5TVx7fm3WuSpULvQ6St3rY,3500
+multiweatherapi/spectrum.py,sha256=9GsitOlk9xiZwpg3H0_d34H-Xqs0bZSF-44mK0bbnVQ,13586
+multiweatherapi/zentra.py,sha256=oWM-FMXNH_hag2-KPJayZXmLyGyCli2V2GPocxIg4f4,12340
+multiweatherapi-0.0.17.dist-info/LICENSE,sha256=AEVdQRq1l-hCxiJl-5YYIg5hZ89Yni4xrrlkMI1-_UU,1094
+multiweatherapi-0.0.17.dist-info/METADATA,sha256=iWMNei6qQ6gCi-Y2WDOdBgSz0BN04p6s5eXIA9LlqQw,3322
+multiweatherapi-0.0.17.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+multiweatherapi-0.0.17.dist-info/top_level.txt,sha256=auTpHM50K5sK6YFYSg4gMkt6IGSKrQWRwTjSO6btQUU,16
+multiweatherapi-0.0.17.dist-info/RECORD,,
