@@ -1,0 +1,9 @@
+fasta2png/__init__.py,sha256=rE9IOxKUWmzpdu_9hfQI0cBkvjn95XZXh1IiEnIPgdY,1003
+fasta2png/faa2png.py,sha256=NXJamMysRYV5eWg6Z3YHhgkN810g0-asnAw82wc14yE,4366
+fasta2png/fna2png.py,sha256=JwFYBitT_ZFBzr1WISXt8R8uZy9TetAnVDDmOx3-tv0,3556
+fasta2png-7.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+fasta2png-7.dist-info/METADATA,sha256=Jr2-CXWjFXie2QpJkBoQWfIhm9HTDi7JffcLJvWIPtU,3717
+fasta2png-7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+fasta2png-7.dist-info/entry_points.txt,sha256=XYA61PXZDC-3Wa0MNcKNp88LkMiJ6t0lPMB4rtCxZp4,84
+fasta2png-7.dist-info/top_level.txt,sha256=xIldUkjsZ73YhzzM2yTQGDiysPPXhhjQreDt7el70Ac,10
+fasta2png-7.dist-info/RECORD,,
