@@ -1,0 +1,11 @@
+display_server_interactions/__init__.py,sha256=RpC3pvon3FWuHOY6ZCapNLuOoNhgdxsa8AS-ixWks_4,487
+display_server_interactions/__main__.py,sha256=THpQ8vzkBPav9zSmx8I2hGTp-6hdaPtvrH6Bg1U0xeA,394
+display_server_interactions/base.py,sha256=MCD8cQx1SLkAL16b6iMh8IqXRKOVkLs_kapeZfQY_s4,1882
+display_server_interactions/image.py,sha256=Yy-tcUIpunt2UFwgF-9K3mnPqB3k5LEFTdXk_JKyyo8,671
+display_server_interactions/linux.py,sha256=IsRQrXJvPwgsHqggnnzCoXl5i8zCEpKGgkVmzfB-8kQ,17861
+display_server_interactions/window.py,sha256=zkDS1qzrBzMzL-3C_G0ns7LUV57FrHjrRAf-9VfVsDU,2069
+display_server_interactions-0.0.dev3.dist-info/LICENSE.txt,sha256=OulBHAXGnxltOYc9DVexjXS2rhI-EIRrnQjEtsO3aGM,11344
+display_server_interactions-0.0.dev3.dist-info/METADATA,sha256=cWsDu4L5o6EqvxdvdR5eNk5tlqSg6WclaxjsC-G33Ag,3518
+display_server_interactions-0.0.dev3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+display_server_interactions-0.0.dev3.dist-info/top_level.txt,sha256=QjIZcYI62OqMTgO62S8gVSDpJmidZgvm4Y5Er0dq88U,28
+display_server_interactions-0.0.dev3.dist-info/RECORD,,
