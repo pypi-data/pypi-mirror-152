@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+git_mr_linear.egg-info/PKG-INFO
+git_mr_linear.egg-info/SOURCES.txt
+git_mr_linear.egg-info/dependency_links.txt
+git_mr_linear.egg-info/top_level.txt
+src/__init__.py
+src/__version__.py
+src/auth.py
+src/cfg.py
+src/logger.py
+src/main.py
