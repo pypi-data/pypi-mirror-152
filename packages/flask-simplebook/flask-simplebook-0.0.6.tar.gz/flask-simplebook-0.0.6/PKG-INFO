@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: flask-simplebook
+Version: 0.0.6
+Summary: flask app for SimpleBook
+Home-page: https://code.librehq.com/ots/mediawiki/SimpleBook
+Author: Open Tech Strategies, LLC
+Author-email: frankduncan@opentechstrategies.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# The simplebook app
+
+This is the flask companion application to the SimpleBook MediaWiki extension.
+
+This is some placeholder documentation as we figure out all the release stuff.
