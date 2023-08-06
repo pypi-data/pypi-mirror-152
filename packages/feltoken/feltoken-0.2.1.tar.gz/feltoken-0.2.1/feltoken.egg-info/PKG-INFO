@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: feltoken
+Version: 0.2.1
+Summary: FELToken python package intended for running data provider code.
+Home-page: https://feltoken.ai/
+Author: FELToken
+Maintainer: FELToken
+Maintainer-email: info@bretahajek.com
+License: GPL-3.0 License
+Project-URL: Bug Tracker, https://github.com/FELToken/feltoken.py/issues
+Project-URL: Documentation, https://docs.feltoken.ai/
+Project-URL: Source Code, https://github.com/FELToken/feltoken.py
+Keywords: Federated Learning,Web3,Machine Learning
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This code connects to the specified smart contract and trains the specified
+models on provided data.
+
+Entry command:
+
+```bash
+felt-node-worker --chain <80001> --contract <address> --account main --data <data_path.csv>
+```
+
+
