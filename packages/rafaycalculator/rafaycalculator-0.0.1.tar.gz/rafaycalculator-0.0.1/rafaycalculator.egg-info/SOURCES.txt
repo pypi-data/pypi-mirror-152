@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+rafaycalculator/__init__.py
+rafaycalculator.egg-info/PKG-INFO
+rafaycalculator.egg-info/SOURCES.txt
+rafaycalculator.egg-info/dependency_links.txt
+rafaycalculator.egg-info/top_level.txt
