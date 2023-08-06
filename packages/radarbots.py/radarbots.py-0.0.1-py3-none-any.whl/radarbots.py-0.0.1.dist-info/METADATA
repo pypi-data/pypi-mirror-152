@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: radarbots.py
+Version: 0.0.1
+Summary: An unofficial package to interact with the Radar Bot Directory API
+Author: Yoshiboi18303 (Brice Coley)
+Author-email: <yoshiboi18303.t@gmail.com>
+License: UNKNOWN
+Keywords: python,discord,radarbotdirectory
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: discord.py
+Requires-Dist: requests
+
+
+# radarbots.py
+An unofficial package used to interact with the Radar Bot Directory API
+
+---
+
+# Usage
+```python
+import discord
+import radar
+from discord.ext import commands
+client = commands.Bot(command_prefix="!")
+```
+
