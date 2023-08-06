@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: pytest-iters
+Version: 0.0.3
+Summary: A contextmanager pytest fixture for handling multiple mock iters
+Home-page: https://github.com/envoyproxy/pytooling/tree/main/pytest-iters
+Author: Ryan Northey
+Author-email: ryan@synca.io
+Maintainer: Ryan Northey
+Maintainer-email: ryan@synca.io
+License: Apache Software License 2.0
+Platform: UNKNOWN
+
+============
+pytest-iters
+============
+
+
+Installation
+------------
+
+You can install "pytest-iters" via ``pip``
+
+.. code-block:: console
+
+    $ pip install pytest-iters
+
+
+License
+-------
+
+Distributed under the terms of the Apache Software License 2.0 license, "pytest-iters" is free and open source software
+
+
