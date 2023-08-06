@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/fileSimpleTokenizer.egg-info/PKG-INFO
+src/fileSimpleTokenizer.egg-info/SOURCES.txt
+src/fileSimpleTokenizer.egg-info/dependency_links.txt
+src/fileSimpleTokenizer.egg-info/top_level.txt
+src/simpleFileTokenizer/__init__.py
+src/simpleFileTokenizer/simpleFileTokenizer.py
