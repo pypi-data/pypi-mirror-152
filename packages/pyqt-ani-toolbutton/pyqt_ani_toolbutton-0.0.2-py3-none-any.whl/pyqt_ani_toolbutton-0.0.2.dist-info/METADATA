@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: pyqt-ani-toolbutton
+Version: 0.0.2
+Summary: PyQt QToolButton for animation
+Home-page: https://github.com/yjg30737/pyqt-ani-toolbutton.git
+Author: Jung Gyu Yoon
+Author-email: yjg30737@gmail.com
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: PyQt5 (>=5.8)
+Requires-Dist: pyqt-ani-abstractbutton (>=0.0.1)
+
+
+# pyqt-ani-toolbutton
+
+PyQt QToolButton for animation
+
+
+
+## Requirements
+
+* PyQt5 >= 5.8
+
+
+
+## Setup
+
+`python -m pip install pyqt-ani-toolbutton`
+
+
+
+## Included Packages
+
+* <a href="https://github.com/yjg30737/pyqt-ani-abstractbutton.git">pyqt-ani-abstractbutton</a>
+
+
+
