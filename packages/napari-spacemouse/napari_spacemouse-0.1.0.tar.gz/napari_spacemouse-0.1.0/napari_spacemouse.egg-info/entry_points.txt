@@ -1,0 +1,2 @@
+[napari.manifest]
+napari-spacemouse = napari_spacemouse:napari.yaml
