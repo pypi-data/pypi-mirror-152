@@ -1,0 +1,14 @@
+RPA/PDF/__init__.py,sha256=vxESsYMDFaYfieSDFRufUK-53aqCkisgMZ9uJI-63Zk,3505
+RPA/PDF/assets/Inter-Bold.ttf,sha256=Ktg_JEZWbF7PfCYcwHiEpdX3GWW134_Xu4Cfg6Qr9HA,316100
+RPA/PDF/assets/Inter-BoldItalic.ttf,sha256=sm9IKqS24RRs-0i_RNY5Qpzpdqpvg8OG8n9H4UjXkfw,265920
+RPA/PDF/assets/Inter-Italic.ttf,sha256=nv0Kc_MW6lbwti9VqWLRq82oCp56qGKkAl76CrsE8wg,263548
+RPA/PDF/assets/Inter-Regular.ttf,sha256=SUqciBd4ZTESbdJFyT-Khapq-kBce4ouRbZnU4Rwzno,309828
+RPA/PDF/keywords/__init__.py,sha256=F1SLvTnO5W067StyL1Tr0A_KHfMJeIzs-CZdQ0hzsoE,269
+RPA/PDF/keywords/context.py,sha256=dTh2N8VR9y3zzEFQmwwnwe7P8t2tx1xToTFEE9Cdfe8,730
+RPA/PDF/keywords/document.py,sha256=Oo1aWoKJLui5LeEpvWDSpPlGqGcJtkW7xpDkH0iGYLs,41494
+RPA/PDF/keywords/finder.py,sha256=RQ6FpreSH5B3TnAoJncJoaTVuK-Xs0bmiKROCTzWgCA,15282
+RPA/PDF/keywords/model.py,sha256=qvjaaXAG3hcSz-Z36DEbQTYaWLMEnN0Y0dBKyK3aTeM,29172
+rpaframework_pdf-4.0.0.dist-info/LICENSE,sha256=PjT5Pz2KtuQshio3J4Sr34dEfvQV_MFCSqRhJ1PCUdY,11560
+rpaframework_pdf-4.0.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+rpaframework_pdf-4.0.0.dist-info/METADATA,sha256=oO3sJ0c2-2J-T_I-60qfFOpaqiUtDuNNG16R-TCQ-z0,1648
+rpaframework_pdf-4.0.0.dist-info/RECORD,,
