@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: latestearthquake-BMKG-id
+Version: 0.4
+Summary: This package will gate the latest earthquake from BMKG | Meteorological, Climatological, and Geophysical Agency
+Home-page: https://github.com/Vram-AH/latest-indonesia-earthquake
+Author: Vram Adel Handrio
+Author-email: vram3012@gmail.com
+Project-URL: Website, https://github.com/Vram-AH/latest-indonesia-earthquake
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 5 - Production/Stable
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# latest-indonesia-earthquake
+This package will gate the latest earthquake from BMKG | Meteorological, Climatological, and Geophysical Agency
+
+## How it works?
+This package will scrape from [BMKG](https://bmkg.go.id) to get the latest earthquake happened in indonesia
+
+This package will use BeautifullSoup4 and Request, to produce output from JSON and ready to used in Web or Mobile applications
+
+ ## How to use
+'''
+import gempaterkini
+
+if __name__ == '__main__':
+    result = gempaterkini.ekstraksi_data()
+    gempaterkini.tampilkan_data(result)
+'''
+
+# Author
+Vram Adel Handrio
