@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: py-mess-mk-server
+Version: 0.0.1
+Summary: Mess Server
+Home-page: UNKNOWN
+Author: Mikhail Mihailov
+Author-email: mike.mike@yandex.ru
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: PyQt5
+Requires-Dist: pycryptodome
+Requires-Dist: pycryptodomex
+Requires-Dist: sqlalchemy
+
+UNKNOWN
+
+
