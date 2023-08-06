@@ -1,0 +1,3 @@
+[console_scripts]
+ibutsu-upload = ibutsu_utils.upload:main
+ibutsu-xmerge = ibutsu_utils.xmerge:main
