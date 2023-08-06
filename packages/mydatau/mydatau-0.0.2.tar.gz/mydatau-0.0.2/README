@@ -1,0 +1,12 @@
+Expandable module of statistical data utilities
+===============================================
+
+Requirements: - Jupyter Notebook, R, Stata, Julia, and Octave (at least
+some of the mentioned) - installed stata-kernel, r2py, and oct2py from
+PyPi - julia in PATH
+
+Functions:
+----------
+
+1. autorun(path_data=‘…’, \*args, \**kwargs) Cross-platform .ipynb, .R,
+   .do, .jl, and .m file batch runner.
