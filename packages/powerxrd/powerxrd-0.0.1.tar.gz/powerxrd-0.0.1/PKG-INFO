@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: powerxrd
+Version: 0.0.1
+Summary: Simple tools to handle powder XRD (and XRD) data with Python
+Home-page: https://github.com/andrewrgarcia/powerxrd
+Author: Andrew Garcia, PhD
+Author-email: UNKNOWN
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
