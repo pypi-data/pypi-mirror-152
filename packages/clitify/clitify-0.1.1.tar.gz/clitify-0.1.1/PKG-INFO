@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: clitify
+Version: 0.1.1
+Summary: 
+Home-page: https://github.com/marcpartensky/clitify
+Author: Marc Partensky
+Author-email: marc.partensky@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: rich (>=12.4.4,<13.0.0)
+Requires-Dist: spotipy (>=2.19.0,<3.0.0)
+Requires-Dist: termcolors (>=0.1.0,<0.2.0)
+Project-URL: Repository, https://github.com/marcpartensky/clitify
