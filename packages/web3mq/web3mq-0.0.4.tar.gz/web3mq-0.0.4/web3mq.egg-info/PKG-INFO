@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: web3mq
+Version: 0.0.4
+Summary: Web3MQ Python Library
+Home-page: https://github.com/Generative-Labs/Web3MQ-SDK-Python
+Author: Web3MQ
+License: MIT
+Description: Web3MQ Python Library
+Keywords: Web3MQ python sdk
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
