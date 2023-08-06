@@ -1,0 +1,8 @@
+README.md
+setup.py
+pgsequelize/__init__.py
+pgsequelize/main.py
+pgsequelize.egg-info/PKG-INFO
+pgsequelize.egg-info/SOURCES.txt
+pgsequelize.egg-info/dependency_links.txt
+pgsequelize.egg-info/top_level.txt
