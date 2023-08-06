@@ -1,0 +1,6 @@
+zope.interface
+Sphinx>=4.0
+setuptools
+
+[test]
+zope.testrunner
