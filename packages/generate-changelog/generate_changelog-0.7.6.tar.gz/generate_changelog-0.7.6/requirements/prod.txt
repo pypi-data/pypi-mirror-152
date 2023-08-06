@@ -1,0 +1,6 @@
+backports.cached-property;python_version<"3.8"
+GitPython
+jinja2
+more-itertools
+ruamel.yaml
+typer
