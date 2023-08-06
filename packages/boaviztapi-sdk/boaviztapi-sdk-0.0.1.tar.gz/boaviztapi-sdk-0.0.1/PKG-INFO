@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: boaviztapi-sdk
+Version: 0.0.1
+Summary: BOAVIZTAPI - DEMO
+Home-page: UNKNOWN
+Author: OpenAPI Generator community
+Author-email: team@openapitools.org
+License: UNKNOWN
+Description: 🎯 Retrieving the impacts of digital elements
+Keywords: OpenAPI,OpenAPI-Generator,BOAVIZTAPI - DEMO
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
