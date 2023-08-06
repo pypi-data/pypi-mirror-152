@@ -1,0 +1,13 @@
+intake_dremio/__init__.py,sha256=Sq0KfoVfE37nQY6r6bJsxiZs8S73QRcx_EWBw8oqy34,209
+intake_dremio/_version.py,sha256=EjsMjmUVpV8hDDYVR-mRVjDFINCmBRcCLmjj_Mwx94c,500
+intake_dremio/dremio_cat.py,sha256=kCwEZ94E3fGvXtOXLtGkgwIniNuWvtmnBkbGEu4GsFE,4112
+intake_dremio/intake_dremio.py,sha256=3SaA0VqDj4u1UxhMLv4MrETofvF4ZtqIeFhM9IhKGBE,7364
+intake_dremio/static/style.css,sha256=N9HkzHkm9lrGeBybxqr4ivt5EwG7WdSNxnH6eihQvxM,3620
+intake_dremio/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+intake_dremio/tests/test_intake_dremio.py,sha256=4qmMnK6C3FYUl9KaS69HNXdeFyTYp8Crfiwzm66WB6U,392
+intake_dremio-0.2.2rc1.dist-info/LICENSE,sha256=iNNUDWpW02c1obwndl1ZOtbD5MbImZnRlTci8-pe93k,1505
+intake_dremio-0.2.2rc1.dist-info/METADATA,sha256=CC-8A_6DdN4yQWf9UlMYMWGYU1oLRB3PwSy_ZirHIjE,1375
+intake_dremio-0.2.2rc1.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+intake_dremio-0.2.2rc1.dist-info/entry_points.txt,sha256=NrwriScxv_SI_8NeQJHJdK1kvtTRjAM0YommZKhC6iU,67
+intake_dremio-0.2.2rc1.dist-info/top_level.txt,sha256=455mUoA8aLZUz7eEBNp610oEkc1HUHM93eO7bBG0WIA,14
+intake_dremio-0.2.2rc1.dist-info/RECORD,,
