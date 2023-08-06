@@ -1,0 +1,16 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+backend_shim.py,sha256=wVj6DhpKX8QW4hs8efmnt7IE7NNr9YdSknDmiChVRvk,578
+ol_openedx_git_auto_export/__init__.py,sha256=P27E7U16PDZ-jigXvYHyvHKfWMuqTuBM2h1WO4SZ4zU,81
+ol_openedx_git_auto_export/app.py,sha256=C_sQtqPoUX9IQudwDOtwqdyW730M1Pfl2Dwri1boGiM,1231
+ol_openedx_git_auto_export/constants.py,sha256=rYkJ9o5EfCQi2R_3J2RX-XZEvl3LxieC0p_Sf9k-s7A,50
+ol_openedx_git_auto_export/signals.py,sha256=9nctwTypFcY7TqaPkJFitlrSACTDbHKpZud0Sa_twdo,1378
+ol_openedx_git_auto_export/tasks.py,sha256=PNlVHF3rHfs4en-pNafQr6bnGddRw7szzslrQwpvcEs,1200
+ol_openedx_git_auto_export/settings/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ol_openedx_git_auto_export/settings/common.py,sha256=fKVP6JvHZOP18j1nl5w0rdMR1x3dM9UiSlP6YTYFzAM,343
+ol_openedx_git_auto_export/settings/production.py,sha256=RlpHR4dIx8fn7V0ttti-Yp_aGaeay_aJV1SerjYARbQ,347
+ol_openedx_git_auto_export-0.3.dist-info/METADATA,sha256=CED9Fr-JCURi_rW6PnXYxl3HBrTnTg1i6UsBzEK8wWM,372
+ol_openedx_git_auto_export-0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ol_openedx_git_auto_export-0.3.dist-info/entry_points.txt,sha256=SlOvsodF-GL_9oeWzb3aGVDKzKTHiGFG3H_cNau3OSw,97
+ol_openedx_git_auto_export-0.3.dist-info/namespace_packages.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+ol_openedx_git_auto_export-0.3.dist-info/top_level.txt,sha256=3Tg5WIgAW6qs-v9jFgbfRDUMOV8Sx-JEdopAYbqASVQ,28
+ol_openedx_git_auto_export-0.3.dist-info/RECORD,,

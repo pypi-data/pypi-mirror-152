@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ol-openedx-git-auto-export
+Version: 0.3
+Summary: A plugin that auto saves the course OLX to git when an author publishes it
+Home-page: UNKNOWN
+License: BSD-3-Clause
+Platform: UNKNOWN
+Requires-Dist: Django (>2.0)
+Requires-Dist: celery (>=4.4.7)
+Requires-Dist: edx-django-utils (<5.0.0,>=4.0.0)
+Requires-Dist: edx-opaque-keys (==2.3.0)
+
+UNKNOWN
+
