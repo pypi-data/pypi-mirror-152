@@ -1,0 +1,13 @@
+aiocache
+aiohttp
+
+[ci]
+mypy
+pyproject-flake8
+
+[dev]
+axblack
+isort
+mypy
+pre-commit
+pyproject-flake8
