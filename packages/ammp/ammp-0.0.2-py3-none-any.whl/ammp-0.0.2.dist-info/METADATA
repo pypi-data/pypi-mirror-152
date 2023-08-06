@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ammp
+Version: 0.0.2
+Summary: Mission Planner for KSP
+Home-page: https://github.com/bluePlatinum/ammp
+Author: bluePlatinum
+Author-email: jukic.rok@gmail.com
+Requires-Python: >3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Currently empty ... sorry :|

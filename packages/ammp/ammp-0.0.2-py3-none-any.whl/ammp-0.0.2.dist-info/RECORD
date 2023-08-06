@@ -1,0 +1,10 @@
+astronomical/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+physics/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+physics/bodies.py,sha256=-LUifYK4SIgPZc4PCe08Z7z_U0aP_qKPiIDtvnaBnQE,256
+ui/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ui/mainwindowapp.py,sha256=fM19x9kIGSL5COcRAlSX6gTtybR6nbaUKWGqMFc7eQU,6248
+ammp-0.0.2.dist-info/LICENSE,sha256=be8tUkOYAUwf-RdxO03xgf8a7LVSOk8g3n0Iwj863vM,1090
+ammp-0.0.2.dist-info/METADATA,sha256=RQLaOMg3X_sjfYUW44VhLZIPzK9RkxngCrg_XzLFCAk,298
+ammp-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ammp-0.0.2.dist-info/top_level.txt,sha256=8w839PKWccoZO0rXcmG4xrSWm9f1jbwDKaZqRenlQIk,24
+ammp-0.0.2.dist-info/RECORD,,
