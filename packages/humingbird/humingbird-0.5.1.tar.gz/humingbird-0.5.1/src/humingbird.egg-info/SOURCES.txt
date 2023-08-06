@@ -1,0 +1,11 @@
+README.md
+setup.py
+src/humingbird/__init__.py
+src/humingbird.egg-info/PKG-INFO
+src/humingbird.egg-info/SOURCES.txt
+src/humingbird.egg-info/dependency_links.txt
+src/humingbird.egg-info/requires.txt
+src/humingbird.egg-info/top_level.txt
+src/humingbird/resources/__init__.py
+src/humingbird/resources/image.py
+src/humingbird/resources/text.py
