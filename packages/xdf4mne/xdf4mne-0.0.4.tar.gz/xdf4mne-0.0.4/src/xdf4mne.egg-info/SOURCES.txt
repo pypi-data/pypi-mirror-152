@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+src/xdf4mne/__init__.py
+src/xdf4mne/xdf.py
+src/xdf4mne.egg-info/PKG-INFO
+src/xdf4mne.egg-info/SOURCES.txt
+src/xdf4mne.egg-info/dependency_links.txt
+src/xdf4mne.egg-info/entry_points.txt
+src/xdf4mne.egg-info/not-zip-safe
+src/xdf4mne.egg-info/top_level.txt
