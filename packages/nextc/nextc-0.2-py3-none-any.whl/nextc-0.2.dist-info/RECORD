@@ -1,0 +1,15 @@
+nextc/__init__.py,sha256=3XpB7mI11TrV_RgHDWMHla8RrQ5tdOC4y7qphQaBWuc,158
+nextc/__main__.py,sha256=j_MfzNUbYWVRvIj89WaPE4h-CLwl7WO2YBJqZKBt4Sc,1905
+nextc/ast/__init__.py,sha256=30YAua8kabgGaUkVN5-Va-_a53bnRYI9hRSq4pcn8ZQ,1133
+nextc/compile/__init__.py,sha256=BbhkQpohcgEu5HnlYqufFy0qxYxZzjYd3iSje-eI3n0,50
+nextc/compile/core.py,sha256=9Pd7XUNT2Wi3r-Thx6DXOn8G_uvZHD3mNhs242Dp_LM,2452
+nextc/compile/declarations.py,sha256=AEh5H5NC2-9f3ryd-UDNszDE5qHDcfEHRo5-wYtfIoU,1035
+nextc/lexing/__init__.py,sha256=TsBHm8CEvGl0zyw1EGOi8DD0-yCLD9CABfV6sZGjVDU,1206
+nextc/lexing/errors.py,sha256=Yfx5PbdidmsBiEnvmuJCa2kifXXk8T8fStdk0RdoJ-I,1175
+nextc/lexing/token.py,sha256=rHdfNXZCFva71OgyTWus0xpyk0y_KPsNW9mQmD1RxO4,2922
+nextc/lexing/tokenizer.py,sha256=_CPPlfQruC35tsYCyAXyaQ6lAJxSz73OFvnmbLE5NNM,2396
+nextc/parse/__init__.py,sha256=30YAua8kabgGaUkVN5-Va-_a53bnRYI9hRSq4pcn8ZQ,1133
+nextc/runtime/.gitkeep,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nextc-0.2.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+nextc-0.2.dist-info/METADATA,sha256=XEBpScNx9rJj_RQfir5prkhkSoqzHOnjphoayM-Zayk,487
+nextc-0.2.dist-info/RECORD,,
