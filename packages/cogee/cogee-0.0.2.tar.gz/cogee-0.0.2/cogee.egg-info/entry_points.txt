@@ -1,0 +1,3 @@
+[console_scripts]
+cogee = cogee.cogee:main
+
