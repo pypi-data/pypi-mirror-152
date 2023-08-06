@@ -1,0 +1,17 @@
+hikari_bot/__init__.py,sha256=MvUgKYNRmWfH3xa4fksoj22M-FvR8AN-Hdx6OQixvK8,8039
+hikari_bot/data_source.py,sha256=VV45Ym8McCOBvCFd00rplqoPrq-jaC8EZR0WdYNhBFM,16955
+hikari_bot/publicAPI.py,sha256=m1tGVJn2eWR_CQpt2E291pCnSGpb0Mep-rcpAUFfMQg,2798
+hikari_bot/template/ship-rank.html,sha256=rV6Zab3YzjY1b6fxr6Z6a2p9Y8uY7ZyGJYuvj1DUejQ,302343
+hikari_bot/template/wws-info-recent.html,sha256=sM4V9WSDBBqazZcfsqN1YwHXAbf8VEbBiRLQMuPjx6I,4217
+hikari_bot/template/wws-info.html,sha256=DEbI134V7cj5qxWn5zOvohtsdgw_VrViiOEipwBozog,12038
+hikari_bot/template/wws-ship.html,sha256=OaGJYjR9V2G3JhHQ_sCq_ecwu5ef6f-H9XsjFHQ03os,3059
+hikari_bot/utils.py,sha256=4a8gguP6GECjnpbL0icSTnlaZbE5MEVpbkPNyuiN53o,947
+hikari_bot/wws_bind.py,sha256=n8vDE1bbjNSIjfZRZc30aJosazoR8p0Lgr_zMpKqlMI,6231
+hikari_bot/wws_info.py,sha256=O4DRMYRCarJOB1hFnXpJaJb5z7KCAtwawSBUhR3RFzk,3979
+hikari_bot/wws_recent.py,sha256=UmA9BzorGhsi1k4Z2EIugqk2OKF-Nkb25rO_mXWydOM,3773
+hikari_bot/wws_ship.py,sha256=mC88IPTT_pmJD5qZjzmq3e4KYQHZzJha8Tncm8kJSes,5438
+hikari_bot/wws_shiprank.py,sha256=mErQMrsjkPAf0z4k724InFGiT0LCDC4AjAdtWZ36PDk,5662
+hikari_bot-0.1.7.dist-info/LICENSE,sha256=pI4zno5tjj3qRHiDszVSNxWApGb-FaxVg5VyTfasvuQ,1084
+hikari_bot-0.1.7.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+hikari_bot-0.1.7.dist-info/METADATA,sha256=F6RohVMyysKheYxkHvSkPXCu2E6MVThkJ8EAYH1BEyQ,6744
+hikari_bot-0.1.7.dist-info/RECORD,,
