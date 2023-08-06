@@ -1,0 +1,3 @@
+[console_scripts]
+tf_idem_auto = tf_idem_auto.scripts:start
+
