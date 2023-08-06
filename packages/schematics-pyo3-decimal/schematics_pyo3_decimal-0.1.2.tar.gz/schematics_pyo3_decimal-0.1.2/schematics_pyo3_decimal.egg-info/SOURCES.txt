@@ -1,0 +1,11 @@
+LICENSE
+README.rst
+manual_requirements.txt
+requirements.txt
+setup.py
+schematics_pyo3_decimal/__init__.py
+schematics_pyo3_decimal.egg-info/PKG-INFO
+schematics_pyo3_decimal.egg-info/SOURCES.txt
+schematics_pyo3_decimal.egg-info/dependency_links.txt
+schematics_pyo3_decimal.egg-info/requires.txt
+schematics_pyo3_decimal.egg-info/top_level.txt
