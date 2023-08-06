@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: skillsnetwork
+Version: 0.17.3
+Summary: Skills Network
+Home-page: https://vision.skills.network
+Author: Bradley Steinfeld
+Author-email: bs@ibm.com
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: requests
+Requires-Dist: ibm-cos-sdk (==2.11.0)
+Requires-Dist: tqdm
+Requires-Dist: IPython
+
+README.md
+
