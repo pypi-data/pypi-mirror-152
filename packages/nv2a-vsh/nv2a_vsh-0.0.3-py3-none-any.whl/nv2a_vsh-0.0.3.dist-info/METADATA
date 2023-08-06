@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: nv2a-vsh
+Version: 0.0.3
+Summary: Assembler/disassembler for the Xbox nv2a vertex shader
+Home-page: https://github.com/abaire/nv2a_vsh_asm
+Author: Erik Abair
+Author-email: erik.abair@bearbrains.work
+Project-URL: Bug Tracker, https://github.com/abaire/nv2a_vsh_asm/issues
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: The Unlicense (Unlicense)
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Assembly
+Classifier: Topic :: Software Development :: Assemblers
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: antlr4-python3-runtime (==4.7.1)
+
+Trivial assembler for the nv2a vertex shader.
+
+The Cg -> vp20 path performs various optimizations that sometimes make it hard
+to force unusual test conditions. This assembler performs no optimizations, and
+simply translates operands into machine code.
