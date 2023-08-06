@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/helloworld.py
+src/greatapi.egg-info/PKG-INFO
+src/greatapi.egg-info/SOURCES.txt
+src/greatapi.egg-info/dependency_links.txt
+src/greatapi.egg-info/requires.txt
+src/greatapi.egg-info/top_level.txt
