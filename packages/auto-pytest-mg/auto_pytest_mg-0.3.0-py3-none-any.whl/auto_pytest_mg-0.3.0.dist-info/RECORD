@@ -1,0 +1,12 @@
+auto_pytest_mg/__init__.py,sha256=MX_ph7YSlfxXCFY8pk1LAB-BDqKZIUZz9lC80lHWz5M,504
+auto_pytest_mg/__main__.py,sha256=nt1zZpny_7i3nri7etx6-03uqmwX4y_11ZXbC_KuFT8,102
+auto_pytest_mg/cli.py,sha256=7WzrRMr4c4joulRkFns3N1pr7R1fKPDSv_mZrmG3JXI,975
+auto_pytest_mg/mg_class.py,sha256=uy68hAvmZyGCuAaq8z5fbsjBO_f8Nge44qhtADhyxG0,3082
+auto_pytest_mg/mg_file_gen.py,sha256=pQUvQDtd3Lft7FewLFs2K0t6b5pcIZVZmLTYNMu7TtQ,1736
+auto_pytest_mg/mg_function.py,sha256=ejzN7Toyl12YYrfwz5Fvxje0PXMa0NQwZyCjfd9vubk,2586
+auto_pytest_mg/static.py,sha256=MB4fzXQq5vW3tzXbLRUdSOeS8Csn047OF-WBI1Q5efs,16
+auto_pytest_mg-0.3.0.dist-info/entry_points.txt,sha256=Wimv-7vezTmarNCjVi9DpUUED8KIUh-D8x8p0QK_wwA,62
+auto_pytest_mg-0.3.0.dist-info/LICENSE,sha256=74BTsyy7y5le10EHusVB9767637FFI6vKSkUdLo0_T8,1079
+auto_pytest_mg-0.3.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+auto_pytest_mg-0.3.0.dist-info/METADATA,sha256=igkXbNDotuRh4Yi4JkfP_IosFNbi4zSeseojEDrX1ZQ,9322
+auto_pytest_mg-0.3.0.dist-info/RECORD,,
