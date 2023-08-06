@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: flask-sample-test
+Version: 0.0.4
+Summary: A sample test for project
+Home-page: https://github.com/December1208/flask_sample_test
+Author: JiaLe.tan
+Author-email: jiale.gfi@outlook.com
+License: UNKNOWN
+Keywords: flask,test,sqlalchemy
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Sample Test
+## 说明
+用于构建单元测试环境
+## Installing Flask-Sample-Test
+`pip install flask-sample-test`
+
+## Get source code
+`git clone https://github.com/December1208/flask_sample_test.git`
+
+
+### Writing tests
+```python
+
+```
+
+
