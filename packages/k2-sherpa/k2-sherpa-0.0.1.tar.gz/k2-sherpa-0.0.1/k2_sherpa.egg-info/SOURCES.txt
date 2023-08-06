@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+k2_sherpa.egg-info/PKG-INFO
+k2_sherpa.egg-info/SOURCES.txt
+k2_sherpa.egg-info/dependency_links.txt
+k2_sherpa.egg-info/not-zip-safe
+k2_sherpa.egg-info/top_level.txt
+sherpa/python/sherpa/__init__.py
