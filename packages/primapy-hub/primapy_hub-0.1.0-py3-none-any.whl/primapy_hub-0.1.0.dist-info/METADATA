@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: primapy-hub
+Version: 0.1.0
+Summary: Ptyhon Knative based Hub library
+Home-page: https://github.com/primait/primapy-hub
+Author: Team AMOps
+Author-email: amops@prima.it
+Requires-Python: >=3.8,<3.9
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: fastapi (>=0.68.1,<0.69.0)
+Requires-Dist: primapy (>=0.9.3,<0.10.0)
+Requires-Dist: primapy-koffing[yaml] (>=0.2.1,<0.3.0)
+Requires-Dist: primapy-plogging (>=0.2.0,<0.3.0)
+Requires-Dist: primapy-tracing[fastapi,aiohttp] (>=0.3.0,<0.4.0)
+Requires-Dist: uvicorn[standard] (>=0.17.6,<0.18.0)
+Project-URL: Repository, https://github.com/primait/primapy-hub
