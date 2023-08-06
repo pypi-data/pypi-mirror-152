@@ -1,0 +1,15 @@
+more-itertools
+pandas
+pydantic
+pyyaml
+requests
+typing_extensions
+
+[bigquery]
+db-dtypes
+google-auth-oauthlib
+google-cloud-bigquery
+
+[snowflake]
+snowflake-connector-python
+snowflake-connector-python[pandas]
