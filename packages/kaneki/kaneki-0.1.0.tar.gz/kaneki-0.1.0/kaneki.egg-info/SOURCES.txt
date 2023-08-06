@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+kaneki/__init__.py
+kaneki/kaneki.py
+kaneki.egg-info/PKG-INFO
+kaneki.egg-info/SOURCES.txt
+kaneki.egg-info/dependency_links.txt
+kaneki.egg-info/not-zip-safe
+kaneki.egg-info/top_level.txt
