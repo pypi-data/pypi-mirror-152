@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/BulkFileChanger.egg-info/PKG-INFO
+src/BulkFileChanger.egg-info/SOURCES.txt
+src/BulkFileChanger.egg-info/dependency_links.txt
+src/BulkFileChanger.egg-info/entry_points.txt
+src/BulkFileChanger.egg-info/top_level.txt
+src/bulkfilechanger/__init__.py
+src/bulkfilechanger/__main__.py
+src/bulkfilechanger/bulkfilechanger.py
+src/bulkfilechanger/main.py
+src/bulkfilechanger/utils/__init__.py
+src/bulkfilechanger/utils/commoncmd.py
+src/bulkfilechanger/utils/crawler.py
+test/test_main.py
