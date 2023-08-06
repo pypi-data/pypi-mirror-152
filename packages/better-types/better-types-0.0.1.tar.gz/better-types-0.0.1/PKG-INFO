@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: better-types
+Version: 0.0.1
+Summary: Some improved types and tools for Python
+License: MIT
+Author-email: Axel H. <noirbizarre@gmail.com>
+Requires-Python: >=3.9
+Project-URL: repository, https://github.com/noirbizarre/better-types
+Description-Content-Type: text/markdown
+Description: # better-tools
+        Some improved types and tools for Python
+
