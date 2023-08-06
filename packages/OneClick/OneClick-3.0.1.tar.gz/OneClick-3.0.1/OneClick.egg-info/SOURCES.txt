@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+OneClick/SidraTools.py
+OneClick/__init__.py
+OneClick.egg-info/PKG-INFO
+OneClick.egg-info/SOURCES.txt
+OneClick.egg-info/dependency_links.txt
+OneClick.egg-info/requires.txt
+OneClick.egg-info/top_level.txt
