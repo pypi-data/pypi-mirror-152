@@ -1,0 +1,12 @@
+tqdm
+torch
+pandas
+numpy
+pymorphy2
+nltk
+transformers
+jsonlines
+sentencepiece
+tensorflow_text>=2.0.0rc0
+natasha
+language_tool_python
