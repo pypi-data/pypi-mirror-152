@@ -1,0 +1,7 @@
+rich>=11.0
+scipy
+opencv-python
+logzero
+pytorch_lightning
+omegaconf
+psutil
