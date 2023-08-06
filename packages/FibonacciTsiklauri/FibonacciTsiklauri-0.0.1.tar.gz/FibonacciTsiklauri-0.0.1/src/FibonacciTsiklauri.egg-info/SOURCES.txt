@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/Fibonacci/Qvizi.py
+src/Fibonacci/__init__.py
+src/FibonacciTsiklauri.egg-info/PKG-INFO
+src/FibonacciTsiklauri.egg-info/SOURCES.txt
+src/FibonacciTsiklauri.egg-info/dependency_links.txt
+src/FibonacciTsiklauri.egg-info/top_level.txt
