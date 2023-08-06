@@ -1,0 +1,11 @@
+src/shopscraper/__init__.py,sha256=ZJZQrC06aC1cVdDRU5aLgwZCbGjV4Xb4CZRWFeffP8Q,989
+src/shopscraper/api.py,sha256=nspe9yfgbsUdRvYl7-J4Ta5WkrZszw1Ra4mdVGH4n2k,2662
+src/shopscraper/headers.py,sha256=_B9Z4ycX8N1TNcdQKWa5URJoRQIP8cj-awxnvObh9QQ,1977
+src/shopscraper/json_handler.py,sha256=8DDB_1C8ikUUQwKWIB28ba5Sm9CTQ9AeB7kV25YfRy4,2338
+src/shopscraper/prod_objs.py,sha256=AMFiL-tB4WvG-fdRMweqCgtPjZbusO045CzxqN2dE78,4208
+src/shopscraper/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/shopscraper/scraper.py,sha256=rTKRjKqNStz_-W-jP9lQKjBYDobngzWC_48Z00qJ12c,2391
+shopscraper-0.0.5.dist-info/LICENSE,sha256=U-Sp-a0Gv9-FLLurJ_UON3o3lxcnAmXkzq7pb9ebL6U,1089
+shopscraper-0.0.5.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+shopscraper-0.0.5.dist-info/METADATA,sha256=69sYcrq6s6NtdI9iA4ntsr2kGCIdgL-7oOqjiFCaMEw,7911
+shopscraper-0.0.5.dist-info/RECORD,,
