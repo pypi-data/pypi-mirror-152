@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE
+MANIFEST.in
+README.txt
+setup.py
+ER3/__init__.py
+ER3.egg-info/PKG-INFO
+ER3.egg-info/SOURCES.txt
+ER3.egg-info/dependency_links.txt
+ER3.egg-info/top_level.txt

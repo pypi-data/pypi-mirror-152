@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: ER3
+Version: 0.0.1
+Summary: For the poweruser.
+Home-page: UNKNOWN
+Author: Parent: MS9
+Author-email: <pycodermaximos@gmail.com>
+License: UNKNOWN
+Description: 
+        Welcome ot ER3. ER3 is a library that makes everyday task easier.
+        
+        Commands:
+        
+        |add(), sub(), mul(), div(), intdiv(), power(), modl()|
+        |value(), ip(), wait(), libs(), osc(), ls()|
+        
+        1. Adds two nums, subtracts two, divides two, intdivs two, raises to power, modulus
+        
+        2. Greater or Less Than, return ip, =time.sleep(), =pip freeze, =terminal command, =list directory.
+Keywords: python,math,cmath,eazy,easy,better
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
