@@ -1,0 +1,9 @@
+rstcheck/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rstcheck/_cli.py,sha256=mecQotDlXjZ5-uwBrZoGlDtyA2YH3YZP36zzyxm0eXQ,5781
+rstcheck/_compat.py,sha256=hQsPaJ9EmhYXXjvo5uk1Lc-92JHfyF1C1HSwo9ctHKs,217
+rstcheck/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rstcheck-6.0.0rc3.dist-info/entry_points.txt,sha256=72iDOqmSI6zQXM6YVM_QRh5zJca_LlPxU-bvpD3-8aY,47
+rstcheck-6.0.0rc3.dist-info/LICENSE,sha256=reRiLHxZWuf03A-FLMhIKh_095XaY2TjWNI_v0ah4aQ,1061
+rstcheck-6.0.0rc3.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+rstcheck-6.0.0rc3.dist-info/METADATA,sha256=PGNu4MKhGFC7kVxdUCoTs4FmVXBoZTl2Mcf_P1IsVMc,9382
+rstcheck-6.0.0rc3.dist-info/RECORD,,
