@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/reqcheq.egg-info/PKG-INFO
+src/reqcheq.egg-info/SOURCES.txt
+src/reqcheq.egg-info/dependency_links.txt
+src/reqcheq.egg-info/top_level.txt
+src/reqcheq_package/__init__.py
+src/reqcheq_package/reqcheq.py
