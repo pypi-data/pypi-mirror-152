@@ -1,0 +1,4 @@
+django>=2.2.27
+Pillow>=8.0.1
+djangorestframework>=3.13.1
+django-import-export>=2.7.1
