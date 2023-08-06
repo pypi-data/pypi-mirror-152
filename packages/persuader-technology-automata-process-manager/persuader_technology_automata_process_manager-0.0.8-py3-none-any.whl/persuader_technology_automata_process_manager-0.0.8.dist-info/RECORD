@@ -1,0 +1,14 @@
+processmanager/ProcessBase.py,sha256=Od2Cg8fUiSuneERhRz22pM4unpxnRdVtwi2NR4Wd2FY,2995
+processmanager/ScheduledProcess.py,sha256=UDJrMHpk3PXSWJQ0jPzO3zNRj6YYuboUMwXK3XlDfLg,1378
+processmanager/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+processmanager/error/ProcessRunProfileMissing.py,sha256=DdogfeCH_p5jr6dvjDsi3kmIrMumIsEI2kEdwj6oMwg,52
+processmanager/error/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+processmanager/reporter/ProcessReporter.py,sha256=CnmDVhRg8L-yQh3RhDzXAquVq689is8MqKNPLIHyL8k,600
+processmanager/reporter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+processmanager/termination/GracefulTermination.py,sha256=RCBw5nf7L_KRYovtt4g4hMy-2xCnmmjuH5ml8bO9tH8,276
+processmanager/termination/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+persuader_technology_automata_process_manager-0.0.8.dist-info/LICENSE,sha256=awOCsWJ58m_2kBQwBUGWejVqZm6wuRtCL2hi9rfa0X4,1211
+persuader_technology_automata_process_manager-0.0.8.dist-info/METADATA,sha256=EFmOUCqWYIZfEh19au32o0cB3_VZ52SfeinyxQWvfFc,619
+persuader_technology_automata_process_manager-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+persuader_technology_automata_process_manager-0.0.8.dist-info/top_level.txt,sha256=pD935BCKB49mtd2uLbL7oYQbNn3yLlDWoeaGcHlhhtk,15
+persuader_technology_automata_process_manager-0.0.8.dist-info/RECORD,,
