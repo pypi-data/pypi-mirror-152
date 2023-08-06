@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: dateUts
+Version: 0.0.1
+Summary: Date package
+Home-page: UNKNOWN
+Author: Melque Lima
+Author-email: melque_ex@yahoo.com.br
+License: MIT
+Description: Library to deal with Dates
+        
+        Change Log
+        ==========
+        
+        0.0.1 (2022-05-25)
+        ------------------
+        - First Release
+        
+Keywords: dateUts
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
