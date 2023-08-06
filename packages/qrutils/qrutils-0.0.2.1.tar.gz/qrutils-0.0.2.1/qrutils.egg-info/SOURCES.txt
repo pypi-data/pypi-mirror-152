@@ -1,0 +1,12 @@
+README.md
+setup.py
+qrutils/__init__.py
+qrutils.egg-info/PKG-INFO
+qrutils.egg-info/SOURCES.txt
+qrutils.egg-info/dependency_links.txt
+qrutils.egg-info/requires.txt
+qrutils.egg-info/top_level.txt
+qrutils/fileprocess/FileProcesser.py
+qrutils/fileprocess/JsonlProcesser.py
+qrutils/fileprocess/XlsxProcesser.py
+qrutils/fileprocess/__init__.py

@@ -1,0 +1,5 @@
+pandas
+setuptools
+tqdm
+tutils
+XlsxWriter
