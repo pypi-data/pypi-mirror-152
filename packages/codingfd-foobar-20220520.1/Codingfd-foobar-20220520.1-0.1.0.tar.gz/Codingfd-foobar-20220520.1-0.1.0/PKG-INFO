@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: codingfd-foobar-20220520.1
+Version: 0.1.0
+Summary: 
+Author: neokeeper
+Author-email: fand@coding.net
+Requires-Python: >=3.6,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
