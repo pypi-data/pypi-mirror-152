@@ -1,0 +1,11 @@
+AUTHORS
+LICENSE
+README.rst
+setup.py
+go_retry/__init__.py
+go_retry/api.py
+go_retry/compat.py
+go_retry.egg-info/PKG-INFO
+go_retry.egg-info/SOURCES.txt
+go_retry.egg-info/dependency_links.txt
+go_retry.egg-info/top_level.txt
