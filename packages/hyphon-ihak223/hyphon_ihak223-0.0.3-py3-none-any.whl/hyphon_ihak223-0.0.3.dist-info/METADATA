@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: hyphon-ihak223
+Version: 0.0.3
+Summary: -
+Home-page: https://github.com/ihak223/hyphon
+Author: ihak223
+Project-URL: Bug Tracker, https://github.com/ihak223/hyphon/issues
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Hyphon
+Halie's very useful package.
