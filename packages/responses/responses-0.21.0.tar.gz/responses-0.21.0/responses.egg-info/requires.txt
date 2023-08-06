@@ -1,0 +1,16 @@
+requests<3.0,>=2.0
+urllib3>=1.25.10
+
+[:python_version < "3.8"]
+typing_extensions
+
+[tests]
+pytest>=7.0.0
+coverage>=6.0.0
+pytest-cov
+pytest-asyncio
+pytest-localserver
+flake8
+types-mock
+types-requests
+mypy
