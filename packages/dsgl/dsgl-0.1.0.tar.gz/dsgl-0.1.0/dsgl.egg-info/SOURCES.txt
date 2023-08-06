@@ -1,0 +1,8 @@
+README.md
+setup.py
+dsgl/__init__.py
+dsgl/initial_functions.py
+dsgl.egg-info/PKG-INFO
+dsgl.egg-info/SOURCES.txt
+dsgl.egg-info/dependency_links.txt
+dsgl.egg-info/top_level.txt
