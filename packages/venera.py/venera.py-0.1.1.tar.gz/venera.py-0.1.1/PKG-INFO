@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: venera.py
+Version: 0.1.1
+Summary: Asynchronous Venera API Wrapper
+Home-page: https://github.com/veneralab/venera.py
+Author: Venera
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# venera.py
+Pythonic API Wrapper for Venera.
+
+
