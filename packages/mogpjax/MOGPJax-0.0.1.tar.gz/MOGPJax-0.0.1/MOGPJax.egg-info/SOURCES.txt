@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+MOGPJax.egg-info/PKG-INFO
+MOGPJax.egg-info/SOURCES.txt
+MOGPJax.egg-info/dependency_links.txt
+MOGPJax.egg-info/requires.txt
+MOGPJax.egg-info/top_level.txt
+mogpjax/__init__.py
