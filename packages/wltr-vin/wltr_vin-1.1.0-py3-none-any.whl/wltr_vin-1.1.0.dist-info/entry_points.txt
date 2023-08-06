@@ -1,0 +1,2 @@
+[console_scripts]
+wltr_vin = wltr_vin.cli:main
