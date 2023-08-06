@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+data/data_file
+src/VorGemeinde/Gemeinde.py
+src/VorGemeinde/__init__.py
+src/VorGemeinde/package_data.dat
+src/VorGemeinde.egg-info/PKG-INFO
+src/VorGemeinde.egg-info/SOURCES.txt
+src/VorGemeinde.egg-info/dependency_links.txt
+src/VorGemeinde.egg-info/entry_points.txt
+src/VorGemeinde.egg-info/requires.txt
+src/VorGemeinde.egg-info/top_level.txt
