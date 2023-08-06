@@ -1,0 +1,5 @@
+setup.py
+webber.egg-info/PKG-INFO
+webber.egg-info/SOURCES.txt
+webber.egg-info/dependency_links.txt
+webber.egg-info/top_level.txt
