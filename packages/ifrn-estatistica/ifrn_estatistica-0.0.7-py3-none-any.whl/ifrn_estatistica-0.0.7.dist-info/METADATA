@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: ifrn-estatistica
+Version: 0.0.7
+Summary: Tabela descritiva
+Home-page: https://github.com/hadtrindade/ifrn-estatistica
+Author: Ivo Trindade
+Author-email: haddleytrindade@gmail.com
+License: MIT
+Keywords: tabela descritiva
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Framework :: Pytest
+Classifier: Topic :: Software Development :: Testing :: Unit
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: tabulate
+Requires-Dist: lxml
+Requires-Dist: httpx
+Requires-Dist: matplotlib
+Requires-Dist: parsel
+Requires-Dist: scipy
+Requires-Dist: isort
+
+## IFRN-Estatistica
+### Lib para coleta de tratamento de dados pluviométricos da EMPARN e geração de tabela descritiva e graficos.
+
+![Python package](https://github.com/hadtrindade/ifrn-estatistica/workflows/Python%20package/badge.svg)
+[![codecov](https://codecov.io/gh/hadtrindade/ifrn-estatistica/branch/main/graph/badge.svg?token=ogog9oHYm6)](https://codecov.io/gh/hadtrindade/ifrn-estatistica)
+[![CodeFactor](https://www.codefactor.io/repository/github/hadtrindade/ifrn-estatistica/badge)](https://www.codefactor.io/repository/github/hadtrindade/ifrn-estatistica)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
