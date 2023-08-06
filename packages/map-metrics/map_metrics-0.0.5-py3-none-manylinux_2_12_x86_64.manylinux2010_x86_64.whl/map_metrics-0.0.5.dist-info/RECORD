@@ -1,0 +1,15 @@
+map_metrics/libmap_metrics_cpp.so,sha256=WBxymGaqEI8bpUxaZVEEKcdSH0cd0ZfOZebrjzlMlOs,464120
+map_metrics/libalglib.so,sha256=FlNd3zxT3LswMz3yIbQHxUC9-eZpNJ_JViXrupSpFB4,5240568
+map_metrics/map_metrics.cpython-310-x86_64-linux-gnu.so,sha256=Zu7Q0WEwIpoM3r8S8OPp2E5g6eQX-B7zVI5zMNhtz1w,161560
+map_metrics/map_metrics.cpython-36m-x86_64-linux-gnu.so,sha256=XwMBBITT9nU4GTnoIvnJbkSNIS7hSu7zfhJTYaOOSuk,165648
+map_metrics/map_metrics.cpython-38-x86_64-linux-gnu.so,sha256=MY5bLXbUUDlGKnEDr3AMxLPGuB6q2TfQa_AhoEId5KE,161560
+map_metrics/__init__.py,sha256=mB4Qpt21_gu3bZ7Iek0T7AaLxS80YKlNJ5qNriKAmCM,2759
+map_metrics/map_metrics.cpython-39-x86_64-linux-gnu.so,sha256=tUpwhdUr3klrVEUYX34yc3BabPKK2AypRNb01foGC0o,161560
+map_metrics/map_metrics.cpython-37m-x86_64-linux-gnu.so,sha256=BjUMKhVVjLMkYtmR8Futhyor2vQvLbBknbMkAMU6sQo,165656
+map_metrics.libs/libboost_graph-3c8d1f7a.so.1.55.0,sha256=uDfFJUzIcJpoTjJwgmXWzeDZVIDHUSsPgxhIHxMyAwM,538744
+map_metrics.libs/libboost_regex-9007f9b1.so.1.55.0,sha256=G4szN63qizM39LdKFOMywzB86qugytl-g1OLY_rxy7k,1386360
+map_metrics-0.0.5.dist-info/LICENSE,sha256=38DJQOotXHHY4am863dtedjStiuDafLxblCftMQorhI,592
+map_metrics-0.0.5.dist-info/top_level.txt,sha256=s_hS25eIoypnxv-wuwL_KaA5mcbSr830gK1dLTvn4dQ,12
+map_metrics-0.0.5.dist-info/RECORD,,
+map_metrics-0.0.5.dist-info/METADATA,sha256=4Wfliak0tfQqFPHGThW14LswRNAvjhGqz-rTNrKMthc,310
+map_metrics-0.0.5.dist-info/WHEEL,sha256=GDympCJzMNViW6zWAgZKohwO049f_lCRfWkRAtcQOZM,168
