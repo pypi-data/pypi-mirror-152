@@ -1,0 +1,15 @@
+ruamel.yaml
+sqlalchemy
+snowflake-sqlalchemy
+psycopg2-binary
+rich
+click
+python-dateutil
+
+[dev]
+pytest>=4.6
+pytest-flake8
+flake8==3.9.2
+pytest-mypy
+pytest-cov
+twine
