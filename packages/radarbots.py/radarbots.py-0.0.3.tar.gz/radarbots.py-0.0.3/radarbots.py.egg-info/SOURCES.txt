@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+radar/Client.py
+radar/__init__.py
+radarbots.py.egg-info/PKG-INFO
+radarbots.py.egg-info/SOURCES.txt
+radarbots.py.egg-info/dependency_links.txt
+radarbots.py.egg-info/requires.txt
+radarbots.py.egg-info/top_level.txt

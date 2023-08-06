@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: radarbots.py
+Version: 0.0.3
+Summary: An unofficial package to interact with the Radar Bot Directory API
+Author: Yoshiboi18303 (Brice Coley)
+Author-email: <yoshiboi18303.t@gmail.com>
+License: UNKNOWN
+Keywords: python,discord,radarbotdirectory
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# radarbots.py
+An unofficial package used to interact with the [Radar Bot Directory](https://radarbotdirectory.xyz) API
+
+---
+
+# Warning
+This package requires you to have your bot approved on the Radar Bot Directory.
+
+---
+
+# Usage
+```python
+import radar
+from discord.ext import commands
+client = commands.Bot(command_prefix="!")
+radar_client = radar.Client(client, "your radar bot directory token")
+
+@client.event()
+async def on_ready():
+    print("The client is ready")
+    radar_client.stats(len(client.guilds), 1)
+
+client.run("your token goes here")
+```
+
+---
+
+# Note
+This package is not ready for production, bugs may occur.
+
