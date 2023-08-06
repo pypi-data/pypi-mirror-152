@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/Quiz4_Fibo_mamiko.egg-info/PKG-INFO
+src/Quiz4_Fibo_mamiko.egg-info/SOURCES.txt
+src/Quiz4_Fibo_mamiko.egg-info/dependency_links.txt
+src/Quiz4_Fibo_mamiko.egg-info/top_level.txt
+src/Quiz4_fibo/__init__.py
+src/Quiz4_fibo/quiz fr fr.py
