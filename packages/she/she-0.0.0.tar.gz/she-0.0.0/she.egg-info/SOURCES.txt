@@ -1,0 +1,8 @@
+README.md
+setup.py
+she.egg-info/PKG-INFO
+she.egg-info/SOURCES.txt
+she.egg-info/dependency_links.txt
+she.egg-info/top_level.txt
+wu/__init__.py
+wu/wy.py
