@@ -1,0 +1,12 @@
+Modules/Phylogenetic.py,sha256=JbR_NAFyLl-WGdh51wLs8tUjCujrcRJL1RCEf1PlaIs,1230
+Modules/Prediction.py,sha256=qyEjNW5Th2bkUXR9ovVKOJVdCZA9jnA4J6j5AigE0-k,1994
+Modules/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+plasmidperx-0.1.data/scripts/plasmidperm,sha256=qa7VfZ_IM77XTaqfyCY2CH55gLLM0H86ScqwgfDfhP4,4016
+plasmidperx-0.1.data/scripts/plasmidpermm,sha256=qa7VfZ_IM77XTaqfyCY2CH55gLLM0H86ScqwgfDfhP4,4016
+plasmidperx-0.1.data/scripts/plasmidpermmm,sha256=qa7VfZ_IM77XTaqfyCY2CH55gLLM0H86ScqwgfDfhP4,4016
+plasmidperx-0.1.data/scripts/plasmidperx,sha256=qa7VfZ_IM77XTaqfyCY2CH55gLLM0H86ScqwgfDfhP4,4016
+plasmidperx-0.1.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+plasmidperx-0.1.dist-info/METADATA,sha256=p4jBst04W0Md_sD4fXwYF1pk8WaHOaxGNyTH55aDxAg,469
+plasmidperx-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+plasmidperx-0.1.dist-info/top_level.txt,sha256=h6iW7JznygeX5klov4OtcJXIKhCM_42e8o1o9eku5CU,8
+plasmidperx-0.1.dist-info/RECORD,,
