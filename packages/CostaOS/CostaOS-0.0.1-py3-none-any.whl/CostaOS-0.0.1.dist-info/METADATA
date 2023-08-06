@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: CostaOS
+Version: 0.0.1
+Summary: 为Costa操作系统量身定制的开发库
+Home-page: https://lee.szxinlianyun.com
+Author: 远迅科技
+Author-email: yuanxunkj@qq.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3
+Requires-Dist: win32gui (==304)
+Requires-Dist: tkinterweb (==3.13.2)
+
+UNKNOWN
+
