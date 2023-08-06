@@ -1,0 +1,10 @@
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+chaiprofile/__init__.py
+chaiprofile/myprofile.py
+chaiprofile.egg-info/PKG-INFO
+chaiprofile.egg-info/SOURCES.txt
+chaiprofile.egg-info/dependency_links.txt
+chaiprofile.egg-info/top_level.txt
