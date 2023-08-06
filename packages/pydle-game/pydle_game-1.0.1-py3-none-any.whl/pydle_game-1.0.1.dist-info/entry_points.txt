@@ -1,0 +1,2 @@
+[console_scripts]
+pydle = pydle_game:run
