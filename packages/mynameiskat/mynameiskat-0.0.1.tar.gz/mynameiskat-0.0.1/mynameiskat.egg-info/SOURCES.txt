@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+mynameiskat/__init__.py
+mynameiskat/dimon.py
+mynameiskat.egg-info/PKG-INFO
+mynameiskat.egg-info/SOURCES.txt
+mynameiskat.egg-info/dependency_links.txt
+mynameiskat.egg-info/top_level.txt
