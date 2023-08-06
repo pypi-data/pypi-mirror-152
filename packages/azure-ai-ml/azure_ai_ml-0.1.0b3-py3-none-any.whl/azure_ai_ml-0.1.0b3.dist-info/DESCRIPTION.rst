@@ -1,0 +1,126 @@
+====================================
+Azure Machine Learning Python SDK v2
+====================================
+.. contents::
+    :depth: 1
+    :local:
+
+The azure-ai-ml is a Python SDK package (aka AML SDKv2) for Azure Machine Learning, which allows users to:
+
+- Submit training jobs
+- Manage data, models, environments
+- Perform managed inferencing (real time and batch)
+- Stitch together multiple tasks and production workflows using Azure ML pipelines
+
+`Source code <https://github.com/Azure/azure-sdk-for-python>`_ | `Package (PyPI) <https://pypi.org/project/azure-ai-ml/>`_ | `Product documentation <https://azure.microsoft.com/free/machine-learning/>`_ | `Samples <https://github.com/Azure/azureml-examples>`_
+
+This package has been tested with Python 3.7, 3.8, 3.9 and 3.10.
+
+For a more complete set of Azure libraries, see https://aka.ms/azsdk/python/all
+
+The SDK v2 is useful in the following scenarios:
+
+1. Move from simple to complex concepts incrementally. SDK v2 allows you to:
+    - Construct a single command.
+    - Add a hyperparameter sweep on top of that command
+    - Add the command with various others into a pipeline one after the other.
+
+    This construction is useful, given the iterative nature of machine learning.
+
+2. Reusable components in pipelines
+
+    Azure ML introduces `components <https://docs.microsoft.com/azure/machine-learning/concept-component.md>`_ for managing and reusing common logic across pipelines. This functionality is available only via CLI v2 and SDK v2.
+
+3. Managed inferencing
+
+    Azure ML offers `endpoints <https://docs.microsoft.com/azure/machine-learning/concept-endpoints.md>`_ to streamline model deployments for both real-time and batch inference deployments. This functionality is available only via CLI v2 and SDK v2.
+
+
+Getting started
+===========================================================================
+
+- Read through this `Install and set up SDK (v2) <https://aka.ms/sdk-v2-install>`_
+- Read through this `Train models with the Azure ML Python SDK v2 (preview) <https://docs.microsoft.com/azure/machine-learning/how-to-train-sdk>`_
+- Read through this `Tutorial: Create production ML pipelines with Python SDK v2 (preview) in a Jupyter notebook <https://docs.microsoft.com/azure/machine-learning/tutorial-pipeline-python-sdk.md>`_
+
+
+Prerequisites
+-----------------------------------------------------------------------------
+
+- Python 3.7 later is required to use this package.
+- You must have an `Azure subscription <https://azure.microsoft.com/free/>`_.
+- An `Azure Machine Learning Workspace <https://docs.microsoft.com/azure/machine-learning/concept-workspace>`_.
+
+
+Install the package
+------------------------------------------------------------------------------
+Install the Azure ML client library for Python with `pip <https://pypi.org/project/pip/>`_:
+
+.. code-block:: bash
+
+    pip install --pre azure-ai-ml
+
+Authenticate the client
+-------------------------------
+
+.. code-block:: python
+
+    from azure.ai.ml import MLClient
+    from azure.identity import DefaultAzureCredential
+
+    ml_client = MLClient(
+        DefaultAzureCredential(), subscription_id, resource_group, workspace
+    )
+
+Examples
+--------------------
+- View our `samples <https://github.com/Azure/azureml-examples>`_
+
+
+Troubleshooting
+=========================
+
+
+General
+-------------
+
+Azure ML clients raise exceptions defined in `Azure Core <https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/core/azure-core/README.md>`_.
+
+
+.. code-block:: python
+
+    from azure.core.exceptions import HttpResponseError
+
+    try:
+        ml_client.compute.get("cpu-cluster")
+    except HttpResponseError as error:
+        print("Request failed: {}".format(error.message))
+
+
+Logging
+-----------
+
+This library uses the standard
+`logging <https://docs.python.org/3/library/logging.html>`_ library for logging.
+Basic information about HTTP sessions (URLs, headers, etc.) is logged at INFO
+level.
+
+Detailed DEBUG level logging, including request/response bodies and unredacted
+headers, can be enabled on a client with the `logging_enable` argument.
+
+See full SDK logging documentation with examples `here <https://docs.microsoft.com/azure/developer/python/azure-sdk-logging>`.
+
+
+Telemetry
+=================
+The Azure ML Python SDK includes a telemetry feature that collects usage and failure data about the SDK and sends it to Microsoft when you use the SDK. Telemetry data helps the SDK team understand how the SDK is used so it can be improved and the information about failures helps the team resolve problems and fix bugs.
+The SDK telemetry feature is enabled by default. To opt out of the telemetry feature, set the AZUREML_SDKV2_TELEMETRY_OPTOUT environment variable to 1 or true.
+
+
+Change Log
+----------
+
+Initial prerelease
+=========================
+
+- initial prerelease
