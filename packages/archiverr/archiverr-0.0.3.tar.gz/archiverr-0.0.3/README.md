@@ -1,0 +1,1 @@
+Archiver is a tool for creating and extracting archives based on the sha1 hash of the file contents.

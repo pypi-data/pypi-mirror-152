@@ -1,0 +1,8 @@
+README.md
+archiver
+setup.py
+archiverr.egg-info/PKG-INFO
+archiverr.egg-info/SOURCES.txt
+archiverr.egg-info/dependency_links.txt
+archiverr.egg-info/requires.txt
+archiverr.egg-info/top_level.txt
