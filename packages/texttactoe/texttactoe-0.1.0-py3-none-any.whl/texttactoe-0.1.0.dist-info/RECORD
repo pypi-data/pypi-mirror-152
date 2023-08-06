@@ -1,0 +1,11 @@
+texttactoe/__init__.py,sha256=4qiGiFcRKj0_yUlbeaHMOtLrGDXOvTw51NFKLmLsPlU,232
+texttactoe/__main__.py,sha256=12Zk9lp2M75iAqdo7BU_PXn-m3QaXmBnG28fLIKjKUc,59
+texttactoe/app.py,sha256=tLYW4UUhj03KVcfK_RUOmpM0Lwm95_lH4J3tpR8vSgg,3881
+texttactoe/player.py,sha256=t6im1QelLxE8tKBu95FCbijYqpZY8dVqBLFQntl7ePg,257
+texttactoe/player_panel.py,sha256=h0ShQM4JHlN0nLULlXc4j8MCmQ9-8_85ziZ2rF_WXs0,1374
+texttactoe/tttboard.py,sha256=X7HTN8b48ZjhdDVW-BS7LgXPh2-3DmgbAQ7t0hMdsAg,6271
+texttactoe-0.1.0.dist-info/entry_points.txt,sha256=ecDCRo8ii-00Kv67CucMpu11KbsPVwIJMwGytiRpbTU,54
+texttactoe-0.1.0.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+texttactoe-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+texttactoe-0.1.0.dist-info/METADATA,sha256=rBvwNhaeAW4QbE16N0nyYGwVkN2f0BCrP7nflPASWYQ,2143
+texttactoe-0.1.0.dist-info/RECORD,,

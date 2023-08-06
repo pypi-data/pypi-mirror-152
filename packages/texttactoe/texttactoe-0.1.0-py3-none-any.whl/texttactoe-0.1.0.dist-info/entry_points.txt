@@ -1,0 +1,3 @@
+[console_scripts]
+texttactoe=texttactoe.__main__:run
+
