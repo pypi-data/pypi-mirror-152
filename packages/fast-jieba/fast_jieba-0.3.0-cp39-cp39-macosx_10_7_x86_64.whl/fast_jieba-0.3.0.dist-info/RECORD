@@ -1,0 +1,8 @@
+fast_jieba-0.3.0.dist-info/METADATA,sha256=v2l2aTrhNP70WTRVl7jIELOhxJG9VzuiZD2h1xmAhnc,860
+fast_jieba-0.3.0.dist-info/WHEEL,sha256=Gtzg5ff3BRrgHJ61_nfs1uHbhAyeYAy-c-3KA6WJ_Ks,105
+fast_jieba/__init__.pyi,sha256=MTDCZ_DCXyhd-5UzTPASvbVGPS47uIRqWsVGPnwh7_k,1417
+fast_jieba/__init__.py,sha256=WvVgkd8pmJEX5X3I5xXDk266oMjB6vfgovTtsMPp1Qc,1277
+fast_jieba/analyse/__init__.pyi,sha256=4eB8btnxspp5hgzqMgWOXuAwqtkpzgmd-ksIbpxFMsE,429
+fast_jieba/analyse/__init__.py,sha256=pTEu8FyWc1kQVl-Cr0PW1U9oML7tulHkIqSH97zC5EY,1021
+fast_jieba/fast_jieba.cpython-39-darwin.so,sha256=iDwd6_nScTujIGnfRjnCRPK5oftEb1COpWmVwoaDb_Y,13894512
+fast_jieba-0.3.0.dist-info/RECORD,,
