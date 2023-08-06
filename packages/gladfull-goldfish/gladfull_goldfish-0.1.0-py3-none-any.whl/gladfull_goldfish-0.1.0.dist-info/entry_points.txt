@@ -1,0 +1,3 @@
+[console_scripts]
+gladfull-goldfish=gladfull_goldfish.__main__:main
+
