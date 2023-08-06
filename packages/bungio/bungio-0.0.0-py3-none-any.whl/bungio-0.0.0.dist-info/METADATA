@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: bungio
+Version: 0.0.0
+Summary: A destiny 2 / bungie api wrapper
+Home-page: https://github.com/Kigstn/BungIO
+License: MIT
+Keywords: asyncio,destiny,destiny 2,bungie,api
+Author: Daniel J
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Provides-Extra: all
+Provides-Extra: cache
+Provides-Extra: docs
+Provides-Extra: speedups
+Requires-Dist: Brotli (>=1.0.9,<2.0.0); extra == "speedups" or extra == "all"
+Requires-Dist: SQLAlchemy[aiosqlite] (>=1.4.36,<2.0.0)
+Requires-Dist: aiodns (>=3.0.0,<4.0.0); extra == "speedups" or extra == "all"
+Requires-Dist: aiohttp (>=3.8.1,<4.0.0)
+Requires-Dist: aiohttp-client-cache (>=0.7.0,<0.8.0); extra == "cache" or extra == "all"
+Requires-Dist: attrs (>=21.4.0,<22.0.0)
+Requires-Dist: cchardet (>=2.1.7,<3.0.0); extra == "speedups" or extra == "all"
+Requires-Dist: mkdocs-awesome-pages-plugin (>=2.7.0,<3.0.0); extra == "docs" or extra == "all"
+Requires-Dist: mkdocs-material (>=8.2.15,<9.0.0); extra == "docs" or extra == "all"
+Requires-Dist: mkdocstrings[python] (>=0.18.1,<0.19.0); extra == "docs" or extra == "all"
+Requires-Dist: orjson (>=3.6.8,<4.0.0); extra == "speedups" or extra == "all"
+Project-URL: Repository, https://github.com/Kigstn/BungIO
+Description-Content-Type: text/markdown
+
+# BungIO
+WIP
+
+### Requirements
+-[x] Python 3.10+
+
