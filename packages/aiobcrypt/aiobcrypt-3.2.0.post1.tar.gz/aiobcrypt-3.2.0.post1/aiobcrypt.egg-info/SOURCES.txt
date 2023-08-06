@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+setup.cfg
+aiobcrypt/__init__.py
+aiobcrypt/py.typed
+aiobcrypt.egg-info/PKG-INFO
+aiobcrypt.egg-info/SOURCES.txt
+aiobcrypt.egg-info/dependency_links.txt
+aiobcrypt.egg-info/requires.txt
+aiobcrypt.egg-info/top_level.txt

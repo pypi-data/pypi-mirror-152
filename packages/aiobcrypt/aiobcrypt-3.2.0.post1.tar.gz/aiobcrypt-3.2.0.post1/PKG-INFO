@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: aiobcrypt
+Version: 3.2.0.post1
+Summary: aiobcrypt is a library/wrapper for asynchronous bcrypt hashing.
+Home-page: https://github.com/blokje/aiobcrypt
+Author: Rick Voormolen
+Author-email: rick@hostingcoach.nl
+Project-URL: Github, https://github.com/blokje/aiobcrypt
+Project-URL: Bug Tracker, https://github.com/blokje/aiobcrypt/issues
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Development Status :: 5 - Production/Stable
+Requires-Python: >=3.7
+License-File: LICENSE
+
+aiobcrypt is a library/wrapper for asynchronous bcrypt hashing. This is just an wrapper around bcrypt in order to make it asynchronous.
