@@ -1,0 +1,5 @@
+[console_scripts]
+npdoc-to-md = npdoc_to_md.core:start_cli
+npdoc-to_md = npdoc_to_md.core:start_cli
+npdoc_to-md = npdoc_to_md.core:start_cli
+npdoc_to_md = npdoc_to_md.core:start_cli
