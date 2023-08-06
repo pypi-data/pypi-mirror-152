@@ -1,0 +1,16 @@
+nonebot_plugin_covid/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nonebot_plugin_covid/Covid19_Push/__init__.py,sha256=HnYQJkhWtIg3-HgigmsYo2lncu4QHrcxgD2XhUdZdRI,4733
+nonebot_plugin_covid/Covid19_Push/draw_covid19.py,sha256=gI1s8OP8RFiDctffbicLRoinI8j-DGaSu7JSmo29q0I,2329
+nonebot_plugin_covid/Covid19_main/__init__.py,sha256=jCwhTc2jLCKWI54l3Tg-lorBh8khfP1TJCCmzJh2DKA,6520
+nonebot_plugin_covid/res/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nonebot_plugin_covid/util/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nonebot_plugin_covid/util/aiorequest.py,sha256=wmSLveLmkRbGqym9U5lCugXnuIYiAGAFnDoiN1pOHZg,1814
+nonebot_plugin_covid/util/city_list.py,sha256=Iy2NCTagxMIWr8CJS9DUSwssfHoiUvHE6ncaLhkN_L8,10868
+nonebot_plugin_covid/util/common.py,sha256=bruQI6BgeCWGI3aqACGqECRUQiRz1dRGPsHZtKTlinc,1185
+nonebot_plugin_covid/util/covid_config.py,sha256=doW04RHqOojqUZhJAgj7v4rQ4vo_Nq9CPTn1TRTN9Do,1814
+nonebot_plugin_covid/util/pil_util.py,sha256=RuQ4a4q-E2uf2UZhux3mTxmTroeDqkgDhMHlAllkvFA,1792
+nonebot_plugin_covid/util/util.py,sha256=ubHL4UtVUmWQexPvINiaEJ2zA0MuDG3sCZ7jsy8e4qE,3825
+nonebot_plugin_covid-0.0.6.dist-info/METADATA,sha256=wvezDkc17vLq3dgo106tdQbU0ULaHOicIOi92nEQGow,425
+nonebot_plugin_covid-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+nonebot_plugin_covid-0.0.6.dist-info/top_level.txt,sha256=TAybJeSrqwySSGX-N8F2MI7A9JKNJYT3I0ecoZqcb-k,21
+nonebot_plugin_covid-0.0.6.dist-info/RECORD,,
