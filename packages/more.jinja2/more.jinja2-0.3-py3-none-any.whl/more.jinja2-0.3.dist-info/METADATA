@@ -1,0 +1,141 @@
+Metadata-Version: 2.1
+Name: more.jinja2
+Version: 0.3
+Summary: Jinja2 template integration for Morepath
+Home-page: https://github.com/morepath/more.jinja2
+Author: Martijn Faassen
+Author-email: faassen@startifact.com
+License: BSD
+Keywords: morepath jinja2
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.6
+License-File: LICENSE.txt
+Requires-Dist: setuptools
+Requires-Dist: morepath (>=0.15)
+Requires-Dist: Jinja2 (>=2.9)
+Provides-Extra: test
+Requires-Dist: pytest (>=7) ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: WebTest ; extra == 'test'
+
+.. image:: https://github.com/morepath/more.jinja2/workflows/CI/badge.svg?branch=master
+   :target: https://github.com/morepath/more.jinja2/actions?workflow=CI
+   :alt: CI Status
+
+.. image:: https://coveralls.io/repos/github/morepath/more.jinja2/badge.svg?branch=master
+    :target: https://coveralls.io/github/morepath/more.jinja2?branch=master
+
+.. image:: https://img.shields.io/pypi/v/more.jinja2.svg
+  :target: https://pypi.org/project/more.jinja2/
+
+.. image:: https://img.shields.io/pypi/pyversions/more.jinja2.svg
+  :target: https://pypi.org/project/more.jinja2/
+
+
+more.jinja2: Jinja2 template integration for Morepath
+=====================================================
+
+``more.jinja2`` is an extension for Morepath_ that adds Jinja2_
+template support when you use the ``.jinja2`` extension.
+
+For details on the Jinja2 template language see the `Jinja2
+template designer documentation`_.
+
+Example usage::
+
+  from more.jinja2 import Jinja2App
+
+  class App(Jinja2App):
+      pass
+
+  @App.path(path='persons/{name}')
+  class Person(object):
+       def __init__(self, name):
+           self.name = name
+
+  @App.template_directory()
+  def get_template_directory():
+      return 'templates'
+
+  @App.html(model=Person, template='person.jinja2')
+  def person_default(self, request):
+      return {'name': self.name}
+
+and then in ``person.jinja2`` (in the ``templates`` subdirectory)::
+
+  <html>
+  <body>
+  <p>Hello {{name}}!</p>
+  </body>
+  </html>
+
+Note that the Jinja2 documentation uses the ``.html`` extension for
+Jinja2 templates, whereas this extension uses ``.jinja2`` instead.
+
+To control Jinja2 behavior you can define a ``jinja2`` setting section
+in your app. For instance::
+
+  @App.setting_section(section='jinja2')
+  def get_setting_section():
+      return {
+        'auto_reload': False,
+        'autoescape': True,
+      }
+
+For details on Jinja2 configuration options, consult the `Jinja2 API
+documentation`_.
+
+.. _Morepath: http://morepath.readthedocs.org
+
+.. _Jinja2: http://jinja.pocoo.org/
+
+.. _`Jinja2 template designer documentation`: http://jinja.pocoo.org/docs/dev/templates/
+
+.. _`Jinja2 API documentation`: http://jinja.pocoo.org/docs/dev/api/#jinja2.Environment
+
+CHANGES
+*******
+
+0.3 (2022-05-29)
+================
+
+- Apply ``pyupgrade --py36-plus``
+
+- Use black code formatter.
+
+- Add support for Python 3.7, 3.8, 3.9 and 3.10.
+
+- Fix test collection.
+
+- Drop support for Python 2.7, 3.4, 3.5.
+
+- Updated the test suite to work with Morepath 0.15.
+
+- Set up integration with Travis CI. (superseded)
+
+- Added Tox environments for Python 3.5 and 3.6, PyPy 3, PEP8. (partially superseded)
+
+- Using Python 3.5 for PEP8 and coverage. (superseded)
+
+- Clean up meta data.
+
+- Use GitHub Actions for CI.
+
+- Fix Jinja2 integration - the ``autoescape`` extension was removed as now it
+  is built-in.
+
+0.2 (2015-04-09)
+================
+
+- Actual release to PyPI.
+
+0.1 (2015-04-09)
+================
+
+- Initial public release.
