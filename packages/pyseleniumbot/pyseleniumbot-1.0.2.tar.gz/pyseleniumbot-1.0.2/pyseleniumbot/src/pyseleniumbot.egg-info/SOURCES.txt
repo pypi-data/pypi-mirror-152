@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+pyseleniumbot/src/pyseleniumbot.egg-info/PKG-INFO
+pyseleniumbot/src/pyseleniumbot.egg-info/SOURCES.txt
+pyseleniumbot/src/pyseleniumbot.egg-info/dependency_links.txt
+pyseleniumbot/src/pyseleniumbot.egg-info/top_level.txt
+pyseleniumbot/src/pyseleniumbot.py
+pyseleniumbot/src/pyseleniumbot.egg-info/SOURCES.txt
