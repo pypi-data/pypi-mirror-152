@@ -1,0 +1,9 @@
+appPath: /python_venvs/501_utils/60_hotkey/prc/archive
+cmds:
+  - python
+  - -m
+  - archive
+defaultArgs:
+- -m removed group logic from boakboak, only apps now!
+executable: C:\Users\Lars\AppData\Local\Programs\Python\Python39\python.exe
+name: archive
