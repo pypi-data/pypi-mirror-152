@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}{{ title }}{% endblock %}</title>
+
+        <link rel="shortcut icon" type="image/vnd.microsoft.icon"
+            href="//static.opensuse.org/chameleon/dist/images/favicons/favicon.ico"/>
+
+        <link href="https://static.opensuse.org/chameleon/dist/css/chameleon.css" rel="stylesheet">
+        <link href='/ui/res/login.css' rel='stylesheet' type='text/css'>
+        <meta name="generator" content="Ipsilon">
+        <script defer src="https://static.opensuse.org/chameleon/dist/js/chameleon.js" type="text/javascript" charset="utf-8"></script>
+
+        {%- if heads %}
+          {%- for group, value in heads.items() %}
+            {%- for head in value %}
+              {{ head | safe }}
+            {%- endfor %}
+          {%- endfor %}
+        {%- endif %}
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-md navbar-light bg-light noprint">
+            <a class="navbar-brand" href="/">
+                <img src="https://static.opensuse.org/chameleon/dist/images/logo/logo-white.svg" class="mr-2" alt="Logo">
+                <span>Login</span>
+            </a>
+            <div class="ml-auto">
+            </div>
+        </nav>
+        <div class="container m-auto">
+            <div class="m-auto {% block cardwidths %}col-md-6{% endblock %}">
+                {% block toptext %}{% endblock %}
+                <div class="card">
+                    {% block main %}{% endblock %}
+                </div>
+                {% block after_card %}{% endblock %}
+            </div>
+        </div>
+
+        <div class="global-footer py-3 text-center">
+            <div class="container">
+                openSUSE Login uses OpenID powered by <a href="https://ipsilon-project.org/" target="_blank">Ipsilon</a>
+            </div>
+        </div>
+    </body>
+</html>
