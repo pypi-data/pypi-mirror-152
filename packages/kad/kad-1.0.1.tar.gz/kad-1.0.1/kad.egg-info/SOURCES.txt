@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+kad/__init__.py
+kad/kad.py
+kad/tests.py
+kad.egg-info/PKG-INFO
+kad.egg-info/SOURCES.txt
+kad.egg-info/dependency_links.txt
+kad.egg-info/top_level.txt
