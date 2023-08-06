@@ -1,0 +1,3 @@
+[console_scripts]
+cli-script=src.exfill.extractor:main
+
