@@ -1,0 +1,7 @@
+README.md
+setup.py
+Demo/__init__.py
+damotest.egg-info/PKG-INFO
+damotest.egg-info/SOURCES.txt
+damotest.egg-info/dependency_links.txt
+damotest.egg-info/top_level.txt
