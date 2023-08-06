@@ -1,0 +1,8 @@
+README.md
+setup.py
+antidxx.egg-info/PKG-INFO
+antidxx.egg-info/SOURCES.txt
+antidxx.egg-info/dependency_links.txt
+antidxx.egg-info/entry_points.txt
+antidxx.egg-info/requires.txt
+antidxx.egg-info/top_level.txt
