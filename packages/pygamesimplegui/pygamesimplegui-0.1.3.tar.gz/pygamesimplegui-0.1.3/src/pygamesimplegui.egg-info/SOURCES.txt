@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/pygamesimplegui/__init__.py
+src/pygamesimplegui/button.py
+src/pygamesimplegui/input_box.py
+src/pygamesimplegui/link.py
+src/pygamesimplegui/menu.py
+src/pygamesimplegui/slider.py
+src/pygamesimplegui.egg-info/PKG-INFO
+src/pygamesimplegui.egg-info/SOURCES.txt
+src/pygamesimplegui.egg-info/dependency_links.txt
+src/pygamesimplegui.egg-info/requires.txt
+src/pygamesimplegui.egg-info/top_level.txt
