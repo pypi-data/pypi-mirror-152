@@ -1,0 +1,2 @@
+[console_scripts]
+docker-image-cleaner = docker_image_cleaner.__main__:main
