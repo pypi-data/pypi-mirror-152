@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: unofficial-xitroo-api
+Version: 0.1
+Summary: Xitroo API
+Home-page: https://github.com/Th3K1n91/xitroo_api
+Author: InSuckaBlyat88
+Author-email: x.xxha001@gmail.com
+Project-URL: Bug Tracker, https://github.com/Th3K1n91/xitroo_api/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# USAGE
+```
+pip install xitrooapi
+```
+
+## Examples
+```
+from xitroo.email import xitroo
+
+email = xitroo("test@xitroo.de")
+email.get_bodyText
+```
+or
+```
+email.get_bodyHtml
+```
+or
+```
+email.get_bodyHtmlStrict
+```
+You can also pass in an integer how many times it should check the inbox
+```
+xitroo("test@xitroo.de", refresh_counter=5, refresh_wait=5)
+```
+>refresh_counter is how many times it should ckeck the inbox (default is 5)
+
+>refresh_wait is how many seconds it should wait between refreshes (default is 5)
