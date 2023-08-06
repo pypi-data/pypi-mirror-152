@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/lmrtfy/__init__.py
+src/lmrtfy/__main__.py
+src/lmrtfy.egg-info/PKG-INFO
+src/lmrtfy.egg-info/SOURCES.txt
+src/lmrtfy.egg-info/dependency_links.txt
+src/lmrtfy.egg-info/entry_points.txt
+src/lmrtfy.egg-info/requires.txt
+src/lmrtfy.egg-info/top_level.txt
