@@ -1,0 +1,3 @@
+[console_scripts]
+yasca = yasca.main:run_cli
+
