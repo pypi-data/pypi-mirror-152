@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: streamlit-cardselectable
+Version: 0.0.1
+Summary: Card that the user can select one of the available options. It was created as an alternative to the radio button.
+Home-page: https://github.com/Mathtzt
+Author: Matheus Ferreira
+Author-email: matheus.cn10@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9
+Description-Content-Type: text/plain
+Requires-Dist: streamlit (>=0.63)
+
+Card selectable component for Streamlit
+
+
