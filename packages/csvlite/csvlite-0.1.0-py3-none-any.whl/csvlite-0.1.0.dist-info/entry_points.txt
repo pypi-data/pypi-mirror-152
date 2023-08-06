@@ -1,0 +1,3 @@
+[console_scripts]
+csvlite=csvlite.__main__:main
+
