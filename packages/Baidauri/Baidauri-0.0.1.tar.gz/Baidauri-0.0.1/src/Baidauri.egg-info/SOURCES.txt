@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/Baidauri/__init__.py
+src/Baidauri/example.py
+src/Baidauri.egg-info/PKG-INFO
+src/Baidauri.egg-info/SOURCES.txt
+src/Baidauri.egg-info/dependency_links.txt
+src/Baidauri.egg-info/top_level.txt
