@@ -1,0 +1,9 @@
+einops>=0.4
+einops-exts
+numpy
+pydantic
+resize-right
+torch>=1.6
+torchvision
+transformers
+tqdm
