@@ -1,0 +1,8 @@
+setup.py
+djcalcilib/__init__.py
+djcalcilib/djcalcilib.py
+djcalcilib.egg-info/PKG-INFO
+djcalcilib.egg-info/SOURCES.txt
+djcalcilib.egg-info/dependency_links.txt
+djcalcilib.egg-info/not-zip-safe
+djcalcilib.egg-info/top_level.txt
