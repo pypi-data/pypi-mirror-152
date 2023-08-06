@@ -1,0 +1,12 @@
+pydle_game/__init__.py,sha256=oylIPZ0QXBH-UxcSgTbxItpGDQ3yZDEJAZ26BTTjTkw,132
+pydle_game/__main__.py,sha256=GntsaaUrKUZmwfuO3Lzitos6Ixot93YYhAgdvIFXZhQ,57
+pydle_game/_stats.py,sha256=cgP2lvdFHn0k3xfZ9ftcX5CuLx9qfKPQJILKG2fJz_E,1404
+pydle_game/cli.py,sha256=ZpkRCx5R6o_k_XuEsXLwY5IaC-f4hpzCFKKIcb4Uj-I,2243
+pydle_game/game.py,sha256=pI-CZbJbzlHVfwb-jWCTBrmplkzBMEj9EEtwZxL-wgA,2915
+pydle_game/data/words.json,sha256=JZAJVXqx5Huem9P5AwMJdZGMUbAs5PM9ChU_yL-5LPM,37898
+pydle_game-1.0.2.dist-info/LICENSE,sha256=StjfmnJ76LWd2tX91BtcOyjc3uMlxUrvNhzc3REwaqc,1070
+pydle_game-1.0.2.dist-info/METADATA,sha256=9SLiLOtEHGjWF_f6bkxpfQguz_Op5qAjjaPrcBJvbAo,922
+pydle_game-1.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pydle_game-1.0.2.dist-info/entry_points.txt,sha256=30fjpugK5DvC1z4SR46wDoiPM7HUdAUbL53AKXiu9FU,41
+pydle_game-1.0.2.dist-info/top_level.txt,sha256=PXqwS-hdvlveX26vIQjkFkRuzX43wZLEfGmh2V4QGN0,11
+pydle_game-1.0.2.dist-info/RECORD,,
