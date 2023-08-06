@@ -1,0 +1,5 @@
+setup.py
+VorGemeinde.egg-info/PKG-INFO
+VorGemeinde.egg-info/SOURCES.txt
+VorGemeinde.egg-info/dependency_links.txt
+VorGemeinde.egg-info/top_level.txt
