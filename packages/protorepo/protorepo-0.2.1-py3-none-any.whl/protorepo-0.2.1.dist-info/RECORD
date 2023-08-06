@@ -1,0 +1,7 @@
+protorepo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+protorepo/messages_pb2.py,sha256=rMz4KfsY8H_-E2AdXtY8v9rCKQrvc_VY-fH7Fvn-TR0,2631
+protorepo/messages_pb2.pyi,sha256=wP1GHFkNl7-Zz8kg5GSQ9nMYAYKkxK0vLhJNy6X1Lo0,3330
+protorepo-0.2.1.dist-info/METADATA,sha256=HXgVmFbSdtNyV-qqo7jf2zCkIgGChw2CNcGk0J2aCDw,658
+protorepo-0.2.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+protorepo-0.2.1.dist-info/top_level.txt,sha256=tB9F6NJwRDe51zO-IMfb1bk4_fepDjaXbCPHG4hffFs,10
+protorepo-0.2.1.dist-info/RECORD,,
