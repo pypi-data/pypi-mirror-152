@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/cdhf/__init__.py
+src/cdhf/channel.py
+src/cdhf/channel_member.py
+src/cdhf/channel_member_history_entry.py
+src/cdhf/data.py
+src/cdhf/team.py
+src/cdhf/team_member.py
+src/cdhf/user_data.py
+src/cdhf.egg-info/PKG-INFO
+src/cdhf.egg-info/SOURCES.txt
+src/cdhf.egg-info/dependency_links.txt
+src/cdhf.egg-info/top_level.txt
