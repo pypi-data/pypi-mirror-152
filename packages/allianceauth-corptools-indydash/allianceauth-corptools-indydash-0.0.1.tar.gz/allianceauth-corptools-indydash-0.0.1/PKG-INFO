@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: allianceauth-corptools-indydash
+Version: 0.0.1
+Summary: Alliance Auth Plugin
+Home-page: https://github.com/pvyParts/allianceauth-corp-tools-indy-dash
+Author: AaronKable
+Author-email: aaronkable@gmail.com
+License: GNU General Public License v3 (GPLv3)
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# IndyDash
+
+Requires Corptools
+
+### Display Structures that have industry purposes and what rigs and crap they have.
+
