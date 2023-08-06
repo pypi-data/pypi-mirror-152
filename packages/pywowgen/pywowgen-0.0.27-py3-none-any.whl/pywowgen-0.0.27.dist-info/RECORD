@@ -1,0 +1,15 @@
+pywowgen/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pywowgen/cli.py,sha256=2jtT5oaIgMKqJrqBBmpSkn04n7DCDvN-w59XJEAF-8o,7206
+pywowgen/helpers.py,sha256=p97xD5uPnj9vl2YC7ExME56eZcG3mHzTdC0FiDfMdew,7907
+pywowgen/remotes.py,sha256=0qIFlYZDwn7LbMS5kc-f1IQILdXWcj7e0XmZ5wx9YV4,2280
+pywowgen/waapi.py,sha256=GknwsLTOF0AqpEf8_Nr1OtmRn9Aw4dei0kkpn-iaxdw,2984
+pywowgen/wagenerators.py,sha256=nROR1XF2_0-JPbdZKlImxwZ2ui_m5d7_H-zTNyYEueY,28490
+pywowgen/wamap.py,sha256=F4lsQ6TSvGu0z_prWG30grnRZFR-q-kof66_0xIipbQ,55198
+pywowgen/waresources.py,sha256=1U2esegMzOUE0juMqrF8to7M8PR3p6NwHYDQxmAj4Go,5785
+pywowgen/waworld.py,sha256=xBYsKyZGriwOOmvUyaAXfduJGdR5JLjts_paiqJ65Pk,16766
+pywowgen-0.0.27.dist-info/LICENSE,sha256=Ait_5PL0LzoZTc056Dzmi1l6AdcxbiZhkIyuwpsLU6k,1050
+pywowgen-0.0.27.dist-info/METADATA,sha256=O33qJt76m4UnNBU7kEn_ebe6k7QhTjiDxJB8IIU4UXk,2016
+pywowgen-0.0.27.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pywowgen-0.0.27.dist-info/entry_points.txt,sha256=2usePGJ0Xs1oVsGUYHD-jHwSUX5P3tfITdhg5fUwZUo,47
+pywowgen-0.0.27.dist-info/top_level.txt,sha256=ftePaG1dhHBPJc5KLXJmrO0LNGeGDL_NbQ5fdE3SK8Q,9
+pywowgen-0.0.27.dist-info/RECORD,,
