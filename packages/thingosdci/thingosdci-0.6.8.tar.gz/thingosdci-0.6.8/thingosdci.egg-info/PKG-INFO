@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: thingosdci
+Version: 0.6.8
+Summary: thingOS Docker CI
+Home-page: https://github.com/ccrisan/thingosdci
+Author: Calin Crisan
+Author-email: ccrisan@gmail.com
+License: GPLv3
+Platform: UNKNOWN
+
+thingOS Docker CI
+
