@@ -1,0 +1,16 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "pquiz"
+authors = [{name = "Caronte Gianluca", email = "dev@caronte.me"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
+dependencies = [
+    "termcolor >=1.1.0",
+]
+[project.urls]
+Home = "https://github.com/Janluke0/pquiz"
