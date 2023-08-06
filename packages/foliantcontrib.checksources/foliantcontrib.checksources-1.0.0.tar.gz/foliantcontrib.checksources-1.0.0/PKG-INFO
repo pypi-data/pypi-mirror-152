@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: foliantcontrib.checksources
+Version: 1.0.0
+Summary: Foliant preprocessor that checks the project for missing and unmentioned files.
+Home-page: https://github.com/foliant-docs/foliantcontrib.checksources
+Author: foliant-docs
+Author-email: foliant-shared@yandex.ru
+License: MIT
+Description: # CheckSources
+        
+        CheckSources is a preprocessor that checks the project’s `chapters` for missing and unmentioned files in the sources directory.
+        
+        ## Installation
+        
+        ```bash
+        $ pip install foliantcontrib.checksources
+        ```
+        
+        ## Usage
+        
+        To enable the preprocessor, add `checksources` to `preprocessors` section in the project config:
+        
+        ```yaml
+        preprocessors:
+            - checksources
+        ```
+        
+        You can add a list of unmentioned files that wouldn't throw warnings by `not_in_chapters` option:
+        
+        ```yaml
+        preprocessors:
+            - checksources:
+                not_in_chapters:
+                  - tags.md
+        ```
+        
+        It is useful if you don't need to add some files to the table of contents.
+        
+        
+        
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Documentation
+Classifier: Topic :: Utilities
+Description-Content-Type: text/markdown
