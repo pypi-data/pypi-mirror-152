@@ -1,0 +1,21 @@
+attrs
+gherkin-official>=19
+Mako
+marshmallow
+ordered_set
+packaging
+parse
+parse_type>=0.6.0
+py
+pytest>=5.0
+setuptools>=58
+
+[:python_version < "3.10.0"]
+importlib-metadata
+typing-extensions
+
+[:python_version ~= "3.8"]
+six>=1.16
+
+[full]
+typing-extensions
