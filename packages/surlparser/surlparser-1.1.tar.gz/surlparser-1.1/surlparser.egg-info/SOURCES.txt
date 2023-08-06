@@ -1,0 +1,8 @@
+README.md
+setup.py
+surlparser/__init__.py
+surlparser/parser.py
+surlparser.egg-info/PKG-INFO
+surlparser.egg-info/SOURCES.txt
+surlparser.egg-info/dependency_links.txt
+surlparser.egg-info/top_level.txt
