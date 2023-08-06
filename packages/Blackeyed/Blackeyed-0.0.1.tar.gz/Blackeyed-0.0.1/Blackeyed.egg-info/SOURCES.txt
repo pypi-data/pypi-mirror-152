@@ -1,0 +1,8 @@
+License
+setup.py
+BLACKEYED/__init__.py
+BLACKEYED/main.py
+Blackeyed.egg-info/PKG-INFO
+Blackeyed.egg-info/SOURCES.txt
+Blackeyed.egg-info/dependency_links.txt
+Blackeyed.egg-info/top_level.txt
