@@ -1,0 +1,65 @@
+Metadata-Version: 2.1
+Name: downleth
+Version: 1.1
+Summary: downleth: Download ETH streams
+Home-page: https://github.com/thomasgassmann/downleth
+Author: Thomas Gassmann
+Author-email: thomas.gassmann@hotmail.com
+License: MIT
+Keywords: downleth eth livestream
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Requires-Dist: aiofiles (==0.8.0)
+Requires-Dist: aiohttp (==3.8.1)
+Requires-Dist: aiosignal (==1.2.0)
+Requires-Dist: async-timeout (==4.0.2)
+Requires-Dist: attrs (==21.4.0)
+Requires-Dist: charset-normalizer (==2.0.12)
+Requires-Dist: click (==8.1.3)
+Requires-Dist: frozenlist (==1.3.0)
+Requires-Dist: idna (==3.3)
+Requires-Dist: iso8601 (==1.0.2)
+Requires-Dist: m3u8 (==2.0.0)
+Requires-Dist: multidict (==6.0.2)
+Requires-Dist: pyee (==9.0.4)
+Requires-Dist: python-ffmpeg (==1.0.14)
+Requires-Dist: pytz (==2022.1)
+Requires-Dist: typing-extensions (==4.2.0)
+Requires-Dist: yarl (==1.7.2)
+
+# Lecture Downloader ETH
+
+Download livestreams, watch livestreams locally (and reliably!)
+
+## Installation
+
+Install `downleth`:
+
+```bash
+pip install downleth
+```
+
+Make sure you have `ffmpeg` instlalled.
+
+## Usage
+
+To schedule a lecture recording based on a config:
+
+```bash
+downleth --log-level INFO exec sample-config.json
+```
+
+For structuring your configuration file, see `sample-config.json`.
+
+## TODO
+
+- Automatically generate configuration file per semester from myStudies, fetch room numbers, etc. automatically
+- Allow spinning up local server to watch lectures without web client
+- Allow configuring codecs (save storage)
+- Automatically cut breaks somehow
+- Consider holidays
+- Use GitHub actions to publish, maybe GitVersion to version it
+
+
