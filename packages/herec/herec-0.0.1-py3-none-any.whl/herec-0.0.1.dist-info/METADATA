@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: herec
+Version: 0.0.1
+Summary: Actor Implementation in Python built with ZeroMQ
+License: MIT
+Author: Ian Kollipara
+Author-email: ian.kollipara@cune.org
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: pyzmq (>=23.0.0,<24.0.0)
+Description-Content-Type: text/markdown
+
+# Herec
+ Actor Implementation in Python built on ZeroMQ
+
