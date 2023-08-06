@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: fuzzytest
+Version: 0.0.3
+Summary: Pacote para auxiliar no teste dos inputs na API de FuzzyMatch
+Author: Caio Souza
+Author-email: caios@take.net
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
