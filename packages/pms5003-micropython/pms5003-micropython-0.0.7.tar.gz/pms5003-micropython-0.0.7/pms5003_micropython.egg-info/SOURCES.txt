@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+pms5003/__init__.py
+pms5003_micropython.egg-info/PKG-INFO
+pms5003_micropython.egg-info/SOURCES.txt
+pms5003_micropython.egg-info/dependency_links.txt
+pms5003_micropython.egg-info/top_level.txt
