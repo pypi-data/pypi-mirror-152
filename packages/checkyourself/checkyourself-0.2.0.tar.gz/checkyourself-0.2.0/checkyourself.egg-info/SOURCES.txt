@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+checkyourself.egg-info/PKG-INFO
+checkyourself.egg-info/SOURCES.txt
+checkyourself.egg-info/dependency_links.txt
+checkyourself.egg-info/top_level.txt
+checkyouself/__init__.py
+checkyouself/account/__init__.py
+checkyouself/account/account_info.py
+checkyouself/mastery/__init__.py
+checkyouself/mastery/mastery_info.py
