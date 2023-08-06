@@ -1,0 +1,16 @@
+aiohttp[speedups]==3.8.1
+beautifulsoup4==4.11.1
+cloudscraper==1.2.60
+price-parser==0.3.4
+requests==2.27.1
+ruamel.yaml==0.16.13
+selenium==3.141.0
+webdriver-manager==3.7.0
+
+[dev]
+black
+isort
+
+[test]
+pytest
+pytest-cov
