@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+mynameisminesweeper/__init__.py
+mynameisminesweeper/minesweeper.py
+mynameisminesweeper.egg-info/PKG-INFO
+mynameisminesweeper.egg-info/SOURCES.txt
+mynameisminesweeper.egg-info/dependency_links.txt
+mynameisminesweeper.egg-info/top_level.txt
