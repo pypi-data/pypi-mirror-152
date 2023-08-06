@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements-dev.txt
+requirements.txt
+setup.cfg
+setup.py
+ctxpy.egg-info/PKG-INFO
+ctxpy.egg-info/SOURCES.txt
+ctxpy.egg-info/dependency_links.txt
+ctxpy.egg-info/not-zip-safe
+ctxpy.egg-info/top_level.txt
