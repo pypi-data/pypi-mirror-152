@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: yoo-telegram
+Version: 0.1
+Summary: The bridge between code and your telegram messages.
+Author: William Brach
+Author-email: <wibrach@gmail.com>
+License: UNKNOWN
+Keywords: python,telegram,notifications,notifier,bot
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+A package that allows you simple communication with your telegram app.
+
