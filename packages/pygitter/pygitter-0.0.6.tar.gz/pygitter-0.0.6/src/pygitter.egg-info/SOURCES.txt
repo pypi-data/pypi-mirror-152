@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pygitter/Repo.py
+src/pygitter/__init__.py
+src/pygitter.egg-info/PKG-INFO
+src/pygitter.egg-info/SOURCES.txt
+src/pygitter.egg-info/dependency_links.txt
+src/pygitter.egg-info/top_level.txt
