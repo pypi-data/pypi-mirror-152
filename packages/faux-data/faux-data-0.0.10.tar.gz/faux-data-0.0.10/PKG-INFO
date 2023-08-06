@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: faux-data
+Version: 0.0.10
+Summary: Generate fake data from yaml templates
+Home-page: UNKNOWN
+Author: jack-tee
+Author-email: 10283360+jack-tee@users.noreply.github.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Faux Data
+
+Faux Data is a library for generating data using configuration files.
+
+See the project on github for more info - https://github.com/jack-tee/faux-data
+
+
+
