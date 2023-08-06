@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: r3f
+Version: 0.0.0
+Summary: A library for three-dimensional, reference-frame conversions
+Home-page: https://gitlab.com/davidwoodburn/r3f
+Author: David Woodburn
+Author-email: david.woodburn@icloud.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# r3f
+
+*under construction*
