@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: mp3stego-lib
+Version: 0.2.10
+Summary: mp3 steganography library
+Home-page: https://github.com/tomershay100/mp3-steganography-lib
+Author: Aviad Seady, Tomer Shay, Lee Zaid
+Author-email: aviadevelops@gmail.com, tomershay100@gmail.com, lizizaid@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/tomershay100/mp3-steganography-lib/issues
+Requires-Dist: bitarray (==2.5.1)
+Requires-Dist: numpy (>=1.19.5)
+Requires-Dist: scipy (>=1.5.4)
+Requires-Dist: tqdm (==4.64.0)
+
+# MP3-Steganography
+
+
