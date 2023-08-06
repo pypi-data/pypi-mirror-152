@@ -1,0 +1,9 @@
+numpy
+pandas
+tabulate
+lxml
+httpx
+matplotlib
+parsel
+scipy
+isort
