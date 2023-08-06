@@ -1,0 +1,2 @@
+[console_scripts]
+minical-web = minical.app:main

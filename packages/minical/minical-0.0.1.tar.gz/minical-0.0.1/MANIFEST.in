@@ -1,0 +1,2 @@
+include src/minical/templates/*.html
+include src/minical/event_template.txt
