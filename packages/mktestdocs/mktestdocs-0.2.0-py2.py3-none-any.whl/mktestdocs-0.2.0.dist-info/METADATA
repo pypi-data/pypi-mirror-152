@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mktestdocs
+Version: 0.2.0
+Summary: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+Provides-Extra: test
+Requires-Dist: pytest (>=4.0.2) ; extra == 'test'
+
+UNKNOWN
+
