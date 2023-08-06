@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: gda-public
+Version: 1.0.post0
+Summary: Several fundamental TDA tools by Geometric Data Analytics Inc. 
+Author-email: "Geometric Data Analytics, Inc." <abraham.smith@geomdata.com>
+License: GNU AGPL
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Provides-Extra: extras
+Requires-Dist: matplotlib ; extra == 'extras'
+Requires-Dist: bokeh ; extra == 'extras'
+Requires-Dist: jupyter ; extra == 'extras'
+Provides-Extra: testing
+Requires-Dist: pytest ; extra == 'testing'
+Requires-Dist: pytest-cov ; extra == 'testing'
+Requires-Dist: pytest-html ; extra == 'testing'
+Requires-Dist: pytest-timeout ; extra == 'testing'
+Requires-Dist: pytest-xdist ; extra == 'testing'
+
+UNKNOWN
+
