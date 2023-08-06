@@ -1,0 +1,4 @@
+adafruit-circuitpython-ds3502
+adafruit-circuitpython-mcp230xx
+python-vlc
+Pillow

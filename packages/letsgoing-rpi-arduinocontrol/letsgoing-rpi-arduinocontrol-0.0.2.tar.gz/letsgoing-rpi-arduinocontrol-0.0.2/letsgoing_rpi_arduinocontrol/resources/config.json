@@ -1,0 +1,115 @@
+{
+"version": "0.0.1",
+
+"environments": [
+    {
+        "username": "pi",
+        "gpio_address": 32,
+        "poti_address": 40,
+        "camera": "http://localhost:8080/?action=stream",
+        "comment": "pi shares IO with pi1 for testing"
+    },
+    {
+        "username": "pi1",
+        "gpio_address": 32,
+        "poti_address": 40,
+        "camera": "http://localhost:8080/?action=stream"
+    },
+    {
+        "username": "pi2",
+        "gpio_address": 33,
+        "poti_address": 41,
+        "camera": "http://localhost:8080/?action=stream"
+    },
+    {
+        "username": "pi3",
+        "gpio_address": 34,
+        "poti_address": 42,
+        "camera": "http://localhost:8080/?action=stream"
+    },
+    {
+        "username": "pi4",
+        "gpio_address": 35,
+        "poti_address": 43,
+        "camera": "http://localhost:8080/?action=stream"
+    }
+],
+
+"pinOptions": [
+    {
+        "name": "Button",
+        "function": "momentary_input"
+    },
+    {
+        "name": "Switch",
+        "function": "toggle_input"
+    },
+    {
+        "name": "LED_red",
+        "function": "digital_indicator"
+    }
+],
+
+"pins": [
+    {
+        "internal_GP": 0,
+        "external_Pin": 6
+    },
+    {
+        "internal_GP": 1,
+        "external_Pin": 7
+
+    },
+    {
+        "internal_GP": 2,
+        "external_Pin": 8
+
+    },
+    {
+        "internal_GP": 3,
+        "external_Pin": 12
+    },
+    {
+        "internal_GP": 4,
+        "external_Pin": 2
+    },
+    {
+        "internal_GP": 5,
+        "external_Pin": 3
+    },
+    {
+        "internal_GP": 6,
+        "external_Pin": 4
+    },
+    {
+        "internal_GP": 7,
+        "external_Pin": 5
+    }
+],
+
+"general": {
+    "buttons_per_row": 4,
+    "pollrate_ms": 20,
+    "topmost": 1
+},
+
+"video": {
+    "allowed": 1,
+    "on_by_default": 0,
+    "enable_pop_up": 1,
+    "pop_up_title": "Info",
+    "pop_up_message": "Bitte nutzen Sie die Videofunktion im Browser.",
+    "auto_off_ms": 30000,
+    "resolution": {
+        "x": 1920,
+        "y": 1080
+    }
+},
+
+"potiDisplay": {
+    "highest_value": 1023,
+    "lowest_value": 0,
+    "resolution": 1,
+    "mouse_wheel_steps": 1
+}
+}
