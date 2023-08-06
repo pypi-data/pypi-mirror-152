@@ -1,0 +1,7 @@
+README.md
+setup.cfg
+setup.py
+allmlmodelscomparing.egg-info/PKG-INFO
+allmlmodelscomparing.egg-info/SOURCES.txt
+allmlmodelscomparing.egg-info/dependency_links.txt
+allmlmodelscomparing.egg-info/top_level.txt
