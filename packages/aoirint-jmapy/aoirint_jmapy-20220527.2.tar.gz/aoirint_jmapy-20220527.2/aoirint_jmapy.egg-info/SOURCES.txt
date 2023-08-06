@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+aoirint_jmapy/__init__.py
+aoirint_jmapy/api.py
+aoirint_jmapy.egg-info/PKG-INFO
+aoirint_jmapy.egg-info/SOURCES.txt
+aoirint_jmapy.egg-info/dependency_links.txt
+aoirint_jmapy.egg-info/requires.txt
+aoirint_jmapy.egg-info/top_level.txt
