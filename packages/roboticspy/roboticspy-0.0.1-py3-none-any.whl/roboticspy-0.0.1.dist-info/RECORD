@@ -1,0 +1,11 @@
+roboticspy/__init__.py,sha256=JOl41NviMN-qDV0Z8ZPmhNIxvgyauGGJHdB4A-8MhqM,93
+roboticspy/_version.py,sha256=l1waADFBAziGISXZkht9PAErYMCXgn7lDkpJ0R3faPI,497
+roboticspy/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+roboticspy/tests/conftest.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+roboticspy/tests/test_examples.py,sha256=Hm1x01HZ9BiYYw4dS44uo0o_ku16oFRwSMjIh8_Uu-s,99
+roboticspy-0.0.1.dist-info/AUTHORS.rst,sha256=X1s4ZwD-CK_At2RgPY7LTVGX1zBu9MMdCg_Mm4iqeWU,168
+roboticspy-0.0.1.dist-info/LICENSE,sha256=Ikcv6bkw1UZsg94d8fdd_9xYVTxmAx7_N21rNZvwJC4,1518
+roboticspy-0.0.1.dist-info/METADATA,sha256=ublql1HrDUld6myhQ55PED63G5krT9lRgupHi3BkHD0,916
+roboticspy-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+roboticspy-0.0.1.dist-info/top_level.txt,sha256=f8MxeT7h1tjZaqbGRXabxQwOuwEoC-TYWqHEaXu3Y8Y,11
+roboticspy-0.0.1.dist-info/RECORD,,
