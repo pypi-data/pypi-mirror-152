@@ -1,0 +1,8 @@
+pymediainfo
+opensearch-dsl
+PyYAML
+chardet
+mutagen
+cinemagoer
+python-dateutil
+requests
