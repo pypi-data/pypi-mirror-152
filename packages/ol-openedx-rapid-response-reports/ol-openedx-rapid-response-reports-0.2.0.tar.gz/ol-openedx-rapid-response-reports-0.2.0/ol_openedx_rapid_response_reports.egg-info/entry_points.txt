@@ -1,0 +1,3 @@
+[lms.djangoapp]
+ol_openedx_rapid_response_reports = ol_openedx_rapid_response_reports.app:RapidResponsePluginConfig
+
