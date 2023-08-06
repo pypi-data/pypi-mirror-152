@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pandas_prototype/__init__.py
+pandas_prototype/data_frame.py
+pandas_prototype/debug.py
+pandas_prototype.egg-info/PKG-INFO
+pandas_prototype.egg-info/SOURCES.txt
+pandas_prototype.egg-info/dependency_links.txt
+pandas_prototype.egg-info/requires.txt
+pandas_prototype.egg-info/top_level.txt
