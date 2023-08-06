@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/scsims.egg-info/PKG-INFO
+src/scsims.egg-info/SOURCES.txt
+src/scsims.egg-info/dependency_links.txt
+src/scsims.egg-info/not-zip-safe
+src/scsims.egg-info/requires.txt
+src/scsims.egg-info/top_level.txt
