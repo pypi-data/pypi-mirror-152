@@ -1,0 +1,3 @@
+[console_scripts]
+smartinput_ng_daemon=smartinput:run
+
