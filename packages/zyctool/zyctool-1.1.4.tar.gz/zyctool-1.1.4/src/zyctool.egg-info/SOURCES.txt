@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/zycspidertool/Spidertool.py
+src/zycspidertool/__init__.py
+src/zyctool.egg-info/PKG-INFO
+src/zyctool.egg-info/SOURCES.txt
+src/zyctool.egg-info/dependency_links.txt
+src/zyctool.egg-info/top_level.txt
