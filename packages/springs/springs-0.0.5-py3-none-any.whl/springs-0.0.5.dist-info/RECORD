@@ -1,0 +1,11 @@
+springs/__init__.py,sha256=fRILgOfeKxXGka4wloLYk78u3LCnVQpPaCIQN5HV2yo,752
+springs/cli.py,sha256=5z_eo6kjLDtBYJGgQP85Jewgw1QbwRh4RQh1VYHGqbs,8178
+springs/core.py,sha256=iC4-dNEegodtZfNM5kJXspLmfrPOWH365aHkGHJs1XA,6414
+springs/init.py,sha256=6Ov5WcuDBPHggQVrtEbY3m8dTrXDBUjMdMzrx059HzY,5657
+springs/logging.py,sha256=KMQSmY2egKKNDJV4mrBr1BReRi9TFwyMGsalXsK-W1M,3021
+springs/resolvers.py,sha256=6Ncd1wpoc5RqQeIxGKKrl1DJmkTaupvDw99NbJGqdn8,633
+springs/utils.py,sha256=XsfNrRJaoabL3urBhclsvbU5IatbxXNE8J6d_hgKWOo,2828
+springs-0.0.5.dist-info/METADATA,sha256=wjBhG7M9YmYEJ3Bmk4OrDg8EPAkT4rYMcR5mX5rDOPA,5210
+springs-0.0.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+springs-0.0.5.dist-info/top_level.txt,sha256=cbNZoC9nTKuQRYxPTlS5PU4nIrw3HILU0W242myBgW0,8
+springs-0.0.5.dist-info/RECORD,,
