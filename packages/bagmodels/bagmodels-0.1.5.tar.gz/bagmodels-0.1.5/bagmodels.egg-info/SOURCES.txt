@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+bagmodels/__init__.py
+bagmodels/models.py
+bagmodels/tokenization.py
+bagmodels.egg-info/PKG-INFO
+bagmodels.egg-info/SOURCES.txt
+bagmodels.egg-info/dependency_links.txt
+bagmodels.egg-info/requires.txt
+bagmodels.egg-info/top_level.txt
