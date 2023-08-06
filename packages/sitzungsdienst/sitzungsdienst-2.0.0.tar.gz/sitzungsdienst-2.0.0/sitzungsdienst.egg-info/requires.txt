@@ -1,0 +1,6 @@
+ics
+pypdf2
+pytest
+
+[:python_version < "3.10"]
+backports.zoneinfo
