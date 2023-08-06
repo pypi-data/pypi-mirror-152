@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: spirv-enums
+Version: 1.0
+Summary: A lightweight Python packages containing enums for the SPIR-V language
+Home-page: https://github.com/rayanht/SPIRV-Enums
+License: Apache-2.0
+Keywords: enums,spirv,spirv-lang,spirv-lang-spec,spirv-tools
+Author: Rayan Hatout
+Author-email: rayan.hatout@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Multimedia :: Graphics
+Project-URL: Repository, https://github.com/rayanht/SPIRV-Enums
+Description-Content-Type: text/markdown
+
+# SPIRV-Enums
+A lightweight Python packages containing enums for the SPIR-V language
+
