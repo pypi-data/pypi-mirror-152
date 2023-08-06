@@ -1,0 +1,44 @@
+[tool.poetry]
+name = "compressnets"
+version = "1.0.0"
+description = 'Package for temporal network data compression'
+readme = "README.md"
+authors = [
+    "Andrea Allen <andrea2allen@gmail.com>",
+]
+license = "BSD-3"
+packages = [
+    { include = "compressnets" }
+]
+include = ["tests/*", "CHANGELOG.md"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Operating System :: MacOS :: MacOS X",
+    "Operating System :: Microsoft :: Windows",
+]
+keywords = ["python", "compressnets", "networks", "compression"]
+homepage = "https://github.com/andrea-allen/compressnets"
+[tool.poetry.dependencies]
+python = "^3.8, <3.11"
+
+[project.urls]
+homepage = "https://github.com/andrea-allen/compressnets"
+repository = "https://github.com/andrea-allen/compressnets"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version" # version location
+branch = "main"                             # branch to make releases of
+changelog_file = "CHANGELOG.md"             # changelog file
+build_command = "poetry build"              # build dists
+dist_path = "dist/"                         # where to put dists
+upload_to_release = true                    # auto-create GitHub release
+upload_to_pypi = false                      # don't auto-upload to PyPI
+remove_dist = false                         # don't remove dists
+patch_without_tag = true                    # patch release by default
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1"
+numpy = "1.22.4"
+scipy = "1.8.1"
