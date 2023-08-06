@@ -1,0 +1,3 @@
+[console_scripts]
+ddb = doonroom_db.main:main
+
