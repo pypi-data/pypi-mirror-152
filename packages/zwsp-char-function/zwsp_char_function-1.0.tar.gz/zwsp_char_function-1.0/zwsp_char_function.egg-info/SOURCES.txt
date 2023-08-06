@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+zero_width_char/__init__.py
+zwsp_char_function.egg-info/PKG-INFO
+zwsp_char_function.egg-info/SOURCES.txt
+zwsp_char_function.egg-info/dependency_links.txt
+zwsp_char_function.egg-info/top_level.txt
