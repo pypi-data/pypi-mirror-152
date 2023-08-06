@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: gelatin-extract
+Version: 0.1.0
+Summary: XML and JSON deserialization
+License: Apache Software License 2.0
+Author: Parker Hancock
+Author-email: 633163+parkerhancock@users.noreply.github.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: lxml (>=4.8.0,<5.0.0)
+Requires-Dist: python-dateutil (>=2.8.2,<3.0.0)
