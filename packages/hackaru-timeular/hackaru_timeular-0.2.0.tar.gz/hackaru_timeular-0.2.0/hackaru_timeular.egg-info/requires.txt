@@ -1,0 +1,6 @@
+bleak
+recordclass
+appdirs
+requests
+PyYAML
+tenacity
