@@ -1,0 +1,13 @@
+base24.py,sha256=aev6VX46zxqg9FbN_R2R5uV6_gk26AVcxZI12EsiCTs,340
+base24_builder/__init__.py,sha256=atTEngLDGIICk_dEkq3uf1moH0MQcXNQuCwrCRalTkc,34
+base24_builder/__main__.py,sha256=aev6VX46zxqg9FbN_R2R5uV6_gk26AVcxZI12EsiCTs,340
+base24_builder/builder.py,sha256=IqOTH3vQEZKxJT4SXy7cWKYaxvt6WddkuVO0krfqdRc,7925
+base24_builder/cli.py,sha256=ORrKyFcjKtheGiObTCFHbn93Ym2w1K63zi75hxrAE4I,4686
+base24_builder/injector.py,sha256=zJ6L9aKD_Lur6osa5UspwySxZNtLlDvKPo-BFdptk4k,3148
+base24_builder/shared.py,sha256=b3NHaDU3JMnScmSm4rfiwXmjn3haTkQpPh_lEUja-BY,1562
+base24_builder/updater.py,sha256=qWumDismQm8Xfx50zewNYnLxbyoFdjhyj7FiM_S8cOE,2999
+base24builder-2022.dist-info/entry_points.txt,sha256=v03pfcYdamJMA7FBHG6kDNCNaWynz2U2Ix5wDWF1I_Q,49
+base24builder-2022.dist-info/LICENSE.md,sha256=FhN8_1NY9A3deyANT5feWh-NKoLH7VajNfFOODYGUE0,1100
+base24builder-2022.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+base24builder-2022.dist-info/METADATA,sha256=d-YTKirHaDctnLhZKyawJBAa54iS1fFLlBj4TWb3TD0,11347
+base24builder-2022.dist-info/RECORD,,
