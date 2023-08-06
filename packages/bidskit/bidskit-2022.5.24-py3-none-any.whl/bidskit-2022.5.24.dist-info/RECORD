@@ -1,0 +1,14 @@
+bidskit/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bidskit/__main__.py,sha256=6kZ7a0H6u0hQo-Sc2ccDRlyrBpuVt5MHVnAboJA4yxY,12960
+bidskit/bidstree.py,sha256=4oLOjVPn1NAwi7qgFiVQ-6qm89YQls7EC2off18snJw,6712
+bidskit/dcm2niix.py,sha256=Gjbhpe5JG0PVetsc7F9BtJNICf-n9-TnTLwIDDKGEOE,13701
+bidskit/fmaps.py,sha256=xW6xoWLVWrrkPYXhshD6CJkD6EJ3JGn2Fpz7essNn_U,15445
+bidskit/io.py,sha256=F_njMAafJiA3PY8sns_GpPQolOq3KRxZ4KY2SJYdTmo,11177
+bidskit/json.py,sha256=Rc_vpJOdV28Kip8wL4p-UCT-4JpjBMrlkyiR5TbloNY,1934
+bidskit/translate.py,sha256=PqYdyVCkwNENHgb217mv6SQIrEMFBcbfW4xfvJO6rfE,16758
+bidskit-2022.5.24.dist-info/LICENSE.md,sha256=4pMrUY3kvm9bcoI_eixhIX4sQivTDUdY7THimjLiAhY,1073
+bidskit-2022.5.24.dist-info/METADATA,sha256=MJqrztbSYBNvzUExhgq9obuRGTGhmrywBA_RRQ_fatg,1919
+bidskit-2022.5.24.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bidskit-2022.5.24.dist-info/entry_points.txt,sha256=jUQu5Uf4eMzqXivsvUGjM6iLJF6V8elTu06b-dYu6vc,50
+bidskit-2022.5.24.dist-info/top_level.txt,sha256=r3z0ae2JMfTHSBu4ZtNJMfEdGvtVs9emnDV_p_xzZP8,8
+bidskit-2022.5.24.dist-info/RECORD,,
