@@ -1,0 +1,9 @@
+version: "3"
+services:
+  notebook:
+    image: "polisher"
+    ports:
+      - "8899:8899"
+    volumes:
+      - ~/.aws:/root/.aws
+      - ./notebooks:/notebooks

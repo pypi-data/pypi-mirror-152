@@ -1,0 +1,4 @@
+plotly
+pytest
+pytest-cov
+pytest-runner

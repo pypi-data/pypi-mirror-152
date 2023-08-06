@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "id": "bar-charts",
+  "name": "bar-charts",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    "S01-Initialize.py",
+    "S02-Plotly-Default-Behavior.py",
+    "S03.py"
+  ],
+  "summary": "",
+  "title": "bar-charts"
+}
