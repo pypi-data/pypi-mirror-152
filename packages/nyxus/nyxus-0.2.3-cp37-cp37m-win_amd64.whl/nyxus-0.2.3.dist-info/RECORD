@@ -1,0 +1,17 @@
+nyxus/backend.cp37-win_amd64.pyd,sha256=gYJqJpec49VM4pEL1GlLCn1tX5Hd_NB1ctUmwHMKuGA,691712
+nyxus/interface.py,sha256=vJRaP0Hxd3GQbV3tY5ofOFGNvUgsKoK5o0NCTjpHUVg,4412
+nyxus/nyxus.py,sha256=Q8loS6vNxrF-hqpPVYJf1ge-Hbsdzx0QOVZyHpkALhY,4750
+nyxus/_version.py,sha256=ad0oOj5q09R_GZN4i8jwfi80mdGk2vwU5AbifLw9fBU,518
+nyxus/__init__.py,sha256=d60ZHgkCOMr8sfnGL40JV-8dzyNFjmRd8IL8nUAcros,1610
+nyxus-0.2.3.dist-info/DELVEWHEEL,sha256=bnN4FSsUumdHQgrWz6FX-3awrrpG39e-6B1vxSNHS20,301
+nyxus-0.2.3.dist-info/LICENSE,sha256=dQhTh4F5f_QasaeL9FUAXSWabYeVbzeFZY5todRXZtQ,1084
+nyxus-0.2.3.dist-info/METADATA,sha256=dhMDZ0OXnMa3Nm0Ovjyf6X8YVTcvq1kxztDeX1Ix9D8,16793
+nyxus-0.2.3.dist-info/RECORD,,
+nyxus-0.2.3.dist-info/top_level.txt,sha256=VSeqIm9my0j36BMlBNzVdw0hJE6Q-ztdFuF0JgQutgs,20
+nyxus-0.2.3.dist-info/WHEEL,sha256=zMRqF9ZfHGxBPfvcWwE-LxcVkdB1hhr8hy4cOfZGPZU,101
+nyxus.libs/.load-order-nyxus-0.2.3,sha256=PQHbPFoQvO4Vhjja-AG-mvd0_LAMsgiInxqBDL7uM9A,97
+nyxus.libs/libdeflate-df27a905.dll,sha256=3yepBTItzwSKDR7W7SqIPWXQCo_S8fzkNmnz8vGGkS4,65024
+nyxus.libs/msvcp140.dll,sha256=15FlqiGpid5KXxq0ufZHV2fXHpJpYX3eF3rMGGtmmUw,571296
+nyxus.libs/tiff-d5288050.dll,sha256=40qUZb1ZV1JN9QEf9un4wWFvXCnL4AoewVfX8t-Shsc,401408
+nyxus.libs/vcruntime140_1.dll,sha256=sdO2s83rW3uBh3Z82GEAt2Iz57u5rPVsZPgojzSyaco,36728
+nyxus.libs/zlib-f22f7c64.dll,sha256=8i98ZFj_m6XCuVnRgfNiEp30IYPZ2ibojpV2PZJo74Q,83968
