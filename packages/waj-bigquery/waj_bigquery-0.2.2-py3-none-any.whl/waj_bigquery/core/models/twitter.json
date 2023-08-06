@@ -1,0 +1,620 @@
+{
+    "dataset_name": "Twitter",
+    "dataset_location": "US",
+    "tables": [
+        {
+            "table_name": "tw_tweets",
+            "is_partitioned": true,
+            "field-partition":"created_at",
+            "columns": [
+                {
+                    "column-name": "tweet_id",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Unique value to identify a tweet"
+                },
+                {
+                    "column-name": "type_get",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Type of use of the tweet, comment, search terms or tweets [1: Tweet, 2: Comment, 3: Terms, 4: News, 5:Reply, 6:HotTrendTweet, 7:QuotedStatus, 8:TermReport]",
+                    "fields-relationed":[
+                        {
+                            "field-name": "Use",
+                            "field-type": "INT64",
+                            "field-mode": "REQUIRED"
+                        },
+                        {
+                            "field-name": "name_of_use",
+                            "field-type": "STRING",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "query",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Query by which the tweet was obtained in case of search terms"
+                },
+                {
+                    "column-name": "polarity",
+                    "column-type": "FLOAT",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Polarity of the tweet. Values ​​below zero indicate negative feelings, above zero indicate positive feelings"
+                },
+                {
+                    "column-name": "created_at",
+                    "column-type": "DATETIME",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Datetime to identify when was tweet created"
+                },
+                {
+                    "column-name": "text",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Text of the tweet"
+                },
+                {
+                    "column-name": "twitter_id",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Unique value to identify a twitter account"
+                },
+                {
+                    "column-name": "screen_name",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Name of twitter, user of twitter ie. @username"
+                },
+                {
+                    "column-name": "name",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Name of the user twitter account"
+                },
+                {
+                    "column-name": "description",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Description of a twitter account"
+                },
+                {
+                    "column-name": "account_created_at",
+                    "column-type": "DATETIME",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Datetime to identify when twitter account was created"
+                },
+                {
+                    "column-name": "ac_location",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Location when was created the twitter account"
+                },
+                {
+                    "column-name": "ac_verified",
+                    "column-type": "BOOL",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Check that indicates if a twitter account has been verified by twitter"
+                },
+                {
+                    "column-name": "ac_followers_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total account follower count"
+                },
+                {
+                    "column-name": "ac_friends_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total account friends count"
+                },
+                {
+                    "column-name": "ac_favourites_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total account likes"
+                },
+                {
+                    "column-name": "ac_statuses_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total number of posts in the account"
+                },
+                {
+                    "column-name": "ac_listed_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total account listed_count"
+                },
+                {
+                    "column-name": "quote_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total account listed_count"
+                },
+                {
+                    "column-name": "reply_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total account listed_count"
+                },
+                {
+                    "column-name": "retweet_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Total of retweet count"
+                },
+                {
+                    "column-name": "favorite_count",
+                    "column-type": "INT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Id of the post to which you reply"
+                },
+                {
+                    "column-name": "source",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "html tag a with the url source"
+                },
+                {
+                    "column-name": "in_reply_to_post_id",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Id of the user to whom the reply is sent"
+                },
+                {
+                    "column-name": "in_reply_to_screen_name",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Screen name of the user to whom the reply is sent"
+                },
+                {
+                    "column-name": "coord_lat",
+                    "column-type": "FLOAT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Latitude cordinates"
+                },
+                {
+                    "column-name": "coord_long",
+                    "column-type": "FLOAT64",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Longitude cordinates"
+                },
+                {
+                    "column-name": "place_id",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Unique value for the place where tweet was posted"
+                },
+                {
+                    "column-name": "is_quote_status",
+                    "column-type": "BOOL",
+                    "column-mode": "NULLABLE",
+                    "column-description": ""
+                },
+                {
+                    "column-name": "quoted_status_id",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": ""
+                },
+                {
+                    "column-name": "retweeted_status",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": ""
+                },
+                {
+                    "column-name": "hashtags",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "hashtags associated with the tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "hashtag",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date_created",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "extended_hashtag",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Extended data for the hashtags associated with the tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "hashtag",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date_created",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "urls",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Different url's data in tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "url",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date_created",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "user_mentions",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "User mentions in the tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "user",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date_created",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "extended_user_mentions",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Additional data for user mentions in the tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "screen_name",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "name",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "id",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "indices",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date_created",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "symbols",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": ""
+                },
+                {
+                    "column-name": "possibly_sensitive",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": ""
+                },
+                {
+                    "column-name": "lang",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Language of the tweet"
+                },
+                {
+                    "column-name": "media_entities",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Entities associated in the tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "media",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date_created",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "profile_image",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "link to profile image"
+                },
+                {
+                    "column-name": "multimedia",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Multimedia data for tweet",
+                    "fields-relationed": [
+                        {
+                            "field-name": "id",
+                            "field-type": "INT64",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "id_str",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "indices",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "media_url",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "media_url_https",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "url",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "diplay_url",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "expanded_url",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "type",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_large_width",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_large_height",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_medium_width",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_medium_height",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_thumb_width",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_thumb_height",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_small_height",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "size_small_width",
+                            "field-type": "FLOAT",
+                            "field-mode": "NULLABLE"
+                        }
+                    ]
+                },
+                {
+                    "column-name": "associated_accounts",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Accounts, archetypes and followers",
+                    "fields-relationed": [
+                        {
+                            "field-name": "account_id",
+                            "field-type": "INT64",
+                            "field-mode": "REQUIRED"
+                        },
+                        {
+                            "field-name": "account_name",
+                            "field-type": "STRING",
+                            "field-mode": "REQUIRED"
+                        },
+                        {
+                            "field-name": "type_account",
+                            "field-type": "STRING",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "table_name": "tw_twitter_accounts",
+            "is_partitioned": false,
+            "columns": [
+                {
+                    "column-name": "account_id",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Unique value for account id in oceana"
+                },
+                {
+                    "column-name": "twitter_id",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Unique value for twitter account"
+                },
+                {
+                    "column-name": "account_created_at",
+                    "column-type": "DATETIME",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Time and date the twitter account was created"
+                },
+                {
+                    "column-name": "ac_location",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Place where the account belongs"
+                },
+                {
+                    "column-name": "attributes",
+                    "column-type": "RECORD",
+                    "column-mode": "REPEATED",
+                    "column-description": "Account Tracking Attributes",
+                    "fields-relationed": [
+                        {
+                            "field-name": "date_status",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        },
+                        {
+                            "field-name": "ac_derived",
+                            "field-type": "BOOL",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "ac_verified",
+                            "field-type": "BOOL",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "ac_followers_count",
+                            "field-type": "INT64",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "ac_friends_count",
+                            "field-type": "INT64",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "ac_favourities_count",
+                            "field-type": "INT64",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "ac_statuses_count",
+                            "field-type": "INT64",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "ac_listed_count",
+                            "field-type": "INT64",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "contributors_enabled",
+                            "field-type": "BOOL",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "profile_image",
+                            "field-type": "STRING",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "profile_banner",
+                            "field-type": "BOOL",
+                            "field-mode": "NULLABLE"
+                        },
+                        {
+                            "field-name": "date",
+                            "field-type": "DATETIME",
+                            "field-mode": "REQUIRED"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "table_name": "tw_twitter_places",
+            "is_partitioned": false,
+            "columns": [
+                {
+                    "column-name": "id",
+                    "column-type": "INT64",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Unique value for place"
+                },
+                {
+                    "column-name": "place_id",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Code id for twitter place"
+                },
+                {
+                    "column-name": "place_type",
+                    "column-type": "STRING",
+                    "column-mode": "REQUIRED",
+                    "column-description": "Type of place, country, city...etc."
+                },
+                {
+                    "column-name": "name",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "short name of the place"
+                },
+                {
+                    "column-name": "full_name",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "full name of the place"
+                },
+                {
+                    "column-name": "country_code",
+                    "column-type": "STRING",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Code of the place"
+                },
+                {
+                    "column-name": "bounding_box",
+                    "column-type": "GEOGRAPHY",
+                    "column-mode": "NULLABLE",
+                    "column-description": "Geometry of place, polygon or point or line"
+                }
+            ]  
+        }
+    ]
+}

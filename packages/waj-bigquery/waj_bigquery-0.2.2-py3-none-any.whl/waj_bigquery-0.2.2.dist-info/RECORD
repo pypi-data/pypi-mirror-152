@@ -1,0 +1,17 @@
+waj_bigquery/core/bigquery/bigquery.py,sha256=VYE0wqLz5fsfkzY9NLKfJQUH2hjj35ESmXB_7PcGdEc,9693
+waj_bigquery/core/config.py,sha256=tBPNg2Y36FXbmcJYqivPaCx0BFL1NciJgnkIqQlC1e4,567
+waj_bigquery/core/constants.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+waj_bigquery/core/models/.model-example.json,sha256=8tvcweBFmnKpXMvwVtS-0wffK0B1T3pyimuNQPL3O3c,6144
+waj_bigquery/core/models/facebook.json,sha256=sB11EI2KJgUjpirEEr_-o9IjF5M9jDYKYXu7kNzUZ_A,87
+waj_bigquery/core/models/google.json,sha256=j5MaGrDfxNnmWxvNKcdvoX1-5V__tu9BzlNDYHP5ESU,85
+waj_bigquery/core/models/instagram.json,sha256=UwiSDz9Yf_lueFam-9pPKE9RHIfv3LrtvFKD14QU4n0,88
+waj_bigquery/core/models/summary.json,sha256=wz0EfadyJhEykNipa-HKNo8XoVAejxTu0e5KqMG6Aqs,86
+waj_bigquery/core/models/tiktok.json,sha256=hlrrcp5eVUK18-pW4DL2RafP4h-bRxzEO6y4t7HwMbc,85
+waj_bigquery/core/models/twitter.json,sha256=2sJgHdN0MrNpsjJeKiR5wLnhROHWnibsMnPkPANyl68,25954
+waj_bigquery/core/models/youtube.json,sha256=hOctZ8sZK8dbJLhwmuF2VxbxwnH7x6CMVFR4HMd4AOw,86
+waj_bigquery/main.py,sha256=YwoSWt1SNciN2RMPejTA2JlC-wSWIJOp0GCyTv8yDCY,342
+waj_bigquery/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+waj_bigquery/tests/test_bq_creator.py,sha256=ISm5ywbioSffKkfhldMW4pRoV4YEuzgt14M3uT9IHEE,91
+waj_bigquery-0.2.2.dist-info/WHEEL,sha256=N0LZrBtofpkS5mJXgVHTCEy52Sam4D6PHQWC8HnMeTs,83
+waj_bigquery-0.2.2.dist-info/METADATA,sha256=pUXvihfr0ebC4kWXuogatZh8Zx_mwqLMOwp84rdoWxo,404
+waj_bigquery-0.2.2.dist-info/RECORD,,
