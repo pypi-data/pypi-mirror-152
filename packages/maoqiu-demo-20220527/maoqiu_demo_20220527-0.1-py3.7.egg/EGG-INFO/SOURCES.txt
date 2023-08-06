@@ -1,0 +1,6 @@
+setup.py
+maoqiu_demo_20220527.egg-info/PKG-INFO
+maoqiu_demo_20220527.egg-info/SOURCES.txt
+maoqiu_demo_20220527.egg-info/dependency_links.txt
+maoqiu_demo_20220527.egg-info/top_level.txt
+pydemo/__init__.py
