@@ -1,0 +1,2 @@
+[console_scripts]
+notion2obsidian = notion2obsidian.__main__:main
