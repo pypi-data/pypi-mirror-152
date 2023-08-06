@@ -1,0 +1,8 @@
+README.md
+setup.py
+Demo/__init__.py
+Demo/test.py
+dienoetest.egg-info/PKG-INFO
+dienoetest.egg-info/SOURCES.txt
+dienoetest.egg-info/dependency_links.txt
+dienoetest.egg-info/top_level.txt
