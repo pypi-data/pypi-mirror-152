@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: ifrn-estatistica
+Version: 0.0.9
+Summary: Tabela descritiva
+Home-page: https://github.com/hadtrindade/ifrn-estatistica
+Author: Ivo Trindade
+Author-email: haddleytrindade@gmail.com
+License: MIT
+Keywords: tabela descritiva
+Platform: linux
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Framework :: Pytest
+Classifier: Topic :: Software Development :: Testing :: Unit
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: anyio (==3.6.1)
+Requires-Dist: certifi (==2022.5.18.1)
+Requires-Dist: cssselect (==1.1.0)
+Requires-Dist: cycler (==0.11.0)
+Requires-Dist: fonttools (==4.33.3)
+Requires-Dist: h11 (==0.12.0)
+Requires-Dist: httpcore (==0.15.0)
+Requires-Dist: httpx (==0.23.0)
+Requires-Dist: idna (==3.3)
+Requires-Dist: isort (==5.10.1)
+Requires-Dist: kiwisolver (==1.4.2)
+Requires-Dist: lxml (==4.8.0)
+Requires-Dist: matplotlib (==3.5.2)
+Requires-Dist: numpy (==1.22.4)
+Requires-Dist: packaging (==21.3)
+Requires-Dist: pandas (==1.4.2)
+Requires-Dist: parsel (==1.6.0)
+Requires-Dist: Pillow (==9.1.1)
+Requires-Dist: pyparsing (==3.0.9)
+Requires-Dist: python-dateutil (==2.8.2)
+Requires-Dist: pytz (==2022.1)
+Requires-Dist: rfc3986 (==1.5.0)
+Requires-Dist: scipy (==1.8.1)
+Requires-Dist: six (==1.16.0)
+Requires-Dist: sniffio (==1.2.0)
+Requires-Dist: tabulate (==0.8.9)
+Requires-Dist: w3lib (==1.22.0)
+
+## IFRN-Estatistica
+### Lib para coleta de tratamento de dados pluviométricos da EMPARN e geração de tabela descritiva e graficos.
+
+![Python package](https://github.com/hadtrindade/ifrn-estatistica/workflows/Python%20package/badge.svg)
+[![codecov](https://codecov.io/gh/hadtrindade/ifrn-estatistica/branch/main/graph/badge.svg?token=ogog9oHYm6)](https://codecov.io/gh/hadtrindade/ifrn-estatistica)
+[![CodeFactor](https://www.codefactor.io/repository/github/hadtrindade/ifrn-estatistica/badge)](https://www.codefactor.io/repository/github/hadtrindade/ifrn-estatistica)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
