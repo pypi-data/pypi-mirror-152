@@ -1,0 +1,4 @@
+ziafont>=0.3
+
+[latex]
+latex2mathml
