@@ -1,0 +1,8 @@
+einops>=0.4
+einops-exts
+kornia
+resize-right
+torch>=1.6
+torchvision
+transformers
+tqdm
