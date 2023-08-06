@@ -1,0 +1,10 @@
+envchain_shellenv/__init__.py,sha256=zPsRYHinZENZ52EGarE7C6id-_tw1XPGfUZMzlID8uY,291
+envchain_shellenv/cli.py,sha256=gD9uAbCNU7dBIk4s3CSU1W2V3ihGrs6qEnPjZTtoqHU,1869
+envchain_shellenv/config.py,sha256=dhaOjbvk0t4eeimLxaDijv9QD7i8GfnfFeM18wyC5pI,1681
+envchain_shellenv/core.py,sha256=hn7PeFUedWV0IG39u8TT6AZtUWaD4Gjn1d3e_vnoeFI,2010
+envchain_shellenv/examples/keychain.ini,sha256=qXPxdpwCAZhJ_Qf6UZb7ySWLXPnBuVG9l5GY6T9KH8w,365
+envchain_shellenv-0.1.4.dist-info/entry_points.txt,sha256=PnACIchQoJlPVWqSAcUYdu1gdrsCHxKvdxcF286HfwI,106
+envchain_shellenv-0.1.4.dist-info/LICENSE,sha256=kwRWnGfHM3i60QbUMmPO8iV-mcawDjuN_lgFJsyVLRo,1113
+envchain_shellenv-0.1.4.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+envchain_shellenv-0.1.4.dist-info/METADATA,sha256=d3AZRMnNHaANn9LWW553iVUVmDe7NWVSiwO3tNjQkW8,4234
+envchain_shellenv-0.1.4.dist-info/RECORD,,
