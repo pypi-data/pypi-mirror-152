@@ -1,0 +1,7 @@
+osc>=0.167.1
+
+[progress]
+tqdm
+
+[tests]
+pytest

@@ -1,0 +1,6 @@
+exclude .git*
+
+include tests/*.py
+include CONTRIBUTORS
+include COPYING
+include README.md
