@@ -1,0 +1,15 @@
+fastapi_mailer/__init__.py,sha256=sR-BGKa_Vcxu3fqxfAWOLMnIAnHkkfM88lVUUtJ2p0o,361
+fastapi_mailer/config.py,sha256=rYNiLshoERrZOTidJAuHnUlx48j7zK8mwATC8v0HEyA,1044
+fastapi_mailer/connection.py,sha256=hdaoFbgOr8pwPjl-BFEKF-xXjdLqGFFHSYU90-bqz-g,2113
+fastapi_mailer/email_utils/__init__.py,sha256=esg-8LnBbq4f0O2ARvDf5FqdcpsYYoL8yAYS70XL6Bc,124
+fastapi_mailer/email_utils/email_check.py,sha256=5H9idW97-bBeBEzE6e06JiuajEUijLzXqoT0wmntloA,15225
+fastapi_mailer/email_utils/errors.py,sha256=oGmlTlOls_t7RRdKrKOGL2tAhd6F8OcIEtpbkdxm8k0,124
+fastapi_mailer/errors.py,sha256=X_0bodHv8erWxu42dHjjnU_t7E8mXVg_7NQRNmnxy0s,446
+fastapi_mailer/example.py,sha256=zinoHGekdW4Wb4sZHUec1MaR6vWchxHyny0hioj53S4,723
+fastapi_mailer/fastmail.py,sha256=3NWYpLRCdqN8Sb6vvaYF_rOqgewMB-_21PhMdZeY6Ig,4251
+fastapi_mailer/msg.py,sha256=jInbl-uiWT7qv6vF6n_76wGp1vNBMZdS7H0Rr9lFI6Y,4536
+fastapi_mailer/schemas.py,sha256=yKFnDReFlDf7DVglA2DO0M68hIMvkjZ8uQtAIMODUfg,2954
+fastapi_mailer-0.4.1.dist-info/LICENSE,sha256=NakCDmv8D0hbgS5uC_x3yQeziV0JXi5PGy7fNknP-pY,1072
+fastapi_mailer-0.4.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+fastapi_mailer-0.4.1.dist-info/METADATA,sha256=CIfWLL7BItBKee2h03yxQ6qOI_jahFTQOT0_2UMQw9A,10672
+fastapi_mailer-0.4.1.dist-info/RECORD,,
