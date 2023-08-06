@@ -1,0 +1,7 @@
+coverage==6.4.*
+django==2.1.*
+djangorestframework==3.11.*
+mock==4.*
+psycopg2-binary==2.*
+PyJWT==1.*
+requests<3
