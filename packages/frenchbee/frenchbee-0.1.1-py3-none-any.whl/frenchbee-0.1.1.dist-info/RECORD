@@ -1,0 +1,11 @@
+frenchbee/__init__.py,sha256=4cFrhKzHfPlngibTSYSsVUB25O5Lx3YKPLaiHCVICH0,143
+frenchbee/cli.py,sha256=pDwRDV6jFoLNdrA0Mm94NgzPI-pKujO4NQDnMzVhhO0,2922
+frenchbee/data.py,sha256=uqdfckQzB5vJDehsONnmHxOXzVq4s-e-y4FpiwJEy1c,1202
+frenchbee/frenchbee.py,sha256=FVBsfmYpJlqyqoobSpOdj_PLJBWN0_S6rA6XGF0ProU,11821
+frenchbee/models.py,sha256=J4MSoDLC60-69Q4XGywFMZ0e9WyTIBpR0l-zvXEXOMo,2987
+frenchbee/reese84.py,sha256=wC_Uqi6B1suDEpLopREV7xXoBEY1Nb8kAJL4r7todUs,28735
+frenchbee-0.1.1.dist-info/entry_points.txt,sha256=fY6JAbIC0yuwBvr-4DtoalFxWVQxL2r04jzrZ83W4NI,52
+frenchbee-0.1.1.dist-info/LICENSE,sha256=SjmXv1DX1M8CY0n5CQhDaHL7N3Q1brvAtWfkfikE-t0,1090
+frenchbee-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+frenchbee-0.1.1.dist-info/METADATA,sha256=Lw3JSZqDDqt2Gjq5lmXpRE0P6psm1m0P0iJKHmyfLGE,15412
+frenchbee-0.1.1.dist-info/RECORD,,

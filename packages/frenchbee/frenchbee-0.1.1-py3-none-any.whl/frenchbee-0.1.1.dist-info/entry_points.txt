@@ -1,0 +1,3 @@
+[console_scripts]
+frenchbee-cli=frenchbee.cli:main
+
