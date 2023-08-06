@@ -1,0 +1,12 @@
+SolarGUI/__init__.py,sha256=sNbktFs-aZvHX467Ym-_siqIQSMlMRKSiJlTlBC_lX8,40
+SolarGUI/celestial_objects.py,sha256=no6rBaottJsaRtTl8i-_G78Coxg4LXIQE2KvOh9MyAk,3585
+SolarGUI/show_planet.py,sha256=lfppqUTVbRX7pq7TLb5Edp9FNxtdX9ITSf9BUXhOssI,3300
+SolarGUI/solar_gui.py,sha256=HDubCHdpefN1-bs68A6HVAtAbP167U9eHdmFO0BtRUM,5699
+SolarGUI/tk_functions.py,sha256=dSpry0iNxurDFMvv2Axar024gPaWja_g4Wo_RqAdRgk,8537
+SolarGUI/utilities.py,sha256=KGW4IScZ20z2mHlyFVdqriTzXpOYRXz7GUXNtayCswI,1569
+SolarGUI-0.1.3a0.dist-info/LICENSE,sha256=e5-2JNXFw-mDCA5SugLLFBhcl84l50y7dNZrR-AYIM8,1080
+SolarGUI-0.1.3a0.dist-info/METADATA,sha256=XsnuGAWTDaKcRyd0oBwVgoi9k174gDtG_Jt_pmDW2Io,2596
+SolarGUI-0.1.3a0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+SolarGUI-0.1.3a0.dist-info/entry_points.txt,sha256=w9uOZCh6TLxJtm4vlguTvE9ou7ZRrgRi3rDAOu0EltU,49
+SolarGUI-0.1.3a0.dist-info/top_level.txt,sha256=VVLKrKbDbvO7xytU5tiuF3AOKQER8iy6JXNkK72Gir4,9
+SolarGUI-0.1.3a0.dist-info/RECORD,,
