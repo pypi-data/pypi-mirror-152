@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: waybackshot
+Version: 0.1.0
+Summary: A simple API to retrieve screenshots of webpages stored on the Wayback Machine.
+Home-page: https://github.com/markusbink/wayback-shot
+Author: Markus Bink, Marcos Fernández-Pichel
+Author-email: markus.bink@student.ur.de, marcosfernandez.pichel@usc.e
+License: GPLv3.0
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: requests (==2.25.1)
+Requires-Dist: selenium (==4.1.5)
+Requires-Dist: webdriver-manager (==3.5.4)
+
+UNKNOWN
+
