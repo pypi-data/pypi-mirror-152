@@ -1,0 +1,99 @@
+Metadata-Version: 2.1
+Name: cleandev-generic-utils
+Version: 0.1.9
+Summary: Cleandev Generic Utils for other libs
+Home-page: https://gitlab.com/cleansoftware/libs/public/cleandev-generic-utils
+Author: Daniel Rodriguez Rodriguez
+Author-email: danielrodriguezrodriguez.pks@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/cleansoftware/libs/public/cleandev-generic-utils/-/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Utilidades Genericas
+
+Un proyecto para recoger utilidades usadas a lo largo de otras librerias.
+
+![diagrana](https://gitlab.com/cleansoftware/libs/public/cleandev-generic-utils/-/raw/master/docs/diagram.png)
+
+## ReflectionClassUtilsImpl
+
+Esta clase posee metodos delicados en los cuales se apollan librerias muy importantes, todos ellos estan relacionado,
+con la busca dinamica de paquetes y clases con el fin de instancias y comprobar dinamicamente jerarquia de clases que
+son usadas por otras librerias.
+
+### `get_sub_packages(parent_package: str)`
+
+Este metodo dado un nombre (parent_package: str) de un paquete raiz del proyecto recopila el nombre de sus paquetes 
+en su interior y los retorna en una lista
+
+### `get_class_from_package(cls, parent_package: str, class_name: str)`
+
+Dado la ruta de un paquete y un nombre de una clase retorna el objeto con el nombre de esa clase del paquete
+
+### `def get_class_filter_parent(cls, parent_package: str, parent_class: str)`
+
+Dado un nombre de un paquete y un nombre de la clase retorna todas las clases que como padre hereden de dicha clase  
+
+
+## CleanDevGenericUtils
+
+Clase con funciones genericas y no relacionadas entre si, su unico motivo es agruparlas en un mismo lugar para organizar
+la gestion de dependencias de otras librerias
+
+### `get_total_page(row_for_page: int, total_row: int)`
+
+Dado un numero de filas y un numero de filas por pagina calcula el numero de paginas necesario para mostar todas las
+filas, muy util para calcular las paginas de un paginador.
+
+### `get_uuid4()`
+
+Abstrae el tipado de UUDI4 que trae python y lo retorna directamente en formato (str)"
+
+### `check_uudi_4(uuid_string: str)`
+
+Conprueba que la string pasada por parametro se un uuid4 valido
+
+### `check_email_format(email: str)`
+
+Comprueba si la string pasada por parametro tiene un formato valido de email
+
+### `get_random_string(length=5)`
+
+Retorna una string de una logintud definida por la variable length que por defecto tiene valor 5
+
+### Metodo: `to_camel_case(name)`
+
+Convierte una string en formato "snake" como por ejemplo mi_variable en "Camel case" como por ejemplo MiVariable
+
+### Metodo: `def camel_to_snake(name)`
+
+Convierte una string en formato "Camel case" como por ejemplo MiVariable en "snake" como por ejemplo mi_variable 
+
+### `get_fernet_key(original_key: str = None)`
+A diferencia que la libreria original de `Fernet` tanto las llaves como los mensajes no se pasan encodeados.  
+
+Usa la libreria `Fernet` y simplemente tiene como objetivo facilitar el proceso de obtener llaves, cifrar y desifrar
+junto con dos funciones más que son `encrypt` y `decrypt`
+
+### `encrypt(message: str, key: str):`
+
+Se pasa el mensaje y la llave con la que se quiere encriptar y retonar el mensaje en formato `str` encriptado.
+
+### `decrypt(message: str, key: str):`
+
+Se pasa el mensaje y la llave con la que se quiere desencriptar y retonar el mensaje en formato `str` en claro.
+
+
+
+
+
+
+
+
+
+
