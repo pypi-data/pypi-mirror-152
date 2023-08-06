@@ -1,0 +1,2 @@
+[console_scripts]
+sanmu = sanmu.__main__:main
