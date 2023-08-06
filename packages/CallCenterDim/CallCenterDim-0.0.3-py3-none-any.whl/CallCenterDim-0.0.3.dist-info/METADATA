@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: CallCenterDim
+Version: 0.0.3
+Summary: This module is used to support the planning of call centers
+Author: Marcelo Rodrigo da Silva Rocha
+Author-email: marcelo_rodrigo@outlook.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Package
+
+This module is used to support the planning of call centers
+
+By: Marcelo Rodrigo da Silva Rocha
