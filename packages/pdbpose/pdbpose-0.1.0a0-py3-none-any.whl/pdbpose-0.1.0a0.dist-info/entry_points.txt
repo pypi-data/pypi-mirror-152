@@ -1,0 +1,2 @@
+[console_scripts]
+pdbpose = pdbpose.cli:main
