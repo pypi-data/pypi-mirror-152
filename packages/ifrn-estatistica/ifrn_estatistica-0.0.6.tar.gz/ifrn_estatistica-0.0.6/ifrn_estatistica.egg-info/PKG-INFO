@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: ifrn-estatistica
+Version: 0.0.6
+Summary: Tabela descritiva
+Home-page: https://github.com/hadtrindade/ifrn-estatistica
+Author: Ivo Trindade
+Author-email: haddleytrindade@gmail.com
+License: MIT
+Keywords: tabela descritiva
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Framework :: Pytest
+Classifier: Topic :: Software Development :: Testing :: Unit
+License-File: LICENSE
+
+UNKNOWN
+
