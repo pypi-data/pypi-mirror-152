@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: beers
+Version: 0.0.1
+Summary: Better Enabled Resources
+Home-page: https://github.com/grok-ai/beer
+Author: Valentino Maiorca
+Author-email: valentino@maiorca.xyz
+License: MIT Licence
+Keywords: python
+Platform: UNKNOWN
+Provides-Extra: docs
+Provides-Extra: test
+Provides-Extra: manager
+Provides-Extra: bot
+Provides-Extra: worker
+Provides-Extra: dev
+License-File: LICENSE
+
+test description
+
