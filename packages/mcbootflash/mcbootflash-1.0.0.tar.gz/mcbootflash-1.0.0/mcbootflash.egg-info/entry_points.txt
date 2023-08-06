@@ -1,0 +1,2 @@
+[console_scripts]
+mcbootflash = mcbootflash.flash:flash
