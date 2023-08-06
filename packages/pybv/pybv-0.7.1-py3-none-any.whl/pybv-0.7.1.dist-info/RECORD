@@ -1,0 +1,11 @@
+pybv/__init__.py,sha256=z2KiXylF8S2AnB4CEb-n8KB6KEJ8oXb186Nv871uHIk,156
+pybv/_export.py,sha256=_ngMDUXjJHfJY-90TmF8Ydp0Shu5c9IYCJ-_jroKUP4,4959
+pybv/io.py,sha256=Q6bqRh8slF01Gjj_FQ5nd05dEM3_dmJkoakHOFDuqhk,32533
+pybv/tests/test_bv_writer.py,sha256=dYMiFgc13j3I5SBykKRySTB3XcMX4WtxNP2il54-AtI,24760
+pybv/tests/test_export.py,sha256=1ObMwpoyGle8628wWqvqxstJuiGWCWlFACUTG7b3vWA,2229
+pybv-0.7.1.dist-info/LICENSE,sha256=fhmTWhJq01Kv5yQPht9IMV46uH3GOOqfYEKOGsHii5I,1520
+pybv-0.7.1.dist-info/METADATA,sha256=bERfOZzlP1MvM-mAGPx2XXgLgx1JvBHRPkTT6G1jR5U,11076
+pybv-0.7.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pybv-0.7.1.dist-info/top_level.txt,sha256=XAw9xjV2gEtQioL59CpROuSRITCjsglRZQsa8MxOokc,5
+pybv-0.7.1.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pybv-0.7.1.dist-info/RECORD,,
