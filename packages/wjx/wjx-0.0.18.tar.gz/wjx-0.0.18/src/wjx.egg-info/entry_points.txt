@@ -1,0 +1,2 @@
+[console_scripts]
+onnx2trt = wjx.tensorRT_tools.onnx2trt:main
