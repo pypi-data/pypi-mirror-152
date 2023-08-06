@@ -1,0 +1,13 @@
+scsims/__init__.py,sha256=S7AAr7BPVrKbW8V0a7MhQmvohuBHwXOHXsktxs8o--o,421
+scsims/data.py,sha256=hfFQ9wK2QixyGh9f7pnuQ-mJLEDpgbV3vb62Ld2dwmk,27650
+scsims/lightning_train.py,sha256=oyQq-4V0BPYy6Eq5i7QVJWjQWpCiPoyAff4HyH5AoEg,13704
+scsims/metrics.py,sha256=pQiMR1wRpZjBXz51gh_K9cBT_88mOwRYF7zjX7_aX00,2675
+scsims/model.py,sha256=Kt2rlbva_avoM9ET7gICzPBETjTA6MOyRGBIGdYIoiA,15374
+scsims/networking.py,sha256=h9BUuclAB_gCicJ4GA75QsLFsxt7fnRBtATEKMzG__s,7983
+scsims/pretraining.py,sha256=Ybr_00zT73mpTD9sDs29rJ2JoAsrfTnrc_cUbSN8MLo,7774
+scsims/testing.py,sha256=JIUoK9GzGQB4HOZcORqa8HAomuZM05ByDdmG1dlRXps,6703
+scsims-1.0.0.dist-info/LICENSE,sha256=q5JehC2dkm0m3pjIh0blNThfEi-_CsWmaRDta5svlYo,1082
+scsims-1.0.0.dist-info/METADATA,sha256=aX1I_naB6f-d8ijobTPocP5D8vEjIjYEpX88tlB4TEs,2826
+scsims-1.0.0.dist-info/WHEEL,sha256=Z-nyYpwrcSqxfdux5Mbn_DQ525iP7J2DG3JgGvOYyTQ,110
+scsims-1.0.0.dist-info/top_level.txt,sha256=ho3eoso2c0FTD448YKhdwobKvfbJxXBrOcb9AB415n4,7
+scsims-1.0.0.dist-info/RECORD,,
