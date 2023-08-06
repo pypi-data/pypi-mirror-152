@@ -1,0 +1,5 @@
+[console_scripts]
+dci-vault = dciclient.vault:main
+dci-vault-client = dciclient.vault_client:main
+dcictl = dciclient.shell:main
+
