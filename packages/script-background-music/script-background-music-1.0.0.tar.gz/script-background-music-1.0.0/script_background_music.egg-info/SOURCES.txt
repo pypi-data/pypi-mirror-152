@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+elevator_music/__init__.py
+elevator_music/songs/__init__.py
+elevator_music/vendor/__init__.py
+elevator_music/vendor/playsound/__init__.py
+script_background_music.egg-info/PKG-INFO
+script_background_music.egg-info/SOURCES.txt
+script_background_music.egg-info/dependency_links.txt
+script_background_music.egg-info/top_level.txt
