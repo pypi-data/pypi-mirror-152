@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: discord-ext-ipcs
+Version: 0.0.4
+Summary: Discord ipc client.
+Home-page: https://github.com/tuna2134/discord-ext-ipcs
+Author: DMS
+Author-email: masato190411@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: websockets
+Requires-Dist: discord.py
+Provides-Extra: speed
+Requires-Dist: orjson ; extra == 'speed'
+
+# discord-ext-ipc
+
+[![Documentation Status](https://readthedocs.org/projects/discord-ext-ipcs/badge/?version=latest)](https://discord-ext-ipcs.readthedocs.io/en/latest/?badge=latest)
+
+## Example Client
+
+```python
+import discord
+from discord.ext import ipcs
+
+
+client = discord.Client(intents=discord.Intents.all())
+ipc_client = ipcs.Client(client, "TopSecretKey")
+
+
+@client.event
+async def on_ready():
+    async with ipc_client:
+        await ipc_client.connect("ws://localhost/ipc")
+
+@client.event
+async def on_ipc_connect():
+    print("ipc connected")
+    
+@client.event
+async def on_ipc_close():
+    print("Ipc closed")
+        
+@ipc_client.listen("ready")
+async def ipc_ready():
+    print("ready")
+```
+
+
