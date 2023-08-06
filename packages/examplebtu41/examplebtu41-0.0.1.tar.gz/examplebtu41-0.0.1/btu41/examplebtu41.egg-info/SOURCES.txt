@@ -1,0 +1,8 @@
+LICENSE.txr
+LICENSE.txt
+README.md
+setup.py
+btu41/examplebtu41.egg-info/PKG-INFO
+btu41/examplebtu41.egg-info/SOURCES.txt
+btu41/examplebtu41.egg-info/dependency_links.txt
+btu41/examplebtu41.egg-info/top_level.txt
