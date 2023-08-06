@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pygroup.py
+setup.cfg
+setup.py
+pygroup.egg-info/PKG-INFO
+pygroup.egg-info/SOURCES.txt
+pygroup.egg-info/dependency_links.txt
+pygroup.egg-info/requires.txt
+pygroup.egg-info/top_level.txt
