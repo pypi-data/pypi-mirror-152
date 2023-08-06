@@ -1,0 +1,4 @@
+[console_scripts]
+smtptester=smtptester.cli:main
+smtptester-gui=smtptester.gui:main
+
