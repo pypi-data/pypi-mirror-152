@@ -1,0 +1,12 @@
+deluge_card/__init__.py,sha256=D5XOsMXowJr76aS5H3H2YLPMYMpqWV_jN3GoWeskTYA,365
+deluge_card/deluge_card.py,sha256=4q6arsOi4eRu61BCkcb-pONwh6C14kUZfnoLgsWbIGI,7646
+deluge_card/deluge_kit.py,sha256=dHP4m0u0eM-q8AM5YlqNUIwEJpqz5MbKijESNeLyvls,852
+deluge_card/deluge_sample.py,sha256=kMErbAXEE9ZlmE8tUtzGfOJh99XkwThES-Uq7217y5M,6379
+deluge_card/deluge_song.py,sha256=a2G621j1HqSrvoi97YYrn-UJCT2VZU4rtgMv2pOizRs,4348
+deluge_card/deluge_synth.py,sha256=TTn-WuUOq2wSugxh-fW0xQ0djvMvEeOwLZBFZfozK5A,826
+deluge_card/deluge_xml.py,sha256=1myCvnlxMELpkY8pB9wPVpkutDMyNPd_6UDSgBzmV80,4286
+deluge_card/helpers.py,sha256=HF04aqJdUZbby4T2sB_oYyhzDaH2n2lGd_b1clVZHnE,240
+deluge_card-0.7.0.dist-info/LICENSE,sha256=Dqtx5AmJ0bUrYzrIknNZWmmtDqG_VzmNcFiznXss4yA,1075
+deluge_card-0.7.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+deluge_card-0.7.0.dist-info/METADATA,sha256=f9te7ZACwzw0qqGpbm6XPR9znlEA6FkHugNmfpgonDo,2211
+deluge_card-0.7.0.dist-info/RECORD,,
