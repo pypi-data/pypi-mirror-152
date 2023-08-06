@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/chemi Package/__init__.py
+src/chemi Package/example.py
+src/chemi_Package.egg-info/PKG-INFO
+src/chemi_Package.egg-info/SOURCES.txt
+src/chemi_Package.egg-info/dependency_links.txt
+src/chemi_Package.egg-info/top_level.txt
