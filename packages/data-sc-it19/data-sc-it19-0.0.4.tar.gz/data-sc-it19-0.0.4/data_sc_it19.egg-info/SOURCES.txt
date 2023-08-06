@@ -1,0 +1,9 @@
+setup.py
+WEEK_2_std/__init__.py
+WEEK_2_std/numpy_tasks.py
+WEEK_2_std/numpy_tasks_1.py
+data_sc_it19.egg-info/PKG-INFO
+data_sc_it19.egg-info/SOURCES.txt
+data_sc_it19.egg-info/dependency_links.txt
+data_sc_it19.egg-info/requires.txt
+data_sc_it19.egg-info/top_level.txt
