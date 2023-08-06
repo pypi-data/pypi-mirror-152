@@ -1,0 +1,16 @@
+setup.py
+new_york_calculate/__init__.py
+new_york_calculate/calculate.py
+new_york_calculate/debug_best.py
+new_york_calculate/format_candles.py
+new_york_calculate/format_result.py
+new_york_calculate/get_id.py
+new_york_calculate/intervals.py
+new_york_calculate/list_to_weights.py
+new_york_calculate/random_id.py
+new_york_calculate/to_nearest.py
+new_york_calculate.egg-info/PKG-INFO
+new_york_calculate.egg-info/SOURCES.txt
+new_york_calculate.egg-info/dependency_links.txt
+new_york_calculate.egg-info/requires.txt
+new_york_calculate.egg-info/top_level.txt
