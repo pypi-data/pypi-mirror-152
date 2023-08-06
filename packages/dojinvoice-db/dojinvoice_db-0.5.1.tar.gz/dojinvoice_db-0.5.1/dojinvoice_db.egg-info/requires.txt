@@ -1,0 +1,16 @@
+beautifulsoup4
+humanfriendly
+requests
+selenium
+types-beautifulsoup4
+types-humanfriendly
+types-requests
+types-selenium
+
+[dev]
+black
+flake8
+mypy
+pre-commit
+setuptools>=46.4.0
+types-setuptools
