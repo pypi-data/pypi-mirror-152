@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: UlifTor
+Version: 1.0.0
+Summary: A Tor-like DNS service that allows access to .ulif domain names.
+Home-page: https://ulifsystems.neocities.org/
+Author: Ulif Systems
+Author-email: dns@ulifsystems.org
+Project-URL: Ulif DNS, https://ulifsystems.org/dns
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
