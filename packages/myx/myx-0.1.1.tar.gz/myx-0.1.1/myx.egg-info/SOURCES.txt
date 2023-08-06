@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+./myx/__init__.py
+./myx/client.py
+myx.egg-info/PKG-INFO
+myx.egg-info/SOURCES.txt
+myx.egg-info/dependency_links.txt
+myx.egg-info/requires.txt
+myx.egg-info/top_level.txt
