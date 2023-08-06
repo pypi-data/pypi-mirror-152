@@ -1,0 +1,31 @@
+wltr-vin installation
+====================
+
+
+Python ``pip`` package is required to install ``wltr-vin``.
+
+
+From sources
+------------
+
+Use the following command line to install ``wltr-vin`` from sources directory (containing setup.py):
+
+    pip install .
+
+or
+
+    python setup.py install
+
+
+From PyPI
+---------
+
+Alternatively you can install ``wltr-vin`` from PyPI:
+
+    pip install wltr-vin
+
+
+Use `-U` flag for upgrade:
+
+    pip install -U wltr-vin
+
