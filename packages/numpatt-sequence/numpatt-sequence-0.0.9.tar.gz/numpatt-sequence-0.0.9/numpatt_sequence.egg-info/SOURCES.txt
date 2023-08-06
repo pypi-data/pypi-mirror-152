@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+numpatt_sequence.egg-info/PKG-INFO
+numpatt_sequence.egg-info/SOURCES.txt
+numpatt_sequence.egg-info/dependency_links.txt
+numpatt_sequence.egg-info/top_level.txt
+numpatterns/__init__.py
+numpatterns/numpatt.py
