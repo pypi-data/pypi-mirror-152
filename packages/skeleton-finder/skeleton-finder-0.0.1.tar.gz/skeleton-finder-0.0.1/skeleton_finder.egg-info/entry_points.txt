@@ -1,0 +1,2 @@
+[napari.manifest]
+skeleton-finder = skeleton_finder:napari.yaml

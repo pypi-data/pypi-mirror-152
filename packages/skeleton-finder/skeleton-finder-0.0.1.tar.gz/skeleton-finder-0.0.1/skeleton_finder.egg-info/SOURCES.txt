@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+skeleton_finder.egg-info/PKG-INFO
+skeleton_finder.egg-info/SOURCES.txt
+skeleton_finder.egg-info/dependency_links.txt
+skeleton_finder.egg-info/entry_points.txt
+skeleton_finder.egg-info/requires.txt
+skeleton_finder.egg-info/top_level.txt
