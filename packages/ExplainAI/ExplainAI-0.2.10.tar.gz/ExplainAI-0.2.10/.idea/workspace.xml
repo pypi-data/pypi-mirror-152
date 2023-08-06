@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03556442-a1a9-400e-bb92-9d4fce488672" name="Default Changelist" comment="511">
+      <change beforePath="$PROJECT_DIR$/ExplainAI/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExplainAI/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/.ipynb_checkpoints/未命名-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExplainAI/example/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/ale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/ale2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/fig4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/ice.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/lime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/mfi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/pdp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/pdp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/pi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/shap_dependence.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/shap_feav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/shap_instance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/shap_mean.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/shap_time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/example/未命名.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/explainers/lime/lime_xai.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExplainAI/explainers/lime/lime_xai.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/flx_data/dataset0.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/flx_data/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExplainAI/flx_data/input.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/model/make_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExplainAI/model/make_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExplainAI/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExplainAI/utils/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ExplainAI" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27SQ9wxvrjU39TICs0rl8FgEon8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\codes\ExplainAI\ExplainAI\utils" />
+      <recent name="D:\codes\ExplainAI\ExplainAI\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test (1)">
+    <configuration name="pi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExplainAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExplainAI/explainers/pi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExplainAI/explainers/pi/pi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExplainAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExplainAI/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExplainAI/example/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExplainAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExplainAI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\codes\ExplainAI\ExplainAI\test\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExplainAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExplainAI/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExplainAI/example/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExplainAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExplainAI/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExplainAI/example/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.pi" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03556442-a1a9-400e-bb92-9d4fce488672" name="Default Changelist" comment="" />
+      <created>1649310859496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649310859496</updated>
+    </task>
+    <task id="LOCAL-00001" summary="511">
+      <created>1652264764267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652264764267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="511" />
+    <option name="LAST_COMMIT_MESSAGE" value="511" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="338" key="FileChooserDialogImpl" timestamp="1653458530180">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="717" y="338" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1653458530180" />
+    <state width="1899" height="302" key="GridCell.Tab.0.bottom" timestamp="1653470316043">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1653470316043" />
+    <state width="1899" height="302" key="GridCell.Tab.0.center" timestamp="1653470316043">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1653470316043" />
+    <state width="1899" height="302" key="GridCell.Tab.0.left" timestamp="1653470316043">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1653470316043" />
+    <state width="1899" height="302" key="GridCell.Tab.0.right" timestamp="1653470316043">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1899" height="302" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1653470316043" />
+    <state x="461" y="160" key="SettingsEditor" timestamp="1653052048732">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="160" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1653052048732" />
+  </component>
+</project>
