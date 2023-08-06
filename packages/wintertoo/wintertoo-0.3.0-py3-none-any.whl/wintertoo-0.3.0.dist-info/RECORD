@@ -1,0 +1,13 @@
+wintertoo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wintertoo/fields.py,sha256=gHoS_Jbs47QKX3eMvQGcBCpv3-dNB7X6-a-8UqgS-a0,2517
+wintertoo/schedule.py,sha256=Y87VWAtxE7zaYHEcHGKSMP64Hw4ZB11mKXws2NahV-8,6013
+wintertoo/utils.py,sha256=p9iA5iPPY0PIRoJlEXS_bn5zKPScax0HWstWrxhyPZY,6627
+wintertoo/validate.py,sha256=vX17iqIqTyWb0fpA2HnfmllalrM9xBXObHBpLdVT43s,5415
+wintertoo/data/__init__.py,sha256=A5iHy9YCtW9DRBvTLhD49LvmQXzC6PJ7ZfAVnnL7dz4,982
+wintertoo/data/observing_request_schema.json,sha256=YuAhMZR7UZniDHbcjGD7TLwx37P6igSCsleE9PoxvBg,1445
+wintertoo/data/summer_fields.txt,sha256=C8G0blux_hI46zpDII4OXVJ-W-h-KboXDKfTnAS3nCg,52684604
+wintertoo-0.3.0.dist-info/LICENSE,sha256=1-4yY2S7St-8Koy4JGheNG9QPkwff7831u2JITQ2oQs,1063
+wintertoo-0.3.0.dist-info/METADATA,sha256=P_4sEdj6e4WR3xEh2jjSr4mR6cFJNz1mTOxSZOHIo8g,1729
+wintertoo-0.3.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+wintertoo-0.3.0.dist-info/top_level.txt,sha256=6SMjMBzaNrD77erdCiVcRTrPZ-x98SDX43akRjWj4T8,10
+wintertoo-0.3.0.dist-info/RECORD,,
