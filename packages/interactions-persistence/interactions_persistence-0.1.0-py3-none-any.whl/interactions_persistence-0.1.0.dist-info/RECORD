@@ -1,0 +1,10 @@
+interactions/ext/persistence/__init__.py,sha256=67toPvMGA2kp7zfFdpzEueRE-v2jsX_MvGkR8JJETX0,232
+interactions/ext/persistence/base.py,sha256=ubBL4InSAYyLRViPnR2sHw2Jh-zdg4A6h7-OLXJSqKY,401
+interactions/ext/persistence/decor.py,sha256=PFXI9r7uyijwVhLsHCuge4rjQqtECIWpFf5qpmmeSzc,750
+interactions/ext/persistence/extension.py,sha256=fgKpVTzhUlmm9dqiuUx8-yoPu3PWEoAA2YA5y1oboOk,2573
+interactions/ext/persistence/parse.py,sha256=WYgTh181fVnXXJCAQ7f3qXFwKlT9jd8UdU-mCsvjbY8,1351
+interactions_persistence-0.1.0.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+interactions_persistence-0.1.0.dist-info/METADATA,sha256=Aybh5ETFQZLWUkZo23W4kdPHKY0U-wm0bYOzHDnXSs8,2162
+interactions_persistence-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+interactions_persistence-0.1.0.dist-info/top_level.txt,sha256=6JGZJLyYYS31pX0unnc-w68SixoVQ_vd0-abkVS3_m0,13
+interactions_persistence-0.1.0.dist-info/RECORD,,
