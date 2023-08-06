@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+VERSION
+pyproject.toml
+setup.cfg
+setup.py
+src/physrisk_api.egg-info/PKG-INFO
+src/physrisk_api.egg-info/SOURCES.txt
+src/physrisk_api.egg-info/dependency_links.txt
+src/physrisk_api.egg-info/requires.txt
+src/physrisk_api.egg-info/top_level.txt
