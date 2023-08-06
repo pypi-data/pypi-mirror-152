@@ -1,0 +1,11 @@
+Cellcano/__init__.py,sha256=DAdHGQGhZ21Hp4GkI7cIGOOEJXj7ODJuFH8nJTwfiFs,1042
+Cellcano/main.py,sha256=VywFc1vskOYI0UNy-gPxznIAH0dLNwA6DK8w9MjfHgk,5524
+Cellcano/predict.py,sha256=crs1i5iF_URZeYsQtryimUtTn5jZloJqfs_d3rZYJMk,5475
+Cellcano/preprocess.py,sha256=34UnW3mFK0fXEY2AJH74Y190Gx3lMjurhW-PsEi4SQc,8724
+Cellcano/train.py,sha256=nRSPgxRosmRGV8bOMqhFFn1Ur0gPUrcWPgcbadbRzFo,4890
+Cellcano-0.0.1.dist-info/LICENSE,sha256=tU1vetUT05Qxb7MLC8anhZcu4nnKiB7BFQMebkomaIU,1067
+Cellcano-0.0.1.dist-info/METADATA,sha256=cLxwy3XL2R97rALNQS3x1HJUTa3fZpiMyxv3K6TXPNU,1078
+Cellcano-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+Cellcano-0.0.1.dist-info/entry_points.txt,sha256=N5pY5l7kCT6ayNZiV8SCeOciyNhDS18evRTQSL1bX7o,48
+Cellcano-0.0.1.dist-info/top_level.txt,sha256=47vQid1b6gi96Y0kYg7aV1vNjl6VQ_X_yAvHojzjkuA,9
+Cellcano-0.0.1.dist-info/RECORD,,
