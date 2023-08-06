@@ -1,0 +1,9 @@
+py_win_keyboard_layout
+windows-curses
+setuptools
+npyscreen
+numpy
+torch
+asciimatics
+keyboard
+mouse

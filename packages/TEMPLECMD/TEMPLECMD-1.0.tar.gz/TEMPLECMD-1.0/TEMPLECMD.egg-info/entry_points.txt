@@ -1,0 +1,3 @@
+[console_scripts]
+temple! = TUI.__main__:main
+
