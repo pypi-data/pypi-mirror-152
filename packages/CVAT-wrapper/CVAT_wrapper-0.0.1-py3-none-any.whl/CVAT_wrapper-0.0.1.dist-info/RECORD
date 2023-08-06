@@ -1,0 +1,14 @@
+CVAT/__init__.py,sha256=FLwZT0iPB3fdbtob2zn6f_d1rmt7xm4S-A4RJJWxEFA,2542
+CVAT/_delete.py,sha256=5VpzrkbPr8RqyW03fFGGnVMXy2BEjPbH9oRrgFQOKko,1063
+CVAT/_get.py,sha256=6OZE8Ahm8qqPmamRDyqE-Kyx00WN8zlyyypotkkSMx8,5292
+CVAT/_patch.py,sha256=6Y3K_dIUioEA69me_07diJeYWmqSuMGGMT_tBMh7JyI,916
+CVAT/_post.py,sha256=fBC-xOojckTpLRYmvczlSx43Cy9NzQZGZ0-riMgZJ4Q,2627
+CVAT/_put.py,sha256=EQi1IBa-jVVK3knSeCyFaYxzkNq-1KYWQ-ecKZ9otmc,643
+CVAT/_static.py,sha256=vOZsdH-g-IcG3x5pbkzVRlqqL4kbSB2afjEhtxz5aEA,1861
+CVAT/data_types.py,sha256=UJusZHmxl_3-7VDv99LZA7XSydJY_k8cp5NrwYe4cz0,12004
+CVAT/utils.py,sha256=L14Gn6qkshJFSR-pJcYWs93m5Tkrdp-13TmZilgKnCk,448
+CVAT_wrapper-0.0.1.dist-info/LICENSE,sha256=jYFvobZHFSK1K_zMMLpGO__yFiHHAxc539B4_1NZW5Y,1067
+CVAT_wrapper-0.0.1.dist-info/METADATA,sha256=phf4rLOWal7J6eAqKWT0XONomThpWvHBRQb0fK-CQkU,635
+CVAT_wrapper-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+CVAT_wrapper-0.0.1.dist-info/top_level.txt,sha256=1q6UuNqdJaL2WyXFDS10u2BALHgLXrVjc9w7e8-rBFI,5
+CVAT_wrapper-0.0.1.dist-info/RECORD,,
