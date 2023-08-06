@@ -1,0 +1,10 @@
+LICENCE
+README.md
+pyproject.toml
+setup.cfg
+src/pyFPLdata/__init__.py
+src/pyFPLdata/script.py
+src/pyFPLdata.egg-info/PKG-INFO
+src/pyFPLdata.egg-info/SOURCES.txt
+src/pyFPLdata.egg-info/dependency_links.txt
+src/pyFPLdata.egg-info/top_level.txt
