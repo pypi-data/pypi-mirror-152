@@ -1,0 +1,2 @@
+[napari.plugin]
+the-segmentation-game = the_segmentation_game

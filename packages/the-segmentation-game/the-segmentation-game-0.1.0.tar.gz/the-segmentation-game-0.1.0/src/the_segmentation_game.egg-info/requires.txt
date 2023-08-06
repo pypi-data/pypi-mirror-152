@@ -1,0 +1,5 @@
+napari-plugin-engine>=0.1.4
+numpy
+napari_tools_menu
+napari-skimage-regionprops
+scikit-learn
