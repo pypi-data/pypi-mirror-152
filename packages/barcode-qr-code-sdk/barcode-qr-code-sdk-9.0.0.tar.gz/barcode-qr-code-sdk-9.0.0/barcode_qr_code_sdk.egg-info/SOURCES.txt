@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+barcodeQrSDK/__init__.py
+barcode_qr_code_sdk.egg-info/PKG-INFO
+barcode_qr_code_sdk.egg-info/SOURCES.txt
+barcode_qr_code_sdk.egg-info/dependency_links.txt
+barcode_qr_code_sdk.egg-info/top_level.txt
