@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: log-telegram
+Version: 0.2
+Summary: Logging handler to send logs to Telegram
+Home-page: https://github.com/kevinpita/log-telegram
+Author: Kevin Pita
+License: BSD-3-Clause
+Keywords: telegram,logging
+License-File: LICENSE
+Requires-Dist: pyTelegramBotAPI
+
