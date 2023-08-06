@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: OneClick
+Version: 3.0.1
+Summary: OneClik 
+Home-page: https://github.com/SidraELEzz/EmailChecker
+Author: SidraELEzz
+Author-email: 
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Keywords: OneClick
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+
+<h1 align="center">OneClick</h1>
+
+![](https://img.shields.io/badge/SidraELEzz-orange?style=for-the-badge&logo=python.svg) 
+<p align="center">
+<a href="#"><img title="Made in UAE" src="https://img.shields.io/badge/MADE%20IN-UAE-red.svg?style=for-the-badge&logo=github"></a>
+ 
+</p>
+<p align="center">
+<img alt="SidraELEzz' Github Stats" src="https://github-readme-stats.vercel.app/api?username=SidraELEzz&show_icons=true&include_all_commits=true&hide_border=true" />
+
+</p>
+<p align="center">
+<a href="#"><img title="telegram Num" src="https://img.shields.io/badge/telegram%20Num-SidtaTools-red.svg?style=for-the-badge&logo=telegram"></a>
+</p>
+<p align="center">
+<a href="https://github.com/SidraELEzz/followers"><img title="Followers" src="https://img.shields.io/github/followers/SidraELEzz?color=blue&style=flat-square"></a>
+</p>
+
+## Installation :
+```
+pip install OneClick
+
+```
