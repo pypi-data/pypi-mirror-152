@@ -1,0 +1,7 @@
+pytorch_lightning
+embedding_reader
+transformers
+fsspec
+PyYAML
+torch
+numpy
