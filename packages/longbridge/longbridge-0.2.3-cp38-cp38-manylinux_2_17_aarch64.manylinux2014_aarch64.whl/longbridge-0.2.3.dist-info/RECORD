@@ -1,0 +1,8 @@
+longbridge-0.2.3.dist-info/METADATA,sha256=j5-vaFKY75GSQq5JeddQlPO_7dlnIFzaMAl0mZbA_-k,3356
+longbridge-0.2.3.dist-info/WHEEL,sha256=62cSnoSacwWSyuPm7GRRWLSuS6Pgbmo_jk_u0jIJaN4,131
+longbridge/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+longbridge/__init__.py,sha256=nWHWj86D4ZZA2mWLogA6GTTvifhubD195L_T8lbcy1g,89
+longbridge/openapi.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+longbridge/openapi.pyi,sha256=cnFNOFFeihfX7GUVpv2D7Q-irgpqY3FPPt21-t0LCag,49108
+longbridge/longbridge.cpython-38-aarch64-linux-gnu.so,sha256=unaVW4rQ8BnCzDP7awwEzRy-UcWXJxu4Uo_Y5jFuxBk,15960504
+longbridge-0.2.3.dist-info/RECORD,,
