@@ -1,0 +1,3 @@
+[mdformat.parser_extension]
+openmmlab=mdformat_openmmlab
+

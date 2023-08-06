@@ -1,0 +1,9 @@
+mdformat_openmmlab/__init__.py,sha256=k9tmIJ20Ui7Nvxg7y0ajJmDddavtcwI6F-oGMMSj7g4,130
+mdformat_openmmlab/gfm.py,sha256=tfMf1BUXdwZF_w_kaw_7nLs7M32np2QC2En66xlDhIM,4554
+mdformat_openmmlab/plugin.py,sha256=aN4t18-OysXzeIxeR8CQoRb2kmNGeaahydPG1oXqA2g,1477
+mdformat_openmmlab/table.py,sha256=aawlPYODTM3unwHiDISkx1mImo5QkH04Vpn-GCgguX8,4766
+mdformat_openmmlab-0.0.1.dist-info/entry_points.txt,sha256=GmJNFzDjrh0Hkr3VkpeFddGcHw6mRfiaX6JE8iC727I,58
+mdformat_openmmlab-0.0.1.dist-info/LICENSE,sha256=-voxTd2luDRUXIFkSXQRQGL3cHzC9AnnJkv3LJrla3o,1073
+mdformat_openmmlab-0.0.1.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+mdformat_openmmlab-0.0.1.dist-info/METADATA,sha256=8b75POCm2KIYyGxLQ2TNfw9ZHBWlt-FSFWrdaBgilt8,2922
+mdformat_openmmlab-0.0.1.dist-info/RECORD,,
