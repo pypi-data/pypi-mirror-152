@@ -1,0 +1,17 @@
+CHANGELOG.md,sha256=5j9BfPg7GJzvJYnzPgejYgVoObvXBZYGF4wwQ3sC5gA,455
+compressnets/__init__.py,sha256=9Be3cpuixYyZpiCt2dnYIHVN6Uq0yEkJ4ZORnAt-bEI,63
+compressnets/compression.py,sha256=0zH6HwWZm22h9Y_LKqo4Sr0kKHGNRCG99L8yaExhPkY,7416
+compressnets/datafiles/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+compressnets/datafiles/sample_fig.pdf,sha256=ylBiI7X2E33zFIUn_cucSJJlUIpVq9V2Gz5Drp6SBGw,13636
+compressnets/datafiles/sample_fig.png,sha256=eK2GH1oiaYalKBLQBY28SEaUWx8GLsJgCy-uVpfc4-Y,33167
+compressnets/datafiles/sample_network,sha256=rd3Vf5pF6ds_CAdsmTCdpsS_IRdxAG2ytvif49_mNQ0,69767
+compressnets/demos.py,sha256=5IpCxAF1S2QjClKgibFYd1zeqYc-AROfONLxBGuutLE,779
+compressnets/network.py,sha256=QBWghz-HZsDXderse_hYP3KTdPnyB8aeCA-KoyyNsiE,5300
+compressnets/solvers.py,sha256=TZ8andgNlvwTJvsRgJ8ZvCV-l20nK6iEFtTtH83swRc,5270
+tests/__init__.py,sha256=rp7mDlUdzoJjI3HDPMfzVfhCQh_lDWjlxUyaODXGIfI,49
+tests/test_compression.py,sha256=VnFOq4vzwmoj1sP8g5NM-rYeQnfE9zn84xaplvd47L4,17240
+tests/test_network.py,sha256=L4wmoHz65_icexsDwh3wf1RUMgQUi35l6GQGVMmU5vE,3954
+compressnets-1.0.1.dist-info/LICENSE.txt,sha256=ORtsKLuU3igbOIwS93_cYBQnHvHFLYV8vHWJFuNs5cg,1520
+compressnets-1.0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+compressnets-1.0.1.dist-info/METADATA,sha256=CyjWL-PvO0Dnra0bbNUKcnk-scVe3rfmZkuL5y1T5wY,12134
+compressnets-1.0.1.dist-info/RECORD,,
