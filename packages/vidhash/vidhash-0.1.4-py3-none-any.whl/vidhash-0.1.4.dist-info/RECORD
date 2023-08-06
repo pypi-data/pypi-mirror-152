@@ -1,0 +1,12 @@
+vidhash/__init__.py,sha256=m1WXA7BY8g1ZUiRFRTKC7usZMGC9MJ8PdYP8luy_5h8,297
+vidhash/func.py,sha256=8Xtr_ILZEAtsBBqRa9c3xSX7sLa322Q8SMF48XekquY,4235
+vidhash/hash_options.py,sha256=Xv9utuSctu2srJ00hPu2Mh-GJVR6nSjZRHNrp4d6Ovo,1083
+vidhash/match_options.py,sha256=tCobj27twQcJvT9945VrkB_biTSf7iOFiincUq6gbus,2995
+vidhash/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vidhash/stubs/ffmpy3.pyi,sha256=VKCFjv-7EaoXGWddnr2XTNJViXWMzG-TpH0tvXUxMKY,1255
+vidhash/stubs/imagehash.pyi,sha256=CuwpsE5uX2hNm_mhfq8kGW_t_c7Ile6xS4yhR0cwWWM,2416
+vidhash/video_hash.py,sha256=eY-CNwFqBR4GfwuuR7qxb8ErWFUtkPn8cth06bvBaLE,879
+vidhash-0.1.4.dist-info/LICENSE,sha256=DccsLd16QOQqZDu9o6Mibbp3RqeTSobwECWI4N5Sohk,1059
+vidhash-0.1.4.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+vidhash-0.1.4.dist-info/METADATA,sha256=dOccOauXEZSavJtSkQRJRuIAqaGr4zw-5iTVdjsOXyA,1188
+vidhash-0.1.4.dist-info/RECORD,,
