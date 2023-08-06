@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+sentry_tablestore.egg-info/PKG-INFO
+sentry_tablestore.egg-info/SOURCES.txt
+sentry_tablestore.egg-info/dependency_links.txt
+sentry_tablestore.egg-info/not-zip-safe
+sentry_tablestore.egg-info/requires.txt
+sentry_tablestore.egg-info/top_level.txt
+sentry_tablestore/kvstore/tablestore.py
+sentry_tablestore/nodestore/backend.py
