@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: heryisengineer
+Version: 0.0.1
+Summary: This is my information
+Home-page: https://github.com/Thitphavanh/
+Author: Hery Engineer
+Author-email: thitphavanh.psv@gmail.com
+License: MIT
+Download-URL: https://github.com/Thitphavanh/
+Keywords: Hery Engineer
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+ນີ້ແມ່ນ Package Library Python ອັພໂຫຼດຂຶ້ນ PyPi.org ”
+=====================================================
+
+PyPi: https://pypi.org/project/heryisengineer/
+
+ສະບາຍດີ Package ນີ້ແມ່ນສະແດງຂໍ່ມູນກ່ຽວກັບ Hery Engineer
+ສາມາດຕິດຕາມຜົນງານໄດ້ໃນ Facebook Page
+
+ວິທີຕິດຕັ້ງ
+~~~~~~~~~~~
+
+ເປີດ CMD / Terminal
+
+.. code:: python
+
+   pip install heryisengineer
+
+ວິທີໃຊ້ງານ Package
+~~~~~~~~~~~~~~~~~~
+
+-  ເປີດ IDLE ຂຶ້ນມາແລ້ວພິມ…
+
+.. code:: python
+
+   from heryisengineer import HeryIsEngineer
+
+   myname = HeryIsEngineer()
+   myname.show_name()
+   myname.show_facebook_page()
+   myname.about()
+   myname.show_art()
+
+ພັດທະນາໂດຍ : Hery Engineer
+
+FB : https://www.facebook.com/herytwenty.phonsavad GitHub :
+https://github.com/Thitphavanh
+
+
