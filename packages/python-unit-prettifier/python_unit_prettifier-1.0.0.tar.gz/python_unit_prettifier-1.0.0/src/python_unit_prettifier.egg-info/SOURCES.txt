@@ -1,0 +1,13 @@
+AUTHORS.rst
+CONTRIBUTING.rst
+HISTORY.rst
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.py
+src/python_unit_prettifier.egg-info/PKG-INFO
+src/python_unit_prettifier.egg-info/SOURCES.txt
+src/python_unit_prettifier.egg-info/dependency_links.txt
+src/python_unit_prettifier.egg-info/top_level.txt
+src/unit_prettifier/__init__.py

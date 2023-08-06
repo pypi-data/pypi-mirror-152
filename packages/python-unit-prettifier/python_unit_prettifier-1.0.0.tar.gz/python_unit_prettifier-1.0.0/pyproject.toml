@@ -1,0 +1,39 @@
+# pyproject.toml
+
+[build-system]
+requires      = ["setuptools>=62.3.2", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python_unit_prettifier"
+version = "1.0.0"
+description = "Pretty print various units like digital units, weights, and heights, etc. Easy to implement, but why reinvent the wheel!"
+readme = "README.md"
+authors = [{ name = "Aria Bagheri", email = "ariab9342@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["python", "units", "formatting", "user interface", "ui"]
+dependencies = []
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = "https://github.com/AriaBagheri/python_unit_prettifier"
+
+[tool.bumpver]
+current_version = "1.0.0"
+version_pattern = "MAJOR.MINOR.PATCH"
+commit_message  = "Bump version {old_version} -> {new_version}"
+commit          = true
+tag             = true
+push            = false
+
+[tool.bumpver.file_patterns]
+"pyproject.toml" = [
+    'current_version = "{version}"',
+    'version = "{version}"',
+]
+"src/unit_prettifier/__init__.py" = ["{version}"]
