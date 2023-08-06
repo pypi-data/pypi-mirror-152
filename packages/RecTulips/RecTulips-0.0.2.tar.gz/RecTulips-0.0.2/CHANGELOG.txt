@@ -1,0 +1,7 @@
+Change Log
+==========
+
+0.0.2 (24/05/2022)
+-------------------
+- Second Release
+- We fix it to work with Firebase Database
