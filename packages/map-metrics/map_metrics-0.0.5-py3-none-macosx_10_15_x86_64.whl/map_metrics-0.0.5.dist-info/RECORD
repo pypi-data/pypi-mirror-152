@@ -1,0 +1,13 @@
+map_metrics-0.0.5.data/purelib/map_metrics/__init__.py,sha256=mB4Qpt21_gu3bZ7Iek0T7AaLxS80YKlNJ5qNriKAmCM,2759
+map_metrics-0.0.5.data/purelib/map_metrics/libalglib.dylib,sha256=O8mwL6ShCNDraEFcdZuS9r9PhGLI0wwk7Ud81wDvBiw,4415616
+map_metrics-0.0.5.data/purelib/map_metrics/libmap_metrics_cpp.dylib,sha256=fKKzhXdxqChAWBkTPVNkPnao-j4Ue-A0NeuMIWEyvYs,308992
+map_metrics-0.0.5.data/purelib/map_metrics/map_metrics.cpython-310-darwin.so,sha256=ReAI2wPkFJr6WwnOhUKpvY0Pz13SVnyyDELvS6VzM5Y,199016
+map_metrics-0.0.5.data/purelib/map_metrics/map_metrics.cpython-36m-darwin.so,sha256=2UJDOh0W-HB4tF4q9-cx78I6B2hXLQAbAPg4RUxBpws,198928
+map_metrics-0.0.5.data/purelib/map_metrics/map_metrics.cpython-37m-darwin.so,sha256=4ReXscVMEj06SW2iB4M9x1IG1PPjEOpOe74GZIirbcU,198968
+map_metrics-0.0.5.data/purelib/map_metrics/map_metrics.cpython-38-darwin.so,sha256=P5tCX__eCVVrBSZFnQ3DfxYoSykEOTwOUsx_wz6-DSA,198968
+map_metrics-0.0.5.data/purelib/map_metrics/map_metrics.cpython-39-darwin.so,sha256=LvDKId3dbbZGptP-9tceY1HCDKHAZiQGvLIXLK88Oeo,199016
+map_metrics-0.0.5.dist-info/LICENSE,sha256=38DJQOotXHHY4am863dtedjStiuDafLxblCftMQorhI,592
+map_metrics-0.0.5.dist-info/METADATA,sha256=4Wfliak0tfQqFPHGThW14LswRNAvjhGqz-rTNrKMthc,310
+map_metrics-0.0.5.dist-info/WHEEL,sha256=gnctddbxBsQgFOh6Oc2vJGVaez23N49ddgx7JxfjgO0,109
+map_metrics-0.0.5.dist-info/top_level.txt,sha256=s_hS25eIoypnxv-wuwL_KaA5mcbSr830gK1dLTvn4dQ,12
+map_metrics-0.0.5.dist-info/RECORD,,
