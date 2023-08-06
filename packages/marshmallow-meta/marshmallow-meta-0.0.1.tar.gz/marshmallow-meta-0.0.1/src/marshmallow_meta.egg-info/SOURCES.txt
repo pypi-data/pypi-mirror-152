@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/marshmallow_meta/__init__.py
+src/marshmallow_meta.egg-info/PKG-INFO
+src/marshmallow_meta.egg-info/SOURCES.txt
+src/marshmallow_meta.egg-info/dependency_links.txt
+src/marshmallow_meta.egg-info/top_level.txt
