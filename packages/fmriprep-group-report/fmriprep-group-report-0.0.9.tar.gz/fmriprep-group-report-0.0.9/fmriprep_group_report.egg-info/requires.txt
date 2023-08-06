@@ -1,0 +1,5 @@
+Click>=8.0.3
+pybids>=0.14
+pandas
+numpy
+beautifulsoup4
