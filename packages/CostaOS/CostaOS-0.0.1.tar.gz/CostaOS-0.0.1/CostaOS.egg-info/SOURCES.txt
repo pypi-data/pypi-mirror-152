@@ -1,0 +1,7 @@
+setup.py
+Costa/__init__.py
+CostaOS.egg-info/PKG-INFO
+CostaOS.egg-info/SOURCES.txt
+CostaOS.egg-info/dependency_links.txt
+CostaOS.egg-info/requires.txt
+CostaOS.egg-info/top_level.txt

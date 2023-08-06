@@ -1,0 +1,2 @@
+win32gui==304
+tkinterweb==3.13.2
