@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/svgs/__init__.py
+src/svgs/svgs.py
+src/svgs.egg-info/PKG-INFO
+src/svgs.egg-info/SOURCES.txt
+src/svgs.egg-info/dependency_links.txt
+src/svgs.egg-info/requires.txt
+src/svgs.egg-info/top_level.txt
