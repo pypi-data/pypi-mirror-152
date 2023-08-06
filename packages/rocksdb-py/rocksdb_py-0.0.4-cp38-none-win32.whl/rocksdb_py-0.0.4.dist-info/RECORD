@@ -1,0 +1,7 @@
+rocksdb_py-0.0.4.dist-info/METADATA,sha256=bekan4sH-5F5yn1PUSQZc4AYlwvHPA3tJ_t3XuIQOz4,2879
+rocksdb_py-0.0.4.dist-info/WHEEL,sha256=j_NLecoPItyv7bidgprmKKiwN0secyYrzcXujck9Ytk,92
+rocksdbpy/__init__.py,sha256=Kz2gYrGTjiwwVwZlsO7AGD3MJCQVX77suIotOkFgmnw,119
+rocksdbpy/__init__.pyi,sha256=bgFTHKfG6INEMtWDnp_QFBHPCbIkyO1XqTMZ_qr1OXk,5669
+rocksdbpy/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rocksdbpy/rocksdbpy.cp38-win32.pyd,sha256=vlNxoAQkOpOYj3r-iFMNUlCJS3eF6czV8ia4SchmW_s,3480064
+rocksdb_py-0.0.4.dist-info/RECORD,,
