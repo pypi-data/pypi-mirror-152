@@ -1,0 +1,3 @@
+text_selection
+text_selection_cli
+text_selection_core
