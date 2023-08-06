@@ -1,0 +1,11 @@
+vupysolr/__init__.py,sha256=OSiZFWfteZLsqQ83pDEWSwXe3CtJMY7J4jK_wF8WgT0,1300
+vupysolr/__main__.py,sha256=bpVw0jZ5fI8P7qED6KMZBgXP7soaR0Zqmm4Dy5Vs5OQ,1682
+vupysolr/base.py,sha256=zY3HXPRRwRUAZpd6hQpWuOJu-HqfmtDCfAbOF52kovo,5435
+vupysolr/docs.py,sha256=S0b3v7Jp5j7hYUwd-fbJuU-RWMcSaVdEDlmb749ItiU,8999
+vupysolr/utils.py,sha256=4JU-kImyRVwxbPHEJc8J62ETWxa39k3YdKjiDMD99iA,1218
+vupysolr-0.1.7.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+vupysolr-0.1.7.dist-info/METADATA,sha256=8MobpzK5vZIJfnyfavSCkbfDiqq8LTgD8IIe0LnzPh8,1994
+vupysolr-0.1.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+vupysolr-0.1.7.dist-info/entry_points.txt,sha256=j1nOxBuFXYrgXGayHQNfz4Z_cPhxvjOCsiulip3HfVw,53
+vupysolr-0.1.7.dist-info/top_level.txt,sha256=54a4OSkoUsB4CY7pARty4JbrNcSrdV13BA19wCrMVnI,9
+vupysolr-0.1.7.dist-info/RECORD,,
