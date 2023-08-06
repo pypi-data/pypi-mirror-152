@@ -1,0 +1,377 @@
+Metadata-Version: 2.1
+Name: FlowViewer
+Version: 0.0.6
+Summary: Chrome浏览器数据包监听器。
+Home-page: https://gitee.com/g1879/FlowViewer
+Author: g1879
+Author-email: g1879@qq.com
+License: MIT
+Keywords: FlowViewer
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: BSD License
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: DrissionPage
+Requires-Dist: requests
+Requires-Dist: pychrome
+
+# ✨️介绍
+
+本库是一个基于 python 的 Chrome 浏览器数据包监测器。可以异步监听浏览器收发数据，实时返回结果供同步程序使用。
+
+# 🍀特性
+
+- 轻便，使用简单
+
+- 无侵入式检测，手动、自动程序都可使用
+
+- 可设置检测目标、数量、时间
+
+- 可同步使用检测到的数据
+
+- 可自动搜索 Chrome 进程，便于监听 selenium 打开的未知端口浏览器
+
+# 📕安装
+
+```python
+pip install FlowViewer
+```
+
+# 🛠使用方法
+
+## 🔨启动浏览器
+
+要实现监听，浏览器须配置`--remote-debugging-port`参数，有以下几种方式：
+
+### 🔧使用带参数的快捷方式
+
+创建一个指向 chrome.exe 的快捷方式，然后右键点击》属性，在“目标”一栏后面加上` --remote-debugging-port=端口号`（注意`--`前面有个空格）。
+
+端口号随便指定一个即可。
+
+如：
+
+```
+D:\Chrome\chrome.exe --remote-debugging-port=9222
+```
+
+### 🔧使用 bat 文件启动浏览器
+
+新建一个 bat 格式文件，在里面填入上面一种方法示例里的内容，用这个 bat 文件来启动浏览器。
+
+### 🔧使用 DrissionPage 启动浏览器
+
+DrissionPage 是本库作者另一个作品，是一个超级方便的网页和网络自动化工具，详情见这里：[DrissionPage](http://g1879.gitee.io/drissionpage)。
+
+用 DrissionPage 启动的浏览器，默认运行在 9222 端口（也可自定义），之后直接把`MixPage`对象传入监听器即可。
+
+```python
+from DrissionPage import MixPage
+
+page = MixPage()  # 在 9222 端口打开一个浏览器
+```
+
+### 🔧使用 selenium 启动浏览器
+
+selenium 启动的浏览器端口是随机的。
+
+```python
+from selenium import webdriver
+
+driver = webdriver.Chrome()
+```
+
+## 🔨监听器 api
+
+监听器有两种，`RequestMan`和`Listener`，分别用于监听 request 和 response 数据。两者结构和用法基本一致，只是监听对象和返回的类型不一样，这里以`Listener`作介绍。
+
+`Listener`类
+
+属性：
+
+- `listening`：是否正在执行监听
+
+- `tab_id`：当前监听的标签页 id
+
+- `targets`：当前要监听的目标
+
+- `active_tab`：浏览器当前活动的标签页 id
+
+- `results`：监听的结果
+
+- `show_msg`：开始和结束是否打印提示
+
+方法：
+
+- `set_target(targets)`：设置要监听的目标
+
+- `listen(targets, count, timeout, asyn)`：执行监听
+
+- `steps(gap)`：逐组获取监听结果
+
+- `stop()`：停止监听
+
+- `wait()`：等待监听结束
+
+- `to_tab(handle_or_id, browser)`：切换监听标签页
+
+- `get_results(target)`：获取某目标的监听结果
+
+## 🔨创建监听器
+
+两者使用方法一致。这里用`Listener`做演示，用于监听 response数据，要监听 request 数据时，改用`RequestMan`即可。
+
+### 🔧输入 url 或端口号
+
+指定了监听端口的浏览器，可直接传入监听 url 或端口号，以创建监听器。
+
+```python
+from FlowViewer import Listener
+
+listener = Listener(9222)
+# 或
+listener = Listener('127.0.0.1:9222')
+```
+
+### 🔧传入`MixPage `
+
+如果您使用 DrissionPage，可直接把页面对象放入监听器。
+
+```python
+from DrissionPage import MixPage
+from FlowViewer import Listener
+
+page = MixPage()
+listener = Listener(page)
+```
+
+### 🔧自动查找可监听的浏览器
+
+如果使用 selenium，所创建的浏览器端口是随机的，这个时候可不传入任何参数，让监听器自行查找可监听的浏览器，但如果存在多个可监听浏览器，不一定能监听到正确的。
+
+```python
+from selenium import webdriver
+from FlowViewer import Listener
+
+driver = webdriver.Chrome()
+listener = Listener()
+```
+
+## 🔨执行监听
+
+### 🔧设置目标和开始
+
+您可以给监听器设置多个监听目标，监听目标是字符串或字符串组成的列表，只要请求的 url 当中包含监听目标，就会被记录下来。目标可以设置为对象属性，也可以每次启动监听时传入。默认设置为`True`，表示所有请求都会被记录。
+
+设置为对象属性：
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.set_targets(('baidu.com', '163.com'))  # url包含这些字符串的请求会被记录
+listener.listen()  # 开始监听
+```
+
+监听启动时设置目标：
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.listen('baidu.com')  # 开始监听url包含该字符串的请求
+```
+
+### 🔧同步和异步
+
+监听器可进行同步或异步监听，可通过`asyn`参数设置，默认为`True`，表示异步。
+
+同步监听时，监听时阻塞线程，到达条件才能继续执行后面的代码。
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.listen('baidu.com', count=3, asyn=False)  # 同步监听
+# 或
+listener.listen('baidu.com', count=3, asyn=True)  # 异步监听
+```
+
+### 🔧停止监听
+
+有 3 种方式可以停止监听：
+
+（1）设置获取数量，当监听器收集到足够数量的请求，就会停止监听。默认为`None`，表示无限制。
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.listen('baidu.com', count=3)  # 获取到3个请求就结束
+```
+
+（2）设置超时时间，当到达时间，即使未达到设定数量，也会停止。默认为`None`，表示无时限。
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.listen('baidu.com', timeout=10)  # 监听10秒结束
+```
+
+**Tips：**`count`和`timeout`两个参数同时设置时，其中一个到达就会停止。
+
+（3）调用`stop()`方法停止。当调用这个方法时，监听器会立刻停下。
+
+```python
+from FlowViewer import Listener
+from time import sleep
+
+listener = Listener()
+listener.listen('baidu.com') 
+sleep(10)
+listner.stop()
+```
+
+## 🔨获取监听结果
+
+同步监听时，根据设置的条件结束后，可从`results`属性或`get_results()`方法获取监听到的请求数据。 
+
+异步监听时，除以上方法，还可实时返回监听到的数据，可逐步执行。
+
+### 🔧按目标获取结果
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.set_targets(('baidu.com', '163.com'))
+listener.listen(timeout=10, asyn=False)  # 同步监听
+
+print(listener.results)  # 打印所有获取到的请求
+print(listener.get_results('baidu.com'))  # 打印该目标获取到的请求
+```
+
+### 🔧实时获取监听结果
+
+异步实时返回并打印监听结果，可使用`steps()`方法。该方法时一个生成器，可使用`for`遍历，每一步返回一组监听结果。通过设置`gap`参数，可指定每多少个请求才返回，返回的结果放在列表中。示例：
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.listen('baidu.com', asyn=True)  # 异步监听
+
+for results in listener.steps(gap=2):
+    print(results[0].url)  # 打印一个结果的url
+```
+
+**Tips：** 
+
+- 实时返回结果的功能非常实用，可实现每个结果及时处理，或每获取一个结果执行一次翻页等
+
+- 有时一页中的数据分布在几个请求中，就可以通过`gap`参数设置每页要获取的请求数量
+
+## 🔨切换标签页
+
+监听途中可切换要监听的标签页而不中断监听，新监听的标签页数据会继续添加到监听结果。切换通过传入目标标签页 handle 或 id 实现，不传入时监听浏览器当前活动的标签页。
+
+**Tips：** 标签页即使不在活动状态，也可以进行监听。
+
+切换到当前活动标签页：
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.to_tab()
+```
+
+每获取一条数据切换一次标签页：
+
+```python
+from FlowViewer import Listener
+
+listener = Listener()
+listener.listen('baidu.com')
+tabs_id = ('tab1_id_xxxx', 'tab2_id_xxxx')
+
+for index, i in enumerate(listen.steps()):
+    listener.to_tab(tabs_id[index % 2])
+    print(i[0].url)
+```
+
+## 🔨结果数据对象
+
+request 监听结果保存为`RequestData`对象，response 监听结果保存为`ResponseData`对象。
+
+### 🔧`RequestData`类
+
+属性：
+
+- request_id：浏览器保存的请求唯一 id
+
+- fetch_id：请求在浏览器 Fetch 协议下的 id
+
+- request：requst 数据，是一个大小写不敏感的字典
+
+- headers：headers 数据，是一个大小写不敏感的字典
+
+- tab：产生这个请求的标签页的 id
+
+- target：产生这个请求的监听目标
+
+除以上属性，`RequestData`可通过 key 或指定属性来访问具体的 request 字段：
+
+```python
+# 假设rd是一个RequestData对象
+print(rd.headers.referer)  # 打印request中的referer数据
+print(rd['headers']['referer'])  # 和上面一行一致
+```
+
+可以使用的属性有：
+
+### 🔧`ResponseData`类
+
+属性：
+
+- request_id：浏览器保存的请求唯一 id
+
+- response：response 数据，是一个大小写不敏感的字典
+
+- body：reponse body 数据，如果请求是 json 格式，返回转换后的字典，否则返回其文本
+
+- raw_body：转换字典前的 body 原始文本
+
+- post_data：如果是 post 方式请求，返回其 post data 文本，否则为`None`
+
+- tab：产生这个请求的标签页的 id
+
+- target：产生这个请求的监听目标
+
+除以上属性，`ResponseData`可通过 key 或指定属性来访问具体的 response 字段：
+
+```python
+# 假设rd是一个ResponseData对象
+print(rd.url)  # 打印response中的url数据
+print(rd['url'])  # 和上面一行一致
+```
+
+可以使用的属性有：
+
+url、status、statusText、headers、headersText、mimeType、requestHeaders、requestHeadersText、connectionReused、connectionId、remoteIPAddress、remotePort、fromDiskCache、fromServiceWorker、 fromPrefetchCache、encodedDataLength、timing、serviceWorkerResponseSource、responseTime、  cacheStorageCacheName、protocol、securityState、securityDetails
+
+# 🖐🏻 免责声明
+
+请勿将 FlowViewer 应用到任何可能会违反法律规定和道德约束的工作中,请友善使用 FlowViewer，遵守蜘蛛协议，不要将 FlowViewer 用于任何非法用途。如您选择使用 FlowViewer 即代表您遵守此协议，作者不承担任何由于您违反此协议带来任何的法律风险和损失，一切后果由您承担。
+
+# ☕ 请我喝咖啡
+
+如果本项目对您有所帮助，不妨请作者我喝杯咖啡 ：）
+
+![](https://gitee.com/g1879/DrissionPage-demos/raw/master/pics/code.jpg)
+
+
