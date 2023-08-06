@@ -1,0 +1,2 @@
+[pytest11]
+abstracts = pytest_abstracts

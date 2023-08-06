@@ -1,0 +1,55 @@
+Metadata-Version: 2.1
+Name: pytest-abstracts
+Version: 0.0.1
+Summary: A contextmanager pytest fixture for handling multiple mock abstracts
+Home-page: https://github.com/envoyproxy/pytooling/tree/main/pytest-abstracts
+Author: Ryan Northey
+Author-email: ryan@synca.io
+Maintainer: Ryan Northey
+Maintainer-email: ryan@synca.io
+License: Apache Software License 2.0
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: Pytest
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Testing
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.5
+Requires-Dist: pytest (>=3.5.0)
+Provides-Extra: lint
+Requires-Dist: flake8 ; extra == 'lint'
+Provides-Extra: publish
+Requires-Dist: wheel ; extra == 'publish'
+Provides-Extra: test
+Requires-Dist: pytest-coverage ; extra == 'test'
+Provides-Extra: types
+Requires-Dist: mypy ; extra == 'types'
+
+================
+pytest-abstracts
+================
+
+
+Installation
+------------
+
+You can install "pytest-abstracts" via ``pip``
+
+.. code-block:: console
+
+    $ pip install pytest-abstracts
+
+
+License
+-------
+
+Distributed under the terms of the Apache Software License 2.0 license, "pytest-abstracts" is free and open source software
+
+
