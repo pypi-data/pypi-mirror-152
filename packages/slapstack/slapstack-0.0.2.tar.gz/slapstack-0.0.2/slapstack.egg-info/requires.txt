@@ -1,0 +1,5 @@
+gym
+numpy
+joblib
+cython
+json
