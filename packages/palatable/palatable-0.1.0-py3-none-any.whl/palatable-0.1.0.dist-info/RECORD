@@ -1,0 +1,15 @@
+palatable/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+palatable/color.py,sha256=Ki9OON-XEe21D9JsKjZqN6rfNxVGRHEJpibGN8HDfaM,1028
+palatable/course.py,sha256=HnSTBAaFJce_9s5VSY8tqJD1lwEG9rPGlAd7fvo3_FM,2954
+palatable/graph.py,sha256=SzlLwoUeQWDTVaGChZKwTQWqudAO3QM3iuJuGvUy4PM,4051
+palatable/graphbuilder.py,sha256=_E2WxZrhYOD8F1M1A6LrLti6J8McpyFW86QXGk44yBc,2875
+palatable/graphpainter.py,sha256=SGUn0jpoPoHCEPdrUGtrqsQ_VS0avYBU4N8BUhEenoo,7617
+palatable/helpers.py,sha256=jUYM1nyE846BoaJYB7eKfrAnNunKYt8UJKeeUs-w8KI,444
+palatable/scheduler.py,sha256=IrSRAUn0sjDzxtNf0YbWLyL09gOD66Mag-dKs8ugRFI,2490
+palatable/student.py,sha256=Yk3R72c8pivFMAOm6FP9DkxyuLtiCp3Hf7Yaq6l3BxA,692
+palatable-0.1.0.dist-info/LICENSE,sha256=U1_8LMFdUbhJ8ro9XL_h65_kZ3a9UNkW3xpL1-gjEIQ,646
+palatable-0.1.0.dist-info/METADATA,sha256=x9q2x1HaUaULcaxM-yw-ctYytRjy88cg2ek6ocIpqpk,4470
+palatable-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+palatable-0.1.0.dist-info/entry_points.txt,sha256=HWvEO0SVA9TPMOPv-JLKFZIMyYhKCgkqCPsKMmkkqi4,55
+palatable-0.1.0.dist-info/top_level.txt,sha256=J9z-o_6yUJ-rlY3VXYL8raXNCSySqStq5IE5DEZl1R0,10
+palatable-0.1.0.dist-info/RECORD,,
