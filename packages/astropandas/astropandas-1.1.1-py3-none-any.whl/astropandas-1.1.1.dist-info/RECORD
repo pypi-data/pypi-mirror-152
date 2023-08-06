@@ -1,0 +1,9 @@
+astropandas/__init__.py,sha256=JezxO19rKDpiMbQAt2fN9ULrwLUOdiMtzr-O6ypQze0,113
+astropandas/io.py,sha256=uddUZEtjijAaEICxIEQVcCvXGMP7XusSIJY6SpnE92Q,7039
+astropandas/match.py,sha256=ZezUBeDzALjwdAEe0Y7i23v-mr4lvYRSvw1snHiNxLY,16090
+astropandas/version.py,sha256=y4gEwC0Q8o2BsM98PtyuCntN1nW-ViBe6bKQWBL7isA,21
+astropandas-1.1.1.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+astropandas-1.1.1.dist-info/METADATA,sha256=zNFD3HEalmr_3_TBK7AjU07Bcm2jYI-KcxcfdzF5GBQ,1576
+astropandas-1.1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+astropandas-1.1.1.dist-info/top_level.txt,sha256=Jd2K2ZupvtuLty368o6oUSgZR0UEBYOuffphio9AKyg,12
+astropandas-1.1.1.dist-info/RECORD,,
