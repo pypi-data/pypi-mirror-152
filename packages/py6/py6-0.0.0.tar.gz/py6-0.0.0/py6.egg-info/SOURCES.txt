@@ -1,0 +1,8 @@
+README.md
+setup.py
+py6.egg-info/PKG-INFO
+py6.egg-info/SOURCES.txt
+py6.egg-info/dependency_links.txt
+py6.egg-info/top_level.txt
+wu/__init__.py
+wu/wy.py
