@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: gluuscanner
+Version: 0.0.1
+Home-page: https://github.com/0786ShivaniBansal/GluuLog4jScanner
+License: 'MIT'
+Keywords: one,two
+Classifier: Framework :: Django
+Classifier: Programming Language :: Python :: 3
+Provides-Extra: pdf
+Provides-Extra: rest
+License-File: LICENSE

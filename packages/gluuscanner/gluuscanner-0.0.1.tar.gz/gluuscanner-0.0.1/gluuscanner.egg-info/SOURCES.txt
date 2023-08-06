@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+gluuscanner.egg-info/PKG-INFO
+gluuscanner.egg-info/SOURCES.txt
+gluuscanner.egg-info/dependency_links.txt
+gluuscanner.egg-info/entry_points.txt
+gluuscanner.egg-info/not-zip-safe
+gluuscanner.egg-info/requires.txt
+gluuscanner.egg-info/top_level.txt
