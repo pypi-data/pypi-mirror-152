@@ -1,0 +1,3 @@
+[console_scripts]
+djangoctl = djangoctl.core:main
+
