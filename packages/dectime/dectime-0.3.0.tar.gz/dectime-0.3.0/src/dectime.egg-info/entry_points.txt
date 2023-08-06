@@ -1,0 +1,2 @@
+[console_scripts]
+dectime = dectime:main
