@@ -1,0 +1,269 @@
+# Vblocks
+
+Zero-dependency Python library for declaratively building Slack Block Kit UI.
+
+## Requirements
+
+`vblocks` requires Python >= 3.7.
+
+## Installation
+
+Install vblocks with pip
+
+```bash
+  pip install vblocks
+```
+
+## Usage/Examples
+
+There are 4 different types of UI components: Blocks, Composition, Elements, and Views.
+
+### Composition Example
+
+Composition elements are the simplest form of UI components. These objects can be used inside of block elements and certain message payloads.
+
+```python
+from vblocks import Text
+text = Text(
+        type="mrkdwn",
+        text="A message *with some bold text* and _some italicized text_.",
+    )
+text.json()
+```
+
+###### Will generate the following
+
+```json
+{
+  "type": "mrkdwn",
+  "text": "A message *with some bold text* and _some italicized text_."
+}
+```
+
+### Element Example
+
+Elements can be used inside of SectionBlocks, ContextBlocks, InputBlocks, and ActionBlocks. These components are similar to standard HTML components, such as Buttons, Checkboxes, Date pickers, and more.
+
+```python
+from vblocks import Button
+
+button = Button(text=Text("plain_text", "Click Me"), action_id="button")
+button.json()
+```
+
+###### Will generate the following
+
+```json
+{
+  "type": "button",
+  "text": { "type": "plain_text", "text": "Click Me" },
+  "action_id": "button"
+}
+```
+
+### Block Example
+
+Blocks are components which can be combined to create layouts, with interactive components. These range from ActionBlocks, ContextBlocks, etc.
+
+```python
+action = ActionBlock(
+            block_id="actions1",
+            elements=[
+                StaticSelectMenu(
+                    placeholder=Text(
+                        type="plain_text", text="Which witch is the witchiest witch?"
+                    ),
+                    action_id="select_2",
+                    options=[
+                        Option(
+                            text=Text(type="plain_text", text="Matilda"),
+                            value="matilda",
+                        ),
+                        Option(
+                            text=Text(type="plain_text", text="Glinda"),
+                            value="glinda",
+                        ),
+                        Option(
+                            text=Text(type="plain_text", text="Granny Weatherwax"),
+                            value="grannyWeatherwax",
+                        ),
+                        Option(
+                            text=Text(type="plain_text", text="Hermione"),
+                            value="hermione",
+                        ),
+                    ],
+                ),
+                Button(
+                    text=Text(type="plain_text", text="Cancel"),
+                    action_id="button_1",
+                    value="cancel",
+                ),
+            ],
+        )
+action.json()
+```
+
+###### Will generate the following
+
+```json
+{
+  "type": "actions",
+  "block_id": "actions1",
+  "elements": [
+    {
+      "type": "static_select",
+      "placeholder": {
+        "type": "plain_text",
+        "text": "Which witch is the witchiest witch?"
+      },
+      "action_id": "select_2",
+      "options": [
+        {
+          "text": { "type": "plain_text", "text": "Matilda" },
+          "value": "matilda"
+        },
+        {
+          "text": { "type": "plain_text", "text": "Glinda" },
+          "value": "glinda"
+        },
+        {
+          "text": { "type": "plain_text", "text": "Granny Weatherwax" },
+          "value": "grannyWeatherwax"
+        },
+        {
+          "text": { "type": "plain_text", "text": "Hermione" },
+          "value": "hermione"
+        }
+      ]
+    },
+    {
+      "type": "button",
+      "text": { "type": "plain_text", "text": "Cancel" },
+      "value": "cancel",
+      "action_id": "button_1"
+    }
+  ]
+}
+```
+
+### View Example
+
+Views are visual areas within Modals, Home tabs, and Messages.
+
+```python
+from vblocks import Modal, Text, Section, Button, Input
+
+modal = Modal(
+    title=Text(type="plain_text", text="Modal title"),
+    blocks=[
+        Section(
+            block_id="section1",
+            text=Text(
+                type="mrkdwn",
+                text="It's Block Kit...but _in a modal_",
+            ),
+            accessory=Button(
+                text=Text(type="plain_text", text="Click me"),
+                action_id="button_abc",
+                value="Button value",
+                style="danger",
+            ),
+        ),
+        Input(
+            label=Text(type="plain_text", text="Input label"),
+            element=PlainTextInput(
+                action_id="input1",
+                placeholder=Text(type="plain_text", text="Type in here"),
+                multiline=False,
+            ),
+            optional=False,
+        ),
+    ],
+    close=Text(type="plain_text", text="Cancel"),
+    submit=Text(type="plain_text", text="Save"),
+    private_metadata="Shhhhhhhh",
+    callback_id="view_identifier_12",
+)
+modal.json()
+```
+
+###### Will generate the following
+
+```json
+{
+  "type": "modal",
+  "title": { "type": "plain_text", "text": "Modal title" },
+  "blocks": [
+    {
+      "type": "section",
+      "text": {
+        "type": "mrkdwn",
+        "text": "It's Block Kit...but _in a modal_"
+      },
+      "block_id": "section1",
+      "accessory": {
+        "type": "button",
+        "text": { "type": "plain_text", "text": "Click me" },
+        "action_id": "button_abc",
+        "value": "Button value",
+        "style": "danger"
+      }
+    },
+    {
+      "type": "input",
+      "label": { "type": "plain_text", "text": "Input label" },
+      "element": {
+        "type": "plain_text_input",
+        "action_id": "input1",
+        "placeholder": { "type": "plain_text", "text": "Type in here" },
+        "multiline": false
+      },
+      "optional": false
+    }
+  ],
+  "close": { "type": "plain_text", "text": "Cancel" },
+  "submit": { "type": "plain_text", "text": "Save" },
+  "private_metadata": "Shhhhhhhh",
+  "callback_id": "view_identifier_12"
+}
+```
+
+## Class Reference
+
+Below is a list of supported Slack UI elements and their respective **Vblocks**:
+
+| **Name**                      | **Type**    | **Class**                 |
+| ----------------------------- | ----------- | ------------------------- |
+| Action                        | Block       | ActionBlock()             |
+| Context                       | Block       | ContextBlock()            |
+| Divider                       | Block       | DividerBlock()            |
+| File                          | Block       | FileBlock()               |
+| Header                        | Block       | HeaderBlock()             |
+| Image                         | Block       | ImageBlock()              |
+| Input                         | Block       | InputBlock()              |
+| Section                       | Block       | SectionBlock()            |
+| Text                          | Composition | Text()                    |
+| Confirmation                  | Composition | Confirmation()            |
+| Option                        | Composition | Option()                  |
+| Option Group                  | Composition | OptionGroup()             |
+| Dispatch Action Configuration | Composition | DispatchAction()          |
+| Filter                        | Composition | Filter()                  |
+| Button                        | Element     | Button()                  |
+| Checkbox Group                | Element     | CheckboxGroup()           |
+| Date Picker                   | Element     | DatePicker()              |
+| Image                         | Element     | Image()                   |
+| Multi Static Select           | Element     | MultiStaticSelect()       |
+| Multi External Select         | Element     | MultiExternalSelect()     |
+| Multi User Select             | Element     | MultiUserSelect()         |
+| Multi Conversation Select     | Element     | MultiConversationSelect() |
+| Multi Channel Select          | Element     | MultiChannelSelect()      |
+| Overflow Menu                 | Element     | OverflowMenu()            |
+| Plain Text Input              | Element     | PlainTextInput()          |
+| Radio Button Group            | Element     | RadioButtonGroup()        |
+| Static Select Menu            | Element     | StaticSelectMenu()        |
+| External Select Menu          | Element     | ExternalSelectMenu()      |
+| User Select Menu              | Element     | UserSelectMenu()          |
+| Conversation Select Menu      | Element     | ConversationSelectMenu()  |
+| Static Select Menu            | Element     | StaticSelectMenu()        |
+| Channel Select Menu           | Element     | ChannelSelectMenu()       |
+| Time Picker                   | Element     | TimePicker()              |
