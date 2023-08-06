@@ -1,0 +1,44 @@
+
+[all]
+Cython
+scikit-build
+cmake
+ninja
+pytest>=4.6.11
+pytest-cov>=2.10.1
+coverage[toml]>=5.3
+ubelt>=1.0.1
+
+[all:python_version <= "3.6"]
+IPython<7.17.0,>=0.13
+IPython<7.17.0,>=0.13
+
+[all:python_version >= "3.7"]
+IPython>=0.13
+IPython>=0.13
+
+[build]
+Cython
+scikit-build
+cmake
+ninja
+
+[ipython]
+
+[ipython:python_version <= "3.6"]
+IPython<7.17.0,>=0.13
+
+[ipython:python_version >= "3.7"]
+IPython>=0.13
+
+[tests]
+pytest>=4.6.11
+pytest-cov>=2.10.1
+coverage[toml]>=5.3
+ubelt>=1.0.1
+
+[tests:python_version <= "3.6"]
+IPython<7.17.0,>=0.13
+
+[tests:python_version >= "3.7"]
+IPython>=0.13
