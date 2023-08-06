@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: genotools
+Version: 0.0.0
+Summary: Genotools: A python utility package for NGS data analysis.
+Home-page: https://github.com/ShujiaHuang/genotools
+Author: Shujia Huang
+Author-email: huangshujia9@gmail.com
+Maintainer: Shujia Huang
+Maintainer-email: huangshujia9@gmail.com
+License: BSD (3-clause)
+Download-URL: https://github.com/ShujiaHuang/genotools
+Description: #genotools: A utility toolkits for NGS data analysis
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Description-Content-Type: text/markdown

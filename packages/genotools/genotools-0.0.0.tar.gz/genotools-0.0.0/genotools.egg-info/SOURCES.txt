@@ -1,0 +1,6 @@
+README.md
+setup.py
+genotools.egg-info/PKG-INFO
+genotools.egg-info/SOURCES.txt
+genotools.egg-info/dependency_links.txt
+genotools.egg-info/top_level.txt
