@@ -1,0 +1,12 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+chadchart/__init__.py
+chadchart/chadchart.py
+chadchart.egg-info/PKG-INFO
+chadchart.egg-info/SOURCES.txt
+chadchart.egg-info/dependency_links.txt
+chadchart.egg-info/requires.txt
+chadchart.egg-info/top_level.txt
