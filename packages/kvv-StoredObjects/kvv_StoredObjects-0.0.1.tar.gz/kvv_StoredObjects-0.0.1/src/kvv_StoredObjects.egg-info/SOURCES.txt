@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/kvv_StoredObjects.egg-info/PKG-INFO
+src/kvv_StoredObjects.egg-info/SOURCES.txt
+src/kvv_StoredObjects.egg-info/dependency_links.txt
+src/kvv_StoredObjects.egg-info/top_level.txt
