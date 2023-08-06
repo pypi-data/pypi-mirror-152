@@ -1,0 +1,11 @@
+*.asdf
+*.idea*
+*.pyc
+*__pycache__*
+*.egg-info
+*version.py*
+build/
+.eggs/
+.pytest_cache/
+.tox/
+*.ipynb_checkpoints*
