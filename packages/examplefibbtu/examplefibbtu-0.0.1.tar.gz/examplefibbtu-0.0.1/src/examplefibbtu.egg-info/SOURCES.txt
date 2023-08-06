@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/examplefibbtu/__init__.py
+src/examplefibbtu/quiz.py
+src/examplefibbtu.egg-info/PKG-INFO
+src/examplefibbtu.egg-info/SOURCES.txt
+src/examplefibbtu.egg-info/dependency_links.txt
+src/examplefibbtu.egg-info/top_level.txt
