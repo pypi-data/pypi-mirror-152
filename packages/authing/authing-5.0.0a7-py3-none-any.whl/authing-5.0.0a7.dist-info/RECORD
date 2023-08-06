@@ -1,0 +1,12 @@
+authing/AuthingException.py,sha256=X34eCuLDR8HKtk-Xs-OCX1avJo3zadcins2dfcGOSGk,509
+authing/HttpClient.py,sha256=7Wly4NwYlZVqoG0XsGeYD4cI_7OA5NGNIE4QqIbSeoU,1492
+authing/ManagementClient.py,sha256=fDjpNIeodCO2e1dUpVRqNTPFkV1Wjaf5x7w8WCxH0eU,64181
+authing/ManagementTokenProvider.py,sha256=-ScJU6SJqhEGSwR7U3XizeEX9UEg4kCOdEXbSMGpNAA,2116
+authing/__init__.py,sha256=GsQKhNaf82zgALPzD78X4qwgN_E8Mv7hjEFunq2eY-A,125
+authing/constants.py,sha256=U3aYcj_l-KCf0wEt8fnpvP72gMTHFcM9qhU5ycgs5r4,303
+authing/version.py,sha256=38PdAWqKi93ZrLRRUf_SToMIEQnVUBnuW7_OxGPZ1Pk,23
+authing-5.0.0a7.dist-info/LICENSE,sha256=mrEL65NXVvoXuT88C-nEA8fZ4rufPaOaHzxJoEx3R0g,1063
+authing-5.0.0a7.dist-info/METADATA,sha256=ORcvLKuz4fPTa_qSjVd-hEP5OlbqNwTTZvhFvDfHHWY,5164
+authing-5.0.0a7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+authing-5.0.0a7.dist-info/top_level.txt,sha256=DFyFm2IWe4ob3TGRMlZ7f6DXcOZH1qs94EKbntUkKd4,8
+authing-5.0.0a7.dist-info/RECORD,,
