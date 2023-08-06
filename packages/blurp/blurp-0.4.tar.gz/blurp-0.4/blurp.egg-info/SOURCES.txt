@@ -1,0 +1,12 @@
+README.md
+setup.py
+blurp.egg-info/PKG-INFO
+blurp.egg-info/SOURCES.txt
+blurp.egg-info/dependency_links.txt
+blurp.egg-info/entry_points.txt
+blurp.egg-info/not-zip-safe
+blurp.egg-info/top_level.txt
+cool_lib/__init__.py
+cool_lib/__main__.py
+cool_lib/a.py
+cool_lib/b.py
