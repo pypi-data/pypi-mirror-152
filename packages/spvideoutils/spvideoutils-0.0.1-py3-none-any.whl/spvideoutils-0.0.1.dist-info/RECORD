@@ -1,0 +1,10 @@
+spvideoutils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spvideoutils/camera.py,sha256=OgvEW1QHu2LhbT6xiAJdaD-RNefzIr2IW6cuHXD0YFY,2806
+spvideoutils/video_capture.py,sha256=4orKXx5BIbMhrklC1V-MOdzwe7vWVNXNSYAbDrmT23Q,737
+spvideoutils/video_split.py,sha256=j58rMvBncs2fqfwDNNU3ZxRfK6txuOphKKBzcN-KkzQ,788
+spvideoutils-0.0.1.dist-info/LICENSE.txt,sha256=zfepNztg8Aolj2vA_bPRH5MDoWvXRvErWFZqBY5kTUg,1093
+spvideoutils-0.0.1.dist-info/METADATA,sha256=QlaiAuMnK_htcbmCIjTYwFg0U3KbX22ZsX_A2nwmaAs,1549
+spvideoutils-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+spvideoutils-0.0.1.dist-info/entry_points.txt,sha256=mWTXxYV9ml6hiPM7Z2XLWep73lD7S9GfwOQQ_mqTBFo,111
+spvideoutils-0.0.1.dist-info/top_level.txt,sha256=wg5tiPnY7gwq7hJOHcnme93FH8DcjRkZK32nNMFGR8k,13
+spvideoutils-0.0.1.dist-info/RECORD,,
