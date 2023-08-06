@@ -1,0 +1,10 @@
+LICENCE.txt
+README.md
+pyproject.toml
+setup.py
+src/test_fibonacci_numbers/__init__.py
+src/test_fibonacci_numbers/fibonacci_numbers.py
+src/test_fibonacci_numbers.egg-info/PKG-INFO
+src/test_fibonacci_numbers.egg-info/SOURCES.txt
+src/test_fibonacci_numbers.egg-info/dependency_links.txt
+src/test_fibonacci_numbers.egg-info/top_level.txt
