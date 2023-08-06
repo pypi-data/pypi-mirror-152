@@ -1,0 +1,13 @@
+barcodeQrSDK/__init__.py,sha256=k7Qu0un2b3t-3qg_lrApayKcPlfvziNW0vtTD4qIpsY,50
+barcodeQrSDK/barcodeQrSDK.cpython-310-darwin.so,sha256=dInoBHpdtiJDCuur3pvehZDgPqaMP-XG6R0v8e7SYQ8,37352
+barcodeQrSDK/libDynamLicenseClient.so,sha256=6hB_qEa9ffi4UkidfoVRAoRWgK-aaP6vzURp0QS-tvg,4896120
+barcodeQrSDK/libDynamicPdf.so,sha256=ofv6HwgySR8sT7thpoKFaN33Rbg4LFzzvYu38IL4rQ0,6327256
+barcodeQrSDK/libDynamsoftBarcodeReader.so,sha256=bRoF2G2G4v97C3wxS3fATlogjwp18WdMHxlJ7gFV4QI,12133984
+barcodeQrSDK/libDynamsoftLicenseClient.so,sha256=rn71V_zfnUfciMGcnpZCCebUYM9S5AjPJwYJJsK6oF0,4907512
+barcode_qr_code_sdk-9.0.0.data/data/LICENSE,sha256=DAmxMjpovFRr_yJbYQlkcLM-BkN73YpLVgjc4qSdHbY,1081
+barcode_qr_code_sdk-9.0.0.data/data/README.md,sha256=EpCo45DY0a7qbR-OLhY7duUb1PoTYj-15c09zGthduo,4279
+barcode_qr_code_sdk-9.0.0.dist-info/LICENSE,sha256=DAmxMjpovFRr_yJbYQlkcLM-BkN73YpLVgjc4qSdHbY,1081
+barcode_qr_code_sdk-9.0.0.dist-info/METADATA,sha256=NSR-iWim-1tTbKy25c-J_eE0nTUsCvkeu5VIBwGtUR0,5535
+barcode_qr_code_sdk-9.0.0.dist-info/WHEEL,sha256=tlS9j7GpIULtb4iKj3-irM_LnbGu1h27X98bKfUDXEw,105
+barcode_qr_code_sdk-9.0.0.dist-info/top_level.txt,sha256=9sFUTx2v6wi9YHMVoPRcs_XXMXO3X2O7cYOzL6f-qP8,13
+barcode_qr_code_sdk-9.0.0.dist-info/RECORD,,
