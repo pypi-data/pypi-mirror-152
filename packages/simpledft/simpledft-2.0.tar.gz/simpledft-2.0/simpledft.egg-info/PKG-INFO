@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: simpledft
+Version: 2.0
+Summary: A simple density functional theory code.
+Home-page: https://gitlab.com/nextdft/simpledft
+Author: Wanja Timm Schulze
+Author-email: wangenau@protonmail.com
+License: APACHE2.0
+Project-URL: Bug Tracker, https://gitlab.com/nextdft/simpledft/-/issues
+Keywords: NextDFT
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SimpleDFT
+[![language](https://img.shields.io/badge/language-Python3-green)](https://www.python.org)
+[![license](https://img.shields.io/badge/license-APACHE2-lightgrey)](https://gitlab.com/nextdft/simpledft/-/blob/master/LICENSE)
+
+A simple density functional theory (DFT) code.
+
+SimpleDFT is a Python implementation of the [DFT++](https://arxiv.org/abs/cond-mat/9909130) pragmas proposed by Prof. Thomas Arias.
+It is also the minimalistic prototype for the [eminus](https://gitlab.com/nextdft/eminus) code, which was introduced in the [master thesis](https://www.researchgate.net/publication/356537762_Domain-averaged_Fermi_holes_A_self-interaction_correction_perspective) of Wanja Timm Schulze to explain theory and software development compactly.
+**Note: From version 2.0 on, the implementation will deviate a bit from the master thesis to be in line with eminus.**
+
+| SimpleDFT | Description |
+| --------- | ----------- |
+| Language | Python3 |
+| License | Apache 2.0 |
+| Dependencies | Only NumPy |
+| Basis set| Plane waves (PW) |
+| DFT | Restricted Kohn-Sham (RKS) |
+
+# Installation
+The package and all necessary dependencies can be installed using pip
+
+```bash
+pip install simpledft
+```
+
+# Examples
+You can run the example calculations, i.e., the H atom, He atom, and H2 molecule with the following command
+
+```bash
+python3 examples.py
+```
+
+
