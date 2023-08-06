@@ -1,0 +1,116 @@
+# Scull
+
+Scull is a package that allows you to create skeleton animations.
+
+## Creating a skeleton
+
+To start making animation you need to create a skeleton.
+You can load a model:
+```python
+from scull.models.<model_name> import *
+
+simple_model = simple("<skeleton_name>")
+complex_model = complex("<skeleton_name>")
+```
+Or create custom:
+```python
+from scull import *
+
+skeleton = Skeleton("<skeleton_name>")
+backbone = Backbone(0, 0, 7, 90)
+skeleton["right_leg"] = Bone(backbone, 0, 10, -45)
+skeleton["right_arm"] = Bone(backbone, 90, 10, -90)
+skeleton["backbone"] = backbone
+skeleton["head"] = Bone(backbone, 100, 3, 180)
+skeleton["left_leg"] = Bone(backbone, 0, 10, 45)
+skeleton["left_arm"] = Bone(backbone, 90, 10, 90)
+```
+
+## Applying poses
+
+When you have a skeleton you can apply a pose to it:
+```python
+from scull.models.<model_name> import *
+
+<pose_name>.apply(skeleton)
+```
+You can also create poses:
+```python
+from scull import *
+
+<pose_name> = Pose(
+    left_upper_leg=-22.5,
+    left_lower_leg=135,
+    right_upper_leg=-56.25,
+    right_lower_leg=157.5,
+    left_upper_arm=22.5,
+    left_lower_arm=-45,
+    right_upper_arm=-22.5,
+    right_lower_arm=-22.5,
+    head=191.25
+)
+```
+
+## Animating the skeleton
+
+Now you should animate the skeleton:
+```python
+from scull.models.<model_name> import *
+
+<animation_name>.play(skeleton)
+```
+
+## Render
+
+```python
+from scull.render.<render_type> import *
+
+renderer = <renderer_name>()
+renderer.render(skeleton, {
+    "head": {
+        "image": "head.png"
+    },
+    "left_upper_arm": {
+        "image": "base.png"
+    },
+    "left_lower_arm": {
+        "image": "lower_arm.png"
+    },
+    "left_upper_leg": {
+        "image": "base.png"
+    },
+    "left_lower_leg": {
+        "image": "lower_leg.png"
+    },
+    "backbone": {
+        "image": "base.png",
+        "effects": {
+            "shadow": 15
+        }
+    },
+    "right_upper_arm": {
+        "image": "base.png",
+        "effects": {
+            "shadow": 25
+        }
+    },
+    "right_lower_arm": {
+        "image": "lower_arm.png",
+        "effects": {
+            "shadow": 25
+        }
+    },
+    "right_upper_leg": {
+        "image": "base.png",
+        "effects": {
+            "shadow": 25
+        }
+    },
+    "right_lower_leg": {
+        "image": "lower_leg.png",
+        "effects": {
+            "shadow": 25
+        }
+    }
+})
+```
