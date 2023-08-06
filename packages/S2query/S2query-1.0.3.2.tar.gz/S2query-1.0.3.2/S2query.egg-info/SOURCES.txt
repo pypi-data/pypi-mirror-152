@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+setup.py
+S2query/SearchScript.py
+S2query/SearchWebScript.py
+S2query/__init__.py
+S2query.egg-info/PKG-INFO
+S2query.egg-info/SOURCES.txt
+S2query.egg-info/dependency_links.txt
+S2query.egg-info/requires.txt
+S2query.egg-info/top_level.txt
