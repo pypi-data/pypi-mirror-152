@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+imgkernel/__init__.py
+imgkernel/imgconv.py
+imgkernel/kernels.py
+magetoolxzzy.egg-info/PKG-INFO
+magetoolxzzy.egg-info/SOURCES.txt
+magetoolxzzy.egg-info/dependency_links.txt
+magetoolxzzy.egg-info/top_level.txt
