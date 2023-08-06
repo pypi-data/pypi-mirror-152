@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: hgj-spider-download
+Version: 1.0.4
+Summary: hgj-下载器
+Home-page: 
+Author: Jackwu
+Author-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Utilities
+
+##版本说明：
+ - 1.0.4: 测试版 ,暂且仅支持发送页面请求，不支持sele
+
