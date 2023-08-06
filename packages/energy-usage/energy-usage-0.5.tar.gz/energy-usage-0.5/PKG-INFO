@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: energy-usage
+Version: 0.5
+Summary: Records realtime energy usage from a Glowmarkt MQTT feed into influxdb
+Home-page: https://gitlab.sihnon.net/ben/energy-usage
+Author: Ben Roberts
+Author-email: me@benroberts.net
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
