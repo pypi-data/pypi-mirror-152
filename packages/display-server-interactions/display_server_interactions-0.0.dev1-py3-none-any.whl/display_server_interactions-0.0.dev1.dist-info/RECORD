@@ -1,0 +1,17 @@
+display_server_interactions/__init__.py,sha256=hQvokevqGCuVis-dSNST9UV9h29Ku3BwfGhYmARAN0U,467
+display_server_interactions/__main__.py,sha256=THpQ8vzkBPav9zSmx8I2hGTp-6hdaPtvrH6Bg1U0xeA,394
+display_server_interactions/base.py,sha256=K2U6sglWFhGgNn_58hS7Ks1TCc5fZiKYnGfH6KHNlAQ,879
+display_server_interactions/image.py,sha256=sZYLkooHYMkZ0dKbcrXsqNU6Iz_hz7R5A7O92y8tu3Y,543
+display_server_interactions/linux.py,sha256=_t_SklDQRvczjNMsa6YzcTe9qxf1PKM3Ge8O8coYwQo,12817
+display_server_interactions/window.py,sha256=v-boKf8zBuoT09Awih60EqnpeW2JbHLDcPz_EsetpkM,985
+dsi/__init__.py,sha256=7Ja6f91GVpMRwoZLRr5syRo2I7ZSkX9SLYeNpWqZOe4,467
+dsi/__main__.py,sha256=THpQ8vzkBPav9zSmx8I2hGTp-6hdaPtvrH6Bg1U0xeA,394
+dsi/base.py,sha256=K2U6sglWFhGgNn_58hS7Ks1TCc5fZiKYnGfH6KHNlAQ,879
+dsi/image.py,sha256=LNGCCtMGTdCfRuxRzlcIT4H0e7stCmd2SJw2WHAotjc,503
+dsi/linux.py,sha256=_t_SklDQRvczjNMsa6YzcTe9qxf1PKM3Ge8O8coYwQo,12817
+dsi/window.py,sha256=v-boKf8zBuoT09Awih60EqnpeW2JbHLDcPz_EsetpkM,985
+display_server_interactions-0.0.dev1.dist-info/LICENSE.txt,sha256=OulBHAXGnxltOYc9DVexjXS2rhI-EIRrnQjEtsO3aGM,11344
+display_server_interactions-0.0.dev1.dist-info/METADATA,sha256=9secLXuEOXEGwxcDm8jKQHia8AaxA7U9m6LLklyqQ_Y,2233
+display_server_interactions-0.0.dev1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+display_server_interactions-0.0.dev1.dist-info/top_level.txt,sha256=QjIZcYI62OqMTgO62S8gVSDpJmidZgvm4Y5Er0dq88U,28
+display_server_interactions-0.0.dev1.dist-info/RECORD,,
