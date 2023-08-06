@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: python-ftx-api
+Version: 0.0.1
+Summary: FTX python wrapper with rest API, websocket API.
+Home-page: https://gitlab.com/cuongitl/python-ftx-api
+Author: Cuongitl
+Author-email: 
+License: MIT
+Keywords: ftx exchange rest api websocket example bitcoin ethereum btc eth neo
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+
+README.md
+
