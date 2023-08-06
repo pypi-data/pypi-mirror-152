@@ -1,0 +1,10 @@
+README.md
+setup.py
+MapMet/__init__.py
+MapMet/segmentation.py
+MapMet/utils.py
+MapMet.egg-info/PKG-INFO
+MapMet.egg-info/SOURCES.txt
+MapMet.egg-info/dependency_links.txt
+MapMet.egg-info/requires.txt
+MapMet.egg-info/top_level.txt
