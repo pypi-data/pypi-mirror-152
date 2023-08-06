@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: KojiChannelValidator
+Version: 0.1
+Summary: Identify system resource drift across many Koji builders
+Home-page: https://github.com/RoryWirch/KojiChannelValidator
+Author: Rory Wirch
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: koji
+
+UNKNOWN
+

@@ -1,0 +1,9 @@
+kojichannelvalidator/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kojichannelvalidator/__main__.py,sha256=R4OTfqlm7QK_3b6iy-T8qZ4j88_87JbEybwuShxfVxY,547
+kojichannelvalidator/koji_channel_validator.py,sha256=FneplMXd5emDfJwUrtC32tiyKHD9g5oK6NxlZBbqGqQ,11432
+KojiChannelValidator-0.1.dist-info/LICENSE,sha256=CQPl5OPcntwMDTZSfBF4M4SaPEPj34477x1D_wZWlCM,1066
+KojiChannelValidator-0.1.dist-info/METADATA,sha256=VE03xE-0E5DJ6zB2fxQ2h53SFPfXvexvDT2_ESXPs88,461
+KojiChannelValidator-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+KojiChannelValidator-0.1.dist-info/entry_points.txt,sha256=5qRWXXctopYyCTt4MnH4RgOKGkSelUhymYvvlvQdzx4,60
+KojiChannelValidator-0.1.dist-info/top_level.txt,sha256=Ly7SYnFfi2w19tkN5ImLHzYWNf7qyzeVBGGPDNWbvn0,21
+KojiChannelValidator-0.1.dist-info/RECORD,,
