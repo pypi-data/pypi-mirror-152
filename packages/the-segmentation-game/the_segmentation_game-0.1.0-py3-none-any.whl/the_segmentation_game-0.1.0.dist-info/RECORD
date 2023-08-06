@@ -1,0 +1,12 @@
+the_segmentation_game/__init__.py,sha256=aPUE52gMsyYDP7M0Bj2xuFKY4lEWuIZAJBIjp2xNeS0,102
+the_segmentation_game/_dock_widget.py,sha256=6NbawByPRy4pVkNjuPNmjkGGSoZk7DKeMl10DMxPtVU,7945
+the_segmentation_game/metrics.py,sha256=OSzfELAIxqutD_1wpwP0f0D4mCm3HeK91U3jEPhXtUU,4658
+the_segmentation_game/_tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+the_segmentation_game/_tests/test_dock_widget.py,sha256=cgumWiemqTiZxuRAAeCxl685peykHu9fQySsW8zF4W0,989
+the_segmentation_game/_tests/test_metrics.py,sha256=GzBTbonE5nyKOnH8AAztT5z-0cWD4yBjTNZR7-3rZ4s,1715
+the_segmentation_game-0.1.0.dist-info/LICENSE,sha256=Gh1ZdYBCy4IS0l83cMwLQrM5xwEpzokZ46IgtvgK__A,1527
+the_segmentation_game-0.1.0.dist-info/METADATA,sha256=RRqyExmfhTsxuBy47TGn-ZbR_5tuZJdnBltJrGvcGq4,7176
+the_segmentation_game-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+the_segmentation_game-0.1.0.dist-info/entry_points.txt,sha256=a9v0V0i4q49masoNR2wSgBgX7fUKvHYq5uv0QaLk9O8,62
+the_segmentation_game-0.1.0.dist-info/top_level.txt,sha256=tBktL-Q7EkxG6xnUImHL3bFte2Akq_tSDkIRFPyABRI,22
+the_segmentation_game-0.1.0.dist-info/RECORD,,
