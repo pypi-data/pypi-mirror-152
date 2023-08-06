@@ -1,0 +1,5 @@
+[console_scripts]
+envprobe = envprobe.setupped_main:main
+envprobe-config = envprobe.setupped_main:config_mode
+envprobe-main = envprobe.setupped_main:main_mode
+
