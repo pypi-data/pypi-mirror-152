@@ -1,0 +1,8 @@
+README.md
+setup.py
+webhunter/__init__.py
+webhunter/websniffer.py
+webhunter.egg-info/PKG-INFO
+webhunter.egg-info/SOURCES.txt
+webhunter.egg-info/dependency_links.txt
+webhunter.egg-info/top_level.txt
