@@ -1,0 +1,73 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "lakai"
+version = "0.1.2"
+description = ""
+authors = ["Niklas Rosenstein <rosensteinniklas@gmail.com>"]
+license = "MIT"
+readme = "readme.md"
+packages = [{ include = "lakai", from = "src" }]
+classifiers = []
+keywords = []
+
+[tool.poetry.urls]
+# "Bug Tracker" = ""
+# Documentation = ""
+# Homepage = ""
+# Repository = ""
+
+[tool.poetry.dependencies]
+python = "^3.6"
+dataclasses = "^0.6"
+lark = "^1.1.2"
+setuptools = ">=30.1.0"
+typing-extensions = ">=3.0.0.0"
+
+[tool.poetry.dev-dependencies]
+black = "*"
+flake8 = "*"
+isort = "*"
+mypy = "*"
+pytest = "*"
+types-dataclasses = "^0.6.5"
+types-setuptools = "^57.4.17"
+types-termcolor = "^1.1.4"
+
+[tool.slap]
+typed = true
+
+[tool.slap.test]
+check = "slap check"
+mypy = "dmypy run src/"
+pytest = "pytest tests/ -vv"
+black = "black --check src/ tests/"
+isort = "isort --check-only src/ tests/"
+flake8 = "flake8 src/ tests/"
+
+[tool.slap.run]
+fmt = "black src/ tests/ && isort src/ tests/"
+
+[tool.mypy]
+python_version = "3.6"
+explicit_package_bases = true
+mypy_path = ["src"]
+namespace_packages = true
+pretty = true
+strict = true
+show_error_codes = true
+show_error_context = true
+warn_no_return = true
+warn_redundant_casts = true
+warn_unreachable = true
+warn_unused_ignores = true
+
+[tool.isort]
+profile = "black"
+line_length = 120
+combine_as_imports = true
+
+[tool.black]
+line-length = 120
