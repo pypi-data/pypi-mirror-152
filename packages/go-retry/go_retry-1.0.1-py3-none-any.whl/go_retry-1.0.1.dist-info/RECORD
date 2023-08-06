@@ -1,0 +1,12 @@
+go_retry/__init__.py,sha256=0raFRlqw_pvyF1hQdv19pE3D4LB8CT3Zhq7QBj9zWNc,252
+go_retry/api.py,sha256=rv-s-eQ49yqQTWGBBsHAtMx9ybYQ9vX1uRQfMzNigh0,4393
+go_retry/compat.py,sha256=kP7YbMQtEW1S66KDf8oFqB1ZjliLGK2aaSFx4SstmpY,660
+retry/__init__.py,sha256=0raFRlqw_pvyF1hQdv19pE3D4LB8CT3Zhq7QBj9zWNc,252
+retry/api.py,sha256=rv-s-eQ49yqQTWGBBsHAtMx9ybYQ9vX1uRQfMzNigh0,4393
+retry/compat.py,sha256=kP7YbMQtEW1S66KDf8oFqB1ZjliLGK2aaSFx4SstmpY,660
+go_retry-1.0.1.dist-info/AUTHORS,sha256=nKq18a_g43V6pGRHjzByx37_CKBLrvVGeDE07iOsoJ8,303
+go_retry-1.0.1.dist-info/LICENSE,sha256=VqAzmK_gh5M_QzkGCKeCSA2xsRYmrI15Xml6g469EsA,545
+go_retry-1.0.1.dist-info/METADATA,sha256=wZhFJVpslDlZxMLeIOAsHFUVs2PiwIJCie9z8IAUTrs,5364
+go_retry-1.0.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+go_retry-1.0.1.dist-info/top_level.txt,sha256=KDmjxxi6Kt0N8SsVDL9hqeYuXBowFSin-hma1i89zqs,9
+go_retry-1.0.1.dist-info/RECORD,,
