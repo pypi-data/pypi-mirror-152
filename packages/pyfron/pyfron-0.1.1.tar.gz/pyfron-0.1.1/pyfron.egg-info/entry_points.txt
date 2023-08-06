@@ -1,0 +1,2 @@
+[console_scripts]
+pyfron = pyfron.__main__:main
