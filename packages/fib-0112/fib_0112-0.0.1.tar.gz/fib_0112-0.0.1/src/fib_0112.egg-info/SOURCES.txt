@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/fib_0112/__init__.py
+src/fib_0112/fib.py
+src/fib_0112.egg-info/PKG-INFO
+src/fib_0112.egg-info/SOURCES.txt
+src/fib_0112.egg-info/dependency_links.txt
+src/fib_0112.egg-info/top_level.txt

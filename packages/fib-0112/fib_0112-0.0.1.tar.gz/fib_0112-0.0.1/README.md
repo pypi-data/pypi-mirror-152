@@ -1,0 +1,1 @@
+Takes number from console and prints that many fibonacci numbers
