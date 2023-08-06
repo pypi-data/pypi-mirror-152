@@ -1,0 +1,14 @@
+leotune/__init__.py,sha256=Eo1-4xtust4JfsSN55OIja-llxj6i35jrQVw6xMXuNo,873
+leotune/__main__.py,sha256=jpE3hinvXIuCCeMSChSfP1LjpZCQ-K08DnCqB33GQNk,891
+leotune/cli.py,sha256=AyGT5oK3MkmBA4XymQES97onX81NclUZMwipgrAlgrE,1202
+leotune/lrc.py,sha256=9s8hqZek3z3f0iITPvrIRe42uCXZzOdC9ckOmFHMckg,2435
+leotune/data/__init__.py,sha256=NJIV2Rr4GuVVwy8r9q3ux_G9KwWXMPphRgqbfKOIPGk,994
+leotune/data/acgnjrock.py,sha256=wNE4Ax7bHmxe4c3ccd_kvaSPPAlY4fsflGJj5redmVw,4456
+leotune/data/leoneed.py,sha256=914c5x2uFQNHLJ4O0VboTg40ByI_-qAbz9w9XO1JuI0,9686
+leotune/data/others.py,sha256=xrm09uTEEfLFV4ugHQEyveU028xbhaMHgYedWM74V50,22108
+leotune-0.0.4.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+leotune-0.0.4.dist-info/METADATA,sha256=lhX7dazpXNqnsZhUSxsf6IENvSLZIYKue8wzHP06wfo,511
+leotune-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+leotune-0.0.4.dist-info/entry_points.txt,sha256=Y035boV7hLwo11ajTLNEOI13UZUT2zXxi7YcEvXJ2qY,45
+leotune-0.0.4.dist-info/top_level.txt,sha256=H2-QC4JpQX6P927d9cJ7QYUjCJmf57CKT8l9U2oCUBk,8
+leotune-0.0.4.dist-info/RECORD,,
