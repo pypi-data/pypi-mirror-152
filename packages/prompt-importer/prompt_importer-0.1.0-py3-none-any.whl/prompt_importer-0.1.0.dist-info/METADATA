@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: prompt-importer
+Version: 0.1.0
+Summary: 
+Author: Harry Eldridge
+Author-email: eldridgemharry@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: beancount (>=2.3.5,<3.0.0)
+Requires-Dist: blessed (>=1.19.1,<2.0.0)
