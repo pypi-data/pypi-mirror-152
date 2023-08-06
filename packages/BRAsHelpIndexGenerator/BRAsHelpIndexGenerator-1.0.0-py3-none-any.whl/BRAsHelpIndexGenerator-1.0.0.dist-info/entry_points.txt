@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+br-as-help-index-gen = brAsHelpIndexGenerator:BrAsHelpIndexGenerator

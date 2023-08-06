@@ -1,0 +1,11 @@
+brAsHelpIndexGenerator/__init__.py,sha256=EkPlYvhxP-wkpxP70vaYwtSgg1tKQ5qk1-JasKVQGgE,42
+brAsHelpIndexGenerator/docBuilder.py,sha256=DBclzkQIK7zRqQSGw8SHwLrKrxh81Ubthh3kzm-q2pw,2124
+brAsHelpIndexGenerator/plugin.py,sha256=2stO95DcSVis6buc_3fdJPSKbaEFzT8IoOv8BqVfzoI,2959
+brAsHelpIndexGenerator/Templates/HelpUpgradeTemplate.xml,sha256=s5VPuVXqrA_bdykMP-0aCGhqFsTK4nmAj2UkdPkvQ30,1232
+brAsHelpIndexGenerator/Templates/helpContentsTemplate.xml,sha256=HuBfs6fW5lW2TKAzA6EUkg7kZ372js2a-9hSYtNyZcs,1037
+BRAsHelpIndexGenerator-1.0.0.dist-info/LICENSE,sha256=gcuuhKKc5-dwvyvHsXjlC9oM6N5gZ6umYbC8ewW1Yvg,35821
+BRAsHelpIndexGenerator-1.0.0.dist-info/METADATA,sha256=CDoWHy7TxPaGverQgYSYDOHJFh0b72kLnJNMDvyrKb0,410
+BRAsHelpIndexGenerator-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+BRAsHelpIndexGenerator-1.0.0.dist-info/entry_points.txt,sha256=AzOHWQbJ61nRPrnElfWoldue-_g3bcwT1j00fzcB9HU,86
+BRAsHelpIndexGenerator-1.0.0.dist-info/top_level.txt,sha256=MlN7aYVk_R_TbQtLpSxYp9veFTGhIwSn037gSbpcAcg,23
+BRAsHelpIndexGenerator-1.0.0.dist-info/RECORD,,

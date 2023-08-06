@@ -1,0 +1,26 @@
+{# TODO: Fix the formatting here. Output doesn't look good atm #}
+{% macro SectionPrint(itm) %}
+  {% if itm.is_section %}
+    <Section Text="{{itm.title}}" File="{{config.ComponentName}}\{{itm.children[0].file.dest_path}}" Id="{{itm.children[0].Guid}}">
+    {% for child in itm.children %}
+    {% if child.parent.title == child.title %}
+    {% else %}
+    {% if child.is_section %}
+			{{ SectionPrint(child) }}
+    {% else %}
+      <Page Text="{{child.title}}" File="{{config.ComponentName}}\{{child.file.dest_path}}" Id="{{child.Guid}}"/>
+    {% endif %}
+    {% endif %}
+		{% endfor %}
+    </Section>  {% else -%}      
+    <Page Text="{{child.title}}" File="{{config.ComponentName}}\{{child.file.dest_path}}" Id="{{child.Guid}}"/>
+  {% endif -%}
+{% endmacro -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<Help>
+  {#If it has children, it is a section, call the section template #}
+  {#If it doesn't, it is a page, call the page template #}
+  {% for itm in nav %}
+  {{ SectionPrint(itm) }}
+  {% endfor %}
+</Help>
