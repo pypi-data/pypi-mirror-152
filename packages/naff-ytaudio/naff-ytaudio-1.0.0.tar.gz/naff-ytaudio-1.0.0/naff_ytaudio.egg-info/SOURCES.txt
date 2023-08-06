@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+setup.py
+naff_yt_audio/__init__.py
+naff_yt_audio/main.py
+naff_ytaudio.egg-info/PKG-INFO
+naff_ytaudio.egg-info/SOURCES.txt
+naff_ytaudio.egg-info/dependency_links.txt
+naff_ytaudio.egg-info/requires.txt
+naff_ytaudio.egg-info/top_level.txt
