@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: ndsimulator
+Version: 1.1.5
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Lixin Sun
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.9
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pyfile-utils (>=1.0.5)
+
+UNKNOWN
+
