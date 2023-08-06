@@ -1,0 +1,10 @@
+paxplot/__init__.py,sha256=ETOs1bC5aB02RaF3iYPOnSSLpwpErx66gf0-SQgDuA4,68
+paxplot/core.py,sha256=kjdMiQIjfGuj9GQUDWRWv4NxXZtpXXUkHusqqF2qos8,28688
+paxplot/datasets.py,sha256=ftFXqhqjiFTFQ60rqv_dki4ZPpP8fGqC3z05-O-OZao,684
+paxplot/data/hydroclimate_model_evaluation.csv,sha256=4jm1RfF8OVrrvuFmih40tfavYn8xKlmXJBZJNo-F81U,2947
+paxplot/data/tradeoff.csv,sha256=9Pb4CdADUKddzWIYogKq2HzkNv8M642UlvWfML97VyA,696
+paxplot-0.1.4b0.dist-info/LICENSE,sha256=s3vyhorlr37YIZ3F7J_n8Guh-O8ocuAvpXWJU1oJAew,1091
+paxplot-0.1.4b0.dist-info/METADATA,sha256=TxmtFb8AKOf-W61W-dgmE_mgC63U01ZxeuZHqsKgLLA,2611
+paxplot-0.1.4b0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+paxplot-0.1.4b0.dist-info/top_level.txt,sha256=8u7PoD57N-852XYkakaiBDfkE5-RvQurix83fnLzcis,8
+paxplot-0.1.4b0.dist-info/RECORD,,
