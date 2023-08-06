@@ -1,0 +1,455 @@
+Metadata-Version: 2.1
+Name: bodosdk
+Version: 0.4.0
+Summary: Bodo Platform SDK
+Home-page: https://github.com/Bodo-inc/bodo-sdk
+Author: Bodo, Inc.
+Author-email: noreply@bodo.ai
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Bodo Platform SDK
+
+A simple SDK for Bodo Cloud Platform.
+
+List of contents:
+
+- [Getting Started](#getting-started)
+- [Job resource](#job-resource)
+- [Cluster resource](#cluster-resource)
+
+## Getting started
+
+First step is to create API token for your workspace. You can do it under Admin Console.
+
+You will obtain `client_id` and `secret_key`. Those are needed for BodoClient definition.
+
+```python
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+```
+
+You can also export `client_id` and `secret_key` as `BODO_CLIENT_ID` and `BODO_SECRET_KEY`, then you don't need to
+define keys.
+
+```python
+from bodosdk.client import get_bodo_client
+
+client = get_bodo_client()
+```
+**other bodo client options**
+- print_logs - default False, if enabled all API calls will be printed
+
+```python
+from bodosdk.client import get_bodo_client
+from bodosdk.models import WorkspaceKeys
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys, print_logs=True)
+```
+### Job resource
+
+Module responsible for managing jobs in workspace.
+
+- [create job](#create-job)
+- [list jobs](#list-jobs)
+- [get job](#get-job)
+- [remove job](#remove-job)
+- [get execution info](#get-execution)
+- [waiter](#job-waiter)
+
+#### Create job
+
+`BodoClient.job.create(job: JobDefinition)`
+
+Creates a job to be executed on cluster. You can either create job dedicated cluster by providing it's definition or
+provide existing cluster uuid. Job dedicated clusters will be removed as soon as job execution will finish, if you provide 
+uuid of existing one, cluster will remain.
+
+**Example 1. Use git repository and cluster definition:**
+
+```python3
+from bodosdk.models import GitRepoSource, WorkspaceKeys, JobDefinition, JobClusterDefinition
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+
+job_definition = JobDefinition(
+    name='test',
+    args='./examples/nyc-taxi/get_daily_pickups.py',
+    source_config=GitRepoSource(
+        repo_url='https://github.com/Bodo-inc/Bodo-examples.git',
+        username='XYZ',
+        token='XYZ'
+    ),
+    cluster_object=JobClusterDefinition(
+        instance_type='c5.large',
+        accelerated_networking=False,
+        image_id='ami-0a2005b824a8758e5',
+        workers_quantity=2
+    ),
+    variables=[],
+    timeout=120,
+    retries=0,
+    retries_delay=0,
+    retry_on_timeout=False
+)
+
+client.job.create(job_definition)
+```
+
+**Example 2. Run job from shared drive and existing cluster:**
+
+```python3
+from bodosdk.models import JobCluster, WorkspaceSource, WorkspaceKeys, JobDefinition
+from bodosdk.client import get_bodo_client
+from uuid import UUID
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+
+job_definition = JobDefinition(
+    name='test',
+    args='nyc-taxi/get_daily_pickups.py',
+    source_config=WorkspaceSource(
+        path='/shared/bodo-examples/examples/'
+    ),
+    cluster_object=JobCluster(
+        uuid=UUID('0f0c5261-9827-4572-84f3-f6a9b10cf77d')
+    ),
+    variables=[],
+    timeout=120,
+    retries=0,
+    retries_delay=0,
+    retry_on_timeout=False
+)
+
+client.job.create(job_definition)
+```
+
+#### List jobs
+
+`BodoClient.job.list()`
+
+Returns list of all jobs defined in workspace. 
+
+**Example:**
+
+```python
+from typing import List
+from bodosdk.models import WorkspaceKeys, JobResponse
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+jobs: List[JobResponse] = client.job.list()
+```
+
+#### Get job
+
+`BodoClient.job.get(job_uuid)`
+
+Returns specific job in workspace. Example:
+
+```python
+from bodosdk.models import WorkspaceKeys, JobResponse
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+job: JobResponse = client.job.get('8c32aec5-7181-45cc-9e17-8aff35fd269e')
+```
+
+#### Remove job
+
+`BodoClient.job.delete(job_uuid)`
+
+Removes specific job from workspace. Example:
+
+```python
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+client.job.remove('8c32aec5-7181-45cc-9e17-8aff35fd269e')
+```
+
+#### Get execution 
+
+`BodoClient.job.get_job_executions(job_uuid)`
+
+Gets all executions info for specific job. Result it's a list with one element (in future we might extend it)
+
+```python
+from bodosdk.models import WorkspaceKeys, JobExecution
+from bodosdk.client import get_bodo_client
+from typing import List
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+executions: List[JobExecution] = client.job.get_job_executions('8c32aec5-7181-45cc-9e17-8aff35fd269e')
+```
+
+#### Job waiter
+
+`BodoClient.job.get_waiter()`
+
+Get waiter object, which can be used to wait till job finish. Waiter has following method
+
+```python3
+from typing import Callable
+def wait(
+        self,
+        uuid,
+        on_success: Callable = None,
+        on_failure: Callable = None,
+        on_timeout: Callable = None,
+        check_period=10,
+        timeout=None
+):
+  pass
+```
+
+By default returns job model if no callbacks is provided. There is option to pass callable objects as following
+parameters:
+
+- `on_success` - will be executed on succes, job object passed as argument
+- `on_failure` - will be executed on failure, job object passed as argument
+- `on_timeout` - will be executed on timeout, job_uuid passed as argument
+
+Other options are:
+
+- `check_period` - seconds between status checks
+- `timeout` - threshold in seconds after which Timeout error will be raised, `None` means no timeout
+
+**Example 1. Success callback:**
+```python
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+waiter = client.job.get_waiter()
+
+
+def success_callback(job):
+    print('Job has finished')
+    return job
+
+
+result = waiter.wait('8c32aec5-7181-45cc-9e17-8aff35fd269e', on_success=success_callback)
+```
+
+**Example 2. Timeout callback:**
+```python
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+waiter = client.job.get_waiter()
+
+
+def timeout_callback(job_uuid):
+    print(f'Waiter timeout for {job_uuid}')
+    return job_uuid
+
+
+result = waiter.wait('8c32aec5-7181-45cc-9e17-8aff35fd269e', on_timeout=timeout_callback, timeout=1)
+```
+
+### Cluster resource
+
+Module responsible for managing clusters in workspace.
+
+- [get available instance types](#available-instance-types)
+- [get available images](#available-images)
+- [create cluster](#create-cluster)
+- [list clusters](#list-clusters)
+- [get cluster](#get-cluster)
+- [remove cluster](#remove-cluster)
+- [scale cluster](#scale-cluster)
+
+### Available instance types
+
+`BodoClient.cluster.get_available_instance_types(region:str)`
+
+Returns list of instance types available for given region
+
+```python3
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+instance_types = client.cluster.get_available_instance_types('us-west-2')
+```
+### Available images
+
+`BodoClient.cluster.get_available_images(region:str)`
+
+Returns list of images available for given region
+
+```python3
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+images = client.cluster.get_available_images('us-west-2')
+```
+### Create cluster
+
+`BodoClient.cluster.create(cluster_definition: ClusterDefinition)`
+
+Creates cluster in workspace.
+
+```python3
+from bodosdk.models import WorkspaceKeys, ClusterDefinition
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+cluster_definition = ClusterDefinition(
+    name="test",
+    instance_type="c5.large",
+    workers_quantity=2,
+    auto_shutdown=100,
+    auto_pause=100,
+    image_id="ami-038d89f8d9470c862",
+    bodo_version="2022.4",
+    description="my desc here"
+)
+result_create = client.cluster.create(cluster_definition)
+```
+
+### List clusters
+
+```BodoClient.cluster.list()```
+
+Returns list of all clusters in workspace
+
+```python3
+from bodosdk.models import WorkspaceKeys, ClusterResponse
+from bodosdk.client import get_bodo_client
+from typing import List
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+clusters: List[ClusterResponse] = client.cluster.list()
+```
+
+### Get cluster
+
+```BodoClient.cluster.get(cluster_uuid)```
+
+Returns cluser by uuid
+
+```python3
+from bodosdk.models import WorkspaceKeys, ClusterResponse
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+clusters: ClusterResponse = client.cluster.get('some_uuid')
+```
+
+### Remove cluster
+
+```BodoClient.client.remove(cluster_uuid, force_remove=False, mark_as_terminated=False)```
+
+Method removing cluster from platform
+- force_remove: try to remove cluster even if something on cluster is happeing
+- mark_as_terminated: mark cluster as removed without removing resources, may be useful if cluster creation failed and common removing is failing
+
+```python3
+from bodosdk.models import WorkspaceKeys
+from bodosdk.client import get_bodo_client
+from typing import List
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+client.cluster.remove('some_uuid')
+```
+
+### Scale cluster
+
+```BodoClient.cluster.scale(scale_cluster: ScaleCluster)```
+
+Changes number of nodes in cluster (AWS only)
+
+```python3
+from bodosdk.models import WorkspaceKeys, ScaleCluster, ClusterResponse
+from bodosdk.client import get_bodo_client
+
+keys = WorkspaceKeys(
+    client_id='XYZ',
+    secret_key='XYZ'
+)
+client = get_bodo_client(keys)
+NEW_WORKERS_QUANTITY = 3
+scale_cluster = ScaleCluster(
+    uuid='some_id',
+    workers_quantity=NEW_WORKERS_QUANTITY
+)
+cluster: ClusterResponse = client.cluster.scale(scale_cluster)
+```
+
