@@ -1,0 +1,3 @@
+[console_scripts]
+xyRemovebg = xyRemovebg.cli:main
+
