@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pulp
+graphviz
+scikit-learn
