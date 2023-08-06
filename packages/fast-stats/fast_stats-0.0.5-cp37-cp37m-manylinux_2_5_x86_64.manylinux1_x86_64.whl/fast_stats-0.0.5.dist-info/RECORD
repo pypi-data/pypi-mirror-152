@@ -1,0 +1,8 @@
+fast_stats-0.0.5.dist-info/METADATA,sha256=HJPnsn7DlB0k_tPAZdTtTuacGB5SHYwskcp_Wzq_AxY,1751
+fast_stats-0.0.5.dist-info/WHEEL,sha256=K6SnXCM0z7cadVmDVAWPH-oTPlexclDzuKbPyztLscw,126
+fast_stats-0.0.5.dist-info/license_files/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+fast_stats/binary.py,sha256=2UcdbL_wrRLEpSWWFaTRh4L0BSV3JVdDxa7GlAMdqZg,2256
+fast_stats/confusion_matrix.py,sha256=0ln53VAClEQ8INrlVYBsTllTmeG1X9nbm_OWSUq2Wkw,609
+fast_stats/__init__.py,sha256=g1fr1hIDF7zFT15t-YT1q_IV6zFOP73A50G1cGKg54Y,265
+fast_stats/_fast_stats_ext.cpython-37m-x86_64-linux-gnu.so,sha256=PGaa33AllsZsPQcsX2wK8ZdPon_UdOcAOyI6pg9MnDw,1071424
+fast_stats-0.0.5.dist-info/RECORD,,
