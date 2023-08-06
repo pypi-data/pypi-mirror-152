@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: lexorank
+Version: 1.0.1
+Summary: lexorank is a ranking system introduced by Atlassian JIRA.
+Home-page: https://github.com/wetgi/lexorank
+Keywords: lexorank,ranking
+Author: Gilles Wetzel
+Author-email: gilles@wetzel.lu
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/wetgi/lexorank
+Description-Content-Type: text/markdown
+
+# lexorank
+
+A reference implementation of a list ordering system like JIRA's Lexorank algorithm
+
