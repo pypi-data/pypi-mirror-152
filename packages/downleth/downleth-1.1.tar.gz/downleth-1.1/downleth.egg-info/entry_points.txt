@@ -1,0 +1,2 @@
+[console_scripts]
+downleth = downleth.__main__:main
