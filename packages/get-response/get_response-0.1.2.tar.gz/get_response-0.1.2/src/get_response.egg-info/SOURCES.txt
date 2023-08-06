@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+src/get_response/__init__.py
+src/get_response/base_parser.py
+src/get_response/interface.py
+src/get_response/json_parser.py
+src/get_response/soap_parser.py
+src/get_response.egg-info/PKG-INFO
+src/get_response.egg-info/SOURCES.txt
+src/get_response.egg-info/dependency_links.txt
+src/get_response.egg-info/top_level.txt
