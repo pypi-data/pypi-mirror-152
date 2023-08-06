@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: paintera
+Version: 0.30.1
+Summary: paintera
+Home-page: https://github.com/saalfeldlab/paintera
+Author: Philipp Hanslovsky
+Author-email: hanslovskyp@janelia.hhmi.org
+Maintainer: Caleb Hulbert
+Maintainer-email: hulbertc@janelia.hmmi.org
+License-File: LICENSE
