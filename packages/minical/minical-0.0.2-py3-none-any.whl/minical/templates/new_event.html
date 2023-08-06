@@ -1,0 +1,28 @@
+<style type="text/css">
+    textarea {
+        height: 200;
+        width: 500;
+    }
+</style>
+
+<div><a href="/cal">events</a></div>
+<p>Creating a new event</p>
+
+{% if error_message %}
+<div>Error: {{ error_message }}</div>
+<div>Just for your reference, here is a template event</div>
+<pre>{{ event_template }}</pre>
+{% endif %}
+
+<form action="/cal/events" method="POST">
+<textarea name="event_text">
+{% if not error_message %}
+{{- event_template -}}
+{% else %}
+{{- previous_text -}}
+{% endif %}
+</textarea>
+
+<div><button type="submit">submit</button></div>
+
+</form>
