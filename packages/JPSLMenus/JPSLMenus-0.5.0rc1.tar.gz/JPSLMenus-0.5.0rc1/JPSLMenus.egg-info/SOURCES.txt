@@ -1,0 +1,9 @@
+README.md
+setup.py
+JPSLMenus/__init__.py
+JPSLMenus.egg-info/PKG-INFO
+JPSLMenus.egg-info/SOURCES.txt
+JPSLMenus.egg-info/dependency_links.txt
+JPSLMenus.egg-info/requires.txt
+JPSLMenus.egg-info/top_level.txt
+JPSLMenus/js/menu.js
