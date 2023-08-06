@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+cryptcli/__init__.py
+cryptcli/cryptcli.py
+cryptcli.egg-info/PKG-INFO
+cryptcli.egg-info/SOURCES.txt
+cryptcli.egg-info/dependency_links.txt
+cryptcli.egg-info/entry_points.txt
+cryptcli.egg-info/requires.txt
+cryptcli.egg-info/top_level.txt
