@@ -1,0 +1,9 @@
+lib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lib/module.py,sha256=2XxlLolscbJSJhjhZtjZV8iALQQNL_IPnveb94I8HBg,924
+powerxrd/__init__.py,sha256=XdJk7VLoYfmCSbOWHpWyIRApBtop13l9rP47fx06NbA,30
+powerxrd/module.py,sha256=2XxlLolscbJSJhjhZtjZV8iALQQNL_IPnveb94I8HBg,924
+powerxrd-0.0.8.dist-info/LICENSE,sha256=cGKRk_ghwdLU_ZtpMwilFpNRtGEI8Z8eK8p98vgJrp8,1077
+powerxrd-0.0.8.dist-info/METADATA,sha256=jN8PZTddru_7T08v7ikA2itXwWcs_IxmJBklCwStMu8,1616
+powerxrd-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+powerxrd-0.0.8.dist-info/top_level.txt,sha256=00PicBCpVgn39PbTnNzH4cw6Q1d81CUig9LYhZf_BNs,9
+powerxrd-0.0.8.dist-info/RECORD,,
