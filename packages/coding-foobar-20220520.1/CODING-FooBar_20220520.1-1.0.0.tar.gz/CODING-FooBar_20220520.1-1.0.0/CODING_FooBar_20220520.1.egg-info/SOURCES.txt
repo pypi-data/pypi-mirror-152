@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+CODING_FooBar_20220520.1.egg-info/PKG-INFO
+CODING_FooBar_20220520.1.egg-info/SOURCES.txt
+CODING_FooBar_20220520.1.egg-info/dependency_links.txt
+CODING_FooBar_20220520.1.egg-info/top_level.txt
+bar/speaker.py
