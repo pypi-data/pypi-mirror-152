@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: wjx
+Version: 0.0.18
+Summary: Some tools make my work easy
+Home-page: https://gitee.com/Happyrealone/wjx
+Author: WeiJinxu
+Author-email: 850997211@qq.com
+Project-URL: Bug Tracker, https://gitee.com/Happyrealone/wjx/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
