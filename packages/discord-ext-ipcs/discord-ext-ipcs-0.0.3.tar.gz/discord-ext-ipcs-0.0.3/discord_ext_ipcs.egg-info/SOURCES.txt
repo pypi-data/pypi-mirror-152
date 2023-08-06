@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+discord/ext/ipcs/__init__.py
+discord/ext/ipcs/client.py
+discord/ext/ipcs/errors.py
+discord/ext/ipcs/items.py
+discord/ext/ipcs/server.py
+discord_ext_ipcs.egg-info/PKG-INFO
+discord_ext_ipcs.egg-info/SOURCES.txt
+discord_ext_ipcs.egg-info/dependency_links.txt
+discord_ext_ipcs.egg-info/requires.txt
+discord_ext_ipcs.egg-info/top_level.txt
