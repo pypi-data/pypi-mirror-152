@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: execution-time-wrapper
+Version: 0.1.2
+Summary: A Python package with some simple wrapper functions to print the execution time of methods
+Home-page: https://github.com/LeonardoAlchieri/ExecutionTimeWrapper
+Author: Leonardo Alchieri
+Author-email: leonardo@alchieri.eu
+License: MIT
+Keywords: time,wrapper,log,print,execution,speed
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Execution Time Wrapper
+
+A simple package with a few method to get the execution time of methods through wrapping.
+
+## Usage
+
+Currently, the package contains two methods, one which returns to sdout (print) and one which goes to a logger.
+
+```python
+from execution_time import get_execution_time_log
+
+@get_execution_time_log
+def my_fun():
+    print("Hello World!")
+```
+The same for the other method given, i.e. `get_execution_time_print`.
+
+## TODOs
+
+[ ] Implement logger level
+
+@2022, Leonardo Alchieri
+
+<sub>People-Centered Computing Lab - [Università della Svizzera italiana, Switzerland](https://www.usi.ch/en)</sub>
+
+
