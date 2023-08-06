@@ -1,0 +1,8 @@
+setup.py
+azc/__init__.py
+azc/mod/__init__.py
+azc/mod/func.py
+azc1.egg-info/PKG-INFO
+azc1.egg-info/SOURCES.txt
+azc1.egg-info/dependency_links.txt
+azc1.egg-info/top_level.txt
