@@ -1,0 +1,6 @@
+README.md
+setup.py
+coldep.egg-info/PKG-INFO
+coldep.egg-info/SOURCES.txt
+coldep.egg-info/dependency_links.txt
+coldep.egg-info/top_level.txt
