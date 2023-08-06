@@ -1,0 +1,9 @@
+README.rst
+setup.py
+mloguru/__init__.py
+mloguru.egg-info/PKG-INFO
+mloguru.egg-info/SOURCES.txt
+mloguru.egg-info/dependency_links.txt
+mloguru.egg-info/not-zip-safe
+mloguru.egg-info/requires.txt
+mloguru.egg-info/top_level.txt
