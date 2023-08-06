@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+configurator/__init__.py
+configurator/fields.py
+configurator/main.py
+configurator/utils.py
+service_configurator.egg-info/PKG-INFO
+service_configurator.egg-info/SOURCES.txt
+service_configurator.egg-info/dependency_links.txt
+service_configurator.egg-info/requires.txt
+service_configurator.egg-info/top_level.txt
