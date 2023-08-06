@@ -1,0 +1,3 @@
+[console_scripts]
+asyntree=asyntree.__main__:main
+
