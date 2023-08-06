@@ -1,0 +1,11 @@
+groups:
+- Default
+motors:
+  Detector:
+  - Z ['Position'][mm]
+  - Y ['Position'][mm]
+  - X ['Position'][mm]
+  Sample:
+  - X ['Position'][mm]
+  - Y ['Position'][mm]
+  - Z ['Position'][mm]
