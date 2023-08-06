@@ -1,0 +1,9 @@
+nops_metadata/__init__.py,sha256=Vid6JyKVOdqHZkOBcExQe_VZ_mmWKuxLwVFThy2eAuU,3522
+nops_metadata/constants.py,sha256=Gu6wfAl2rb21Jl-0Dli5Ii_m0hkkQDhzFSej1rUSn_g,13801
+nops_metadata/schema.py,sha256=b0KQh2ZF3QUEBVc0Ho2FXBlsLPImLyXTaIZxapVpeiE,5928
+nops_metadata/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nops_metadata/tests/test_fetcher.py,sha256=ehJzFLO9ZYgCtinQYxXELOtIDEjsO0d8F9TnZMjbeYg,3026
+nops_metadata/utils.py,sha256=VsVde-eJEDN5_Zp6cuR2doUfEjNy19WkQFaNOGAEhNk,2088
+nops_metadata-0.2.2.dist-info/WHEEL,sha256=wycAfLpmmoS0r5FEKIVwKB-iEMUiIZXv6P5GBpfA1-Q,87
+nops_metadata-0.2.2.dist-info/METADATA,sha256=qoLIbDwJmvAIJFJSrJYclYcST2e0rVIj6w6oZ0hrE_c,725
+nops_metadata-0.2.2.dist-info/RECORD,,
