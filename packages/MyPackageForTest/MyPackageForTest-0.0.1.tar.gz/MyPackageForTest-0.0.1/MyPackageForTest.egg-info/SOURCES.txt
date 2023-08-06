@@ -1,0 +1,7 @@
+setup.py
+MYPACKAGEFORTEST/__init__.py
+MYPACKAGEFORTEST/main.py
+MyPackageForTest.egg-info/PKG-INFO
+MyPackageForTest.egg-info/SOURCES.txt
+MyPackageForTest.egg-info/dependency_links.txt
+MyPackageForTest.egg-info/top_level.txt
