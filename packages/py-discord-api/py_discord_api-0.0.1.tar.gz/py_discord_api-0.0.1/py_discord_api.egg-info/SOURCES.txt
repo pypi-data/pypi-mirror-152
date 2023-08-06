@@ -1,0 +1,15 @@
+README.md
+license.txt
+setup.py
+py_discord_api/__init__.py
+py_discord_api/bot.py
+py_discord_api/channel.py
+py_discord_api/embed.py
+py_discord_api/exceptions.py
+py_discord_api/http.py
+py_discord_api/message.py
+py_discord_api/user.py
+py_discord_api.egg-info/PKG-INFO
+py_discord_api.egg-info/SOURCES.txt
+py_discord_api.egg-info/dependency_links.txt
+py_discord_api.egg-info/top_level.txt
