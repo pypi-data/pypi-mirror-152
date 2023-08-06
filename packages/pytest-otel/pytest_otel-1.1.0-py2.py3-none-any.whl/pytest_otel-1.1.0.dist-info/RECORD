@@ -1,0 +1,8 @@
+pytest_otel/__init__.py,sha256=d9dy2lwW1tQZSVBOv_OKsfkl06qVJxnZttdH7uI8ZV4,12934
+pytest_otel-1.1.0.dist-info/LICENSE.txt,sha256=q-MoDAWnMTf89RVFLzUaOuADM1qh9nHGnPjio_ZKfaI,11347
+pytest_otel-1.1.0.dist-info/METADATA,sha256=ZXt-gtQSlFr0pFTcDoxR1UMcDecX_iXk_GdeUjyo5hs,4045
+pytest_otel-1.1.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+pytest_otel-1.1.0.dist-info/entry_points.txt,sha256=MON76J472V_J6_vl81fi8EibgXcu9utD8WLDvSZpZzg,30
+pytest_otel-1.1.0.dist-info/top_level.txt,sha256=qeBnJWTxJV8DfncWyqoNIff3TdxVCWXKKGt3XhtyHvA,12
+pytest_otel-1.1.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pytest_otel-1.1.0.dist-info/RECORD,,
