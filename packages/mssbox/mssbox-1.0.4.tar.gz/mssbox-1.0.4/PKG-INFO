@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: mssbox
+Version: 1.0.4
+Summary: Python package to be used with Matrix SIM Switch Box tool
+Home-page: https://github.com/acarlos94/MSSB_python_package
+Author: Antonio Carlos
+Author-email: antoniocarlos048@gmail.com
+License: MIT
+Description: MSSB python package
+        
+        This package was created to be used with Matrix SIM Switch Box, a tool provided by Qualigon to manipulate sim cards in mobile devices. More informations can be found at https://www.qualigon.de/en/test-systems/matrix-sim-switchbox-mssb'.
+        
+        To use this package, try: $ pip install mssbox
+        
+Keywords: python,mssb,matrixssb,mssbox
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Requires-Python: >=3
+Description-Content-Type: text/x-rst
