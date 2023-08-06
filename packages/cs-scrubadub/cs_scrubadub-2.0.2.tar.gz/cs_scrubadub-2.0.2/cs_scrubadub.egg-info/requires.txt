@@ -1,0 +1,9 @@
+textblob==0.15.3
+phonenumbers
+python-stdnum
+dateparser
+catalogue
+sklearn
+typing_extensions
+faker
+numpy>=1.21.4
