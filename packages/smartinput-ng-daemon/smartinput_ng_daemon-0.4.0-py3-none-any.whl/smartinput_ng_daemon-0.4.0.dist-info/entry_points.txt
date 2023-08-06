@@ -1,0 +1,4 @@
+[console_scripts]
+smartinput_list_serial_devices=smartinput.listdevices:main
+smartinput_ng_daemon=smartinput:run
+
