@@ -1,0 +1,3 @@
+[console_scripts]
+yaqd-labjack-sensor=yaqd_labjack._labjack_sensor:LabjackSensor.main
+
