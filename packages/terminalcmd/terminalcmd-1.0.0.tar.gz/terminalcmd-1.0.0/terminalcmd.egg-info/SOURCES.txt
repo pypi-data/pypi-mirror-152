@@ -1,0 +1,11 @@
+README.md
+setup.py
+terminalcmd/__init__.py
+terminalcmd/commands.py
+terminalcmd/core.py
+terminalcmd/exceptions.py
+terminalcmd/func_type.py
+terminalcmd.egg-info/PKG-INFO
+terminalcmd.egg-info/SOURCES.txt
+terminalcmd.egg-info/dependency_links.txt
+terminalcmd.egg-info/top_level.txt

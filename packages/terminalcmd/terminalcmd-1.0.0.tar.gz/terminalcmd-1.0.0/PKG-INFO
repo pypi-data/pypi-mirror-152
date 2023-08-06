@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: terminalcmd
+Version: 1.0.0
+Summary: Terminalcmd is a Python library which can help you to make your own terminal program with high-intellegence instruments, that will make your code "clear" and readable.
+Home-page: https://github.com/DarkJoij/terminalcmd
+Author: Dallas
+Author-email: aleksey.c5@yandex.ru
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
