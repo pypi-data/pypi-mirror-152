@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: avirtech-route-drone-filter
+Version: 0.0.2
+Summary: Avirtech Python Library to Filter and Generate route drone data to csv
+Home-page: https://github.com/dwieka21-bit
+Author: Dwieka
+Author-email: patriadwieka@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+This is the script to filter drone route from .log and .txt file to .csv file
+
+Install
+pip install avirtech_route_drone_filter
+
+Usage
+from avirtech_route_drone_filter.route_drone_filter import filter_drone_route
+
