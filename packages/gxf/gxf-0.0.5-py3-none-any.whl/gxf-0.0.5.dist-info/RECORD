@@ -1,0 +1,9 @@
+gxf/__init__.py,sha256=VUqbZA9qdp3peLHiLhS2bdNTHvvKf3Da7kn30VdWhjo,110
+gxf/field.py,sha256=OKbHVa9y_877pBYiB46lG0Mf7iW7dufN6hGOGwlotng,481
+gxf/gxf.py,sha256=9IYHn0t7jxIMTo54v13Ge8zymrQ-1cksQ2u83y3gzfw,4951
+gxf/operator.py,sha256=XZQvsx8IzrFKm_dSIWOmSCOdS04C1N-qqXn1tQTXADQ,4282
+gxf/util.py,sha256=UHoOlVQAFWkFULqAX7ppS2pWmucA3481A7PztpM53Kw,2186
+gxf-0.0.5.dist-info/METADATA,sha256=y-QDrlC7VRtdtBCHf38MPf4P7e4t5qCQNUxfRV4YLEs,4182
+gxf-0.0.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+gxf-0.0.5.dist-info/top_level.txt,sha256=LTBQQmmUw8L1vhOS0Fh56h7u3eBQLTAymrXf1bAAIBM,4
+gxf-0.0.5.dist-info/RECORD,,
