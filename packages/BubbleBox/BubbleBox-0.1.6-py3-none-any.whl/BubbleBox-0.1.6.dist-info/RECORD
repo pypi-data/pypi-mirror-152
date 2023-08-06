@@ -1,0 +1,11 @@
+bubblebox/__init__.py,sha256=E9NykGv2XfaFmwqHCRfPXkAmZHRlOekQohHGym6WLmI,135
+bubblebox/binding_models.py,sha256=15_plyGFQ30G0Tv1EpHqriI_ZfngmDLG4Nq0lP9HQJ0,6025
+bubblebox/bubblebox.py,sha256=X7GoDeVi34aTt0LH_-PuGmW_Y53ogAUj-SEtxLXyeGI,351
+bubblebox/ising.py,sha256=LYbmaW3oaTiJR-iE0QNtZSQUYmbrGoZ1e9NUiLv4g_0,7184
+bubblebox/lattice_models.py,sha256=2dz5qAJbSen2_P0hidoVPWaiOL59qQBguAAeosca0_s,30790
+bubblebox/mdbox.py,sha256=LSCJMyWzBd3zPpvkxMfk3Li6sc4p0LmYJEQVbZ-UH_I,30602
+BubbleBox-0.1.6.dist-info/LICENCE,sha256=rL2MyWlHrJBYwOeBrdOqenMamQfzqfxnDSDl9rg2W7M,1059
+BubbleBox-0.1.6.dist-info/METADATA,sha256=vMgHQy9-7hqJqsZwfi4IWprA_UTZKN9MIASAWf8mSzk,1520
+BubbleBox-0.1.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+BubbleBox-0.1.6.dist-info/top_level.txt,sha256=F8AmXLD26SOHtJJyUDSIaTawcbBptul8Kpd7z5APAks,10
+BubbleBox-0.1.6.dist-info/RECORD,,
