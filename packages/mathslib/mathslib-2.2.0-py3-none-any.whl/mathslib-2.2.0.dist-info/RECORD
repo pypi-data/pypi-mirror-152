@@ -1,0 +1,12 @@
+mathslib/__init__.py,sha256=7KMEXzz6deSGc_cJFXq3VtWjMsFh_Ws48gSmduUsZlc,1510
+mathslib/algorithms.py,sha256=m9aYm-42NqRyIk3_fHQThUIVtYcmdojg5BeLXaWRv-s,7848
+mathslib/fib.py,sha256=7GkKf2_cWUNbq396HkmR2_Ao-wzSQl6qD0Nr8ZJdZNs,3287
+mathslib/numtheory.py,sha256=UkIIDRg-ovAotMt1JT2UknfXKLtjUlkwdBNj29I6Me4,14730
+mathslib/primes.py,sha256=x7Mck8jGkwj4F7oaqzj_CuM4LnnKPiLTvN5KIL8VffU,8546
+mathslib/simple.py,sha256=8t0JO23VcIr7NKmTwJh4jfr4ei_PW3I0lUNwX7DJVqk,3338
+mathslib-2.2.0.dist-info/LICENSE.txt,sha256=awOCsWJ58m_2kBQwBUGWejVqZm6wuRtCL2hi9rfa0X4,1211
+mathslib-2.2.0.dist-info/METADATA,sha256=p7NsvVbYPTtHMdVAftFcw3Y_De2lCa4WCfFV2gOtcbs,4274
+mathslib-2.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mathslib-2.2.0.dist-info/entry_points.txt,sha256=xPp6vFitqG85D-kOcIEWjIZmvD2l53YiMbrwjZFpjZw,39
+mathslib-2.2.0.dist-info/top_level.txt,sha256=0AK4t8LTBdW1Z3DBVsZ6x_rEKXySeVKs8ig73AUdc9w,9
+mathslib-2.2.0.dist-info/RECORD,,
