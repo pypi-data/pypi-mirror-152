@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: rename_tools
+Version: 0.0.2
+Summary: This project provide tools to rename folders and files.
+Home-page: UNKNOWN
+Author: Thiago Nepomuceno
+Author-email: thiago@neps.academy
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Rename Tools
+
+This project provide tools to rename folders and files.
+
+# Build and Upload
+
+python setup.py sdist
+python setup.py bdist_wheel
+
+twine upload dist/\*
+
+
