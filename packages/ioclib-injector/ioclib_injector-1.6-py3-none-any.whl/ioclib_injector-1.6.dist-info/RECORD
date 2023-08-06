@@ -1,0 +1,7 @@
+ioclib/injector/__init__.py,sha256=YFbLV-01Mo5HuwkzBN2kxVRAX96vSQVBZGcTvBn5lPg,24
+ioclib/injector/injector.py,sha256=62-V1S3FTACSMTZfJ3u0MlkA4IT15xeA-PRoPPjMmrI,8397
+ioclib/tests/test_container.py,sha256=sXQ1rmv06Fssye6tbcFtZg6lyvxp_cUpv3mLVsrLVmQ,7305
+ioclib_injector-1.6.dist-info/METADATA,sha256=vpWpq9NEfojqdTmXuH0O3zk7Ka_YKHaTn4hPptIxuyA,216
+ioclib_injector-1.6.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+ioclib_injector-1.6.dist-info/top_level.txt,sha256=ASb04_OtLwk1cK30nkT84yO0fz1xsnpRNAVIalBygkg,7
+ioclib_injector-1.6.dist-info/RECORD,,
