@@ -1,0 +1,16 @@
+tdsql/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tdsql/__main__.py,sha256=46fsSCCfyackWWKutmmP2Po3l1sgkjrZ9uuJOigVbUo,70
+tdsql/client/__init__.py,sha256=EjvxPOQ3sp9NUeskiRklACKMb3RKNg5G-k3-b5QSuJw,323
+tdsql/client/base.py,sha256=Bla9wnT9Yg2geNvC_I7DcKgTn7OlqAAPvdgEk849auM,235
+tdsql/client/bigquery.py,sha256=Azw8lM4H7YxbntxvpCKUwy6GnKfzGWLTbSYYck7jbEs,694
+tdsql/command.py,sha256=J4Z1h8XrTdQH4JRDy3VcAbFLlDyQwnpKkVY4cpH8hy8,10449
+tdsql/exception.py,sha256=L3CSFvedAvPlmf8qW1OaXJFUwfkcdSi0UBpU5-w_mng,289
+tdsql/logger.py,sha256=QcbZvsm_5PDXA9tJOEQFSKm-eTFiAo74-Kiuny_40Es,62
+tdsql/test_case.py,sha256=FXcaIvCYY1rD_8pzBKqa4FSUmwGuLI1iGY0WvBXgCPs,3743
+tdsql/test_config.py,sha256=tt2EW3alMvcA4PdOzNgCNERKueMrxAYMfzfGe75Ob4A,300
+tdsql/util.py,sha256=cibgcje0DxhZPhUh2_Hs3zySPWvO3HCnGVHZVSj71bE,300
+tdsql-0.0.3.dist-info/entry_points.txt,sha256=uO-18kNSyI4Wahar0rK2VSxt8a5KF4j6D6k1UuDI5TE,44
+tdsql-0.0.3.dist-info/LICENSE,sha256=kECtnwnQqtzVl2rWVtNApLye3ncwEdRhwshjLVgSGCE,1064
+tdsql-0.0.3.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+tdsql-0.0.3.dist-info/METADATA,sha256=sWn0lshMd4tg7r0mWcqcruCQM0QtM157ura9GpKLtQM,2108
+tdsql-0.0.3.dist-info/RECORD,,
