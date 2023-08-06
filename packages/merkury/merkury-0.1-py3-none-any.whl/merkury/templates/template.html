@@ -1,0 +1,54 @@
+{% macro markdown(content) %}
+    <div>{{ content|markdown }}</div>
+{% endmacro %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merkury</title>
+    <style>
+        {% include "assets/pico.min.css" %}
+    </style>
+    <style>
+        {% include "assets/prism-night.css" %}
+    </style>
+    <style>
+        {% include "assets/merkury.css" %}
+    </style>
+</head>
+<body>
+    <main class="container">
+        <hgroup class="head">
+            <h1>{{ file_name }}</h1>
+            <h3>{{ timestamp }}</h3>
+        </hgroup>
+    {% for chunk in chunks %}
+        <div class="code-block">
+            <details>
+                <summary>Source code</summary>
+                <pre><code class="language-python">{{ chunk.in|e }}</code></pre>
+            </details>
+            <details open>
+                <summary>Output</summary>
+                {% if chunk.html %}
+                    <object>{{ chunk.out }}</object>
+                {% elif chunk.markdown %}
+                    {{ markdown(chunk.out) }}
+                {% else %}
+                    <pre><code class="language-python">{{ chunk.out|e }}</code></pre>
+                {% endif %}
+            </details>
+        </div>
+    {% endfor %}
+        <footer class="container foot">
+            <small>Page generated with <a target="_blank" rel="noopener noreferrer" href="https://github.com/ppatrzyk/merkury">Merkury</a>.</small>
+        </footer>
+    </main>
+    <script>
+        {% include "assets/prism.js" %}
+    </script>
+</body>
+</html>
