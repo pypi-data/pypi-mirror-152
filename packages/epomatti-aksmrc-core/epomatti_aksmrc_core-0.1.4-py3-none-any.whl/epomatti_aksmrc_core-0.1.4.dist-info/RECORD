@@ -1,0 +1,9 @@
+src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/keyvault.py,sha256=sX3KnXKIPq_ccEahwG3QADpCCjUO_HVta4cDOAhEuvM,648
+src/mongo.py,sha256=sEx2u6WsGVvKtpv269ue8tCMw7lEGLCJDpdTLjiu5Ds,468
+src/msal.py,sha256=CxlUO3H5jSoohAjB9T9g2xK6Z6wED0OFNF5ytKV8jJk,866
+src/token_credential.py,sha256=L3ypCeWbfnCEJoLJIA8xW1gEeFxqrdQbRhj1oRUV6v0,1531
+src/utils.py,sha256=ZTsouy1RM5Lh6NecpfiJ-RDzToGMIUWPdyvSEN31jOQ,71
+epomatti_aksmrc_core-0.1.4.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+epomatti_aksmrc_core-0.1.4.dist-info/METADATA,sha256=UYITCGZGbaUwqh9zT3co4GfSYWCxQGOAuOfxffUEG8k,619
+epomatti_aksmrc_core-0.1.4.dist-info/RECORD,,
