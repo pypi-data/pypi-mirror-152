@@ -1,0 +1,10 @@
+iopool/__init__.py,sha256=85euFqMCqX5aUuWAPCvp5BQ2TMRfwzQuLNLVRO2iMQU,146
+iopool/client.py,sha256=L9mzh_ltVuD-BPoQvCbu3FsIdVjZDtIA0feZHL4N9J4,2191
+iopool/const.py,sha256=9nFKz1391d7n44vQ3l0rVFfNL81Y4nAASOtFuO-bfeg,743
+iopool/errors.py,sha256=Rvl4f0uo5MNre7XzO4mCV8VCngS2TrOfg-4Bhc9a1Nw,150
+iopool/meta.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+iopool/types.py,sha256=eRQc7edU3PI6yOqDmwq1Jce-RxF3vF9l0M6D7XXBIDE,1190
+iopool-0.0.1.dist-info/WHEEL,sha256=6dj3VwBXrByyKJtG7fF3cvJMeAn2Gjr14tOXtWZMFj8,88
+iopool-0.0.1.dist-info/METADATA,sha256=Gwa3AP3iLbNycVzvlLQT2ZFg30s0Tu29twLyxfcWvgM,677
+iopool-0.0.1.dist-info/license_files/LICENSE,sha256=eWqfq4ftNQktlAvTReUeiTAMrhZNEYZv8JSB_HRcC6A,1068
+iopool-0.0.1.dist-info/RECORD,,
