@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+MyNameIsMac/Mac.py
+MyNameIsMac/__init__.py
+MyNameIsMac.egg-info/PKG-INFO
+MyNameIsMac.egg-info/SOURCES.txt
+MyNameIsMac.egg-info/dependency_links.txt
+MyNameIsMac.egg-info/top_level.txt
