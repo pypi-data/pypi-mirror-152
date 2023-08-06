@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+ECI/__init__.py
+EasyCommandInterface/__init__.py
+EasyCommandInterface/classes.py
+EasyCommandInterface/exceptions.py
+EasyCommandInterface.egg-info/PKG-INFO
+EasyCommandInterface.egg-info/SOURCES.txt
+EasyCommandInterface.egg-info/dependency_links.txt
+EasyCommandInterface.egg-info/top_level.txt
