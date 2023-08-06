@@ -1,0 +1,13 @@
+omniversion/__init__.py,sha256=KIreeAEaaJqTH0MTsR6h6tSgmp1Qz7FejvvsQjK1LL0,117
+omniversion/omniversion.py,sha256=KSYDobH8hctmSVE0KZtkmCIrieFI1j3kMjeexa0upIo,2427
+omniversion/dashboard/website/static/css/style.css,sha256=TXvPaZj9aLkAMkNd3UGR_rNlulQXUOEnvTTWgrrC75E,1447
+omniversion/dashboard/website/static/icons/cloud-download.svg,sha256=iOPKulRcEftpsrBeWz8fBS4-jNr3zWVNymj-nS6LDJw,556
+omniversion/dashboard/website/static/icons/files.svg,sha256=mR7d_djk_uZ--DppQiIwWOftZNjD53odh26GN0wsPgY,570
+omniversion/dashboard/website/static/icons/lock-open.svg,sha256=AxlR6oBK2fncI1t18Mffu8XjQ82D22-uS6cb3Izv-UA,503
+omniversion/dashboard/website/static/icons/package.svg,sha256=fJYg_Wr5Frx5r_CtzVjqBteU_qEvQai8Mf6J7Cf109s,616
+omniversion/dashboard/website/static/icons/shield-lock.svg,sha256=CQZa2Lx0OmmjfB_GMC0H4Fd_4W1gdcZ2KqEcFKGSlfU,559
+omniversion/dashboard/website/static/icons/world-download.svg,sha256=OMKmAuQaqLiV7wuX1C-2csSOd_DCeVkJtGKjWbOBPQg,609
+omniversion-0.46.13.dist-info/METADATA,sha256=qnvuxWsvlW0fkS3o-U-3kn0GhbveVh_-0OextNt6PgA,865
+omniversion-0.46.13.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+omniversion-0.46.13.dist-info/top_level.txt,sha256=ZISONmxU4g-AgYoUuecC1YTGKjRBOb0EO-MWZQA2kTw,12
+omniversion-0.46.13.dist-info/RECORD,,
