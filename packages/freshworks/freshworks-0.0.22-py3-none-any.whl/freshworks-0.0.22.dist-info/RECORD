@@ -1,0 +1,15 @@
+freshcaller/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+freshdesk/__init__.py,sha256=mPz-iXvL2kfqgUTTPmcsp1a8GLaPdG9O8eqcy5JsyJI,210
+freshdesk/_constants.py,sha256=vgFUy-6MW8RTfDUM63YX6PCLFA4nLfiiwFnarR4Gso8,58
+freshdesk/_logging.py,sha256=4Qd2CEIMgPE_Sxmw7yKOzM0CsI2spVZ0_x6xn5FwywM,1960
+freshdesk/_typing.py,sha256=KQeRXFTU89aYln6Y4bnvOax_0bkJvwiyGa_1ZTfDPv4,394
+freshdesk/client.py,sha256=CgNyVKKxN3yBdkx3liQCM2mztyadJMnvoPA4MFOEM9w,3932
+freshdesk/store.py,sha256=efyGLHNMlMTJGoMLhecA_EaNJnXcJDSISR8zDaL1bVw,1311
+freshdesk/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+freshdesk/models/api.py,sha256=ax6_xNZk73sdZ0_xHJ7J0I-yz_HU8IRZ0ZGfWgGYgdQ,175
+freshdesk/models/plan.py,sha256=v9LqFrGlfQ_cwu0B8VSRwQ6JlqztgGUtrAsO7PZoxvg,805
+freshworks-0.0.22.dist-info/LICENSE,sha256=iUkeX7oprbjw8QkTugwneinO8Id_V1Y-Fn6G8-9b1Qc,1069
+freshworks-0.0.22.dist-info/METADATA,sha256=ZbkyQLOP_1gHnC6t6J3er9yIzYTgD-v6C8B08fa5te8,1687
+freshworks-0.0.22.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+freshworks-0.0.22.dist-info/top_level.txt,sha256=LwpEO9sN9vzvNd93Rk0ME0dZ2LohbHp-PfnkAKNOe1Y,22
+freshworks-0.0.22.dist-info/RECORD,,
