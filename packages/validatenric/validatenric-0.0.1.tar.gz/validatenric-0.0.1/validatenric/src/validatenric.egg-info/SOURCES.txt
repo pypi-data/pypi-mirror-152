@@ -1,0 +1,7 @@
+LICENCE.txt
+setup.py
+validatenric/src/validatenric.py
+validatenric/src/validatenric.egg-info/PKG-INFO
+validatenric/src/validatenric.egg-info/SOURCES.txt
+validatenric/src/validatenric.egg-info/dependency_links.txt
+validatenric/src/validatenric.egg-info/top_level.txt
