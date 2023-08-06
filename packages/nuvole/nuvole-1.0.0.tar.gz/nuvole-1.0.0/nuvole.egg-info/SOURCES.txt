@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+nuvole/__init__.py
+nuvole/logger.py
+nuvole/server.py
+nuvole/service.py
+nuvole.egg-info/PKG-INFO
+nuvole.egg-info/SOURCES.txt
+nuvole.egg-info/dependency_links.txt
+nuvole.egg-info/requires.txt
+nuvole.egg-info/top_level.txt
