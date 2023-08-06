@@ -1,0 +1,9 @@
+README.md
+setup.py
+aviasales/__init__.py
+aviasales/schemas.py
+aviasales.egg-info/PKG-INFO
+aviasales.egg-info/SOURCES.txt
+aviasales.egg-info/dependency_links.txt
+aviasales.egg-info/requires.txt
+aviasales.egg-info/top_level.txt
