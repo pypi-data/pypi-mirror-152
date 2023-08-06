@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: findArea114800
+Version: 0.0.2
+Summary: Find arithmetic area
+Home-page: https://github.com
+Author: dimon-ton
+Author-email: test@gmail.com
+License: MIT
+Download-URL: https://github.com
+Keywords: Arithmetic Area,Dimon-ton
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+คลาสหาพื้นที่ทางเรขาคณิต
+========================
+
+แพ็คเก็จนี้คือแพ็คเก็จที่ใช้หาพื้นที่ทางเรขาคณิต
+
+วิธีติดตั้ง
+~~~~~~~~~~~
+
+เปิด CMD / Terminal
+
+.. code:: python
+
+   pip install findArea114800
+
+วิธีใช้งานแพ็คเพจนี้
+~~~~~~~~~~~~~~~~~~~~
+
+-  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+
+.. code:: python
+
+   from findArea114800 import Area
+
+   a = Area()
+   a.circle(12)
+   a.triangle(45,98)
+   a.square(154)
+   a.rectangle(154,567)
+
+พัฒนาโดย: Dimon-ton
+
+
