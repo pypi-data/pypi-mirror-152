@@ -1,0 +1,4 @@
+bjoern==3.2.1
+PyYAML==6.0
+schema==0.7.5
+Werkzeug==2.1.2
