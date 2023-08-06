@@ -1,0 +1,9 @@
+configurator/__init__.py,sha256=AslDSYZ5ucr_AYmOXJRi5JgJ-tJVsIfxFxtMGK7Pg18,309
+configurator/fields.py,sha256=8-KRIz28zYfa3w_qGaW68UrkxnuXgcJncoKml_nK4L4,3034
+configurator/main.py,sha256=uu3N21eRGcZl4Ij7lencD616p3AAwc3ctQlo3Cu2xlI,4962
+configurator/utils.py,sha256=vORfGbWhMcferxxw0r_V0wIYV8AhHhcra_3YGOuWPT0,1055
+service_configurator-1.0.0.dist-info/LICENSE,sha256=Mcsqh10h7TEjV58VPGjmxjyidqcf4a5tec5f7qUaFxM,1068
+service_configurator-1.0.0.dist-info/METADATA,sha256=CBItBBNSBgeLiKZgNpFHnOQNE-JYhrgh3cFnr3aiGqg,9384
+service_configurator-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+service_configurator-1.0.0.dist-info/top_level.txt,sha256=3xOJQRQl7sFvVWHwXCCaoI1jV_0SOW3u6QykreSDKFw,13
+service_configurator-1.0.0.dist-info/RECORD,,
