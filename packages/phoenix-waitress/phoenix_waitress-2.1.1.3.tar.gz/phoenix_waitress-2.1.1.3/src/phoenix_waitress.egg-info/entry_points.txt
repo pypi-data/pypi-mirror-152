@@ -1,0 +1,6 @@
+[console_scripts]
+phoenix_waitress-serve = phoenix_waitress.runner:run
+
+[paste.server_runner]
+main = phoenix_waitress:serve_paste
+
