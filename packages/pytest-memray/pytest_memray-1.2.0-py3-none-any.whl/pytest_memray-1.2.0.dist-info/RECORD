@@ -1,0 +1,10 @@
+pytest_memray/__init__.py,sha256=WTII0qkkw5lvzhOFoSe6sDH5XS84AO8J6ScexxRCfrI,119
+pytest_memray/_version.py,sha256=MpAT5hgNoHnTtG1XRD_GV_A7QrHVU6vJjGSw_8qMGA4,22
+pytest_memray/marks.py,sha256=Esc3O7KYN3RQD7gBR-flByPyavyjWtfEj5gkCROyM9E,1982
+pytest_memray/plugin.py,sha256=1FAf2jS1N5MTHqsnSV1rdIJd9CZICyA9E3daPsHFfvo,10205
+pytest_memray/utils.py,sha256=6TOIOg2aLbGn_eVaVtOFvVI1r9781PZ7OckF5qS07mQ,2011
+pytest_memray-1.2.0.dist-info/METADATA,sha256=HfOeR_AcBPdaT_ZfBOeASziSrzrqQOoCD2F-e6YhuxA,8977
+pytest_memray-1.2.0.dist-info/WHEEL,sha256=pQBNUuvzLGgmHCX7lFECq64ywm7NJkpuJR1ddVI6RB0,86
+pytest_memray-1.2.0.dist-info/entry_points.txt,sha256=Nt2boMtEF6CUJwU-g-qW_3aUZD51oeVctDf7pQT_rkM,41
+pytest_memray-1.2.0.dist-info/license_files/LICENSE,sha256=yXPdCOSQIqQBf_1FcRawRuvgf8caZE_XYNZBg4acqX8,11343
+pytest_memray-1.2.0.dist-info/RECORD,,
