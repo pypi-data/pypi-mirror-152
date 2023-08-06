@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: s3-objects-tracker
+Version: 0.2.0
+Summary: Track already processed objects inside your s3 bucket.
+Home-page: https://github.com/ErhoSen/s3-objects-tracker
+License: MIT
+Keywords: objects storage,s3,tracker,published objects,published objects tracker
+Author: Vladimir Vyazovetskov
+Author-email: erhosen@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Other Environment
+Classifier: Framework :: AsyncIO
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Requires-Dist: aiobotocore (>=2.3.2,<3.0.0)
+Project-URL: Repository, https://github.com/ErhoSen/s3-objects-tracker
+Description-Content-Type: text/markdown
+
+# s3-objects-tracker
+[![Build Status](https://github.com/ErhoSen/s3-objects-tracker/actions/workflows/main.yml/badge.svg)](https://github.com/ErhoSen/s3-objects-tracker/actions)
+[![codecov](https://codecov.io/gh/ErhoSen/s3-objects-tracker/branch/master/graph/badge.svg?token=GJFOTOL84G)](https://codecov.io/gh/ErhoSen/s3-objects-tracker)
+[![pypi](https://img.shields.io/pypi/v/s3-objects-tracker.svg)](https://pypi.org/project/s3-objects-tracker/)
+[![versions](https://img.shields.io/pypi/pyversions/s3-objects-tracker.svg)](https://github.com/ErhoSen/s3-objects-tracker)
+[![license](https://img.shields.io/github/license/erhosen/s3-objects-tracker.svg)](https://github.com/ErhoSen/s3-objects-tracker/blob/master/LICENSE)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+Track already processed objects inside your s3 bucket.
+
