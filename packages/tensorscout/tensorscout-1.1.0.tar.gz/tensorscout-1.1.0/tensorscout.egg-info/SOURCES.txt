@@ -1,0 +1,9 @@
+README.md
+setup.py
+tensorscout/__init__.py
+tensorscout/module.py
+tensorscout.egg-info/PKG-INFO
+tensorscout.egg-info/SOURCES.txt
+tensorscout.egg-info/dependency_links.txt
+tensorscout.egg-info/requires.txt
+tensorscout.egg-info/top_level.txt
