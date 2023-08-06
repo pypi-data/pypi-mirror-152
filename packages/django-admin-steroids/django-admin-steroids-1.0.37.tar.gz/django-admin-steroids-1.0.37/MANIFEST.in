@@ -1,0 +1,5 @@
+recursive-include admin_steroids/static *
+recursive-include admin_steroids/templates *
+include requirements.txt
+include requirements-test.txt
+include requirements-min-django.txt
