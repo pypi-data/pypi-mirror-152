@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: carter
+Version: 0.1
+Summary: Powerful conversational AI for your projects.
+Home-page: https://github.com/huwprosser/carter
+Author: Huw Prosser
+Author-email: huw@carterapi.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
