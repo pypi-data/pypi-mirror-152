@@ -1,0 +1,10 @@
+imagen_pytorch/__init__.py,sha256=xxKet2KPOWBuDUnRBYHHUAspsBnBQqTlWUz54urQ6Xg,104
+imagen_pytorch/configs.py,sha256=-BgmUqagUty5V_usgINJ5mLENNyBfQukhVAB_m4p7kQ,1787
+imagen_pytorch/imagen_pytorch.py,sha256=Wxm6lTGHvFqqyDULCp0TWKmqThFRJ0FWE0gt0bMzP6c,47489
+imagen_pytorch/t5.py,sha256=D6FyDfod21HLJuTGqnZU2ZiFzeFqSjeXb3bOMjDcXro,2895
+imagen_pytorch/trainer.py,sha256=eAWKosVuC51oxRlWQMRETc1DbMjvwhFoGpS7ZI0hq5g,12946
+imagen_pytorch-0.0.23.dist-info/LICENSE,sha256=xZDkKtpHE2TPCAeqKe1fjdpKernl1YW-d01j_1ltkAU,1066
+imagen_pytorch-0.0.23.dist-info/METADATA,sha256=msE7o6eLNP1toYZnUQeZ98Pa-GIXjMvng8QUKEQ3-yE,917
+imagen_pytorch-0.0.23.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+imagen_pytorch-0.0.23.dist-info/top_level.txt,sha256=NIPSYkKb91r_q358qO4USh8mpvHZHTW5Gypk9bn7T_U,15
+imagen_pytorch-0.0.23.dist-info/RECORD,,
