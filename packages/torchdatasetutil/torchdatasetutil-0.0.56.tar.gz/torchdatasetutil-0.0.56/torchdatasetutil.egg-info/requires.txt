@@ -1,0 +1,9 @@
+functools
+minio
+numpy
+opencv-python
+prettytable
+pyyaml
+random
+scikit-learn
+torch
