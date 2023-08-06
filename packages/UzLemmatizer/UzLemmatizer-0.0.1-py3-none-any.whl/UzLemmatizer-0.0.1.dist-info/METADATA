@@ -1,0 +1,137 @@
+Metadata-Version: 2.1
+Name: UzLemmatizer
+Version: 0.0.1
+Summary: UzLemmatizer: A Stemmer and Lemmatizer Tool for Uzbek Language
+Home-page: https://github.com/UlugbekSalaev/UzLemmatizer
+Author: Ulugbek Salaev
+Author-email: ulugbek0302@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/UlugbekSalaev/UzLemmatizer/issues
+Keywords: mophology,uzbek-language,stemmer,lemmatize,part-of-speech-tag
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# UzLemmatizer
+
+https://pypi.org/project/UzLemmatizer <br>
+https://github.com/UlugbekSalaev/UzLemmatizer
+
+UzLemmatizer tool is focused to identify a stem and lemma of Uzbek words with its POS tag based on a morphemes. 
+It is created as a python library and uploaded to [PyPI](https://pypi.org/). It is simply easy to use in your python project or other programming language projects via the API. 
+
+## About project
+UzLemmatizer project involves Uzbek word morphology, which is the study of word forms.
+The tool is focused to extract stem and lemma of Uzbek word based on morphemes. Additionally, the result contain a predicted POS tag of the given token.
+
+## Quick links
+
+- [Github](https://github.com/UlugbekSalaev/UzLemmatizer)
+- [PyPI](https://pypi.org/project/UzLemmatizer/)
+- [Web-UI](https://nlp.urdu.uz/?menu=lemmatizer)
+
+## Demo
+
+You can use [web interface](http://nlp.urdu.uz/?menu=lemmatizer).
+
+## Features
+
+- Stemmer
+- Lemmatizer
+- Lemmatizer with POS tag
+- Extract Morphemes list
+- Predict POS tag
+
+## Usage
+
+Three options to run UzLemmatizer:
+
+- pip
+- API 
+- Web interface
+
+### pip installation
+
+To install UzLemmatizer, simply run:
+
+```code
+pip install UzLemmatizer
+```
+
+After installation, use in python like following:
+```yml
+# import the library
+from UzLemmatizer import UzLemmatizer
+# create an object 
+analyzer = UzLemmatizer.UzLemmatizer()
+# call stem method
+analyzer.stem('maktabimda')
+# call lemmatize method
+analyzer.lemmatize('maktabimda')
+# call lemmatize method with POS tag
+analyzer.lemmatize('maktabimda', analyzer.POS.NOUN)
+```
+
+### API
+API configurations: 
+ - Method: GET
+ - Response type: <code>string</code>
+
+
+ - URL: https://uz-translit.herokuapp.com/stem
+   - Parameters: <code>word:string</code></code>
+   - Sample Request: https://uztranslit.herokuapp.com/stem?word=maktabimda
+
+
+ - https://uz-translit.herokuapp.com/lemmatize
+   - Parameters: <code>word:string</code>, <code>pos:string</code>
+   - Sample Request: https://uztranslit.herokuapp.com/lemmatize?word=maktabimda&pos=NOUN
+
+### Web-UI
+
+The web interface created to use easily the library:
+You can use web interface [here](http://nlp.urdu.uz/?menu=lemmatizer).
+
+![Demo image](./docs/images/web-interface-ui.png)
+
+
+### Options
+When you use PyPI or API, you should use following options as POS tag of a word which is optional parameter of `lemmatize()` metods:<br>
+    `NOUN`  Noun<br>
+    `VERB`  Verb<br>
+    `ADJ`   Adjective<br>
+    `NUM`   Numerical<br>
+    `PRN`   Pronoun<br>
+    `ADV`   Adverb
+
+_`pos` parameters is optional for `lemmatize`  metods._
+
+### Result Explaining
+
+It returns single word in a string type from each method, `stem` and `lemmatize`, that is stem and lemma of given word, respectively. 
+
+## Documentation
+
+See [here](https://github.com/UlugbekSalaev/UzLemmatizer).
+
+## Citation
+
+```tex
+@misc{UzLemmatizer,
+  title={{UzLemmatizer}: Stemmer and Lemmatizer Tool for Uzbek Language},
+  url={https://github.com/UlugbekSalaev/UzLemmatizer},
+  note={Software available from https://github.com/UlugbekSalaev/UzLemmatizer},
+  author={
+    Ulugbek Salaev},
+  year={2022},
+}
+```
+
+## Contact
+
+For help and feedback, please feel free to contact [the author](https://github.com/UlugbekSalaev).
+

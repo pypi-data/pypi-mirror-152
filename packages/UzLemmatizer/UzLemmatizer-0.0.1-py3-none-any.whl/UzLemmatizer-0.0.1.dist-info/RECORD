@@ -1,0 +1,13 @@
+UzLemmatizer/UzLemmatizer.py,sha256=rjuC0MzBdcBQ4xBNmu9fsuSln7Vfs5vtr55UHsi8I4Q,24650
+UzLemmatizer/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+UzLemmatizer/affixes.csv,sha256=-eWNExcFDOmgAF-Y1c6Y3rQ5TWMMY8Ewdwzt6KsftaI,28668
+UzLemmatizer/exception_stems.csv,sha256=2WiQxTW_luUfpU7kbbUmfEG37bxMgOcewwZkpab9PDo,2177
+UzLemmatizer/lemma_map.csv,sha256=C1FIFZzGn_J4IEJhUqpXbALu1km3ty7wh_NnOGWRmuQ,413
+UzLemmatizer/non_affixed_stems.csv,sha256=49GskovdPrQ1EEdjjhtYhLfsY4hiDgluO06FgYMqhCU,805
+UzLemmatizer/number_stems.csv,sha256=ClWPwK1uYvkbQkmdQPc-oEPpOuGNfL8cFDZquYcry4g,184
+UzLemmatizer/small_stems.csv,sha256=GeoB3taA9u-WQ_lu-KE_oTlKz40zfGdbnAE-ur8uKbw,35
+UzLemmatizer-0.0.1.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+UzLemmatizer-0.0.1.dist-info/METADATA,sha256=klNz4PccxRD1NchpqHPA6J3strQ4L6Gxyu4CWYnpzec,3866
+UzLemmatizer-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+UzLemmatizer-0.0.1.dist-info/top_level.txt,sha256=6cufZJkBqdMQ6GyOPvJvf7lfmZnOT5yaXzrrswoWEtU,13
+UzLemmatizer-0.0.1.dist-info/RECORD,,
