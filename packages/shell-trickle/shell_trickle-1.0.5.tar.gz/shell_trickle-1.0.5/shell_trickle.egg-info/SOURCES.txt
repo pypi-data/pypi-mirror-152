@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+shell_trickle.egg-info/PKG-INFO
+shell_trickle.egg-info/SOURCES.txt
+shell_trickle.egg-info/dependency_links.txt
+shell_trickle.egg-info/entry_points.txt
+shell_trickle.egg-info/not-zip-safe
+shell_trickle.egg-info/requires.txt
+shell_trickle.egg-info/top_level.txt
+src/__init__.py
+src/config.py
+src/main.py
+src/trickle.py
+src/utils.py

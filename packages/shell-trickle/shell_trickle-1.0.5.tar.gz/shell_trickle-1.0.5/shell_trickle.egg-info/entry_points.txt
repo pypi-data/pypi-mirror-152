@@ -1,0 +1,3 @@
+[console_scripts]
+trickle = src.main:main
+
