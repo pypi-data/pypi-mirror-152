@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: glasnt-pypi-image-example
+Version: 0.0.1
+Summary: An example of images in PyPI READMEs
+Author-email: katie@glasnt.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# PyPI Image Example
+
+This package does nothing. It is just an example of an image in a README.md file. 
+
+### Test Image
+
+![sparkles](static/sparkles.png)
+
+This is the Twitter 1.0 Emoji "[Sparkles](https://emojipedia.org/twitter/twemoji-1.0/sparkles/)". 

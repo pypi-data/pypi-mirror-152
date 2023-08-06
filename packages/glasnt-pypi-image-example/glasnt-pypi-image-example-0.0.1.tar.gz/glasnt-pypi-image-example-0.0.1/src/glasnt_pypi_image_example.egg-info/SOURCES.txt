@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/glasnt-pypi-image-example/__init__.py
+src/glasnt_pypi_image_example.egg-info/PKG-INFO
+src/glasnt_pypi_image_example.egg-info/SOURCES.txt
+src/glasnt_pypi_image_example.egg-info/dependency_links.txt
+src/glasnt_pypi_image_example.egg-info/top_level.txt
