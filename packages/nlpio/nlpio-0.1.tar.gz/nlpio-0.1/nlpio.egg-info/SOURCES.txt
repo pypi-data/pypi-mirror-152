@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+nlpio/__init__.py
+nlpio/contractions.py
+nlpio/nlpio.py
+nlpio.egg-info/PKG-INFO
+nlpio.egg-info/SOURCES.txt
+nlpio.egg-info/dependency_links.txt
+nlpio.egg-info/requires.txt
+nlpio.egg-info/top_level.txt
