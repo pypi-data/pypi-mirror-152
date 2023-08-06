@@ -1,0 +1,2 @@
+dagster==0.14.17rc8
+prometheus_client
