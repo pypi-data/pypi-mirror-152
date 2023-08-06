@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+knikkersorteermachine/__init__.py
+knikkersorteermachine.egg-info/PKG-INFO
+knikkersorteermachine.egg-info/SOURCES.txt
+knikkersorteermachine.egg-info/dependency_links.txt
+knikkersorteermachine.egg-info/requires.txt
+knikkersorteermachine.egg-info/top_level.txt
