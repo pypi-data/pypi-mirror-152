@@ -1,0 +1,8 @@
+# tests/linter
+black
+coverage
+flake8
+pytest
+pytest-mock
+requests
+yapf
