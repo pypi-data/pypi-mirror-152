@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: link_notify
+Version: 0.7
+Summary: Creates notification with button
+Author: Prog Bits
+Author-email: progbitsprojects@gmail.com
+License: UNKNOWN
+Keywords: python,notification,notification with buttons,create notifications,notification with links
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+#Link_Notify
+##Simple notification creator with button package by progbits
+
+visit us - https://progbits.xyz
+
+For docs, tutorials and updates visit - https://progbits.xyz/link-notify
+Installation-
+`pip install link-notify`
+Simple code to create a notification-
+```Python
+import link_notify as ln
+ln.notify(
+	"Text for notification",
+	"link to open",
+	5,
+	"text on button")`
+
+

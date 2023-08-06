@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+link_notify/__init__.py
+link_notify/linknotify.py
+link_notify.egg-info/PKG-INFO
+link_notify.egg-info/SOURCES.txt
+link_notify.egg-info/dependency_links.txt
+link_notify.egg-info/top_level.txt
