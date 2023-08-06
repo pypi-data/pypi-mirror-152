@@ -1,0 +1,5 @@
+[console_scripts]
+garmin = rowing.analysis.garmin:main [GARMIN]
+gpx = rowing.analysis.files:main [GPX]
+rowing_live_tracker = rowing.world_rowing.dashboard:main [CLI]
+world_rowing = rowing.world_rowing.cli:run [CLI]
