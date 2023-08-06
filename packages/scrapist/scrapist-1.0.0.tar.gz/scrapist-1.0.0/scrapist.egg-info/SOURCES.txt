@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+./Scrapist/__init__.py
+./Scrapist/scraper.py
+./Scrapist/selection.py
+./Scrapist/soup.py
+scrapist.egg-info/PKG-INFO
+scrapist.egg-info/SOURCES.txt
+scrapist.egg-info/dependency_links.txt
+scrapist.egg-info/requires.txt
+scrapist.egg-info/top_level.txt
