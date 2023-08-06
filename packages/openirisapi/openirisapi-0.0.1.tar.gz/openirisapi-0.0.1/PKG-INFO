@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: openirisapi
+Version: 0.0.1
+Summary: A very basic API built upon requests for openiris.io
+Home-page: https://gitlab.in2p3.fr/sotirios.PAPADIAMANTIS/openirisAPI
+Author: Sotiris Papadiamantis
+Author-email: sotirios.papadiamantis@univ-amu.fr
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.0
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
+## OpenIRIS API
+
+A simple API for [openiris.io](openiris.io). OpenIRIS is a free platform permitting the publishing and management of resources form microscopy units.
+
+This API was developped as part of a France BioImaging project and is offered for use to anyone in the scientific community.
+
+At the moment, there is no REST API published by the site's developpers. This package aims to provide a functional solution that permits PROVIDER ardministration to download data directly from the website's backend.
+
+Currently in Alpha, more features are scheduled to be added alongside a complete documentation.
