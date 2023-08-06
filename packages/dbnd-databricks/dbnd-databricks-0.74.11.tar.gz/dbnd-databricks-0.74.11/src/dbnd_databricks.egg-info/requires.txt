@@ -1,0 +1,4 @@
+dbnd==0.74.11
+dbnd-spark==0.74.11
+
+[tests]
