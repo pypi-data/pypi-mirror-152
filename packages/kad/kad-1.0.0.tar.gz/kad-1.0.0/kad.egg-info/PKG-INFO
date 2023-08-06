@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: kad
+Version: 1.0.0
+Summary: Use dictionary keys as attributes
+Author: Robin Chapple
+Author-email: r.chapple.business@gmail.com
+License: UNKNOWN
+Keywords: python,dictionary,easeofuse,ctx,objects
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A package that allows dictionaries to be used with dots rather than keys
+
