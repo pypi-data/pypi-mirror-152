@@ -1,0 +1,3 @@
+[console_scripts]
+opensubtitles-dl = opensubtitles_dl.main:cli
+

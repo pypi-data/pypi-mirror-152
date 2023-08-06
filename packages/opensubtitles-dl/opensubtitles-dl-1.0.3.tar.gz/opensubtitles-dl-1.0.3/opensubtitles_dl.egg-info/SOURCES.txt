@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+opensubtitles_dl/__init__.py
+opensubtitles_dl/main.py
+opensubtitles_dl/search.py
+opensubtitles_dl/utils.py
+opensubtitles_dl.egg-info/PKG-INFO
+opensubtitles_dl.egg-info/SOURCES.txt
+opensubtitles_dl.egg-info/dependency_links.txt
+opensubtitles_dl.egg-info/entry_points.txt
+opensubtitles_dl.egg-info/requires.txt
+opensubtitles_dl.egg-info/top_level.txt
