@@ -1,0 +1,11 @@
+thesillyhome/model_creator/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+thesillyhome/model_creator/extract_routine.py,sha256=k_MdvvF5BJBRZXTK6DMYOR93MWcDg3aa9XUTd9TzZP8,1965
+thesillyhome/model_creator/home.py,sha256=Xj65CLJtdHqgViuDpdat183IGI7eMmpPvQGFZjpJ1es,1304
+thesillyhome/model_creator/learning_model.py,sha256=yDeADths_h9SyRhGMWg1YrvHddvqyWJjivO6rlhUd8U,4047
+thesillyhome/model_creator/main.py,sha256=CUwrkn1sVXfo1t1ZQy1RU5L0P1dZVm0CINMr3yRJ6hc,505
+thesillyhome/model_creator/parse_data.py,sha256=-TKoDZ-ARdJ6XSSjaA6fU0dtd_b9dCWKEKojN467YGQ,5731
+thesillyhome/model_creator/read_config_json.py,sha256=cP554qaiJHEmOgAIdS-HzMuUqARM1GkclRWVTSjPmRg,1427
+thesillyhome-0.2.5.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+thesillyhome-0.2.5.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+thesillyhome-0.2.5.dist-info/METADATA,sha256=WCm5nWyXtbH32mhlTuiT7Zu-zziE3l_y9S1Avc8iHxQ,481
+thesillyhome-0.2.5.dist-info/RECORD,,
