@@ -1,0 +1,7 @@
+README.md
+setup.py
+thepotato.py
+thepotato.egg-info/PKG-INFO
+thepotato.egg-info/SOURCES.txt
+thepotato.egg-info/dependency_links.txt
+thepotato.egg-info/top_level.txt
