@@ -1,0 +1,13 @@
+
+[dev]
+build
+twine
+mypy
+black
+pytest
+pytest-md
+mytest-parallel
+pylint
+
+[systemd]
+csystemd
