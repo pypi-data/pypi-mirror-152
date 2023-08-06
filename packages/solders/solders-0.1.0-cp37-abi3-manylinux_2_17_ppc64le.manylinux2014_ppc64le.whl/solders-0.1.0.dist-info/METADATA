@@ -1,0 +1,72 @@
+Metadata-Version: 2.1
+Name: solders
+Version: 0.1.0
+Classifier: Programming Language :: Rust
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+License-File: LICENSE
+Summary: Python binding to the Solana Rust SDK
+Author-email: kevinheavey <kevinheavey123@gmail.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+Project-URL: homepage, https://github.com/kevinheavey/solders
+Project-URL: repository, https://github.com/kevinheavey/solders
+Project-URL: changelog, https://github.com/kevinheavey/solders/blob/main/CHANGELOG.md
+Project-URL: documentation, https://kevinheavey.github.io/solders/
+
+# Solders
+
+`solders` is a Python binding to the
+[Solana Rust SDK](https://docs.rs/solana-sdk/latest/solana_sdk/).
+It provides robust, high-performance solutions to core Solana tasks such as transaction signing and serialization, and saves us from reimplementing Solana logic in pure Python.
+
+## Installation
+
+```
+pip install solders
+```
+
+Note: Requires Python >= 3.7.
+
+## Example Usage
+
+```python
+>>> from solders.message import Message
+>>> from solders.keypair import Keypair
+>>> from solders.instruction import Instruction
+>>> from solders.hash import Hash
+>>> from solders.transaction import Transaction
+>>> from solders.pubkey import Pubkey
+>>> program_id = Pubkey.default()
+>>> arbitrary_instruction_data = bytes([1])
+>>> accounts = []
+>>> instruction = Instruction(program_id, arbitrary_instruction_data, accounts)
+>>> payer = Keypair()
+>>> message = Message([instruction], payer.pubkey())
+>>> blockhash = Hash.default()  # replace with a real blockhash
+>>> tx = Transaction([payer], message, blockhash)
+
+```
+
+## Development
+
+### Setup
+
+1. Install [poetry](https://python-poetry.org/)
+2. Install dev dependencies:
+
+```
+poetry install
+```
+
+3. Activate the poetry shell:
+
+```sh
+poetry shell
+```
+
+### Testing
+
+1. Run `maturin develop` to compile the Rust code.
+2. Run `make fmt`, `make lint`, and `make test`.
+
