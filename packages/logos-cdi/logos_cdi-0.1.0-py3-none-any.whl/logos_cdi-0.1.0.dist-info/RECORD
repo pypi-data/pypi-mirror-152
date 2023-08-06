@@ -1,0 +1,15 @@
+logos_cdi/__init__.py,sha256=omkOb3E2U8YbUZ8caUi336ldfXswI5mvvDtha8AFiU0,461
+logos_cdi/__main__.py,sha256=zoSuHaDJ-5VsF5J742JUK-ROD2cubODVjAKSyctMuos,294
+logos_cdi/abstract.py,sha256=xAIHh3nF3gvpjjjiaZCU0QSbaSZMNMGzIpxwX2rdZT8,860
+logos_cdi/application.py,sha256=_h8Rco2gAc2J4XOyuJdN6TRRM7AcyXbzIec7oEC-UAY,2391
+logos_cdi/builder.py,sha256=_v2rojjWmvQ1FHoiPrEMSgNql8_EmbWL4Zp6Ztlqajc,1650
+logos_cdi/command.py,sha256=L75WIzOw5Z5_b33db4ZSY8B80V8hbhyb-q_mYbKRrLM,2029
+logos_cdi/container.py,sha256=s_KenRyObjUa-Sax7tLu7NLFhrsrmdqJggIyI6OqcuU,2938
+logos_cdi/errors.py,sha256=S9bmTvmbyKa21_K8v-Ny1bb6cul9lf69oPK20eHcxt4,365
+logos_cdi/manager.py,sha256=S87XU3uKgB0tSxhEHhkwtDpmuEXJ5h5B-Ffw1Txp8Gc,1618
+logos_cdi/resource.py,sha256=YXT7A7O7Ku2nMuzunw-OVrEyCtTRW91r37mKNegqAx8,3437
+logos_cdi-0.1.0.dist-info/entry_points.txt,sha256=EHR2n3U6NPPdt7Zf3QE6wP9dzx9L66lhEdXZQxLlR_g,49
+logos_cdi-0.1.0.dist-info/LICENSE,sha256=CnfoRBAeeQbiEpmIKR1bnYm2H-n0saGheYxxIoQBz-I,1071
+logos_cdi-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+logos_cdi-0.1.0.dist-info/METADATA,sha256=1OsFohGqiR1AsWqsVKIE4ECyLbmNKFDC9c-8dPqahpA,1190
+logos_cdi-0.1.0.dist-info/RECORD,,
