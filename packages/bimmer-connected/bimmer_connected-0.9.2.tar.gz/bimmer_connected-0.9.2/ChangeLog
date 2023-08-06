@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+0.9.2
+-----
+
+* Force UTC in timestamps (#447)
