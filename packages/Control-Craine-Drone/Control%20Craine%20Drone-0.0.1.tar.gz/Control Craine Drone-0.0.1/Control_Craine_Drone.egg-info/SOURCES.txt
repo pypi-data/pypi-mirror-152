@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+Control Craine Drone/__init__.py
+Control_Craine_Drone.egg-info/PKG-INFO
+Control_Craine_Drone.egg-info/SOURCES.txt
+Control_Craine_Drone.egg-info/dependency_links.txt
+Control_Craine_Drone.egg-info/top_level.txt
