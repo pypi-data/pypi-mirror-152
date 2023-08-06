@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: Random-decimal
+Version: 1.0.0
+Summary: This is a random floating-point number generator.
+Home-page: https://github.com/NuoranDFDG/random.git
+Author: nuoran
+Author-email: 1929825239@qq.com
+Maintainer: nuoran
+Maintainer-email: 1929825239@qq.com
+License: MIT License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+
+Python random floating point number generator 
+by nuoran
