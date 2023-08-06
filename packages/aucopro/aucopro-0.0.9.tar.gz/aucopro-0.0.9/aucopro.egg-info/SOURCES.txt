@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+aucopro/__init__.py
+aucopro/drive.py
+aucopro/utils.py
+aucopro.egg-info/PKG-INFO
+aucopro.egg-info/SOURCES.txt
+aucopro.egg-info/dependency_links.txt
+aucopro.egg-info/top_level.txt
