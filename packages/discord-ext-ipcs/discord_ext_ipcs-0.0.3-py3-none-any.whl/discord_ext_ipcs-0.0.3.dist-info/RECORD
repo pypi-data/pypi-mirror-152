@@ -1,0 +1,10 @@
+discord/ext/ipcs/__init__.py,sha256=3AYf-VK8iDoyGKtrCm7ay4Z6qcarQJ47X0_0RXbhMNg,147
+discord/ext/ipcs/client.py,sha256=jkm2v543qJneo2Wcs6UG4TRS3gmi3Jw7yOtuFzztEkM,5150
+discord/ext/ipcs/errors.py,sha256=wsXOYvkkhkF_QQSRv27vTtfbQ-oMx4Nqj_5B-R61W4I,98
+discord/ext/ipcs/items.py,sha256=C-XJdf8nvQEiTHERg2QK3ygKHrBGn-wzeK3PnN-Ordo,344
+discord/ext/ipcs/server.py,sha256=10YgOMkf5QU8f-sxOOEEQVZ2lk00nTRVN4tVaFPxRbs,2595
+discord_ext_ipcs-0.0.3.dist-info/LICENSE,sha256=vjWdapkKXfkLv3YhJyDv_bDJBocwl3DdA9h5a5SIUk8,1063
+discord_ext_ipcs-0.0.3.dist-info/METADATA,sha256=30lV8uA7CycXF9UsZoUYkBQM7q1iMMjXNEXy-a_j6dw,1260
+discord_ext_ipcs-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+discord_ext_ipcs-0.0.3.dist-info/top_level.txt,sha256=fJkrNbR-_8ubMBUcDEJBcfkpECrvSEmMrNKgvLlQFoM,8
+discord_ext_ipcs-0.0.3.dist-info/RECORD,,
