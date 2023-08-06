@@ -1,0 +1,15 @@
+hikari_bot/__init__.py,sha256=PLgqmTJ4WFvxqobu3y7Rhs45mw7V-ihpokzo5eso694,7007
+hikari_bot/data_source.py,sha256=-McXy33AJ3SlMPox-5NOre1xvba-jn90yOvOvXoGCa4,16563
+hikari_bot/publicAPI.py,sha256=iGoUnOW-hTzIVqMiCpzwVH8JT1LSK5dxPMNu_8NsDVg,2785
+hikari_bot/template/wws-info-recent.html,sha256=sM4V9WSDBBqazZcfsqN1YwHXAbf8VEbBiRLQMuPjx6I,4217
+hikari_bot/template/wws-info.html,sha256=DEbI134V7cj5qxWn5zOvohtsdgw_VrViiOEipwBozog,12038
+hikari_bot/template/wws-ship.html,sha256=OaGJYjR9V2G3JhHQ_sCq_ecwu5ef6f-H9XsjFHQ03os,3059
+hikari_bot/utils.py,sha256=4a8gguP6GECjnpbL0icSTnlaZbE5MEVpbkPNyuiN53o,947
+hikari_bot/wws_bind.py,sha256=8kOBERj1xIVnPDlfMfpSpB870vu1Up2TNFkhUEKJ4Sw,6146
+hikari_bot/wws_info.py,sha256=ex0qmGvwnXnIUA4MQv8dufrRr4wjXkvO8InS0sOK288,3687
+hikari_bot/wws_recent.py,sha256=kbiBc1qI_nAF7F0aSt1LTOlLVzLgWZ7DhlSwIcp_OXY,3642
+hikari_bot/wws_ship.py,sha256=ARRcK--O5MQzQUKYgtGrGrzbtRI7n-67jxzSKN-AmfQ,5192
+hikari_bot-0.1.1.dist-info/LICENSE,sha256=pI4zno5tjj3qRHiDszVSNxWApGb-FaxVg5VyTfasvuQ,1084
+hikari_bot-0.1.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+hikari_bot-0.1.1.dist-info/METADATA,sha256=EB_RCfiiOcD_AZXoYevvPVoAMh9-Y0xQRIGb9ZG644Y,2697
+hikari_bot-0.1.1.dist-info/RECORD,,
