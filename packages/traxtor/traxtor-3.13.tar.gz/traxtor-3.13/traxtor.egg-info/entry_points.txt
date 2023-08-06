@@ -1,0 +1,2 @@
+[console_scripts]
+tractor = tractor.tractor:main
