@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: ff-fun-demo
+Version: 0.0.0.1
+Summary: special-purpose
+Home-page: https://gitee.com/fanfan007/py_fun_demo.git
+Author: 范范
+Author-email: 516702882@qq.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: datetime
+Requires: fake_useragent
