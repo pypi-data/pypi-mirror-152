@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: stitch-sdk
+Version: 0.1.0
+Summary: Unofficial Stitch Python SDK
+Home-page: https://github.com/deanpienaar/stitch-py
+Author: Dean Pienaar
+License: MIT
+License-File: LICENSE
+
+# Stitch Python SDK
+### Setup
+```zsh
+$ pip install stitch-sdk
+```
+
+### Usage
+Import Stitch from stitch and off you go!
+
+### Examples
+You can run the examples in main.py with
+```zsh
+$ python -m stitch_sdk.main
+```
+
+You will need a Stitch `client.json` and `certificate.pem`.
+A test client can be generated [here](https://stitch.money/get-access).
+
+Make sure to provide the right cert path and `client_id` as shown
+in main.py
