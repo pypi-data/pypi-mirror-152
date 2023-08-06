@@ -1,0 +1,3 @@
+[console_scripts]
+ebooks-lister=ebooks_lister.cli:main
+

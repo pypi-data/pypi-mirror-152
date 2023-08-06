@@ -1,0 +1,8 @@
+ebooks_lister/__init__.py,sha256=h9uuDfY5cvpmI2Y9C2BwUjH9RnEHFpPr9KpZlyq-aZY,141
+ebooks_lister/cli.py,sha256=3g7OPGsqdS3PeaLW8MnXrAplV_EHBnzfzmePmfvjmio,1789
+ebooks_lister/ebooks_lister.py,sha256=4T0dW99FKHZ0KGXDawIeIInEzIIQU-mUXQGIbtvX_jI,7576
+ebooks_lister-0.1.0.dist-info/entry_points.txt,sha256=ex5S006QDKVqIX9O-YJfyH73S8KgIbZnmF0HwKErZsA,56
+ebooks_lister-0.1.0.dist-info/LICENSE,sha256=iRjgybILUt9hNaoJx-fHpkrgTgCvYdHSOdHh104v_tU,1067
+ebooks_lister-0.1.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+ebooks_lister-0.1.0.dist-info/METADATA,sha256=ehj0pZwSrIDW-5L6Z5KbzpPapK8I8_WY1DhbU7Tq-Hg,3005
+ebooks_lister-0.1.0.dist-info/RECORD,,
