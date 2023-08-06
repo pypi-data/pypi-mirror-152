@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+src/Html2js/Html2js.py
+src/Html2js/__init__.py
+src/Html2js.egg-info/PKG-INFO
+src/Html2js.egg-info/SOURCES.txt
+src/Html2js.egg-info/dependency_links.txt
+src/Html2js.egg-info/requires.txt
+src/Html2js.egg-info/top_level.txt
