@@ -1,0 +1,8 @@
+ipfabric_httpx_auth/__init__.py,sha256=y7ah2j514Ljp3DMpdEjuAlDo7hK87Q9qfzc2BB5mZaw,1422
+ipfabric_httpx_auth/authentication.py,sha256=rwG0G4YV1dG5n5Nxs18yDVe8ESiFZDUCr2YSXg-khEM,4597
+ipfabric_httpx_auth/errors.py,sha256=R9TCBvDMykoO099_oMAXnA7CwJh3ayvbUaPTXxCevwo,409
+ipfabric_httpx_auth/oauth2_tokens.py,sha256=E6tKphLJYmGBSpLWfwX-kRZ2JtHA9TBS_U9MlzL27sA,4220
+ipfabric_httpx_auth-1.0.1.dist-info/LICENSE,sha256=_c1fUovS_3dv2OwvoLCncWc_JZvAum7GW4hJMlTjeKY,1071
+ipfabric_httpx_auth-1.0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+ipfabric_httpx_auth-1.0.1.dist-info/METADATA,sha256=uTzMtGyeOtozFjX01AMWUJq65P1G_SNyb6JWqM07E5w,3026
+ipfabric_httpx_auth-1.0.1.dist-info/RECORD,,
