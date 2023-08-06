@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+pyemo/__init__.py
+pyemo/emo_gen.py
+pyemo.egg-info/PKG-INFO
+pyemo.egg-info/SOURCES.txt
+pyemo.egg-info/dependency_links.txt
+pyemo.egg-info/not-zip-safe
+pyemo.egg-info/top_level.txt
