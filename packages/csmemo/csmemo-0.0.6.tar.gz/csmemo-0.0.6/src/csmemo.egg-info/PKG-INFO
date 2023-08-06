@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: csmemo
+Version: 0.0.6
+Summary: A Library implementing constraint-based methods for context-specific metabolic modeling
+Home-page: https://github.com/bsc-life/csmemo
+Author: Miguel Ponce-de-Leon
+Author-email: miguelponcedeleon@gmail.com
+Maintainer: Miguel Ponce-de-Leon
+Maintainer-email: miguelponcedeleon@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# csm4cobra
+
+A cobrapy-based library for context-specific metabolic modeling
+
