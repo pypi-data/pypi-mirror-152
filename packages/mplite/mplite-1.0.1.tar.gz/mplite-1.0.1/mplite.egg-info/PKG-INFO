@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: mplite
+Version: 1.0.1
+Summary: A module that makes multiprocessing easy.
+Home-page: https://github.com/root-11/mplite
+Author: root-11
+License: MIT
+Keywords: multiprocessing,tasks
+Platform: any
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+
