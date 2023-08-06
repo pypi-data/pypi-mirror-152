@@ -1,0 +1,5 @@
+jupyter>=1.0.0
+notebook>=6.4.10
+jupyter-datainputtable>=0.7.5
+JPSLUtils
+JPSLMenus
