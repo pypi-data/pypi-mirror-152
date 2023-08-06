@@ -1,0 +1,9 @@
+getapt/__init__.py,sha256=sXLh7g3KC4QCFxcZGBTpG2scR7hmmBsMjq6LqRptkRg,22
+getapt/_nbdev.py,sha256=CfNMXblh1zWe0E4-gD2A7DfhR7LY9zrWOltZUr4fbL8,350
+getapt/apt.py,sha256=F87QrGrwjBXxxNRq3RoM03X-XWqKy3zLZSNB_0gOoFI,943
+getapt-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+getapt-0.0.1.dist-info/METADATA,sha256=NCVHRzgKvMyDIbOzQvy14hQMVhp4YqoIWLUxbvMzFR0,3020
+getapt-0.0.1.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+getapt-0.0.1.dist-info/entry_points.txt,sha256=OjViQTkYndFevBzExU64jm0l8I6Q-uwihlq__0OmgwE,52
+getapt-0.0.1.dist-info/top_level.txt,sha256=O6SoADdjv9fAfAZ8RwVPEGEHssg7KhBlS1DkJ8YvsT4,7
+getapt-0.0.1.dist-info/RECORD,,
