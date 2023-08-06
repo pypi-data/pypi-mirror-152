@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: bobotools
+Version: 0.4.0
+Summary: bobotools
+Author: bobo0810
+License: MIT
+Classifier: Environment :: Console
+Classifier: Natural Language :: English
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Bobotools
+
+- 收录到[PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)
+- [Wiki文档](https://github.com/bobo0810/bobotools/wiki)
+
+## 安装
+
+```bash
+pip install bobotools
+```
+
+## 参考
+
+- [Python打包](https://www.jianshu.com/p/9a5e7c935273)
+- [ReadtheDocs托管文档](https://github.com/bobo0810/Summary/blob/main/doc/readthedocs.md)
+
+
