@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+setup.py
+pyidd/__init__.py
+pyidd/main.py
+pyidd.egg-info/PKG-INFO
+pyidd.egg-info/SOURCES.txt
+pyidd.egg-info/dependency_links.txt
+pyidd.egg-info/requires.txt
+pyidd.egg-info/top_level.txt
