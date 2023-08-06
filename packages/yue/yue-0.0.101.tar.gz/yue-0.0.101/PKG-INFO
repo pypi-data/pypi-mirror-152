@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: yue
+Version: 0.0.101
+Summary: A daily useful kit by KIN.
+Home-page: https://github.com/githubuser/kin.git
+Author: KIN
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6.0
