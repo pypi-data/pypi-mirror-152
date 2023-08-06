@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+src/py_bark_client/__init__.py
+src/py_bark_client/py_bark_client.py
+src/py_bark_client.egg-info/PKG-INFO
+src/py_bark_client.egg-info/SOURCES.txt
+src/py_bark_client.egg-info/dependency_links.txt
+src/py_bark_client.egg-info/requires.txt
+src/py_bark_client.egg-info/top_level.txt

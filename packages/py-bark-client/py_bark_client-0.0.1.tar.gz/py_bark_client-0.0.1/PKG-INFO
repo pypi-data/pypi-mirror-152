@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: py_bark_client
+Version: 0.0.1
+Summary: Bark client for Python
+Home-page: https://github.com/rockiecxh/py-bark-client
+Author: Rockie Cui
+Author-email: rockiecxh@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/rockiecxh/py-bark-client/issues
+Description: ## py_bark_client
+        
+        yet another python bark client for bark, see https://github.com/Finb/Bark
+        
+        ## install
+        ```shell script
+        pip install py_bark_client
+        ```
+        
+        ## quick start
+        
+        ```python
+        from py_bark_client import Bark
+        bark = Bark(server='api.day.app', keys=['your key'])
+        bark.push(title="hello world", content="visit baidu", group='search', level=TimelinessLevel.TIME_SENSITIVE,
+                  automatically_copy=True, copy='https://wwww.baidu.com')
+        
+        ```
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
