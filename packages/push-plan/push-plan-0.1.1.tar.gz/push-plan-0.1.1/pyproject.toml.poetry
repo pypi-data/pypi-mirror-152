@@ -1,0 +1,32 @@
+# Project using Poetry
+
+[tool.poetry]
+name = "push-plan"
+version = "0.1.1"
+description = "Archive and publish status to finger.farm"
+authors = ["Gokul Das B <dev@gokuldas.space>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+homepage = "https://sr.ht/~gokuldas/push-plan/"
+repository = "https://git.sr.ht/~gokuldas/push-plan"
+keywords = ["finger", "finger.farm", "status"]
+classifiers = [
+  "Topic :: Internet :: Finger",
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: End Users/Desktop"
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.27.1"
+toml = "^0.10.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+# This enables the application to be installed as executable using PipX
+[tool.poetry.scripts]
+push-plan = 'push_plan.console:run'
