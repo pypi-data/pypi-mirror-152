@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: gist-import
+Version: 1.0
+Summary: GitHub Gist are handy snippets, which are meant to be copy-pasted into one's code... but what if you could import them?
+Home-page: https://github.com/matteoferla/gist-import
+Author: Matteo Ferla
+Author-email: matteo.ferla@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
