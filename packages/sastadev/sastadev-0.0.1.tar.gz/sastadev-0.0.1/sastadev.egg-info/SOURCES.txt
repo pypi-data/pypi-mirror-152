@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+sastadev/LICENSE
+sastadev/__init__.py
+sastadev/config.py
+sastadev/deregularise.py
+sastadev/inflectioncorrection.tsv.txt
+sastadev.egg-info/PKG-INFO
+sastadev.egg-info/SOURCES.txt
+sastadev.egg-info/dependency_links.txt
+sastadev.egg-info/top_level.txt
