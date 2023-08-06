@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+functions_wrapper/__init__.py
+functions_wrapper.egg-info/PKG-INFO
+functions_wrapper.egg-info/SOURCES.txt
+functions_wrapper.egg-info/dependency_links.txt
+functions_wrapper.egg-info/top_level.txt
