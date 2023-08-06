@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: bole
+Version: 0.0.2
+Summary: Easy logger and cascading configuration manager for python (yaml, json)
+Home-page: https://github.com/LamaAni/bole
+Author: Zav Shotan
+License: UNKNOWN
+Project-URL: Source, https://github.com/LamaAni/bole
+Keywords: configuration config log yaml json
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: click (==8.1.3)
+Requires-Dist: pyyaml (==6.0)
+
+# bole
+Easy logger and cascading configuration manager for python (yaml, json)
+
+# ACTIVE ALPHA DEVELOPMENT
+
+Alpha version. Structural changes may happen.
+
+DO not use until in alpha mode (expected 2022/05/28)
+
+###### Why bole?
+Bole = "trunk of a tree" = "log" :)
+
+
