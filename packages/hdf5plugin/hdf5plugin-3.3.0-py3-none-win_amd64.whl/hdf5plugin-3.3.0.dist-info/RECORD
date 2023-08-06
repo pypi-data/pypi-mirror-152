@@ -1,0 +1,15 @@
+hdf5plugin/__init__.py,sha256=pH81Ia-jBjNxK30bDZifHHbDzE2Y2DpEeOqj-Tdzi4M,15351
+hdf5plugin/_config.py,sha256=1hL_Y8NYQjJepQSBhnNwXRb97coY2ILYwfTMzmjbsHw,197
+hdf5plugin/_version.py,sha256=_1EYs-9MQIwvAE92mio74_0B3n9ApYXriku49YsJhN0,4512
+hdf5plugin/test.py,sha256=-Rqp-zy6tqCeNj1wgv8HPAiLOAj2_ziR1gGXXEvVVBU,9892
+hdf5plugin/plugins/libh5blosc.dll,sha256=5iNidOSF7o-muv_Wmnpf_u6vrMtkAkHIzAuFSqZ6j6Q,522240
+hdf5plugin/plugins/libh5bshuf.dll,sha256=KImmAOYi8fspl_TbXISt-qqpADD_RKx3zdQtwZdMZSw,22528
+hdf5plugin/plugins/libh5fcidecomp.dll,sha256=5dHy1jiycnaFnRq2BUqgPHyAseo79I89oaQ_JGaWOIo,164352
+hdf5plugin/plugins/libh5lz4.dll,sha256=TAKlS7ceI9iPSyPiBdiMj4IC9j9gvqKAgooKlXehADU,18944
+hdf5plugin/plugins/libh5zfp.dll,sha256=EMaks8ZPWUTVC852TspVtZ8vuML3-JS-5idfmK6jHx0,145408
+hdf5plugin/plugins/libh5zstd.dll,sha256=qk-ub5ojdzkHyVkk1KMuDY6LSdm8PNawtmkInIo1Vmk,381952
+hdf5plugin-3.3.0.dist-info/LICENSE,sha256=-VZsscaorVXlp2tFgHuCnpa1NzFotVWQIxZDjXHqytk,1446
+hdf5plugin-3.3.0.dist-info/METADATA,sha256=-CUSlOLjU9ib0_xnhKpA1w7QokRYdc3wKuk2TyzWrN8,2764
+hdf5plugin-3.3.0.dist-info/WHEEL,sha256=Ltd50sCuKxMPPK2BNZK9nGUBlUjdVI59dPPj9BhNTIY,99
+hdf5plugin-3.3.0.dist-info/top_level.txt,sha256=jAEIrQv1oLDBJ_KZTG5Ah8w4TcQahNlN52faR_PcG24,11
+hdf5plugin-3.3.0.dist-info/RECORD,,
