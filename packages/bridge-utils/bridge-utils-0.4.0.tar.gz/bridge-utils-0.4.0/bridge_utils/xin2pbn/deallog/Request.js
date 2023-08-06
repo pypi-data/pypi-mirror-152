@@ -1,0 +1,1 @@
+var url=location.search,Request={},str,i,item;if(url.indexOf("?")!=-1)for(str=url.substr(1).split("&"),i=0;i<str.length;i++)item=str[i].split("="),Request[item[0]]=decodeURIComponent(item[1])
