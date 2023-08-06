@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: normflow
+Version: 0.1.0
+Summary: A Python Package for Normalizing Flows
+Home-page: https://github.com/LarsKue/normflow
+Author: Lars Kuehmichel
+Author-email: lars.kuehmichel@stud.uni-heidelberg.de
+License-File: LICENSE
