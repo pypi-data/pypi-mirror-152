@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: letsgoing-rpi-arduinocontrol
+Version: 0.0.1
+Summary: GUI for control of Arduino IO from Raspberry Pi
+Home-page: https://github.com/tobiglaser/letsgoing-rpi-arduinocontrol
+Author: Tobias Glaser
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# letsgoING RemoteLab ArduinoControl for Raspberry Pi
+
+This package allows to perform IO on a real Arduino from a Raspberry Pi.  
+Combine with VNC remote desktop and the Arduino IDE for basic Arduino teaching without the wiring hassle.
