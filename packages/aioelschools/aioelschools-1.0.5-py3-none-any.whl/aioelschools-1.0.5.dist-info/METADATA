@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: aioelschools
+Version: 1.0.5
+Summary: Async Discord API wrapper for elschool
+Home-page: https://github.com/iamarturr/aioelschools
+Author: iamartur
+License: MIT
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Dist: pydantic (<=1.9.0)
+Requires-Dist: aiohttp (<=3.8.1)
+
+Async Discord API wrapper for elschool
