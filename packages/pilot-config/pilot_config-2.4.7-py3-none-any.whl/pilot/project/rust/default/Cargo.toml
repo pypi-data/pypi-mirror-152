@@ -1,0 +1,22 @@
+[package]
+name = "pilot-fw"
+version = "0.1.0"
+authors = []
+edition = "2018"
+build = "build.rs"
+
+[lib]
+name = "pilot"
+path = "src/lib.rs"
+crate-type = ["staticlib"]
+
+[workspace]
+members = [
+    "use-vars",
+    "extract-variables",
+]
+
+[dependencies]
+pilot_macro = { path = "pilot_macro" }
+pilot_types = { path = "pilot_types" }
+futures = { version = "0.3.5", default-features = false, features = ["async-await"] }
