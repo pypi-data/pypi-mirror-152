@@ -1,0 +1,7 @@
+qapi_sdk/__init__.py,sha256=vxP-XZEOTSmIxrZYC3SFIIktpHI_R8tX3QVHr5IJ-RU,25
+qapi_sdk/logs/__init__.py,sha256=KYWYfti4m8TcWzjOfmollEfEArTgTasq2Zuaz9AkzZI,31
+qapi_sdk/logs/logger.py,sha256=Kv_PeN9ItLH9NLMaYMouuliWiJHnjzjfjAbxjbNd4UM,540
+qapi_sdk/query.py,sha256=5LG0_i305odSzRFPe8MmQB_WL0cPLUhOVNRFB1bL7mw,4722
+qapi_sdk-0.1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+qapi_sdk-0.1.1.dist-info/METADATA,sha256=mmoqhEhfZ9hFP0z7XAZguSS_THxxVzgtmlX8X2wTAq8,1828
+qapi_sdk-0.1.1.dist-info/RECORD,,
