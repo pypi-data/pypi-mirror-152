@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pyminuteinbox
+Version: 0.8
+Summary: Minuteinbox API Wrapper
+Home-page: UNKNOWN
+Author: DevOFVictory
+Author-email: <devofvictory@gmail.com>
+License: UNKNOWN
+Keywords: python,api,tempmail,trashmail,10minutemail
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+A simple python API Wrapper for the temp mail service https://www.minuteinbox.com
+
