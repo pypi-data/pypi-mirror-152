@@ -1,0 +1,135 @@
+#!python
+import time
+import argparse
+import sys
+import os
+
+import importlib
+import pkgutil
+
+from lightsleep import Sleep
+
+from startme import StartMe, meta
+import startme.mods
+
+def iter_namespace(ns_pkg):
+    # Specifying the second argument (prefix) to iter_modules makes the
+    # returned name an absolute name instead of a relative one. This allows
+    # import_module to work without having to do additional modification to
+    # the name.
+    return pkgutil.iter_modules(ns_pkg.__path__, ns_pkg.__name__ + ".")
+
+
+def get_args():
+
+    if os.getenv('STARTME_HOOK'):
+        def_hook = os.getenv('STARTME_HOOK').split(' ')
+    else:
+        def_hook = None
+
+    parser = argparse.ArgumentParser(description='systemd/cron alternative for python virtual environment')
+    parser.add_argument('--hook', default=def_hook, nargs='+', metavar=('METHOD', 'ARG'), help='use this hook with arguments')
+    parser.add_argument('--systemd', metavar='NAME', help='install as systemd service to start on boot, provide NAME e.g. startme-project1')
+    return parser.parse_args()
+
+
+
+def systemd(name):
+    service = f"""
+# put this content to systemd .service file, e.g.:
+# {__file__} --systemd {name} | sudo tee /etc/systemd/system/startme-{name}.service
+# sudo systemctl daemon-reload 
+# sudo systemctl enable startme-{name}.service
+# sudo systemctl start startme-{name}.service
+
+[Unit]
+Description=Startme python virtualenv systemd/cron ({name}) 
+
+[Service]
+ExecStart={sys.executable} {os.path.realpath(__file__)}
+EnvironmentFile=-/etc/default/startme-{name}
+Restart=on-failure
+Type=simple
+
+[Install]
+WantedBy=multi-user.target
+"""
+
+    print(service)
+
+def reschedule(sch, j):
+    sch_time = j.reschedule()
+    if sch_time:
+        sch[j] = sch_time
+    else:
+        print("Delete job", j)
+        del sch[j]
+
+
+def main():
+
+    args = get_args()
+
+    if args.systemd:
+        systemd(args.systemd)
+        return
+
+    lsleep = Sleep(hook=args.hook)
+
+    mods = {
+        name: importlib.import_module(name)
+        for finder, name, ispkg
+        in iter_namespace(startme.mods)
+    }
+
+    smjobs = [ cls() for cls in meta.__inheritors__ ]
+
+    #
+    # on_start
+    #
+    for j in smjobs:
+        j.on_start()
+
+    #
+    # prepare schedule
+    # 
+
+    sch = {
+        j: j.reschedule()
+        for j in smjobs 
+    }
+
+
+    #
+    # loop over schedule
+    #
+
+    while True:
+
+        sch = {k:v for k,v in sch.items() if v is not None}
+
+        if not sch:
+            return 
+
+        now = time.time()
+        for j, jtime in sch.items():
+            if  now>=jtime:
+                j.on_schedule()
+                sch[j] = j.reschedule()
+
+        sch_list = [ time for j, time in sch.items() if time is not None]
+        
+        if not sch_list:
+            return
+              
+        exectime = min(sch_list)
+
+        data = lsleep.sleep(exectime - time.time())
+        if data:
+            for j in sch:
+                if j.__class__.__name__ == data:
+                    j.on_schedule()
+                    sch[j] = j.reschedule()
+
+
+main()
