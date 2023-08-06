@@ -1,0 +1,11 @@
+ml_sdk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ml_sdk/ml/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ml_sdk/ml/model/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ml_sdk/ml/model/notebook.py,sha256=DADWzQ01KQCrqwaGujGuaSASKM35JzNTUW_LdgP-nGI,166
+ml_sdk/ml/sdk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ml_sdk/ml/sdk/index.py,sha256=C9IgxAoYuFosyDfbp9TSfBxFqljvaMpEFf2umghCVU8,721
+ml_sdk/ml/sdk/watchmen/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ml_sdk/ml/sdk/watchmen/sdk.py,sha256=oZcIEY5YWM1ij_-EufZVKZufYEsfmKzl5cFGqVu6zuA,1056
+watchmen_ml_python_sdk-0.1.3.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+watchmen_ml_python_sdk-0.1.3.dist-info/METADATA,sha256=QHIf_YyeVHDiD4c4C5RixcS_GdsafI9l1fmx-1WbFF0,386
+watchmen_ml_python_sdk-0.1.3.dist-info/RECORD,,
