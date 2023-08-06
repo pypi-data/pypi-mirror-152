@@ -1,0 +1,6 @@
+allennlp
+scipy
+numpy
+seqeval
+transformers
+torch
