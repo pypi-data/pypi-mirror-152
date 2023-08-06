@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+src/strawberry_django_auth.egg-info/PKG-INFO
+src/strawberry_django_auth.egg-info/SOURCES.txt
+src/strawberry_django_auth.egg-info/dependency_links.txt
+src/strawberry_django_auth.egg-info/not-zip-safe
+src/strawberry_django_auth.egg-info/requires.txt
+src/strawberry_django_auth.egg-info/top_level.txt
