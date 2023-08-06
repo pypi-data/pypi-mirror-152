@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: mfhm
+Version: 0.1.1
+Summary: HTTP microservice package based on FastAPI and HTTPX
+Author-email: MangFu <2560782597@qq.com>
+Requires-Python: >=3.6.1
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: httpx==0.22.0
+Requires-Dist: fastapi==0.75.2
+Requires-Dist: uvicorn[standard]
+Project-URL: Home, https://github.com/mangfu26/mfhm
+
+# MFHM - MangFu HTTP Microservices
+
+
+<div align=center><img src="docs/docs/logo.png"></div>
+
+
+## 简介
+
+> 基于[HTTPX](https://github.com/encode/httpx)和[FastAPI](https://github.com/tiangolo/fastapi)的HTTP微服务框架，侧重于Web领域
+>
+> **注意：** 该项目只是本人用于研究微服务而创建的探索项目, 项目代码只注重功能的实现, 没有进行过严格的测试, 所以请将本项目用于个人/研究为目的/无关紧要的项目中, 切勿在生产项目中使用
+
+
+
+## 文档：
+
+在线文档: [https://mangfu26.github.io/mfhm/site/](https://mangfu26.github.io/mfhm/site/)
