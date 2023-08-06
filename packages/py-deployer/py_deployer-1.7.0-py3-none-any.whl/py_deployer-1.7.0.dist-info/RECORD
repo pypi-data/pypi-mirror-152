@@ -1,0 +1,14 @@
+py_deployer/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+py_deployer/pydeploy.py,sha256=fEg7w2pZKHNVwEun6njam-OkvJVpNfBhXTqPGdrl_94,1924
+py_deployer/app/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+py_deployer/app/arguments.py,sha256=qxbpX9p_EviFXzuJljKp8aiObyYHTM4AXxBn6p-Ds88,2755
+py_deployer/app/config.py,sha256=JvDtNmkQ1aMCLpHoNsxxLC3JjMIXdGuQ1Yq4FgAzb2c,5719
+py_deployer/app/main.py,sha256=IWmBRUTeYX9ROnkeMRjCtMJFRGinlx7ASMdHcKA_Zk4,5663
+py_deployer/app/settings.py,sha256=8RQLRjhLxQ0pkwMPz92dIdo7SXFjU9Cz0jOyGe7EsEo,1831
+py_deployer/app/ssh_client.py,sha256=fnyJNqDHJQvi-jk-YcCBLHcn_uuHqOWNIuYcTzNem84,1724
+py_deployer-1.7.0.dist-info/LICENSE.txt,sha256=LAjpHuHIEavb6igT5rrO2k8mFfOKNx_gtd5acPdeicM,34503
+py_deployer-1.7.0.dist-info/METADATA,sha256=ZsBT9KvsJ_-lQ7W9wQ0Q1p9tcnj04tzwLl-lFoR7ack,2935
+py_deployer-1.7.0.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+py_deployer-1.7.0.dist-info/entry_points.txt,sha256=geylZnxGXrAE9YY9Ub781a4xeieibJkGpPYywFRtbcY,56
+py_deployer-1.7.0.dist-info/top_level.txt,sha256=aUQ51G3w6M2bf3FwkyFE1MFrhYB1MFNJhqkw1P-XXYI,12
+py_deployer-1.7.0.dist-info/RECORD,,
