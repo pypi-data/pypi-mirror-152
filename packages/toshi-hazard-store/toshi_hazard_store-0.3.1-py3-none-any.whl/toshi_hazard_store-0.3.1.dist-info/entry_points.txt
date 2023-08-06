@@ -1,0 +1,3 @@
+[console_scripts]
+store_hazard=scripts.store_hazard:main
+
