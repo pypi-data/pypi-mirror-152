@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: rlane-libcli
+Version: 1.0.2
+Summary: Command line interface framework
+License: MIT
+Keywords: argparse,cli,color,markdown,python
+Author-email: Russel Lane <russel@rlane.com>
+Requires-Python: >=3.8
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: ansicolors>=1.1.8
+Requires-Dist: argcomplete>=2.0.0
+Requires-Dist: tomli>=2.0.1
+Project-URL: Homepage, https://github.com/russellane/libcli
+Description-Content-Type: text/markdown
+
+command line interface framework
+
