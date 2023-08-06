@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pyAddin
+Version: 0.1.0
+Summary: An Excel add-in template combining with VBA and Python, shown with VBA and driven by Python.
+Home-page: UNKNOWN
+Author: dothinking
+Author-email: train8808@gmail.com
+License: MIT License
+Keywords: python,vba,excel,add-in
+Platform: windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+An Excel add-in template combining with VBA and Python, shown with VBA and driven by Python.
+
