@@ -1,0 +1,17 @@
+flanabot/constants.py,sha256=7JlWGn84qr6jvjFABWl4eApHFeHv0rwz2CXWTjglR_c,4596
+flanabot/main.py,sha256=gYpFxRSVLLRiFqpR_3qswIELDT0SEqmQUOSeeeoP6Fo,459
+flanabot/bots/flana_bot.py,sha256=HzFQiymu44RUjdtG_q7goWF0PWuO1goRuXXy_eCsIFE,45384
+flanabot/bots/flana_disc_bot.py,sha256=-wZuA_GwLdUz7IwuCuS5wwZlJPbRKfGEz2RuLhvq1x4,3943
+flanabot/bots/flana_tele_bot.py,sha256=A8WDyH9M2E5eFRY1vS34fxswr0EjdIHwtLNGTNb86ls,2827
+flanabot/models/__init__.py,sha256=tNWadeoMHCcK7pLrPaFCFV_JxVDIxdkihVcI1usm1Pc,194
+flanabot/models/chat.py,sha256=1OT4DI73mXlXo9zrqltBeMH3GZQkicrmmDfdDYs48zU,605
+flanabot/models/enums.py,sha256=LGWzMTIyhWlrw3-9FoVDJWRE3GvaeoTKW9Ai0DVv9v4,136
+flanabot/models/message.py,sha256=v3jyBpBCXtzxtoj0xWt_psUmH6FnGCX83HV3RA5Q_ag,631
+flanabot/models/punishment.py,sha256=1vjrhXgqffWR2vsttwYyzzQZunZYEgPeGHXBWcwSoRU,150
+flanabot/models/weather_chart.py,sha256=Ve-jgCl_pz3GDJb363d_EZMi412AdqHcKMyhFWeSWxE,5285
+flanabot/resources/mucho_texto.png,sha256=hv5zbEQOtz6ZRWiYbF39hQTvHLYimY7pC7IbxZBMHSU,82944
+flanabot-1.2.1.dist-info/LICENSE,sha256=pzzRX1A-jh9I3Q_BwVqCtnrGfDmZt4ZyelufwJS4ziM,1064
+flanabot-1.2.1.dist-info/METADATA,sha256=u7mGClaofw6P-OzcOfyvAJnocZGx9uQGuL6M6NUm9-E,2186
+flanabot-1.2.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+flanabot-1.2.1.dist-info/top_level.txt,sha256=5xiNhMqiShe091x7R2gIZatDBsf0U8Jrwe27SKamfvY,9
+flanabot-1.2.1.dist-info/RECORD,,
