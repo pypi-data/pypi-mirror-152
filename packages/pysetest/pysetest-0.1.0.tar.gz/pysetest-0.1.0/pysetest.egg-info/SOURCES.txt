@@ -1,0 +1,10 @@
+README.md
+setup.py
+pyse/__init__.py
+pyse/pyse.py
+pysetest.egg-info/PKG-INFO
+pysetest.egg-info/SOURCES.txt
+pysetest.egg-info/dependency_links.txt
+pysetest.egg-info/requires.txt
+pysetest.egg-info/top_level.txt
+test/test.py
