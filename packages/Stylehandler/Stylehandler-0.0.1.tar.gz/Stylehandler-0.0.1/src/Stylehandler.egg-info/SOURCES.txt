@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.cfg
+src/Stylehandler/__init__.py
+src/Stylehandler/main.py
+src/Stylehandler.egg-info/PKG-INFO
+src/Stylehandler.egg-info/SOURCES.txt
+src/Stylehandler.egg-info/dependency_links.txt
+src/Stylehandler.egg-info/top_level.txt
