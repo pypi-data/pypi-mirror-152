@@ -1,0 +1,47 @@
+[tool.poetry]
+name = "stglance"
+version = "0.1.4"
+description = "stglance is a small collection of streamlit widgets (for machine learning) that you can include in your streamlit app."
+authors = ["Soumendra Prasad Dhanee <soumendra@gmail.com>"]
+keywords = ["python", "machinelearning", "visualization"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/soumendra/stglance"
+repository = "https://github.com/soumendra/stglance"
+
+[tool.poetry.dependencies]
+python = "^3.8,<3.11"
+pandas = ">= 1.2.5"
+plotnine = ">= 0.8.0"
+pydantic = ">= 1.8.2"
+xgboost = ">= 1.4.2"
+lightgbm = ">= 3.2.1"
+catboost = ">= 0.26"
+scikit-lego = ">= 0.6.7"
+category-encoders = ">= 2.2.2"
+pdpipe = ">= 0.0.53"
+streamlit = "*"
+missingno = ">= 0.5.0"
+streamlit-pandas-profiling = ">= 0.1.2"
+pandas-profiling = ">= 3.0.0"
+pandas-ta = ">= 0.3.2-beta.0"
+joblib = ">= 1.0.1"
+"backports.weakref" = ">= 1.0.post1"
+"backports.zoneinfo" = ">= 0.2.1"
+loguru = ">= 0.5.3"
+stackprinter = ">= 0.2.5"
+scikit-learn = ">= 1.0"
+yellowbrick = ">= 1.3.post1"
+
+[tool.poetry.dev-dependencies]
+black = ">= 21.6b0"
+isort = ">= 5.9.1"
+pytest = ">= 6.2.4"
+flake8 = ">= 3.9.2"
+pyupgrade = ">= 2.25.0"
+pre-commit = ">= 2.15.0"
+blacken-docs = ">= 1.11.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
