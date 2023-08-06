@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "clearview"
+version = "0.1.0"
+description = "SDK for Clearview AI"
+authors = ["Clearview AI <info@clearview.ai>"]
+readme = "README.rst"
+license = "MIT"
+homepage = "https://clearview.ai"
+classifiers = [
+    "Environment :: Console",
+    "Operating System :: OS Independent",
+]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.27.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
