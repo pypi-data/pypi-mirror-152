@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: listas-anidadas
+Version: 1.0.2
+Summary: Función que imprime listas anidadas
+Home-page: https://fortinux.com
+Author: Fortinux
+Author-email: info@fortinux.com
+License: UNKNOWN
+Description: # Listas anidadas
+        - Módulo que incluye una función para muestra los ítems de listas anidadas separados en cada línea.    
+            
+        - Author: Fortinux    
+        - Email: info@fortinux.com    
+        - Web: https://fortinux.com    
+        - License: GNU General Public License v3.0
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
