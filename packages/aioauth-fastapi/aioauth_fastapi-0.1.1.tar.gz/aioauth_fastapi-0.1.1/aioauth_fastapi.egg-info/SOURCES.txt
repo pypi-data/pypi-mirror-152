@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+aioauth_fastapi/__init__.py
+aioauth_fastapi/__version__.py
+aioauth_fastapi/forms.py
+aioauth_fastapi/router.py
+aioauth_fastapi/utils.py
+aioauth_fastapi.egg-info/PKG-INFO
+aioauth_fastapi.egg-info/SOURCES.txt
+aioauth_fastapi.egg-info/dependency_links.txt
+aioauth_fastapi.egg-info/requires.txt
+aioauth_fastapi.egg-info/top_level.txt
