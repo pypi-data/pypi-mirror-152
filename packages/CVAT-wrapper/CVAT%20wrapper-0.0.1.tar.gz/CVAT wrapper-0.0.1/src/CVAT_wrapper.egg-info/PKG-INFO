@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: CVAT-wrapper
+Version: 0.0.1
+Summary: Python wrapper for CVAT API
+Home-page: https://github.com/antwxne/CVAT_python_wrapper
+Author: antwxne
+Author-email: antoine.desruet@epitech.eu
+Project-URL: Bug Tracker, https://github.com/antwxne/CVAT_python_wrapper/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# CVAT wrapper
+
+## Description
+
+Python wrapper to wrap CVAT API call into a class.
+
+## Exemple
+
+```python
+from
+```
