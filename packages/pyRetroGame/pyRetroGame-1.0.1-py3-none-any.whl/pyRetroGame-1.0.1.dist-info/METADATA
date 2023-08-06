@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pyRetroGame
+Version: 1.0.1
+Summary: A Python library for creating games in the terminal. test
+Home-page: UNKNOWN
+Author: Lorix & JProgrammer
+Author-email: <ciminata08@gmail.com>
+License: UNKNOWN
+Keywords: python,consoleGames,games,terminalGames,console,terminal,game,gameEngine,gameEngineLibrary,gameEngineLibraryPython
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: os
+Requires-Dist: curses
+Requires-Dist: time
+
+UNKNOWN
+
