@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+current_path.egg-info/PKG-INFO
+current_path.egg-info/SOURCES.txt
+current_path.egg-info/dependency_links.txt
+current_path.egg-info/top_level.txt
