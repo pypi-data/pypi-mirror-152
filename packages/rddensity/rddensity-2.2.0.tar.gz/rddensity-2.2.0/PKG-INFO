@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: rddensity
+Version: 2.2.0
+Summary: Mainpulation testing based on Density Discontinuity
+Home-page: https://github.com/rdpackages/rddensity
+Author: Rajita Chandak
+Author-email: rchandak@princeton.edu
+Project-URL: Bug Tracker, https://github.com/rdpackages/rddensity/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# RDDENSITY
+Density discontinuity testing (a.k.a. manipulation testing) is commonly employed in re- gression discontinuity designs and other program evaluation settings to detect perfect self- selection (manipulation) around a cutoff where treatment/policy assignment changes. This pack- age implements manipulation testing procedures using the local polynomial density estima- tors: rddensity() to construct test statistics and p-values given a prespecified cutoff, rdbwden- sity() to perform data-driven bandwidth selection, and rdplotdensity() to construct density plots.
