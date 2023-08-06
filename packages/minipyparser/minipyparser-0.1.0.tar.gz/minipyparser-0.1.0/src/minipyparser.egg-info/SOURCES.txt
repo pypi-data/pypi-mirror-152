@@ -1,0 +1,12 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.cfg
+src/minipyparser/__init__.py
+src/minipyparser/hook.py
+src/minipyparser/parser.py
+src/minipyparser/tokenizer.py
+src/minipyparser.egg-info/PKG-INFO
+src/minipyparser.egg-info/SOURCES.txt
+src/minipyparser.egg-info/dependency_links.txt
+src/minipyparser.egg-info/top_level.txt
