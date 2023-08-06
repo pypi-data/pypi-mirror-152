@@ -1,0 +1,2 @@
+[console_scripts]
+marshall = marshallEngine.cl_utils:main
