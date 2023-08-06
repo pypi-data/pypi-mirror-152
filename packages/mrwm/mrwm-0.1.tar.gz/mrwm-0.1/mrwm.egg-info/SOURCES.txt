@@ -1,0 +1,7 @@
+README.md
+setup.py
+mrwm/__init__.py
+mrwm.egg-info/PKG-INFO
+mrwm.egg-info/SOURCES.txt
+mrwm.egg-info/dependency_links.txt
+mrwm.egg-info/top_level.txt
