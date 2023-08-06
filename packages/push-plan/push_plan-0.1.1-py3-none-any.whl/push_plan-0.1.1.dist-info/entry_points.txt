@@ -1,0 +1,3 @@
+[console_scripts]
+push-plan=push_plan.console:run
+

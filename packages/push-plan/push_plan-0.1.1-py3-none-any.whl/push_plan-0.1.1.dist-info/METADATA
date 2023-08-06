@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: push-plan
+Version: 0.1.1
+Summary: Archive and publish status to finger.farm
+Home-page: https://sr.ht/~gokuldas/push-plan/
+License: GPL-3.0-or-later
+Keywords: finger,finger.farm,status
+Author: Gokul Das B
+Author-email: dev@gokuldas.space
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Internet :: Finger
+Requires-Dist: requests (>=2.27.1,<3.0.0)
+Requires-Dist: toml (>=0.10.2,<0.11.0)
+Project-URL: Repository, https://git.sr.ht/~gokuldas/push-plan
+Description-Content-Type: text/markdown
+
+# push-plan: Finger.farm status updater
+Program to archive `~/plan` & `~/project` files and push their latest content to finger.farm finger
+hosting service.
+
+## Usage
+Copy `doc/sample-config.toml` as `~/.config/push-plan/config.toml`. Modify values appropriately,
+especially user name and API token command. Default config uses `gopass` to access the credential.
+
+Create plan and project file as specified in the config file. Modify them as required. Use the 
+command thereafter as follows:
+
+```
+usage: push-plan [-h] [--no-save] [--no-push] [--skip-check] [-d]
+
+Record and update finger status
+
+options:
+  -h, --help    show this help message and exit
+  --no-save     Don't save status. Push previously saved status.
+  --no-push     Don't push status.
+  --skip-check  Skip check for change in status.
+  -d, --debug   Print config info for debugging
+```
+
+The files will be backed up in the specified archive directory prior to uploading online.
+
+## Development
+Development happens over [sourcehut](https://sr.ht/~gokuldas/push-plan/). Discussion and
+collaboration are over [~gokuldas/projects mailing list](mailto:~gokuldas/projects@lists.sr.ht).
+Task and bug tracking is done on [dedicated tracker](https://todo.sr.ht/~gokuldas/push-plan).
+
+## License
+Copyright (C) 2022 Gokul Das B
+
+This program is distributed under GPLv3 license. Refer LICENSE file for details.
+
