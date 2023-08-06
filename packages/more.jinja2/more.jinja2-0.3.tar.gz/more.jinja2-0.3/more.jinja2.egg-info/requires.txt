@@ -1,0 +1,8 @@
+setuptools
+morepath>=0.15
+Jinja2>=2.9
+
+[test]
+pytest>=7
+pytest-cov
+WebTest
