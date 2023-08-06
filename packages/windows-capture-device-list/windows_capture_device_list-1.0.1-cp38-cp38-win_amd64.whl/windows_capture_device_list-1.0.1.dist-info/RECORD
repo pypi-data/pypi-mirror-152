@@ -1,0 +1,9 @@
+device/__init__.py,sha256=fen620UMnjnqZwqMjX08pX4OC8yJkoUTXYmLMH2SYPo,36
+device/device.cp38-win_amd64.pyd,sha256=zSiJmvAPlRYiDOiKyPekzPgY6w5RFFrUdltP7ZnLWso,17408
+windows_capture_device_list-1.0.1.data/data/LICENSE,sha256=fyv1rC4PozK8TVcAPokCyYHb5W3rY_cBKVS_DGqryTU,1087
+windows_capture_device_list-1.0.1.data/data/README.md,sha256=Vma8WgUpm_JvR9nLZACrK0FI_xdQ8u0cwmdljMgxkDk,2585
+windows_capture_device_list-1.0.1.dist-info/LICENSE,sha256=fyv1rC4PozK8TVcAPokCyYHb5W3rY_cBKVS_DGqryTU,1087
+windows_capture_device_list-1.0.1.dist-info/METADATA,sha256=hokC28lMg2VcLOVgijTxwCMzlgH9nM8FN9VQu-rTWtc,3735
+windows_capture_device_list-1.0.1.dist-info/WHEEL,sha256=jvh2uAAOPzVqRFR2HUfOubR4tJXimDagF1N4BQm26do,94
+windows_capture_device_list-1.0.1.dist-info/top_level.txt,sha256=yYNzwavveAcPa-72tK5Pvz3jSNrCgBlcf5NEGSBYSvk,7
+windows_capture_device_list-1.0.1.dist-info/RECORD,,
