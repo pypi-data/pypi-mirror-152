@@ -1,0 +1,8 @@
+README.md
+setup.py
+py8.egg-info/PKG-INFO
+py8.egg-info/SOURCES.txt
+py8.egg-info/dependency_links.txt
+py8.egg-info/top_level.txt
+wu/__init__.py
+wu/wy.py
