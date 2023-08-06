@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: test-pypi-package
+Version: 0.0.2
+Summary: Testing PyPI package
+Home-page: UNKNOWN
+Author: Kishore Sampath
+Author-email: <skishore2602.dev@gmail.com>
+License: UNKNOWN
+Keywords: python,testing,pypi
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+Setting up for practising and testing PyPi Packages
+
+
