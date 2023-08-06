@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+BRAsHelpIndexGenerator.egg-info/PKG-INFO
+BRAsHelpIndexGenerator.egg-info/SOURCES.txt
+BRAsHelpIndexGenerator.egg-info/dependency_links.txt
+BRAsHelpIndexGenerator.egg-info/entry_points.txt
+BRAsHelpIndexGenerator.egg-info/requires.txt
+BRAsHelpIndexGenerator.egg-info/top_level.txt
+brAsHelpIndexGenerator/__init__.py
+brAsHelpIndexGenerator/docBuilder.py
+brAsHelpIndexGenerator/plugin.py
+brAsHelpIndexGenerator/Templates/HelpUpgradeTemplate.xml
+brAsHelpIndexGenerator/Templates/helpContentsTemplate.xml

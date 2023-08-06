@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: BRAsHelpIndexGenerator
+Version: 1.0.0
+Home-page: https://github.com/br-na-pm/mkdocs-as-help-index-generator
+Author: Connor Trostel
+Author-email: connor.trostel@br-automation.com
+License: GPL-3
+License-File: LICENSE
+
+AS Help Index Generator is a tool to generate the xml index files needed for a documentation site generated from MkDocs to work in the AS Help.
