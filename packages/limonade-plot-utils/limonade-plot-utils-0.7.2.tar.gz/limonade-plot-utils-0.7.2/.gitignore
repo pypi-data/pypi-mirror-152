@@ -1,0 +1,11 @@
+Thumbs.db
+__pycache__
+.idea
+venv*
+boardsList.cfg
+build
+dist
+listmode.egg-info
+*.egg-info
+!Documentation/build
+*.bak
