@@ -1,0 +1,9 @@
+bobotools/__init__.py,sha256=csZffLfQjvOcS4ABbw5Tbmi0JbEXCe5up_xWQLn1exw,75
+bobotools/img_tools.py,sha256=JyhMjblWI5FKZkY_GTWKh2cCXmzTNDLcddv5x2C493E,5554
+bobotools/list_tools.py,sha256=LPYPQ2hAeNFnVdrGZSVZAcex4tRdMH9TR1f6ICOR7rY,648
+bobotools/txt_tools.py,sha256=3dB02QzyZEyeYW9oVzWvYWq7QkuZpdphjhn2kQ0dYCI,1478
+bobotools-0.4.0.dist-info/LICENSE,sha256=3n3ZS3JBYjXWCccQOXMWjXZ0v3GyN4gGsgtyQfAGAGE,1062
+bobotools-0.4.0.dist-info/METADATA,sha256=7JT0KeGtK1lNsYWazNkxrAe6EZtMUMP9PdADVzBP9M8,940
+bobotools-0.4.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+bobotools-0.4.0.dist-info/top_level.txt,sha256=upnCtb20Lo2Gu_Rq34j5Q10cd0GC2U4rscDzBNOZkuo,10
+bobotools-0.4.0.dist-info/RECORD,,
