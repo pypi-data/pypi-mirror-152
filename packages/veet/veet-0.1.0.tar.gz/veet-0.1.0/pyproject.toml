@@ -1,0 +1,58 @@
+[tool.poetry]
+name = "veet"
+version = "0.1.0"
+description = "CLI for open source framework."
+authors = ["Veet <opensource@isamu.dev>"]
+readme = "README.md"
+repository = "https://github.com/veetuse/cli-py"
+homepage = "https://cli.veet.dev"
+documentation = "https://cli.veet.dev/docs"
+
+classifiers = [
+    "Topic :: Internet",
+    "Topic :: Internet :: WWW/HTTP :: HTTP Servers",
+    "Topic :: Internet :: WWW/HTTP",
+
+    "Topic :: Software Development :: Libraries :: Application Frameworks",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development",
+
+    "Typing :: Typed",
+    
+    "Development Status :: 3 - Alpha",
+    
+    "Environment :: Console",
+    "Environment :: Web Environment",
+    
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+]
+
+[tool.poetry.scripts]
+veet = "veet.cli:app"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = {extras = ["all"], version = "^0.78.0"}
+typer = {extras = ["all"], version = "^0.4.1"}
+toml = "^0.10.2"
+fnc = "^0.5.3"
+python-dotenv = "^0.20.0"
+requests = "^2.27.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+autopep8 = "^1.6.0"
+
+[tool.poetry.extras]
+framework = ["fastapi"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
