@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: post-data
+Version: 4.0
+Summary: python post data.
+Home-page: UNKNOWN
+Author: Exso Kamabay
+Author-email: lexyong66@gmail.com
+License: UNKNOWN
+Keywords: pypost,python post data
+Platform: windows
+Platform: linux
+Platform: macos
+Requires-Dist: kamabayEncoder (==0.1.0)
+Requires-Dist: requests (==2.27.1)
+
+UNKNOWN
+
+
