@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: aiopayok
+Version: 0.1.0
+Summary: payok.io asynchronous python wrapper
+Home-page: https://github.com/layerqa/aiopayok
+License: GNU v3
+Keywords: payok,aiopayok,payok api
+Author: layerqa
+Requires-Python: >=3.8,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Documentation, https://payok.io/cabinet/documentation/doc_main.php
+Project-URL: Repository, https://github.com/layerqa/aiopayok
