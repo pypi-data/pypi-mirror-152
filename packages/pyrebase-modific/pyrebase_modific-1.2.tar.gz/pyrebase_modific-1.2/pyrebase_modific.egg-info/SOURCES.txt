@@ -1,0 +1,11 @@
+setup.py
+pyrebase_modific/__init__.py
+pyrebase_modific/pyrebase_modific.py
+pyrebase_modific.egg-info/PKG-INFO
+pyrebase_modific.egg-info/SOURCES.txt
+pyrebase_modific.egg-info/dependency_links.txt
+pyrebase_modific.egg-info/not-zip-safe
+pyrebase_modific.egg-info/requires.txt
+pyrebase_modific.egg-info/top_level.txt
+sseclient/__init__.py
+sseclient/sseclient.py
