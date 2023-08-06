@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: push-plan
+Version: 0.1.0
+Summary: Archive and publish status to finger.farm
+License: GPL-3.0-or-later
+Author: Gokul Das B
+Author-email: dev@gokuldas.space
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: requests (>=2.27.1,<3.0.0)
+Requires-Dist: toml (>=0.10.2,<0.11.0)
