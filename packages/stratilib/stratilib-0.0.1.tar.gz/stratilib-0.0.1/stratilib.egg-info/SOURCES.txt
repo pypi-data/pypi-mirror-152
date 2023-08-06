@@ -1,0 +1,13 @@
+README.md
+setup.py
+stratilib/__init__.py
+stratilib/defaults.py
+stratilib/functions.py
+stratilib/lithology.py
+stratilib/sedlogdef.py
+stratilib/sedlogfunc.py
+stratilib.egg-info/PKG-INFO
+stratilib.egg-info/SOURCES.txt
+stratilib.egg-info/dependency_links.txt
+stratilib.egg-info/requires.txt
+stratilib.egg-info/top_level.txt
