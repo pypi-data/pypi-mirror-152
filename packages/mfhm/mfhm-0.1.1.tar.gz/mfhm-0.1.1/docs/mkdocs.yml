@@ -1,0 +1,29 @@
+site_name: MFHM - Docs
+locale: zh_CN
+theme:
+    name: material
+    logo: logo.png
+    favicon: logo.png
+    palette:
+        scheme: slate
+        primary: blue grey
+
+nav:
+    - 欢迎: index.md
+    - 1. 概念: 
+        - 1.1 服务中心: concept/ServiceCenter.md
+        - 1.2 服务: concept/Service.md
+        - 1.3 调用代理: concept/CallProxy.md
+        - 1.4 包装器: concept/wrapper.md
+    - 2. 开始使用:
+        - 2.1 前言: getStart/description.md
+        - 2.2 创建服务中心: getStart/StartServiceCenter.md
+        - 2.3 创建服务: getStart/StartService.md
+        - 2.4 服务调用: getStart/CallService.md
+    - 3. 高级用法: 
+        - 3.1 前言: advanced/description.md
+        - 3.2 使用包装器: advanced/UseWrapper.md
+        - 3.3 使用子服务: advanced/UseSubService.md
+    - 4. 其他:
+        - 4.1 使用源码构建MFHM: other/make.md
+    - 5. 更新日志: version.md
