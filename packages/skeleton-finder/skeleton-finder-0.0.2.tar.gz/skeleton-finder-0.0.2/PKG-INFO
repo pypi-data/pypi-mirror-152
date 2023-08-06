@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: skeleton-finder
+Version: 0.0.2
+Home-page: https://github.com/teeli8/skeleton-finder
+Author: Tee Li
+License: BSD-3
+Classifier: Operating System :: OS Independent
+Classifier: Framework :: napari
+License-File: LICENSE
