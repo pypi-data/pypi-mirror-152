@@ -1,0 +1,15 @@
+lpi_andor/__init__.py,sha256=nSBRZQp1FYc48SKjzn6ex4ctn3s_vOZ4YSI17kz7Nnc,447
+lpi_andor/_version.py,sha256=yLHwgSTQr7oIBAYIoppF506eNdEGt16LFLf0Yxd5DDE,79
+lpi_andor/enums.py,sha256=DGwpxxPINQTS8AvBVBrO0S8I1n4ABB7WEGkERIzx3Ds,911
+lpi_andor/helpers.py,sha256=mmZ3hvixwNf3_XmEBWiLaZibgEgG0PlPZRg9pm9EgTA,2113
+lpi_andor/measurement_parameters.py,sha256=ADkDEg1KYSs0D03l4Rh4AU5_WO71Od3Lt4RmhshxgsY,1146
+lpi_andor/spectrometer.py,sha256=qHAQWr4vwD81HEkOULfFL8Pkhhy5xkmtnJjtT4X9W9E,12926
+lpi_andor/package_data/sdk/Windows/32/atmcd32d.dll,sha256=bHxC1FcFSXB3dOHTccmf0tjbNSO9ZuS6n_hcEZNzj5Y,5070336
+lpi_andor/package_data/sdk/Windows/64/atmcd64d.dll,sha256=KBZoC3e95QtVAI8lq8le54zlWz5RO5JxRYtHqruvWfw,5956608
+lpi_andor/package_data/spectrometer/Windows/32/atspectrograph.dll,sha256=v70IuueopaQBiyFYQZboX1zXMBaOxwhtjDuRr5y5dwA,221696
+lpi_andor/package_data/spectrometer/Windows/64/atspectrograph.dll,sha256=zrC5hV80TSCLm9OOIdGTz9qLfRK-T-QDOgrxPq8oc4U,274944
+lpi_andor-0.0.3.dist-info/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+lpi_andor-0.0.3.dist-info/METADATA,sha256=1uQSJwv3itQHl-2HfjzXBP1Xn17xZJvX2n2ThHBTFl8,2846
+lpi_andor-0.0.3.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+lpi_andor-0.0.3.dist-info/top_level.txt,sha256=Eu1ckZKDcMjMoIkbmrhm1nAXy14Klm9WspeUwufb9aM,10
+lpi_andor-0.0.3.dist-info/RECORD,,
