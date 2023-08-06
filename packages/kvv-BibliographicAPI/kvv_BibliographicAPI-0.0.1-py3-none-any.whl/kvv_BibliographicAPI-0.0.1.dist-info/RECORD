@@ -1,0 +1,9 @@
+BibliographicAPI/__init__.py,sha256=XIM1GjaxXPWWRuqeDR-xUvH7TMVo5kGUXq0IeLk2Vtg,51
+BibliographicAPI/crossref_api.py,sha256=nw4OFBxnf69Gg6gbmPDwc0o19vqUJ6xtMrBCUwOSpZw,3114
+BibliographicAPI/publons_api.py,sha256=Eqdg1dAIs39XAHR6jldmUKQbkcOeeoedZ2pJ8glBZQY,1836
+BibliographicAPI/scopus_api.py,sha256=Rp33LbbUIbZ0zZhIHztBr-psJ_beWkPdyTX74YFedhk,1134
+kvv_BibliographicAPI-0.0.1.dist-info/LICENSE,sha256=F96EzotgWhhpnQTW2TcdoqrMDir1jyEo6H915tGQ-QE,11524
+kvv_BibliographicAPI-0.0.1.dist-info/METADATA,sha256=pHe5w5DzVDMmqhOnHoGtcjrdngPtAFpMei9IZVtSRww,999
+kvv_BibliographicAPI-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+kvv_BibliographicAPI-0.0.1.dist-info/top_level.txt,sha256=oScqG-QCH-o1EtTnUKfF1whBLrFyuXA67dW1EO_xJKc,17
+kvv_BibliographicAPI-0.0.1.dist-info/RECORD,,
