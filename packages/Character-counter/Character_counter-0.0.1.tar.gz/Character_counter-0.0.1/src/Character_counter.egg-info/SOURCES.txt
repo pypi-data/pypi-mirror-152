@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+src/Character_counter.egg-info/PKG-INFO
+src/Character_counter.egg-info/SOURCES.txt
+src/Character_counter.egg-info/dependency_links.txt
+src/Character_counter.egg-info/top_level.txt
+src/chars_counter/__init__.py
+src/chars_counter/counter.py
