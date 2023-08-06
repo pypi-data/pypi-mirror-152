@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0"
+"Report-Msgid-Bugs-To: pbilet@team.com"
+"POT-Creation-Date: 2022-05-12 05:53+0300"
+"PO-Revision-Date: 2022-05-12 05:53+0300"
+"Last-Translator: FULL NAME <bilet@team.com>"
+"Language: en_US"
+"Plural-Forms: nplurals=2; plural=(n != 1);"
+"Content-Type: text/plain; charset=utf-8"
+"Content-Transfer-Encoding: 8bit"
+"Generated-By: Babel 2.10.1"
+
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Warning"
+msgstr "Warning"

@@ -1,0 +1,29 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0Report-Msgid-Bugs-To: pbilet@team.comPOT-Creation-"
+"Date: 2022-05-12 05:53+0300PO-Revision-Date: 2022-05-12 05:53+0300Last-"
+"Translator: FULL NAME <bilet@team.com>Language: en_USPlural-Forms: "
+"nplurals=2; plural=(n != 1);Content-Type: text/plain; charset=utf-"
+"8Content-Transfer-Encoding: 8bitGenerated-By: Babel 2.10.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-05-15 22:27+0300\n"
+"PO-Revision-Date: 2022-05-15 22:27+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en_US\n"
+"Language-Team: en_US <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Success"
+msgstr "Success"
+
+msgid "Warning"
+msgstr "Warning"
+
