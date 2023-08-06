@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: stitch-sdk
+Version: 0.0.1
+Summary: Unofficial Stitch Python SDK
+Home-page: https://github.com/deanpienaar/stitch-py
+Author: Dean Pienaar
+License: MIT
+License-File: LICENSE
