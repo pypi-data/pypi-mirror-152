@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/quizzi1/__init__.py
+src/quizzi1/fibonachii.py
+src/quizzii1.egg-info/PKG-INFO
+src/quizzii1.egg-info/SOURCES.txt
+src/quizzii1.egg-info/dependency_links.txt
+src/quizzii1.egg-info/top_level.txt
