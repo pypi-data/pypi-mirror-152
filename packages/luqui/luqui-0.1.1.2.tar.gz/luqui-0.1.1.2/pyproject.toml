@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "luqui"
+version = "0.1.1.2"
+description = ""
+authors = ["pgbarletta <pbarletta@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+scipy = "^1.7"
+attrs = "^21.4.0"
+pdb2pqr = "^3.5.0"
+GromacsWrapper = "^0.8.1"
+toml = "^0.10.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+black = "^22.3.0"
+flake8 = "^4.0.1"
+
+[tool.pytest]
+addopts = "--ignore=setup.py"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
