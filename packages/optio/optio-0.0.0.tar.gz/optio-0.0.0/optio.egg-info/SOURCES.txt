@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+docs/manual.md
+optio/__init__.py
+optio/option.py
+optio/parser.py
+optio.egg-info/PKG-INFO
+optio.egg-info/SOURCES.txt
+optio.egg-info/dependency_links.txt
+optio.egg-info/top_level.txt
