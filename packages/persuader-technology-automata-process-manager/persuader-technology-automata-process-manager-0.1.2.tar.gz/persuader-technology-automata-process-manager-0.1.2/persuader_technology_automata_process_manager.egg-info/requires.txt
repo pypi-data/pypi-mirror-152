@@ -1,0 +1,4 @@
+schedule==1.1.0
+persuader-technology-automata-core>=0.4.4
+persuader-technology-automata-utilities>=0.1.0
+persuader-technology-automata-process-repository>=0.0.9
