@@ -1,0 +1,91 @@
+Metadata-Version: 2.1
+Name: unbelipy
+Version: 2.0.0b0
+Summary: Asynchronous wrapper for UnbelievaBoat's API written in Python.
+Home-page: https://github.com/chrisdewa/unbelipy
+License: MIT
+Keywords: discord,discord.py,discord bot,UnbelievaBoat
+Author: chrisdewa
+Author-email: alexdewa@gmail.com
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Provides-Extra: docs
+Requires-Dist: aiohttp (>=3.7.4.post0,<4.0.0)
+Requires-Dist: aiolimiter (>=1.0.0b1,<2.0.0)
+Requires-Dist: sphinx (>=4.0.0,<5.0.0); extra == "docs"
+Requires-Dist: sphinx-book-theme (>=0.3.2,<0.4.0); extra == "docs"
+Project-URL: Documentation, https://unbelipy.readthedocs.io/en/latest/
+Project-URL: Issue tracker, https://github.com/chrisdewa/unbelipy/issues
+Project-URL: Repository, https://github.com/chrisdewa/unbelipy
+Description-Content-Type: text/markdown
+
+# unbelipy
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![PyPI status](https://img.shields.io/pypi/status/unbelipy.svg)](https://pypi.python.org/pypi/unbelipy/)
+[![PyPI version fury.io](https://badge.fury.io/py/unbelipy.svg)](https://pypi.python.org/pypi/unbelipy/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/unbelipy.svg)](https://pypi.python.org/pypi/unbelipy/)
+[![PyPI license](https://img.shields.io/pypi/l/unbelipy.svg)](https://pypi.python.org/pypi/unbelipy/)
+
+Asynchronous wrapper for UnbelievaBoat's API written in Python.
+
+## Characteristics
+- Easy to use
+- Full error handling
+- Type hinted readable code
+- Active maintenance
+- Fully Asynchronous
+
+## Note
+This wrapper has not been declared to be official by the UnbelievaBoat developers. Any internal library issues/feature requests are to be directed here.
+
+## Project status
+Early beta stage. It's not yet production ready.  
+Although most of the functionality is operational, rate limits are still being worked on.  
+
+## Installation
+**Python 3.8 or above required, due to typehinting.**
+
+To install unbelipy from PyPI, use the following command:  
+```py
+pip install -U unbelipy
+```
+
+Or to install from Github:  
+```py
+pip install -U git+https://github.com/chrisdewa/unbelipy/
+```
+
+## Dependencies
+The following libraries will be needed and automatically installed with unbelipy:  
+- [aiohttp](https://github.com/aio-libs/aiohttp/) - async requests
+- [aiolimiter](https://github.com/mjpieters/aiolimiter/) - implementation of async rate limiter
+
+## Feature Requests
+For feature requests, please [open a Pull Request](https://github.com/chrisdewa/unbelipy/pulls) with detailed instructions.  
+Likewise, if you encounter any issues, you may [create a new Issue](https://github.com/chrisdewa/unbelipy/issues).
+
+## Examples
+To start off, you may [check out some examples](https://github.com/chrisdewa/unbelipy/tree/master/examples) in this repository!
+
+## Links
+- [Documentation](https://unbelipy.readthedocs.io/en/latest/)
+
+## Contact
+As of now, there is no support server for this library.
+However, you may contact the following people on Discord:
+- [ChrisDewa#4552](https://discord.com/users/365957462333063170)
+- [invalid-user#1119](https://discord.com/users/714731543309844561)
+
+<!-- # Known Issues:
+- `'-Infinity'` is accepted by the API as a parameter for cash or bank (edit_balance and set_balance),
+  but it does not appear to affect the balance. This is caused because the API receives -Infinity as null which is also 
+  used when the value didn't change. At the moment there is no word this is going to be fixed.
+  
+------- maybe make a file in /docs for known issues -->
