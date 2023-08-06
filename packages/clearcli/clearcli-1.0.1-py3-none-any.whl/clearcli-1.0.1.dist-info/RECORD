@@ -1,0 +1,7 @@
+clearcli/__init__.py,sha256=HO0ZeFuCTC-LUwpbOMZLgFRl2ha_QJPKmxyUo-LhGS0,6161
+clearcli/commands.py,sha256=EZHTRDi9EcFHuCq4kvSV77azi9lpxU04bU0tjZmcg74,1778
+clearcli/mock.py,sha256=arPcR1tsT7o0qQP7iRdlud4NhYDvcL1cP9Nskjd1ubQ,1049
+clearcli-1.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+clearcli-1.0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+clearcli-1.0.1.dist-info/METADATA,sha256=j8XbIFKedKIBeJmHXwRLh-yKG7plKZBa8115iS_4ytI,1065
+clearcli-1.0.1.dist-info/RECORD,,
