@@ -1,0 +1,10 @@
+brain_games/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+brain_games/cli.py,sha256=XMNE7thu0-SAs15BanEbh78y2HImr4i4ca7K5KxxbHo,207
+brain_games/even_game.py,sha256=ftFOTxYlz7CuK6gHQEL0TXcyZhuvWWMowCyQNcvOh_U,758
+brain_games/scripts/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+brain_games/scripts/brain_even.py,sha256=dx8JnpVr7eq8gcenEihtL1ojfnXcO_dXwk1hW7u7gok,232
+brain_games/scripts/brain_games.py,sha256=5hrErh_oOGpEP49ifS10TbWrXGa7UJjX7_EAZ5awVXU,162
+izvekovweb_project_1-0.1.1.dist-info/entry_points.txt,sha256=oVJ4dfpT_3t8Hve9mCPCmP8iGOP_QVtbtU4H-k1y7C0,115
+izvekovweb_project_1-0.1.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+izvekovweb_project_1-0.1.1.dist-info/METADATA,sha256=FbNg7t9fZ2sIg1RCqXcVnn6lCu3hTavrN4qXlWrr2WE,423
+izvekovweb_project_1-0.1.1.dist-info/RECORD,,
