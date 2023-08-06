@@ -1,0 +1,15 @@
+departments/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+departments/admin.py,sha256=p6xop1PuuDG2Uwv3G_aRfldxOfBzTRfMaoZmORVkqyU,66
+departments/apps.py,sha256=T8rB1DBpyCNzca034rnqO9moOBOgJqcLpV0VnAX2nX0,160
+departments/static/css/departments/medicio_ds.css,sha256=zDB2Ir6RbjdB0xXXUHEtb3p0-N8CURu92Hkozm9qccw,1481
+departments/static/css/departments/medilab_ds.css,sha256=S-3GYI0LRNY_IK3r_5C9bwckuy6uoq0fxQnHrWwQfwQ,1103
+departments/templates/departments/_common.html,sha256=lHT4VXhtZn4EE5xYfpG-l6RCS7yWXKCOvee-hp8apWQ,177
+departments/templates/departments/medicio_ds.html,sha256=NaPrfiHO_m8bFYuiSDo03ROQhT3xwyVRUcHeZfnIH5o,1901
+departments/templates/departments/medilab_ds.html,sha256=jBGLqn00zyHvd5wWaciWlKPgqFCRigeDtdbClO528N8,2105
+departments/templatetags/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+departments/templatetags/departments_tags.py,sha256=LIJh5hkBjDVL0IgXCYYgGGZTNKesIgszrzxFUepPlF4,633
+django_departments_ds-0.0.1.dist-info/LICENSE,sha256=RBhg5hIyHCQyj9Hd6pdx4QVzRdIfplLdnbuNB0fm2H4,1093
+django_departments_ds-0.0.1.dist-info/METADATA,sha256=Dhise6KjacA26wI_tSwpPQjZ_z4kgCFWbZmdZU6T4tM,1813
+django_departments_ds-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_departments_ds-0.0.1.dist-info/top_level.txt,sha256=vPEw_SiqL_gSe2azBYYurMg_7XMz3PWJQ1X-K0WEAGc,12
+django_departments_ds-0.0.1.dist-info/RECORD,,
