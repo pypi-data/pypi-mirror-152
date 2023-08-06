@@ -1,0 +1,4 @@
+keyring
+pyodbc
+pandas
+pyarrow!=8.0.0
