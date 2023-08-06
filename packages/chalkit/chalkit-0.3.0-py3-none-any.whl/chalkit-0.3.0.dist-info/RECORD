@@ -1,0 +1,10 @@
+chalkit/__init__.py,sha256=VrXpHDu3erkzwl_WXrqINBm9xWkcyUy53IQOj042dOs,22
+chalkit/editor.py,sha256=gi_E1jyDHLsH-2t2M-qtr10h_tvTt3EPlhqqc8EpleU,1146
+chalkit/git_commit.py,sha256=Gyhe3Qzk_M9T9WvWuJsZrW3t3drBcjGirRvyH_6fyPQ,231
+chalkit/main.py,sha256=QT7dl9WljEHFRX_q-KVbfCifJAFvzV6aHbuQ4NV7rFA,756
+chalkit/rreset.py,sha256=hu8mO8rqDOWBj1d22eSvdqWPC2a-l6Vc6_bEbGS2q-s,442
+chalkit/setup.py,sha256=Bt56lLnSd28xiiUO1IUc9HC2twzD0PAlB_wlD49V7Rw,1829
+chalkit-0.3.0.dist-info/entry_points.txt,sha256=raDelx7gKgZxyajzl-wSBHd2TvJyzm4gwz8rFVWVXms,44
+chalkit-0.3.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+chalkit-0.3.0.dist-info/METADATA,sha256=d_01tpdEsQ85_G0WCEYOLgrHl37NYg27eAC-k3oHBec,484
+chalkit-0.3.0.dist-info/RECORD,,
