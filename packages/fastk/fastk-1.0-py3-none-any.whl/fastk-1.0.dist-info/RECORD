@@ -1,0 +1,12 @@
+fastk/Histex.so,sha256=kdupGVPt6ZaD8WqQWhzNxd6_OPDn6bik7KLXRV9TbQI,39728
+fastk/Profex.so,sha256=tLX7YPsegENn6VVvKo2WVXkxNY_o2LRFvQl_vWk14Nk,39280
+fastk/_Histex.py,sha256=otmc3k0ppxE3yPmkYX8dtWQcdZLxxhn3_-pnnwrx67M,1269
+fastk/_Profex.py,sha256=vS0v1dvcjh7Sxr_tBTRGZsL_1qxaZ7LvZMj9m-7kAFI,1403
+fastk/__init__.py,sha256=DAu-0EQFQzPKiI1Gg4Dg7qCutKzpRSdNJMaNRyMK0ss,56
+fastk/setup.py,sha256=hDrCbDikGrrleCULwPlBkZSzIKD2cyfZQQN6Qmj2z-c,38
+fastk-1.0.dist-info/LICENSE,sha256=QYuXCHw-bSeT42jK62hPB_gQdVhWb595q9dIxyKNuEg,1073
+fastk-1.0.dist-info/LICENSE.FASTK,sha256=iCakhP1jXzY7Z27ep1P0PNP3zBOTF_YvzgEEmdcU6Gc,2760
+fastk-1.0.dist-info/METADATA,sha256=sfToCtJTjyJYpaNnQEcyivYIb10ZVnGcpW0uxpZHZ8A,1692
+fastk-1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+fastk-1.0.dist-info/top_level.txt,sha256=G5SpjkaFvpWEwXQD_wQH5AnsvqGAAIW0AAxtHHHD5c4,6
+fastk-1.0.dist-info/RECORD,,
