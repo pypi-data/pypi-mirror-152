@@ -1,0 +1,2 @@
+[console_scripts]
+executable-name = gluulogscanner.GluuLog4jScanner:main
