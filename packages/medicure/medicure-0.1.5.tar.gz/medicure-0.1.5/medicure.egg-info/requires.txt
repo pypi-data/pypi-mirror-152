@@ -1,0 +1,8 @@
+tmdbsimple
+pymediainfo
+iso-639
+click
+typer
+
+[develop]
+pre-commit
