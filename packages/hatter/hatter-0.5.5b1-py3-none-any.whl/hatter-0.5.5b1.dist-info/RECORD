@@ -1,0 +1,8 @@
+hatter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hatter/amqp.py,sha256=XAZANtEUlwuG7nRCSME7XNinW-S1-ekuwTUbuLe70rA,3297
+hatter/domain.py,sha256=MsrVaZjaxu6O50gCO9dDg2USjnJHi3ka2qIcZH84seI,3048
+hatter/hatter.py,sha256=zxZ6b0wfqKh5puXgeKUAqfxqIqvCfSBDEbBWyKiMqf8,32169
+hatter/util.py,sha256=BYlXKVQTkgAmyijDwP11VUAuElCTh-JrOD4mUkKLtOs,7367
+hatter-0.5.5b1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+hatter-0.5.5b1.dist-info/METADATA,sha256=5xm5bzL_eVxN_8otTVHOpIySnYnLoPjYEiy2FZeBqz4,1476
+hatter-0.5.5b1.dist-info/RECORD,,
