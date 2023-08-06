@@ -1,0 +1,11 @@
+
+[dev]
+black
+mypy
+pyre-check
+tox
+twine
+
+[docs]
+sphinx
+sphinx_rtd_theme
