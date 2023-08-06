@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: spvideoutils
+Version: 0.0.2
+Summary: Scripts for saving and splitting video files for other projects
+Home-page: https://github.com/sanjeevs/spvideoutils
+Author: Sanjeev Singh
+Author-email: snjvsingh123@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE.txt
+
+# Overview
+Utilities to handle video from camera. Contains various utilites that crop and split the video files.
+
+# Installation
+In your virtual env do
+```
+$ pip install videoutils
+```
+
+# Scripts
+The following scripts are provided by the package.
+* video_capture.py
+  * Captures a video from a camera to mp4 file on disk.
+* video_split.py
+  * Splits a mp4 file into frames stored as png file on output dir.
+* video_merge.py
+  * Merges the frames in png file from dir to a video file.
+* video_crop.py
+  * Crops a video file from frame number i to j.
+
+# Developing VideoUtils
+To install videoutils along with the tools you need to develop and run tests, run the following
+in your virtual env.
+```commandline
+$ pip install -e .[dev]
+```
+
+
