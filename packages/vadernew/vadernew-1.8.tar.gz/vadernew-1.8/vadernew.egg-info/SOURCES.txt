@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+vadernew/__init__.py
+vadernew/vader_disneyland.py
+vadernew/vader_electronic.py
+vadernew/vader_finance.py
+vadernew/vader_food.py
+vadernew.egg-info/PKG-INFO
+vadernew.egg-info/SOURCES.txt
+vadernew.egg-info/dependency_links.txt
+vadernew.egg-info/requires.txt
+vadernew.egg-info/top_level.txt
