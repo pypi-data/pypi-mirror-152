@@ -1,0 +1,2 @@
+[console_scripts]
+my-command = demo_package_sample_data_with_code.__main__:main
