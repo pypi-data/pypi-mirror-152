@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+fuse_cdm/__init__.py
+fuse_cdm/main.py
+fuse_cdm.egg-info/PKG-INFO
+fuse_cdm.egg-info/SOURCES.txt
+fuse_cdm.egg-info/dependency_links.txt
+fuse_cdm.egg-info/top_level.txt
