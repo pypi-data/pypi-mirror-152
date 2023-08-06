@@ -1,0 +1,4 @@
+[console_scripts]
+create-lxc=pve_utils.commands:create_lxc
+shell-lxc=pve_utils.commands:shell_lxc
+
