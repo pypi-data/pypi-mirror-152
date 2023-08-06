@@ -1,0 +1,16 @@
+client/__init__.py,sha256=39gFzO_YNn5TRe-QxkldzU6SLjkDseJtrs4xLFcGqvY,144
+client/argparser.py,sha256=eBJMbpw2bJdR4MqLy8pKPvlzgUSlmE1W9YoVXhhBCks,20260
+client/configuration.py,sha256=Cr3J_AoWjWARPr47VVr1WF2EMxR56eOHpdAKRwzA40M,4339
+client/meta.py,sha256=9lJImiaxA72jEykK1323HtNay4U7r8UluuUFoHr_jxg,5023
+client/resource.py,sha256=cvalVsDQM-6JQHiCmCKTSrby3Mp-Pg2WzGAI_2-w2-A,13628
+client/session.py,sha256=5gK3nfn46E4v2vo5n1VmKmiSh1ZRdmPBkGjUqQLWNF0,22344
+client/util.py,sha256=Su8Of_bf_J463cILx4Bq1gYe4m3KAUcsFBriENc_9yk,3764
+client/certs/corelight.pem,sha256=g2ir_h2IbHjH8o33lTWCgufU3-9ehe3RNEZteKzztBM,32365
+corelight_client-1.5.11.data/scripts/bro-pkg-bundle,sha256=_uP4oFSWDJsQehWJtMUxNp3fS0h1oXnBrLGF9il9XgQ,2921
+corelight_client-1.5.11.data/scripts/brobox,sha256=R0kR1-IhaD4P8zMLBfvu6t6Y-xfz5HYyHJM3cSr4Ir8,326
+corelight_client-1.5.11.data/scripts/corelight-client,sha256=vRjA5wo9FO0Kcj1nxBNVLRF2hQnM3bBJIv49dsei2R8,15321
+corelight_client-1.5.11.dist-info/COPYING,sha256=twiwLI9aZ0bv1IZGyV84nOkN1Xf4MnwDpPD0FRYrFCU,1502
+corelight_client-1.5.11.dist-info/METADATA,sha256=xZPM888dofZel_dj4haKFIALsIvfnRZX4YhDvvsU234,6898
+corelight_client-1.5.11.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+corelight_client-1.5.11.dist-info/top_level.txt,sha256=DJiuN0ty6vOMYewH87cxtQ0LWVaJpE0bZ1Blm0e3RCE,7
+corelight_client-1.5.11.dist-info/RECORD,,
