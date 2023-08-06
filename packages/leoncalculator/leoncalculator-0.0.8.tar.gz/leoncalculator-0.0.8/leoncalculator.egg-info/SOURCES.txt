@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+requirements.txt
+setup.py
+leoncalculator.egg-info/PKG-INFO
+leoncalculator.egg-info/SOURCES.txt
+leoncalculator.egg-info/dependency_links.txt
+leoncalculator.egg-info/top_level.txt

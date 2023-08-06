@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: leoncalculator
+Version: 0.0.8
+Summary: basic calculator
+Home-page: UNKNOWN
+Author: Martin Leon
+Author-email: martinleontech23@gmail.com
+License: MIT
+Description: This is a simple calculator,that take two  numbers
+        
+        
+        change logo
+        =================
+        
+        0.0.2(24/5/2021)
+        ___________________
+        
+        -First realease
+Keywords: calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
