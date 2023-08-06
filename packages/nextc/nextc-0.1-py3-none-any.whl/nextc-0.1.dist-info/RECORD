@@ -1,0 +1,12 @@
+nextc/__init__.py,sha256=sTHjrp5yVukHwtuiWf1QsHuqZ4C4o3XCRNRd9qyRzEM,160
+nextc/__main__.py,sha256=ECHKL8MWc44hT8JEthfHHkJU7yAXw1oUvwAs7UhMR4A,396
+nextc/ast/__init__.py,sha256=NsooeWLtfcJui8ZulO2NNxmL9vX8p7Qj0d09cJKNUDk,2173
+nextc/compile/__init__.py,sha256=BbhkQpohcgEu5HnlYqufFy0qxYxZzjYd3iSje-eI3n0,50
+nextc/compile/core.py,sha256=9Pd7XUNT2Wi3r-Thx6DXOn8G_uvZHD3mNhs242Dp_LM,2452
+nextc/compile/declarations.py,sha256=AoRPHk_OVae03VvRlH8hn_M27tEl88ftkYQ15nDnTG8,1061
+nextc/lexing/__init__.py,sha256=fh7gA0WZVvy-QVAQIE0SgkZke-5v287DQHv9kpinn1s,2493
+nextc/parse/__init__.py,sha256=QOMwwU6alFEi5GdFess55mssnSc8AAoqrbA-nYtuei0,1774
+nextc/runtime/.gitkeep,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+nextc-0.1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+nextc-0.1.dist-info/METADATA,sha256=eHI0Eo6YLDTmyG7aMqikxDZSDkBpVysu7yLujCwreFs,486
+nextc-0.1.dist-info/RECORD,,
