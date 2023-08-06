@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+simpleleader/__init__.py
+simpleleader/leader.py
+simpleleader/rpc.py
+simpleleader/tests.py
+simpleleader.egg-info/PKG-INFO
+simpleleader.egg-info/SOURCES.txt
+simpleleader.egg-info/dependency_links.txt
+simpleleader.egg-info/top_level.txt

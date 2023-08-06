@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: simpleleader
+Version: 0.0.2
+Summary: Simple distributed leader election
+Home-page: https://github.com/maycap/simpleleader
+Author: maycap
+Author-email: gencat@163.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: election leader distributed
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: License :: OSI Approved
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
