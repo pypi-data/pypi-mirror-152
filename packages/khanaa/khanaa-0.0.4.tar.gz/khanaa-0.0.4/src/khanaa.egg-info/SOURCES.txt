@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/khanaa/__init__.py
+src/khanaa/thai_script.py
+src/khanaa/thai_spelling.py
+src/khanaa.egg-info/PKG-INFO
+src/khanaa.egg-info/SOURCES.txt
+src/khanaa.egg-info/dependency_links.txt
+src/khanaa.egg-info/top_level.txt
