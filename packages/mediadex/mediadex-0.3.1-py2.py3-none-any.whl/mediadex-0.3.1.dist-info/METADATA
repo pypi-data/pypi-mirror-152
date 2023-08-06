@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: mediadex
+Version: 0.3.1
+Summary: Index media metadata into opensearch
+Home-page: https://github.com/jesusaurus/mediadex
+Author: K Jonathan Harker
+Author-email: code@gentlydownthe.net
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+License-File: AUTHORS
+Requires-Dist: pymediainfo
+Requires-Dist: opensearch-dsl
+Requires-Dist: PyYAML
+Requires-Dist: chardet
+Requires-Dist: mutagen
+Requires-Dist: cinemagoer
+Requires-Dist: python-dateutil
+Requires-Dist: requests
+
+# Mediadex
+
+Index media metadata into opensearch
+
+## Usage
+
+Give mediadex a path with music or movies:
+```
+mediadex --path /srv/music
+```
+
+... and watch as an opensearch index is quickly built!
+
+You can now query opensearch about your media metadata with your
+favourite tool such as opensearch-dashboard or curl.
+
