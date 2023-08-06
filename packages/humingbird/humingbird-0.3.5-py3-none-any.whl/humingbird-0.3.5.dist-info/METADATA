@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: humingbird
+Version: 0.3.5
+Summary: Official Open Source version of Humingbird for Python
+Home-page: UNKNOWN
+License: MIT
+Platform: UNKNOWN
+Requires-Dist: Pillow (>=7.1)
+Requires-Dist: transformers (>=4.19.2)
+Requires-Dist: torch (>=1.11.0)
+
+Please visit https://humingbird.co/docs for more info and documentation.
+
