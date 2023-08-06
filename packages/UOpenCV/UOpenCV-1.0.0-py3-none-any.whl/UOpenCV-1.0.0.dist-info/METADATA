@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: UOpenCV
+Version: 1.0.0
+Summary: UOpenCV is a wrapper class for OpenCV.
+Home-page: https://endou2022.github.io/
+Author: FINAL
+Author-email: gfe00726@yahoo.co.jp
+License: BSD
+Keywords: UOpenCV opencv wrapper image-processing image
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Description-Content-Type: text/plain
+Requires-Dist: opencv-python
+Requires-Dist: opencv-contrib-python
+Requires-Dist: matplotlib
+
+UOpenCV is a wrapper class for OpenCV. Some of the functions of opencv-python (+ image processing in books and homepages) have been made into classesto make them easier to use (for the author).
+
