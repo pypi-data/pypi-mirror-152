@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: hssh
+Version: 0.0.1
+Summary: 2702 김수진
+Home-page: https://github.com/Sujin-Github/Study2022
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: pandas
+Requires-Dist: konlpy
+Requires-Dist: numpy
+
+UNKNOWN
+
