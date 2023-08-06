@@ -1,0 +1,7 @@
+JSON_minify
+setuptools
+requests
+websockets
+websocket-client==0.57.0
+aiohttp
+ujson
