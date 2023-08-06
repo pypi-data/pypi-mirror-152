@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: willowtree
+Version: 0.1.0
+Summary: A Python package for tree data structures, phylogenetics, evolution, and genomics.
+Home-page: https://github.com/samsonweiner/WillowTree
+Author: Samson Weiner
+Author-email: samson.weiner@uconn.edu
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
