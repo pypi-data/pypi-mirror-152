@@ -1,0 +1,11 @@
+redmind/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+redmind/dataloader.py,sha256=Ic4eZfsxa58POce1qFYY7Wh_eJ-NJdWZEiZ1aIAqvbI,2373
+redmind/functions.py,sha256=IYendY85zvdU6q7-qimlFQs4sVu3FNj4DMlRWijXUJg,382
+redmind/layers.py,sha256=9mfkmes5_hp9l59j0HicCiog1x80r9Zel4xJX2rEQcg,5453
+redmind/network.py,sha256=GqfFFr6kPLs09b6KbU_A2oiFokknKzEZ2SX44-2gikc,6047
+redmind/utils.py,sha256=ptnEB1TZEEFpt9oC_gdOFlpvhnooTwB5E63vWuEPjpE,318
+redmind-0.0.1.dist-info/LICENSE,sha256=74LMlRpxHhW_SLTM4TNKqKIUahLnZGIQaqYfaKeguFo,1087
+redmind-0.0.1.dist-info/METADATA,sha256=ZEd1NQs3Hbspnpb-gaHE5JUCA87EyAYsMgmOoenYoQc,2062
+redmind-0.0.1.dist-info/WHEEL,sha256=U88EhGIw8Sj2_phqajeu_EAi3RAo8-C6zV3REsWbWbs,92
+redmind-0.0.1.dist-info/top_level.txt,sha256=m5GU1OQ5YF2s3xkEQFc78mK8lhwYDpNnOajlKdZSypI,8
+redmind-0.0.1.dist-info/RECORD,,
