@@ -1,0 +1,11 @@
+dotpack/__init__.py,sha256=p91fsN2RDNti5cSqRmlKGaAXg9GbblKbqvUU3vWSdwY,147
+dotpack/ledbag.py,sha256=e_HDce63cH-t44HKLWb1hn4-nq46BehR0wYvkjysV80,17590
+dotpack/ledpanel.py,sha256=bPF5fAsTowjvziGF_7F59p63H4j-uBUJmM2-2g7NoEw,19607
+dotpack/microblocks_client.py,sha256=4pXxBLeZCIXbGN9-2eC7EgSj9T6HLbw8ULhQE_-erQs,5592
+dotpack/src/seguiemj.ttf,sha256=hr4oju1lYWhL5kX2cUCSEMkUgV44M6D8O1h8v2TAOSg,676304
+dotpack-0.3.0.dist-info/AUTHORS.rst,sha256=GIr-qKkEPCBjfL_3ntIO7qns_zHOZO-Q2IrsT3AjBag,147
+dotpack-0.3.0.dist-info/LICENSE,sha256=VIaUBMd7LjHk-PKeSmnYiBboJ8F_fsvFKqctTdZ7Ipc,1596
+dotpack-0.3.0.dist-info/METADATA,sha256=Nzly93HH_0aEMGx0E7vw7lDjE8JnwquOH9l3othvWr0,1667
+dotpack-0.3.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+dotpack-0.3.0.dist-info/top_level.txt,sha256=VomztdWdb4UpKguqXKI4lF8DsrQderEMaazCB1CQ7-A,8
+dotpack-0.3.0.dist-info/RECORD,,
