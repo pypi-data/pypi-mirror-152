@@ -1,0 +1,15 @@
+README.md
+setup.py
+orthofinder_tools/__init__.py
+orthofinder_tools/annotate_orthogroups.py
+orthofinder_tools/orthofinder_plots.py
+orthofinder_tools/utils.py
+orthofinder_tools.egg-info/PKG-INFO
+orthofinder_tools.egg-info/SOURCES.txt
+orthofinder_tools.egg-info/dependency_links.txt
+orthofinder_tools.egg-info/entry_points.txt
+orthofinder_tools.egg-info/requires.txt
+orthofinder_tools.egg-info/top_level.txt
+test/test_annotate_orthogroups.py
+test/test_orthofinder_plots.py
+test/test_utils.py

@@ -1,0 +1,3 @@
+[console_scripts]
+annotate_orthogroups = orthofinder_tools.annotate_orthogroups:main
+orthofinder_plots = orthofinder_tools.orthofinder_plots:main
