@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: aaaSvg
+Version: 0.1.8
+Summary: A package for creating SVG files.
+Home-page: https://github.com/aminahmadahmadi/aaaSvg
+Author: Amin Ahmad Ahmadi
+Author-email: aminahmadahmadi@outlook.com
+Project-URL: Bug Tracker, https://github.com/aminahmadahmadi/aaaSvg/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# aaaSvg
+
+aaaSvg is a simple SVG library for simple creation of SVG files with Python.

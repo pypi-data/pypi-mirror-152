@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/aaaSvg/__init__.py
+src/aaaSvg/svg.py
+src/aaaSvg.egg-info/PKG-INFO
+src/aaaSvg.egg-info/SOURCES.txt
+src/aaaSvg.egg-info/dependency_links.txt
+src/aaaSvg.egg-info/top_level.txt
