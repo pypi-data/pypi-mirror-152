@@ -1,0 +1,9 @@
+MANIFEST.in
+requirements.in
+setup.py
+kfp.egg-info/PKG-INFO
+kfp.egg-info/SOURCES.txt
+kfp.egg-info/dependency_links.txt
+kfp.egg-info/entry_points.txt
+kfp.egg-info/requires.txt
+kfp.egg-info/top_level.txt
