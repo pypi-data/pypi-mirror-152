@@ -1,0 +1,12 @@
+repoze.sphinx.autointerface-1.0.0-py3.8-nspkg.pth,sha256=RhLg1xFk7sWNvFX7aIigddmyvUGj0x6Mp89yypVRjLk,1704
+repoze/sphinx/autointerface.py,sha256=93m7HmS-37bHdL3VpzHvTUQbaAlrFzxm7BttIc5Dg6E,4892
+repoze/sphinx/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+repoze/sphinx/tests/test_autointerface.py,sha256=QeNw6uoNzM4QYuEdqUrBYTwPlI_z4mD4ZKzPRzrvK5I,3120
+repoze/sphinx/tests/util.py,sha256=3onQEHey1FCFp1H-yV8bSjb25utzgqlc6X_fvHLG72I,3758
+repoze/sphinx/tests/root/conf.py,sha256=udy9SKBZ0yWWsqBG302gcrRBv_pJLg4CJE1LBEwkxFk,36
+repoze.sphinx.autointerface-1.0.0.dist-info/LICENSE.txt,sha256=QU48zYp1hpbDpHCKMeNlB_HEd1f901odVpvkMIUUgzg,1791
+repoze.sphinx.autointerface-1.0.0.dist-info/METADATA,sha256=WhGGnW4GhK1Rj00gS1DhhKV9JjD8EXfFKB_9V35TQMI,6133
+repoze.sphinx.autointerface-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+repoze.sphinx.autointerface-1.0.0.dist-info/namespace_packages.txt,sha256=yymNcbtPdSPulzTCbGCVTccqfKiUciRFPdMC15vl5r8,21
+repoze.sphinx.autointerface-1.0.0.dist-info/top_level.txt,sha256=J8ri7gY0fmS54HZ0sfQdE8_0DKDv5DgmMLQB5DODOpc,7
+repoze.sphinx.autointerface-1.0.0.dist-info/RECORD,,
