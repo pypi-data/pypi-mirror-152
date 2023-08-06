@@ -1,0 +1,12 @@
+qss/__init__.py,sha256=XKMmiwrZqkd1k2u1IXQAH71MFesmFpzSAuIKQcwzrBM,24
+qss/matrix.py,sha256=AfWxm9KYQPDr8hQKocoyEjAe3tBrfKQlyz-EdJtScs8,580
+qss/polish.py,sha256=VrM9XdQs-yzP3_o8hW_Edlmy_y2uqalvl464eP4pbxg,3889
+qss/precondition.py,sha256=jYlTWYBwK7UUffjE8NWExFAZidhh1Thb_Tsg0DC-oi4,1589
+qss/proximal.py,sha256=QldVHQ-1LZOEHuyFGBdlJ5YtEqrdVFzSZxImSsAQ8C8,11408
+qss/qss.py,sha256=BCBUJvjrRrZhmQXyDqybhi4YESjTt10oN7P1TOeBUhI,8338
+qss/util.py,sha256=_OhAwkt3qtkLVmVmWB0CZ9ymdBPTgYFI3i1aVQk0ODY,1185
+qss-0.1.0.dist-info/LICENSE,sha256=QwcOLU5TJoTeUhuIXzhdCEEDDvorGiC6-3YTOl4TecE,11356
+qss-0.1.0.dist-info/METADATA,sha256=OeyydY1vg-A7aPTAFCxYPJowfysGWfqxb3y9k5kpXZg,5428
+qss-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+qss-0.1.0.dist-info/top_level.txt,sha256=JcoH8sS-qulTp2JoM0QvT4i_Cc7rHtsWiAhOGr2UmZU,4
+qss-0.1.0.dist-info/RECORD,,
