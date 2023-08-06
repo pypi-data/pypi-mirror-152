@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+CappuccinobyToxic/Cappuc.py
+CappuccinobyToxic/___init__.py
+CappuccinobyToxic.egg-info/PKG-INFO
+CappuccinobyToxic.egg-info/SOURCES.txt
+CappuccinobyToxic.egg-info/dependency_links.txt
+CappuccinobyToxic.egg-info/top_level.txt
