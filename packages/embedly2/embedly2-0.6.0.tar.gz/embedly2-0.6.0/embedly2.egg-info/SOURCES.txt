@@ -1,0 +1,14 @@
+LICENSE
+README.rst
+pyproject.toml
+setup.py
+embedly/__init__.py
+embedly/client.py
+embedly/models.py
+embedly/tests.py
+embedly2.egg-info/PKG-INFO
+embedly2.egg-info/SOURCES.txt
+embedly2.egg-info/dependency_links.txt
+embedly2.egg-info/requires.txt
+embedly2.egg-info/top_level.txt
+embedly2.egg-info/zip-safe
