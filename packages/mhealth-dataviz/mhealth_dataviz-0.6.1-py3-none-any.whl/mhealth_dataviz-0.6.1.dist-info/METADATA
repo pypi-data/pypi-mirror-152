@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: mhealth-dataviz
+Version: 0.6.1
+Summary: A package to visualise data generated from cluster script for MHealth Lab
+Home-page: https://bitbucket.org/mhealthresearchgroup/dataviz
+Author: dhivas sugumar
+Author-email: sugumar.d@northeastern.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pillow (==8.3.1)
+Requires-Dist: pandas (==1.3.0)
+Requires-Dist: numpy (==1.20.2)
+
+Visualizing a year of data obtained from a smartwatch. Project for Northeastern MHealth Research group.
+
+version 0.6.0 
+
+# Installation 
+**Python >= 3.7**
+
+```
+pip install mhealthlab-dataviz 
+```
+
+#Usage (CLI Application)
+
+#### Linux/Mac
+```
+./main.py <path to processed data folder> 
+```
+
+####Windows
+```
+python main.py <path to processed data folder> 
+```
+
+
+# Output 
+Outputs the year of data visualized as a .jpeg
+
