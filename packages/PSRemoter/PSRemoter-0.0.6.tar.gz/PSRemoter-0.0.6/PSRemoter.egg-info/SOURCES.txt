@@ -1,0 +1,10 @@
+README.md
+setup.py
+PSRemoter.egg-info/PKG-INFO
+PSRemoter.egg-info/SOURCES.txt
+PSRemoter.egg-info/dependency_links.txt
+PSRemoter.egg-info/top_level.txt
+psremoter/__init__.py
+psremoter/commands.py
+psremoter/connector.py
+psremoter/tests.py
