@@ -1,0 +1,50 @@
+stages:
+  - check
+  - deploy
+
+coala-lint:
+  image: python:3.8
+  stage: check
+  script:
+    - pip install coala-bears
+    - coala --ci --flush-cache
+
+# typing lints
+mypy-lint:
+  image: python:3.9
+  stage: check
+  script:
+    - pip install mypy
+    - mypy . --ignore-missing-imports
+
+# runs pytest and report coverage
+pytest-py39:
+  image: python:3.9
+  stage: check
+  coverage: '/^TOTAL.*\s+\d+\s+\d+\s+(\d+)%/'
+  script:
+    - pip install -r requirements.txt
+    - >
+      py.test
+      --verbose
+      --cov-report term-missing
+      --cov=.
+  artifacts:
+    reports:
+      cobertura: coverage.xml
+    paths:
+      - .coverage
+      - coverage.xml
+    expire_in: 1 day
+
+deploy:
+  image: python:3.8
+  stage: deploy
+  only:
+    - main
+  script:
+    - pip install twine
+    - python3 setup.py sdist bdist_wheel
+    - >
+      python3 -m twine upload -u $PYPI_USER -p $PYPI_TOKEN
+      --repository-url https://upload.pypi.org/legacy/ dist/*

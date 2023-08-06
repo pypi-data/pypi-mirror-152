@@ -1,0 +1,7 @@
+[run]
+source = *.py
+omit =
+    setup.py
+    bin/*
+    dist/*
+    build/*
