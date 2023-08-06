@@ -1,0 +1,2 @@
+recursive-include pydumpck/pyc_checker/lib_pycdc/*
+recursive-include pydumpck/pyc_checker/lib_pycdc/src/*
