@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: quizzii1
+Version: 0.0.1
+Summary: quizz
+Author: aaaa1
+Author-email: nodari.guliashvili.2@btu.edu.ge
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+## quizz
+quizz
+
+მნიშვნელობის გამოსატანად უნდა გამოვიძახოთ fib_next ცვლადი, print არ სჭირდება.
