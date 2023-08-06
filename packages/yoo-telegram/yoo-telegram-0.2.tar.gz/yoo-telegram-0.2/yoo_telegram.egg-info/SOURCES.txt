@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+yoo_telegram/Notifier.py
+yoo_telegram/__init__.py
+yoo_telegram.egg-info/PKG-INFO
+yoo_telegram.egg-info/SOURCES.txt
+yoo_telegram.egg-info/dependency_links.txt
+yoo_telegram.egg-info/requires.txt
+yoo_telegram.egg-info/top_level.txt
