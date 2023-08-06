@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+guipy/components/__init__.py
+guipy/components/component.py
+guipy/components/slider.py
+guipy/guipylib.egg-info/PKG-INFO
+guipy/guipylib.egg-info/SOURCES.txt
+guipy/guipylib.egg-info/dependency_links.txt
+guipy/guipylib.egg-info/top_level.txt

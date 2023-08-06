@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: guipylib
+Version: 0.1.1
+Summary: User Interface Library for pygame
+Home-page: https://github.com/zjjc123/guipy
+Author: Casey Culbertson, Jason Zhaang
+Author-email: jiajunzh@uw.edu
+Project-URL: Bug Tracker, https://github.com/zjjc123/guipy/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Guipy
+Pygame UI Library built by Casey (@caseyhackerman) and Jason
