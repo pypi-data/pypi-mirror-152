@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "IzvekovWeb_project_1"
+version = "0.1.1"
+description = "Игры разума"
+authors = ["Alexander Izvekov <izvekov.web@yandex.ru>"]
+packages = [
+  { include = "brain_games" },
+]
+
+[tool.poetry.scripts]
+brain-games = "brain_games.scripts.brain_games:main"
+brain-even = "brain_games.scripts.brain_even:main"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+prompt = "^0.4.1"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^4.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
