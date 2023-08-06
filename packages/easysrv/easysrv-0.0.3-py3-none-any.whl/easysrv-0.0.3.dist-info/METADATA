@@ -1,0 +1,115 @@
+Metadata-Version: 2.1
+Name: easysrv
+Version: 0.0.3
+Summary: Easy to use State Reversible Vampnet with fit, transform and fittransform methods
+Home-page: https://github.com/DanielWicz/easysrv
+Author: Daniel Wiczew
+Author-email: daniel.wiczew@gmail.com
+License: UNKNOWN
+Project-URL: Documentation, https://github.com/DanielWicz/easysrv
+Project-URL: Bug Reports, https://github.com/DanielWicz/easysrv/issues
+Project-URL: Source Code, https://github.com/DanielWicz/easysrv
+Keywords: machine learning,molecular dynamics,tensorflow
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: tensorflow
+Requires-Dist: scipy
+Provides-Extra: dev
+Requires-Dist: check-manifest ; extra == 'dev'
+
+# Easy State Reversible Vampnet 
+
+This is an package providign State Reversible Vampnet from the J. Chem. Phys. 150, 214114 (2019). This is a deep dimensionality reduction used for time series to extract low dimensional slow process description. Usually it is used as an pre-processing tool to build Markov State Model to reduce number of dimensions in the system.
+
+## Installation
+At the moment installation is available through github and pypi
+
+### github:
+```
+git clone https://github.com/DanielWicz/easysrv
+cd easysrv
+pip install .
+```
+
+### PyPi
+```
+pip install easysrv
+```
+
+## Usage
+To use it you need two things
+1. Your data as an list of numpy arrays. Where each element of the list is an numpy array of shape (time_series_length, number_of_dims).
+2. Tensorflow 2 Sequence Model
+
+```
+import tensorflow as tf
+
+
+# use smooth activation, to have smooth slow process assigment
+# use non-smooth activation (relu, lerelu etc.) to have non-smooth slow process assigment
+model = tf.keras.models.Sequential([
+    tf.keras.layers.Dense(100, kernel_regularizer=tf.keras.regularizers.L2(0.0001), kernel_initializer='lecun_normal'),
+    tf.keras.layers.Activation("swish"),
+    tf.keras.layers.BatchNormalization(),
+    tf.keras.layers.Dense(100, kernel_regularizer=tf.keras.regularizers.L2(0.0001), kernel_initializer='lecun_normal'),
+    tf.keras.layers.Activation("swish"),
+    tf.keras.layers.BatchNormalization(),
+    tf.keras.layers.Dense(2, kernel_regularizer=tf.keras.regularizers.L2(0.0001)),
+    tf.keras.layers.GaussianNoise(1)])
+# assume that list with data are described as a variable features
+# pass single datapoint to set shapes of the matrices
+model(features[0])
+
+# initialize optimizer
+optimizer = tf.keras.optimizers.Adam(learning_rate=0.001)
+
+# initialize SRV, epochs - number of training iterations, split - train:validation split
+srv = SRV(model=model, optimizer=optimizer, epochs=20, lagtime=1, split=0.05)
+
+# fit SRV model
+history = srv.fit(features)
+
+# depict training process
+plt.plot(history['Training loss'])
+plt.title("Training loss")
+plt.xlabel("Epochs")
+plt.ylabel("Loss")
+
+plt.plot(history['Val Training loss'])
+plt.title("Validation Training loss")
+plt.xlabel("Epochs")
+plt.ylabel("Loss")
+
+plt.plot(history['VAMP2 valid score'])
+plt.title("Validation VAMP2")
+plt.xlabel("Epochs")
+plt.ylabel("VAMP2 score")
+
+modes = ["IC{}".format(i+1) for i in range(len(history['eigenvalues']))]
+plt.bar(modes, history['eigenvalues'])
+plt.title("Slow processses eigenvalues")
+
+# transform relevant features onto slow processes
+# remove_modes allows for removing not interesting slow processes from slowest to the fastest
+model_out = svr.transform(features, remove_modes=[])
+```
+
+## References
+
+- [Chen, Wei, Hythem Sidky, and Andrew L. Ferguson. "Nonlinear discovery of slow molecular modes using state-free reversible VAMPnets." The Journal of chemical physics 150.21 (2019): 214114.](https://aip.scitation.org/doi/full/10.1063/1.5092521)
+
+

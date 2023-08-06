@@ -1,0 +1,10 @@
+easysrv/__init__.py,sha256=nwGPFEUG41l7tZUaC3WaIx0-eliTq-yXxnXL5HW0HJ4,64
+easysrv/core/__init__.py,sha256=M0Z6ISxKrmkvdfIlsFOS0tbGc9axObV_taM39XE0hmM,19
+easysrv/core/srv.py,sha256=SapKxbt1x3L8YhbCm7LtFIp2ggLuBpLxt0RuvFsUZwQ,14537
+easysrv/utils/__init__.py,sha256=Oef_c-t5aRxbogr7ogyjRZ4KU-LDHaew_wimiKU7rpU,23
+easysrv/utils/mlutils.py,sha256=9zYHcP6-1PAxbKvZU2ORxvM2fGSULhY6KsMFHJ_pia0,3179
+easysrv-0.0.3.dist-info/LICENSE,sha256=ZYDApbp_LaKTmoD46ug1y1GbmaUSTYNSwsYEf5nAZqM,1079
+easysrv-0.0.3.dist-info/METADATA,sha256=Ix5cxgX9VGibyPata-uk3Bhvp96bDnz8x-SQzD1hG6I,4285
+easysrv-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+easysrv-0.0.3.dist-info/top_level.txt,sha256=iRJYBwTjmV2VjqNheMtYkEeiSOwMEJXECdZOSuB7S_0,8
+easysrv-0.0.3.dist-info/RECORD,,
