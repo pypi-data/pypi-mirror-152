@@ -1,0 +1,6 @@
+README.md
+setup.py
+zyctool.egg-info/PKG-INFO
+zyctool.egg-info/SOURCES.txt
+zyctool.egg-info/dependency_links.txt
+zyctool.egg-info/top_level.txt
