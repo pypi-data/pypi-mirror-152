@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: SmartSignals
+Version: 0.0.0
+Summary: The SmartSignal lib is an event driven system similar to QT.
+Home-page: https://github.com/grobbles/SmartSignals
+Author: Uwe Roder
+Author-email: uweroder@gmail.com
+License: MIT
+Keywords: smart_signals,SmartSignals,signals,events,slot,qt
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Smart Signals
+
+![Build](https://github.com/grobbles/SmartSignals/actions/workflows/test.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![codecov](https://codecov.io/gh/grobbles/SmartSignals/branch/main/graph/badge.svg?token=GAHKYKS1SD)](https://codecov.io/gh/grobbles/SmartSignals)
+
+# Install 
+
+You can install this package with pip from PyPi.
+
+````bash
+pip install SmartSignals
+````
+
+# Usage
+
+````python
+from smart_signals import *
+
+class Test:
+    @SmartSignalSlot(str)
+    def slot(self, message: str):
+        print(message)
+        pass
+
+test = Test()
+signal = SmartSignal(str)
+signal.connect(test.slot)
+signal.emit("message")
+````

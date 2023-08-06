@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+SmartSignals.egg-info/PKG-INFO
+SmartSignals.egg-info/SOURCES.txt
+SmartSignals.egg-info/dependency_links.txt
+SmartSignals.egg-info/requires.txt
+SmartSignals.egg-info/top_level.txt
+smart_signals/__init__.py
+smart_signals/smart_signals.py
