@@ -1,0 +1,10 @@
+distributed_eaas_apis/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+distributed_eaas_apis/endpoint.py,sha256=l8hjFylJL9gwZ1glnGVPyRuzFxp58oXTHyGvet6STDk,930
+distributed_eaas_apis/schema/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+distributed_eaas_apis/schema/bleu.py,sha256=GL0J_Yj3tu2_I4ROzrm_j7VcOxD44tvKV1_1pMDMZJ4,2935
+distributed_eaas_apis/schema/common.py,sha256=uUKG4yHOIUUsqb1PuFen6XGrX84akXKWDOgP1r9VdDk,2119
+distributed_eaas_apis/schema/rouge.py,sha256=1aEN20FFB_-oJ4qTESFyDO_aNAivhl07tWSYJgohxI0,2090
+distributed_eaas_apis-0.1.0.dist-info/METADATA,sha256=jXJhYVJNfbtS4dJYCS6o30hSz2w_XxciJCYUjDXTODk,2124
+distributed_eaas_apis-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+distributed_eaas_apis-0.1.0.dist-info/top_level.txt,sha256=Rxk0tFQwzshIAHWfNkuHB9Y0eYwMm-sGcLr1pJ0y9hQ,22
+distributed_eaas_apis-0.1.0.dist-info/RECORD,,

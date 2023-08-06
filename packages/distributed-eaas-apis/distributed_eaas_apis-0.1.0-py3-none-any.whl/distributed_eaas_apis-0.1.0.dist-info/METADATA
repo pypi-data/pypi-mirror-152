@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: distributed-eaas-apis
+Version: 0.1.0
+Summary: "Public API definitions of Distributed EaaS."
+Home-page: UNKNOWN
+License: Apache License 2.0
+Keywords: eaas
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic (>=1.9)
+
+# Distributed EaaS APIs
+
+This repository contains public API definitions of Distributed EaaS.
+
+## Usage
+
+### Endpoint functions
+
+Each endpoint provides following functions.
+
+| Path       | Method | Request schema        | Response schema        | Description                |
+| :--------- | :----- | :-------------------- | :--------------------- | :------------------------- |
+| `/`        | GET    | None                  | `Metadata`             | Obtains metric's metadata. |
+| `/process` | POST   | `ProcessRequest[...]` | `ProcessResponse[...]` | Calculates metric scores.  |
+
+### Requests and responses
+
+Each metric service accepts a minibatch of examples formed as `ProcessRequest[...]`.
+This type takes three parameters `Config`, `Example`, and `Statistics` to represent a
+request message of each metric service.
+
+Results of the metric service are represented by `ProcessResponse[...]` with two
+parameters `Statistics` and `Summary`.
+
+Each type parameter represents following information:
+
+* `Config`:
+  Detailed configuration of the metric.
+* `Example`:
+  Individual input examples (e.g., a pair of hypothesis and reference).
+* `Statistics`:
+  Sufficient statistics of the metric calculated by each `Example`, or obtained by
+  aggregating multiple `Statistics`. Aggregation is meaningful only when all
+  `Statistics` are calculated by the same `Config`.
+* `Summary`:
+  Summarized values of the metric (e.g., the final score) calculated by a `Statistics`.
+
+### Example
+
+See [`example`](./example) directory.
+
+
