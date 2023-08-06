@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: nextc
+Version: 0.1
+Summary: The Next Programming Language for you.
+License: MIT
+Author: VincentRPS
+Requires-Python: >=3.8,<3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: llvmlite (>=0.38.1,<0.39.0)
+Requires-Dist: rply (>=0.7.8,<0.8.0)
