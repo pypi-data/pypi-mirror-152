@@ -1,0 +1,8 @@
+svgwrite
+six
+pyyaml
+
+[test]
+xmldiff
+cairosvg
+pillow
