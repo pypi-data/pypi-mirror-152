@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+kissmanga/__init__.py
+kissmanga.egg-info/PKG-INFO
+kissmanga.egg-info/SOURCES.txt
+kissmanga.egg-info/dependency_links.txt
+kissmanga.egg-info/requires.txt
+kissmanga.egg-info/top_level.txt
