@@ -1,0 +1,13 @@
+README.rst
+setup.py
+test/virtualenv_update_path_tests/__init__.py
+test/virtualenv_update_path_tests/update_tests.py
+virtualenv_update_path/__init__.py
+virtualenv_update_path/_update.py
+virtualenv_update_path.egg-info/PKG-INFO
+virtualenv_update_path.egg-info/SOURCES.txt
+virtualenv_update_path.egg-info/dependency_links.txt
+virtualenv_update_path.egg-info/entry_points.txt
+virtualenv_update_path.egg-info/top_level.txt
+virtualenv_update_path/runners/__init__.py
+virtualenv_update_path/runners/_update.py

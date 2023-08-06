@@ -1,0 +1,2 @@
+[console_scripts]
+virtualenv-update-path = virtualenv_update_path.runners:update_path
