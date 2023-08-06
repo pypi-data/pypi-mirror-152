@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: MapMet
+Version: 0.0.10
+Summary: MapMet Package
+Home-page: UNKNOWN
+Author: Taschner-Mandl Group
+License: UNKNOWN
+Keywords: python
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: scikit-image
+Requires-Dist: pandas
+Requires-Dist: readimc
+Requires-Dist: natsort
+
+Dummy
+
