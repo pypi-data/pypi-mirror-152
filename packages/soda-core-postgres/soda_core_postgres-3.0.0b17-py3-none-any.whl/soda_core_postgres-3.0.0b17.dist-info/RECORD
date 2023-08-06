@@ -1,0 +1,5 @@
+soda/data_sources/postgres_data_source.py,sha256=MXmxFXEli2yrZ3hw0zWVDHAAPCwRdTiZ8hYQhDlfsOQ,14951
+soda_core_postgres-3.0.0b17.dist-info/METADATA,sha256=uVwDJIfC6AfOyMC6NpWCEL5RBAJt4h9feHPKu0tjOSc,150
+soda_core_postgres-3.0.0b17.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+soda_core_postgres-3.0.0b17.dist-info/top_level.txt,sha256=nh9kmM9ZWOtIXfwHLUKLl7m6xAFti83JVa2Rcxm6Zck,5
+soda_core_postgres-3.0.0b17.dist-info/RECORD,,
