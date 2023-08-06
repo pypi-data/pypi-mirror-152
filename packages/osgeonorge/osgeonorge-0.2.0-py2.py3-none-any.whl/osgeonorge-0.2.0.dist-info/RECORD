@@ -1,0 +1,11 @@
+osgeonorge/__init__.py,sha256=OuMqPjNbR2AxbKxiG8d23rp-XraL1or3czXWigV7dnc,124
+osgeonorge/__main__.py,sha256=5jVwA5Ld_BAqc-5LCzJHewBurAFxiWq01imkTN4_k-g,345
+osgeonorge/geonorge.py,sha256=xbKWU6yPFICpWr8hiWv8skW2HJ3tVEnyUlJF62abJP4,27568
+osgeonorge/grassgis.py,sha256=hqc_Vg3IrsJHXj_W_ifjEsOji21rsunkTpeNNhBQI1I,1892
+osgeonorge/postgis.py,sha256=1ZodMaDKbhdG3Jg6qLh-WnrOGEalUg8dnT0JLvxgzqA,22527
+osgeonorge/postgres.py,sha256=xcx6GHpE53EZBAMwPtW9HnB2Zzh15Yzg4XsP8HLvTmI,15302
+osgeonorge/sosi.py,sha256=9qnawqlaGLP127hOFqUQIFE6I2y92Pui9NuFVBuO78Y,6315
+osgeonorge/utils.py,sha256=D7XIWTpdsbPQEdW5_2VgTjzEgvWl8I2fWKxH6_mlbQA,10515
+osgeonorge-0.2.0.dist-info/WHEEL,sha256=96_DCfscDnVj9fVNwi1rfifiRwfpxLjwXWglVksjj_E,99
+osgeonorge-0.2.0.dist-info/METADATA,sha256=imWy1bRDtBbwMgDO5qju7sXU1yvhogILM0vc-sN6G38,3899
+osgeonorge-0.2.0.dist-info/RECORD,,
