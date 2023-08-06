@@ -1,0 +1,7 @@
+cisco_opentelemetry_specifications/__init__.py,sha256=bdbwQ2Bilp4VsBBktcrIOOLkHWc_NpnKwHruQILDuCI,707
+cisco_opentelemetry_specifications/consts.py,sha256=uJESDw4DsR4Ct0bqSrGvqMLa9NTGx0x3tPm_i1OxuF8,2157
+cisco_opentelemetry_specifications/payload_attributes.py,sha256=uX9TQRbLulnIQXHbK0nq_jOpbKho1-TWMqlBAN6Mjl4,1225
+cisco_opentelemetry_specifications/semantic_attributes.py,sha256=kF8UNzRYLvlIUYJhaHuOvsuMZDiQRamnt9jOdcVfZmQ,5228
+cisco_opentelemetry_specifications-0.0.17.dist-info/WHEEL,sha256=wycAfLpmmoS0r5FEKIVwKB-iEMUiIZXv6P5GBpfA1-Q,87
+cisco_opentelemetry_specifications-0.0.17.dist-info/METADATA,sha256=pw2uW3Otb8pLUjK4lTAo0Pg13NHsMejEj42kNF8ACWc,1050
+cisco_opentelemetry_specifications-0.0.17.dist-info/RECORD,,
