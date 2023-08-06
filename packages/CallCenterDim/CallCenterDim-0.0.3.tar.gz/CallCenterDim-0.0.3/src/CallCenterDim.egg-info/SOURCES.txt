@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/CallCenterDim.egg-info/PKG-INFO
+src/CallCenterDim.egg-info/SOURCES.txt
+src/CallCenterDim.egg-info/dependency_links.txt
+src/CallCenterDim.egg-info/top_level.txt
+src/callcenterdim/Dimensionamento.py
+src/callcenterdim/__init__.py
