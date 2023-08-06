@@ -1,0 +1,5 @@
+
+      [console_scripts]
+      swbs = starwhale:bootstrap
+      bootstrap = starwhale:bootstrap
+      
