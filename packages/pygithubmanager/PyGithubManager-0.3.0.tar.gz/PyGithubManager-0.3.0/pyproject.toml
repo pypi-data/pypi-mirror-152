@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "PyGithubManager"
+version = "0.3.0"
+description = "GitHub desktop version created with Python"
+authors = ["DomiTP"]
+license = "GNU General Public License v3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.7,<3.11"
+PySide6 = "^6.3.0"
+PyGithub = "^1.55"
+QtAwesome = "^1.1.1"
+pygit2 = "^1.9.2"
+GitPython = "^3.1.27"
+matplotlib = "^3.5.2"
+
+[tool.poetry.dev-dependencies]
+myst-nb = {version = "^0.15.0", python = "^3.9"}
+sphinx-autoapi = "^1.8.4"
+sphinx-rtd-theme = "^1.0.0"
+python-semantic-release = "7.19.1"
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version" # version location
+branch = "main"                             # branch to make releases of
+changelog_file = "CHANGELOG.md"             # changelog file
+build_command = "poetry build"              # build dists
+dist_path = "dist/"                         # where to put dists
+upload_to_release = true                    # auto-create GitHub release
+upload_to_pypi = false                      # don't auto-upload to PyPI
+remove_dist = false                         # don't remove dists
+patch_without_tag = true                    # patch release by default
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
