@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: brikeda-client
+Version: 0.0.1
+Summary: For Computer Vision, Speech Generation, and Controlling waveshare Motor Controller
+Home-page: https://github.com/markBosley/brikeda_client
+Author: Mark Bosley
+Author-email: mark.bosley@brikeda.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+
+
+# Brikeda Client
+
+Client Proxy to call AI Services on Brikeda, and Classes to support hardware on Raspberry Pi such as waveshare motor controller
+
+## Instructions
+
+1. Install:
+
+```
+pip install brikeda_client
+```
+
+2. Generate an aesthetic ASCII visual:
+
+```python
+from brikeda_client import Brikeda
+
+# initialize drive object (to generate visuals)
+drive = synthesize.Drive()
+# generate a ASCII visual (dark_mode optional)
+drive.generate(dark_mode=True)
+# save to png
+drive.to_png('aesthetic.png')
+```
+
+3. Ride the space skyway home to 80s Miami
