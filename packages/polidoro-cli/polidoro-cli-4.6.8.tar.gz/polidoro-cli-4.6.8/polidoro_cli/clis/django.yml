@@ -1,0 +1,32 @@
+name: Django
+
+alias: dj
+
+interceptors:
+  - docker:
+      condition: "$docker"
+      command: docker-compose exec $docker $default_command $command
+  - kube:
+      condition: "$kube"
+      command: cli kubectl exec $kube $default_command $command
+
+default_configuration:
+  named_arguments:
+    - docker:
+        alias: d
+        const: eval(Docker.get_main_docker_compose_service())
+    - kube:
+        alias: k
+
+commands:
+  default_command: ./manage.py
+  m: migrate
+  mm: makemigrations
+  s: shell
+  sqlm: sqlmigrate
+  up:
+    command:
+      - migrate
+      - runserver $args
+    arguments:
+      - '*args'
