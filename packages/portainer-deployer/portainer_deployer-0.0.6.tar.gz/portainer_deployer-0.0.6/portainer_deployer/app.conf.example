@@ -1,0 +1,5 @@
+[PORTAINER]
+url=
+username=
+token=
+verify_ssl=yes
