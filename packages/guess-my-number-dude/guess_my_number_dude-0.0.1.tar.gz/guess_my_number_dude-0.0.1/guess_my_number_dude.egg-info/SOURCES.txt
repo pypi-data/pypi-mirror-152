@@ -1,0 +1,8 @@
+README.md
+setup.py
+guess_my_number_dude/__init__.py
+guess_my_number_dude/main.py
+guess_my_number_dude.egg-info/PKG-INFO
+guess_my_number_dude.egg-info/SOURCES.txt
+guess_my_number_dude.egg-info/dependency_links.txt
+guess_my_number_dude.egg-info/top_level.txt

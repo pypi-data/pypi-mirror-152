@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: guess-my-number-dude
+Version: 0.0.1
+Summary: Package for test
+Home-page: http://bitbucket.org/dude/distribute/issues/
+Author: Yury Herasimau
+Author-email: dude@mail.ru
+License: UNKNOWN
+Description: # This is a program where you will have to guess a random number from a given range.
+        
+        ## Just for test!
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
