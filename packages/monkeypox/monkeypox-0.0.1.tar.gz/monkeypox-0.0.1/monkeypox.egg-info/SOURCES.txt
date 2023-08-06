@@ -1,0 +1,9 @@
+README.md
+setup.py
+monkeypox/__init__.py
+monkeypox.egg-info/PKG-INFO
+monkeypox.egg-info/SOURCES.txt
+monkeypox.egg-info/dependency_links.txt
+monkeypox.egg-info/not-zip-safe
+monkeypox.egg-info/requires.txt
+monkeypox.egg-info/top_level.txt
