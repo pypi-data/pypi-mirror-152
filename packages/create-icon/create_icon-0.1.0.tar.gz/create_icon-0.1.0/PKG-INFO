@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: create_icon
+Version: 0.1.0
+Summary: A Simple icon to replace the tkinter feather for your programs
+Home-page: http://Caveman-Software.github.com
+Author: Michael E Mulvey
+Author-email: michael.e.mulvey@gmail.com
+Project-URL: Bug Tracker, http://Caveman-Software.github.comissues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# create_icon 0.0.9
+Icon Creator for projects bitmapicon
