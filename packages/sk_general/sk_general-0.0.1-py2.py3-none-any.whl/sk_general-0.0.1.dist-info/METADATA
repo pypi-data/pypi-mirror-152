@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: sk_general
+Version: 0.0.1
+Summary: A collection of packages, functions and classes used for deploying models in a unified interface.
+Author-email: Iñigo Hidalgo <inigohrey@gmail.com>
+Description-Content-Type: text/markdown
+Project-URL: Home, https://inigohidalgo.com/sk_general
+
+# scikit-general
+
+[WIP] A collection of classes and functions I use in order to streamline model operating in pipelines.
+
