@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: plasmid-test1
+Version: 0.1
+Summary: A Predictioon Package for Plasmid Permisssiveness from 16s rRNA
+Home-page: https://github.com/DaneshMoradigaravand/PlasmidPerm
+Author: Daneshmoradigaravand
+Author-email: d.moradigaravand@bham.ac.uk
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
