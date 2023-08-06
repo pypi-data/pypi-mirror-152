@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: hello-bozzo2
+Version: 1.2.3
+Summary: this is a test
+Home-page: https://github.com/payloadcms/payload
+Author: 0xNoder
+Author-email: test@gmail.com
+License: Apache v2
+Keywords: research
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=2
+Description-Content-Type: text/markdown
+
+# disclaimer
+
+This package is used for security research and demonstrations. It might contain dangerous code snippets. Do not run. 
+

@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+package.json
+setup.cfg
+setup.py
+hello-bozzo2/__init__.py
+hello_bozzo2.egg-info/PKG-INFO
+hello_bozzo2.egg-info/SOURCES.txt
+hello_bozzo2.egg-info/dependency_links.txt
+hello_bozzo2.egg-info/requires.txt
+hello_bozzo2.egg-info/top_level.txt
