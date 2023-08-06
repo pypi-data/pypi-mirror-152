@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: cvlearn
+Version: 0.1.1
+Summary: Coumputer Vision helping Library
+Home-page: UNKNOWN
+Author: ErrorCode (Tanay)
+Author-email: codingkaku@gmail.com
+License: UNKNOWN
+Keywords: python,video,stream,ErrorCode,Tanay,opencv,opencv-python,cv,cv2,cvlearn
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: opencv-contrib-python
+Requires-Dist: mediapipe
+Requires-Dist: msvc-runtime
+
+UNKNOWN
+
+
