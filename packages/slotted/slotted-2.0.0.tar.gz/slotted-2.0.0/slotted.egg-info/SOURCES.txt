@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+slotted.py
+tests_slotted.py
+tox.ini
+slotted.egg-info/PKG-INFO
+slotted.egg-info/SOURCES.txt
+slotted.egg-info/dependency_links.txt
+slotted.egg-info/top_level.txt
