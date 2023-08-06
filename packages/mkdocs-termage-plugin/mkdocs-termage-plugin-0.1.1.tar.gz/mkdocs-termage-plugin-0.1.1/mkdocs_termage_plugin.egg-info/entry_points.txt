@@ -1,0 +1,2 @@
+[mkdocs.plugins]
+termage = mkdocs_termage_plugin:TermagePlugin
