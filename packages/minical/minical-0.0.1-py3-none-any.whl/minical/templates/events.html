@@ -1,0 +1,22 @@
+<style type="text/css">
+    .event {
+        margin: 2em;
+    }
+</style>
+
+<head>
+    <title>cal</title>
+</head>
+
+<div><a href="/cal/new_event">new event</a></div>
+
+{% for e in events %}
+<div class="event">
+    {{ e["date"] }},
+    {{ e["day_of_week"] }},
+    {{ e["start_time"] }},
+    {{ e["name"] }} (in {{ e["days_until"] }} days)
+    Notes: {{ e["notes"] }},
+    <a href="/cal/edit_event/{{ e['name'] }}">edit</a>
+</div>
+{% endfor %}
