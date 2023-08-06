@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+juliepdf/__init__.py
+juliepdf/pdf2image.py
+juliepdf/pdf2text.py
+juliepdf.egg-info/PKG-INFO
+juliepdf.egg-info/SOURCES.txt
+juliepdf.egg-info/dependency_links.txt
+juliepdf.egg-info/top_level.txt
