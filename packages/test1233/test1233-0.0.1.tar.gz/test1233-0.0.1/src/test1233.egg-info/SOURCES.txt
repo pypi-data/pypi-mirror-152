@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/test1233.egg-info/PKG-INFO
+src/test1233.egg-info/SOURCES.txt
+src/test1233.egg-info/dependency_links.txt
+src/test1233.egg-info/top_level.txt
