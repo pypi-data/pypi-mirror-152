@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+PETAnnotationVisualizer/Colors.py
+PETAnnotationVisualizer/Visualizer.py
+PETAnnotationVisualizer/__init__.py
+PETAnnotationVisualizer/logo.png
+PETAnnotationVisualizer/printColors.py
+PETAnnotationVisualizer.egg-info/PKG-INFO
+PETAnnotationVisualizer.egg-info/SOURCES.txt
+PETAnnotationVisualizer.egg-info/dependency_links.txt
+PETAnnotationVisualizer.egg-info/requires.txt
+PETAnnotationVisualizer.egg-info/top_level.txt
