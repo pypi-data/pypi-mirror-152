@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: cleandev-framework
+Version: 0.1.4
+Summary: Adaptadores de modelos de base de datos
+Home-page: https://gitlab.com/cleansoftware/libs/public/cleandev-framework
+Author: Daniel Rodriguez Rodriguez
+Author-email: danielrodriguezrodriguez.pks@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/cleansoftware/libs/public/cleandev-framework/-/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+
+UNKNOWN
+
