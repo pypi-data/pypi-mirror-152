@@ -1,0 +1,8 @@
+name: some_name
+date: YYYY-MM-DD
+start_time: HH:MM
+duration_minutes: DDDDD
+notes: fillmein
+recurs: annually
+recurs_until: YYYY-MM-DD
+skip_dates: 2100-01-01,2100-01-02

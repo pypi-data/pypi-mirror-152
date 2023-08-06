@@ -1,0 +1,35 @@
+<style type="text/css">
+    textarea {
+        height: 200;
+        width: 500;
+    }
+</style>
+
+<div><a href="/cal">events</a></div>
+<p>Editing event {{ event["name"] }}</p>
+
+{% if error_message %}
+<div>Error: {{ error_message }}</div>
+{% endif %}
+
+<form action="/cal/edit_event/{{ event['name'] }}" method="POST">
+<textarea name="event_text">
+{% if not error_message %}
+{{- event["orig_text"] -}}
+{% else %}
+{{- previous_text -}}
+{% endif %}
+</textarea>
+<div><button type="submit">submit</button></div>
+
+</form>
+
+<div>Just for your reference, here is a template event</div>
+<pre>{{ event_template }}</pre>
+
+<h3>Delete Event</h3>
+<p>This will delete all info for the event by removing its file. If you want to remove a specific
+instance of the event, add a date to the dates_to_skip field.</p>
+<form action="/cal/delete_event/{{ event['name'] }}" method="POST">
+<button type="submit">delete</button>
+</form>
