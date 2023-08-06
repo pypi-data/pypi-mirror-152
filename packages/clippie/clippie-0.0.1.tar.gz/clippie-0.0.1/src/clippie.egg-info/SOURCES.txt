@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/clippie/__init__.py
+src/clippie/main.py
+src/clippie.egg-info/PKG-INFO
+src/clippie.egg-info/SOURCES.txt
+src/clippie.egg-info/dependency_links.txt
+src/clippie.egg-info/entry_points.txt
+src/clippie.egg-info/not-zip-safe
+src/clippie.egg-info/requires.txt
+src/clippie.egg-info/top_level.txt
