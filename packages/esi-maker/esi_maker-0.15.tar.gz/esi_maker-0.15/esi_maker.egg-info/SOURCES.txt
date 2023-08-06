@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+esi_maker.py
+setup.cfg
+setup.py
+esi_maker.egg-info/PKG-INFO
+esi_maker.egg-info/SOURCES.txt
+esi_maker.egg-info/dependency_links.txt
+esi_maker.egg-info/requires.txt
+esi_maker.egg-info/top_level.txt
