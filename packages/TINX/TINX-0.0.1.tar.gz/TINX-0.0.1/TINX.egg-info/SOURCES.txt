@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+TINX.egg-info/PKG-INFO
+TINX.egg-info/SOURCES.txt
+TINX.egg-info/dependency_links.txt
+TINX.egg-info/requires.txt
+TINX.egg-info/top_level.txt
+tinx/__init__.py
+tinx/utils.py

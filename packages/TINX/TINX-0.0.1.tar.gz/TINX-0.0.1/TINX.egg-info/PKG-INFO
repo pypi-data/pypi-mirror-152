@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: TINX
+Version: 0.0.1
+Summary: Vanilla PyTorch Testing
+Home-page: https://github.com/kanishk16/TINX
+Author: Kanishk
+Author-email: kanishkkalra10@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6,<3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+A package to test 
+
