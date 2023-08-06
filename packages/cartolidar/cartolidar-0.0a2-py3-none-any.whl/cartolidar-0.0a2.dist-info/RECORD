@@ -1,0 +1,20 @@
+cartolidar/__init__.py,sha256=-C29ncXCEqbIHERDFv4cFeqKpDM_KY9E9GYvsjDMsiQ,1331
+cartolidar/__main__.py,sha256=xgrZhbcuH0qDiDEBPV0T145rupSHjC__IyXyxnhAgeQ,7645
+cartolidar/qlidmerge.py,sha256=bY3X0sk7ZchXsWjq4pr_7cgg9WyRfs6T71bmYpJLvyQ,20998
+cartolidar/qlidtwins.py,sha256=QjFEN62epGY0-zm-p5pCvwVAeJP_x3JLu3YEQiAsK2s,52733
+cartolidar/clidax/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cartolidar/clidax/clidaux.py,sha256=cO75QrVKBS8Lsqo8giIUlvgaIiMwfepJ2gnIeRVwl5s,127933
+cartolidar/clidax/clidcarto.py,sha256=XG2mFfxZ9PwHyeF2BbtMGB2HO-NsycpXuA8i2vD7GQo,388376
+cartolidar/clidax/clidconfig.py,sha256=PS-VL-fAIJuAwjHB-8ctRxUgPmEroioQSYUJNVD-1A8,153646
+cartolidar/clidax/clidraster.py,sha256=qRIfpW7S5njDZDdzqbhxAfMS9q5Jiy36kM_rmTEUpQQ,137986
+cartolidar/clidtools/__init__.py,sha256=xCLWJM_iWJ6KD86rTVP2i-kizdYkPdN9Apy_Uh4l0cI,2332
+cartolidar/clidtools/__main__.py,sha256=aCGY40SiNM-jFshb2hEQYHJJNfbldRxmARm-uJ5UPAY,716
+cartolidar/clidtools/clidmerge.py,sha256=X8sv02rUACCdW8B90F6bqiIMfvZc_iAZR6gHHZHJjMA,56622
+cartolidar/clidtools/clidtwins - copia.py,sha256=qnywVNn-asjM_g96TvoX7Fxsl-FoRDKNYGPeVqGiEno,218713
+cartolidar/clidtools/clidtwins.py,sha256=thxry-M3lji228xjOXsyUNFB2mKuodn1yQD8sunJIrQ,222880
+cartolidar/clidtools/clidtwins_config.py,sha256=rOURRVWrpOJ-8gNxOOjAik72PfVfuQLT3bPsTCFZZxY,36510
+cartolidar-0.0a2.dist-info/LICENSE,sha256=aFLFZg6LEJFpTlNQ8su3__jw4GfV-xWBmC1cePkKZVw,35802
+cartolidar-0.0a2.dist-info/METADATA,sha256=rO-FQnmqZQlUMZ_n_rNKFasR2Hh3mrgQKqCDtLtnLG8,9769
+cartolidar-0.0a2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cartolidar-0.0a2.dist-info/top_level.txt,sha256=93BC6N92ei6P0zJnCcRl-RnkFzB5wf38kYrLx1vVYUc,11
+cartolidar-0.0a2.dist-info/RECORD,,
