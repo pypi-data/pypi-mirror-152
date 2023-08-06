@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/fastapi_advertising_prediction/__init__.py
+src/fastapi_advertising_prediction/main.py
+src/fastapi_advertising_prediction/run_train.py
+src/fastapi_advertising_prediction/schemas.py
+src/fastapi_advertising_prediction/train.py
+src/fastapi_advertising_prediction.egg-info/PKG-INFO
+src/fastapi_advertising_prediction.egg-info/SOURCES.txt
+src/fastapi_advertising_prediction.egg-info/dependency_links.txt
+src/fastapi_advertising_prediction.egg-info/top_level.txt
