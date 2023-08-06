@@ -1,0 +1,73 @@
+Metadata-Version: 2.1
+Name: Simest
+Version: 1.1
+Summary: Simest - Simple and small code testing library for Python 3.8+
+Home-page: https://pikostudios.dev
+Author: cookieguy
+Author-email: mail@frankiee.me
+License: MIT
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Simest - Simple and small code testing library for Python 3.8+
+Simest is a simple and small code testing library for Python 3.8+
+
+## Installation
+To install the Simest library, confirm you have Python 3.8 or higher and a usable installation of `pip`
+
+```
+$ pip install simest
+OR
+$ py -m pip install simest
+```
+
+## Example
+
+```py
+from simest import Tester
+
+def foo(x: int) -> int:
+    return x * 4
+
+def runTests() -> None:
+    tester = Tester()
+
+    tester.equalCheck(32, foo, x = 8) # This will pass
+    tester.equalCheck(16, foo, x = 16) # This will fail
+
+if __name__ == "__main__":
+    runTests()
+```
+
+## Functions and types
+
+### `Value`
+
+Class
+
+```py
+Value.__init__(self, value: typing.Any, passed: bool, expected: typing.Any, func: typing.Any, **kwargs: typing.Any)
+```
+
+### `Tester`
+
+Class
+
+```py
+Tester.__init__(self, title: typing.Optional[str] = "Test")
+Tester.__outputCheck__(self, val: Value) # Private/Internal
+Tester.__outputCheckTime__(self, val: Value) # Private/Internal
+
+Tester.equalCheck(self, expect: typing.Any, func: typing.Any, **kwargs: typing.Any)
+Tester.ruleCheck(self, rule: str, expect: typing.Any, func: typing.Any, **kwargs: typing.Any)
+"""
+**Unsafe with user-provided string due to usage of `eval`**
+## Syntax:
+
+ - `&r` - return value
+ - `&e` - expected value
+"""
+
+Tester.timeCheck(self, func: typing.Any, max: typing.Union[int, float], min: t.Optional[typing.Union[int, float]] = 0, **kwargs)
+```
+
