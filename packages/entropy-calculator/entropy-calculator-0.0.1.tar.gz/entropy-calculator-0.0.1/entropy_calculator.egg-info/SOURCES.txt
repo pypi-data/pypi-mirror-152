@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+entropy/__init__.py
+entropy/entro.py
+entropy/py.typed
+entropy_calculator.egg-info/PKG-INFO
+entropy_calculator.egg-info/SOURCES.txt
+entropy_calculator.egg-info/dependency_links.txt
+entropy_calculator.egg-info/entry_points.txt
+entropy_calculator.egg-info/not-zip-safe
+entropy_calculator.egg-info/requires.txt
+entropy_calculator.egg-info/top_level.txt
