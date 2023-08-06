@@ -1,0 +1,16 @@
+RPA/scripts/record.py,sha256=gRV9y0ZPRE5DrikMvmBPgxXMMQmiEvsjjdqgSIs0ZEQ,79
+RPA/Windows/__init__.py,sha256=6pHKJFyFhHMVYJSbHFcM2T0a3GKh1v21E9oauaInGbg,20627
+RPA/Windows/__main__.py,sha256=gRV9y0ZPRE5DrikMvmBPgxXMMQmiEvsjjdqgSIs0ZEQ,79
+RPA/Windows/keywords/__init__.py,sha256=pb-ooAgC9KWnO7VlWULAVZ6BAhNAXasrJRxukOH9zvQ,449
+RPA/Windows/keywords/action.py,sha256=b98be3U-6P2VnvaNKXKU1kjU3MKa46xqerrSjImk1as,16189
+RPA/Windows/keywords/context.py,sha256=c_C7tgjcVpDF62lqETyGQXkoMdXN19hS2GSMV0N5Z0o,630
+RPA/Windows/keywords/elements.py,sha256=zfGUuew090mSGMiw5RrSUVPLX2zw8cc-POPCuZ5qhuk,5911
+RPA/Windows/keywords/locators.py,sha256=OOTFaz9bmX18EPlmDhMo-HFHykdSBS3_q9RU1pK0Hlo,3667
+RPA/Windows/keywords/window.py,sha256=63zU5KzTkdvY4SHY8H6akqrAcCCZJi-ECcz4l1vGasg,13409
+RPA/Windows/main.py,sha256=neGeYzTzIyUvbaZ6MA125eZV-rECHQU2Lni8eTb6PuI,2759
+RPA/Windows/utils.py,sha256=v4gXWQlj0qkJXzuwLo6k3-2yOw7IH8j_Emr6cAXXEHs,792
+rpaframework_windows-5.0.0.dist-info/entry_points.txt,sha256=QD54O9v-PjC9XwqnXf4bqxrzDdBeyV8lprYMab3rDEE,58
+rpaframework_windows-5.0.0.dist-info/LICENSE,sha256=PjT5Pz2KtuQshio3J4Sr34dEfvQV_MFCSqRhJ1PCUdY,11560
+rpaframework_windows-5.0.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+rpaframework_windows-5.0.0.dist-info/METADATA,sha256=wrYBCy89-PHdld9zhZRVWPhZ1KnS4OUfQ7-4IxaTDUY,2223
+rpaframework_windows-5.0.0.dist-info/RECORD,,
