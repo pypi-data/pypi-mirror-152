@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+fundb/__init__.py
+fundb/cursor.py
+fundb/database.py
+fundb/lib.py
+fundb/search.py
+python_fundb.egg-info/PKG-INFO
+python_fundb.egg-info/SOURCES.txt
+python_fundb.egg-info/dependency_links.txt
+python_fundb.egg-info/top_level.txt
