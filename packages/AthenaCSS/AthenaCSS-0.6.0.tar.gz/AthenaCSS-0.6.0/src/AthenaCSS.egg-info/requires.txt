@@ -1,0 +1,2 @@
+AthenaColor>=5.1.0
+AthenaLib>=0.2.0
