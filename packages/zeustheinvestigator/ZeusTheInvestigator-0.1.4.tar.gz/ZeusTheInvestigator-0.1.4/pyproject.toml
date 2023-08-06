@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "ZeusTheInvestigator"
+version = "0.1.4"
+description = "A pure python program that checks if a site is online at the moment"
+authors = ["777advait"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/777advait/Zeus-The-Investigator"
+repository = "https://github.com/777advait/Zeus-The-Investigator"
+
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.27.1"
+rich = "^12.4.3"
+typer = "^0.4.1"
+urllib3 = "^1.26.9"
+
+[tool.poetry.scripts]
+zeus = "ZeusTheInvestigator.checker:main"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/777advait/Zeus-The-Investigator/issues"
