@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+tsc_taskdb/__init__.py
+tsc_taskdb/taskdb_api.py
+tsc_taskdb.egg-info/PKG-INFO
+tsc_taskdb.egg-info/SOURCES.txt
+tsc_taskdb.egg-info/dependency_links.txt
+tsc_taskdb.egg-info/requires.txt
+tsc_taskdb.egg-info/top_level.txt
