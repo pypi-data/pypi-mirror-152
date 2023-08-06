@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: map-metrics
+Version: 0.0.5
+Home-page: https://github.com/MobileRoboticsSkoltech/map-metrics
+Maintainer: Anastasiia Kornilova
+Maintainer-email: anastasiia.kornilova@skoltech.ru
+License: Apache-2.0
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+

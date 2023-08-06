@@ -1,0 +1,12 @@
+map_metrics/__init__.py,sha256=BNFq_DxfMBlzwAn2hfJvHqNmomBwTJ8ufDlgKySfrAc,2830
+map_metrics/map_metrics.cp310-win32.pyd,sha256=lE28Xoliji9iSQCUfQA535bUdBTZNhHuHd_Lg6YH9C0,140800
+map_metrics/map_metrics.cp36-win32.pyd,sha256=eYVRSupHVqPIk33VAXHCK-gG-vrL3HWoYdxhYV0fYM4,146432
+map_metrics/map_metrics.cp37-win32.pyd,sha256=V0hJivHuaNuMX8wBJMsyUQAl5QRRmKh7rfrlxtw3hI8,146432
+map_metrics/map_metrics.cp38-win32.pyd,sha256=2kuM7xdrIfREsw1FtcLFXNTCh77ZDOS74lqLz7-cqm4,140800
+map_metrics/map_metrics.cp39-win32.pyd,sha256=PlPDhsZl5CYyTJ4-BVRcs9AEtWTs7h76pAOMNEwTV30,141312
+map_metrics/map_metrics_cpp.dll,sha256=QKZH8-eisu2kUpOR6txnWwuKkidX2CQDB0I8dmjvRlI,406528
+map_metrics-0.0.5.dist-info/LICENSE,sha256=iYiAISVnWQr4on7RwSkm4FaLU-V7j0MdG30JRy_zN7o,608
+map_metrics-0.0.5.dist-info/METADATA,sha256=4Wfliak0tfQqFPHGThW14LswRNAvjhGqz-rTNrKMthc,310
+map_metrics-0.0.5.dist-info/WHEEL,sha256=-Ii4AvxI1xY6ei6edHf20sWJQxzkEjIQmkF7g6dYLTo,94
+map_metrics-0.0.5.dist-info/top_level.txt,sha256=s_hS25eIoypnxv-wuwL_KaA5mcbSr830gK1dLTvn4dQ,12
+map_metrics-0.0.5.dist-info/RECORD,,
