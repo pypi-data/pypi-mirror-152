@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/dea/FibonacciGenerator.py
+src/dea/__init__.py
+src/deamacharashvili.egg-info/PKG-INFO
+src/deamacharashvili.egg-info/SOURCES.txt
+src/deamacharashvili.egg-info/dependency_links.txt
+src/deamacharashvili.egg-info/top_level.txt
