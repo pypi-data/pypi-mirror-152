@@ -1,0 +1,7 @@
+setup.py
+login1/__init__.py
+login1/reg.py
+vlogin.egg-info/PKG-INFO
+vlogin.egg-info/SOURCES.txt
+vlogin.egg-info/dependency_links.txt
+vlogin.egg-info/top_level.txt
