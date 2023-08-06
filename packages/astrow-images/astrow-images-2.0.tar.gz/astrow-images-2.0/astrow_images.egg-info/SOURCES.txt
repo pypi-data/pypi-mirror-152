@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+astrow_images/__init__.py
+astrow_images/effects.py
+astrow_images/gif_effects.py
+astrow_images/memes.py
+astrow_images/utils.py
+astrow_images.egg-info/PKG-INFO
+astrow_images.egg-info/SOURCES.txt
+astrow_images.egg-info/dependency_links.txt
+astrow_images.egg-info/requires.txt
+astrow_images.egg-info/top_level.txt
