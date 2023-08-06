@@ -1,0 +1,18 @@
+[package]
+name = "konnoohmachi"
+version = "0.2.0"
+authors = ["Marius Kriegerowski <marius.kriegerowski@gmail.com>"]
+license = "MIT"
+edition = "2021"
+description = "Efficient spectral smoothing"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+ndarray = {version="0.15.4"}
+numpy = "0.15"
+
+[dependencies.pyo3]
+version = "0.15.1"
+features = ["extension-module"]
