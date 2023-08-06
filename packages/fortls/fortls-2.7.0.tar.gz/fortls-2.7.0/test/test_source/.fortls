@@ -1,0 +1,13 @@
+{
+  "source_dirs": [
+    "**/"
+  ],
+  "excl_paths": [
+    "excldir/**",
+    "./diag/",
+    "docs",
+    "rename",
+    "parse"
+  ]
+
+}
