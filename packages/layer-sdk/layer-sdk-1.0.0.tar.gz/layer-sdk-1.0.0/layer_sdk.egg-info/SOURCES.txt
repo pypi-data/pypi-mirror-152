@@ -1,0 +1,7 @@
+README.md
+setup.py
+layer_sdk.egg-info/PKG-INFO
+layer_sdk.egg-info/SOURCES.txt
+layer_sdk.egg-info/dependency_links.txt
+layer_sdk.egg-info/requires.txt
+layer_sdk.egg-info/top_level.txt

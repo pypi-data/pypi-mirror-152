@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: layer-sdk
+Version: 1.0.0
+Summary: layer-sdk is now layer
+Home-page: https://pypi.python.org/pypi/layer/
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 7 - Inactive
+Description-Content-Type: text/markdown
+
+Use `layer <https://pypi.python.org/pypi/layer/>` instead.
+
