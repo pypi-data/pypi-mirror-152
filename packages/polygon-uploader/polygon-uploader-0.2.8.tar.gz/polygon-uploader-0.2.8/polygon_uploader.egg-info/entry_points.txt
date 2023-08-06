@@ -1,0 +1,3 @@
+[console_scripts]
+lojacimport = polygon_uploader.lojac:main
+usacoimport = polygon_uploader.usaco:main
