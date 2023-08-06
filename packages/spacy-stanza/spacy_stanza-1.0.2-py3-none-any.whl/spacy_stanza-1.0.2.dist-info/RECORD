@@ -1,0 +1,9 @@
+spacy_stanza/__init__.py,sha256=K0dlohMUcWTlrsCCc6pmGoAznGWIBpt5CzMVRCKx210,1825
+spacy_stanza/about.py,sha256=BZtqi1d4jac5dro9wDPUWLu7F9gg_ODRLvax8V4C6CY,248
+spacy_stanza/tokenizer.py,sha256=kZKTS1TKKFIsEwSmyx0rMZMEZpH_nZfv0eZW5YW8Liw,10002
+spacy_stanza-1.0.2.dist-info/LICENSE,sha256=9_dOqC-aENfOK6Bd1-RgyMK7QqbMfZrnGrNWYbX3HJs,1073
+spacy_stanza-1.0.2.dist-info/METADATA,sha256=CEIA0TwBHfgeicXyfOBz1hyjBjbPWN9gvirjVJ3yfo4,8435
+spacy_stanza-1.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+spacy_stanza-1.0.2.dist-info/entry_points.txt,sha256=kJ-1kFspVigxugbXbcIPX0MhxrFAsC3MiHbhOeIFFI0,97
+spacy_stanza-1.0.2.dist-info/top_level.txt,sha256=dcNDeN4ZGuYKG5MgxBMY_vi9uyuXeRjHD2_SpmzY0Mg,13
+spacy_stanza-1.0.2.dist-info/RECORD,,
