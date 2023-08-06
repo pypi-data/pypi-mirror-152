@@ -1,0 +1,12 @@
+bearboto3/__init__.py,sha256=tWTAgm3CssBZJ-yy5_Fh87PpqpLnpjug1KVtAJUT2fc,419
+bearboto3/dynamodb.py,sha256=l7S-3JgCMwwYAi4MdQwtG5TWVsVOvcrn8xfu9-Uw8NE,2548
+bearboto3/ec2.py,sha256=CbSw54eYSNgsyP3sV4jP6I2PZ8_b562Gd0m8Z6d2nOc,48453
+bearboto3/iam.py,sha256=oxDyolxN5JPdYyZW4SoPasKLYLaRFZNT5IPp53sB9aA,17381
+bearboto3/lambda_.py,sha256=Q4LmAwGLJdC9SkY77CYIabjmh71klC54-L9Xqlo8sro,3604
+bearboto3/s3.py,sha256=4WQu0RNT27vSd39VYmz1Zv-oyq2F_27FnqKjthf50x0,6657
+bearboto3/sns.py,sha256=LGB1ealo39PWnEb4gyzkmyT5O4HHWgLm-J9u3yjoH5o,4671
+bearboto3/sqs.py,sha256=Tg_WzkZwYrGwmQT4DSBtN-_VaM6YEFFq9ldB-DAkQco,2008
+bearboto3-0.1.3.dist-info/LICENSE,sha256=yiI8gGQneMduVc5Vv2Nnl4ZVANrCNXj-k4HrA2ZVy5w,1071
+bearboto3-0.1.3.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+bearboto3-0.1.3.dist-info/METADATA,sha256=riODIW-n_MtAEwPUFbPsmx8h1joqPH4kvKvWiyWSZyA,5661
+bearboto3-0.1.3.dist-info/RECORD,,
