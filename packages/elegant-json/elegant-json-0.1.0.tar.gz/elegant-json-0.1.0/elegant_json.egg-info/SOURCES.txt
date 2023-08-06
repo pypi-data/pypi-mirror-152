@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+elegant_json/__init__.py
+elegant_json/_json_attribute.py
+elegant_json/_json_class.py
+elegant_json/core.py
+elegant_json.egg-info/PKG-INFO
+elegant_json.egg-info/SOURCES.txt
+elegant_json.egg-info/dependency_links.txt
+elegant_json.egg-info/top_level.txt
