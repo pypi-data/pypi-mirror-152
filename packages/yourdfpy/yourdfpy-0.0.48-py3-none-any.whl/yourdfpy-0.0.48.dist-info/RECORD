@@ -1,0 +1,10 @@
+yourdfpy/__init__.py,sha256=fOEQNEMpi5GFbeA6hocQV_m7_Lt3qfFoeCiOX5DbPc8,1423
+yourdfpy/urdf.py,sha256=4-5PX7YuX2LK4PMJUb0kz09PSr2zM7swJN4Fybmc5nw,73190
+yourdfpy/viz.py,sha256=LB75_Zc-z3PdslMIHKOq-HvmFaoFDJefr5-F6w3-mDs,5596
+yourdfpy-0.0.48.dist-info/AUTHORS.md,sha256=gZu-a_8NNoqEGQ5RfWY4QKzDthDbYAnpfAf7YNRGZAo,65
+yourdfpy-0.0.48.dist-info/LICENSE.txt,sha256=EneCmnzFfNZL2_JjUUEnuzxOuWYT56qmfNoFARtDb9g,1081
+yourdfpy-0.0.48.dist-info/METADATA,sha256=y09VvabO4VlCjv_2MeNiEIxW6lGhcu7vIm1s7RCFGj0,8987
+yourdfpy-0.0.48.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+yourdfpy-0.0.48.dist-info/entry_points.txt,sha256=nEQ4JCBrceXoL0V8tlYmgzJk0jg0z7fAIsCx5Lsg3Ro,46
+yourdfpy-0.0.48.dist-info/top_level.txt,sha256=KmrPLKp0Ryp_88SdXjYTbt1z9lQWngOm8TVZoACAAyI,9
+yourdfpy-0.0.48.dist-info/RECORD,,
