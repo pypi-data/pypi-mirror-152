@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: lmrtfy
+Version: 0.0.1
+Summary: Turn variables into program arguments. Auto-generates a CLI interface and an API using lmrtfy.de.
+Author-email: "lmrtfy.de" <hello@lmrtfy.de>
+Project-URL: Homepage, https://github.com/lmrtfy/lmrtfy
+Keywords: api,generator,cli
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: black ; extra == 'dev'
+Requires-Dist: bumpver ; extra == 'dev'
+Requires-Dist: isort ; extra == 'dev'
+Requires-Dist: pip-tools ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+
