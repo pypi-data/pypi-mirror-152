@@ -1,0 +1,7 @@
+sentry_tablestore/kvstore/tablestore.py,sha256=t_NbkYD1QzMAgy4erTOV7uhJkd62wyhRx1AIzg_PVwM,11069
+sentry_tablestore/nodestore/backend.py,sha256=xpND3dR_mVJWxaB9jtNCwoMlzHS2tzrjhdrPJl9_5DY,2793
+sentry_tablestore-1.0.0b2.dist-info/LICENSE.txt,sha256=xllut76FgcGL5zbIRvuRc7aezPbvlMUTWJPsVr2Sugg,11358
+sentry_tablestore-1.0.0b2.dist-info/METADATA,sha256=H54G89fu4MF2aU1j7AwI9Gn4cAh74UdYdp4Dot975QQ,4539
+sentry_tablestore-1.0.0b2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+sentry_tablestore-1.0.0b2.dist-info/top_level.txt,sha256=mnovY5TAvU47hBcYTPBoW56sysOblvsJIIdTB2KbIKQ,18
+sentry_tablestore-1.0.0b2.dist-info/RECORD,,
