@@ -1,0 +1,11 @@
+setup.py
+bgmacgyver/__init__.py
+bgmacgyver/indicator.py
+bgmacgyver/loading.svg
+bgmacgyver/off.svg
+bgmacgyver/on.svg
+bgmacgyver.egg-info/PKG-INFO
+bgmacgyver.egg-info/SOURCES.txt
+bgmacgyver.egg-info/dependency_links.txt
+bgmacgyver.egg-info/entry_points.txt
+bgmacgyver.egg-info/top_level.txt
