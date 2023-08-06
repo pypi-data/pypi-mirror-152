@@ -1,0 +1,8 @@
+appPath: \python_venvs\packages\boakboak
+cmds:
+- python
+- -m
+- unittest
+defaultArgs: null
+executable: C:\python_venvs\packages\boakboak\.venv\Scripts\python.exe
+name: TestBoakboak
