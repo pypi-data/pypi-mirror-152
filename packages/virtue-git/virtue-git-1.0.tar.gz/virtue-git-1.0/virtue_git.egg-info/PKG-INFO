@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: virtue-git
+Version: 1.0
+Summary: Gather information about a GitHub account
+Home-page: https://github.com/drooling/virtue
+Author: Surtains
+Author-email: surtains@riseup.net
+License: GNU General Public License v3 (GPLv3)
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
