@@ -1,0 +1,2 @@
+include src/NPCAnalysis/*.txt
+graft src/docs
