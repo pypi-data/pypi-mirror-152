@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+djmodal/__init__.py
+djmodal/views.py
+djmodal.egg-info/PKG-INFO
+djmodal.egg-info/SOURCES.txt
+djmodal.egg-info/dependency_links.txt
+djmodal.egg-info/top_level.txt
+djmodal/templates/modal.html
