@@ -1,0 +1,10 @@
+hive_udf/__init__.py,sha256=q2ciku0KrR6TltunG6B_iewL7HcehC7yDuHFE8CRPCU,79
+hive_udf/_make_udf.py,sha256=bkki-LpqErXRt-bBklMoLsFAgS5t9AdctQXQX38cixM,4470
+hive_udf/hive_udaf_example.py,sha256=kGJ35ynWc_c8HO91pm94bDChyc-j3NDNteUmSkQzkKQ,1748
+hive_udf/hive_udf_args_example.py,sha256=_ONAHhIaljOTgS_kqVsM70t2vDhw72PkNClmI3pV4VQ,1471
+hive_udf/hive_udf_example.py,sha256=forE3RbF2T8zY8Zhq0Y2KXymKCZ8G31ktvS8oYTcuow,1628
+hive_udf/tests.py,sha256=LamwLADbZGY-rz5vZ_2RFH3Hj2JpXO6b4DagJHLntXo,7448
+hive_udf-1.1.4.dist-info/LICENSE,sha256=axOqbWJ_6m0sVGTYV827UW7nrnk2nsnx6EKHS-roxLc,1067
+hive_udf-1.1.4.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+hive_udf-1.1.4.dist-info/METADATA,sha256=BCQRrc8HMCGQDqylXVaWay_PILHxqncm3rJrARKpnpI,2265
+hive_udf-1.1.4.dist-info/RECORD,,
