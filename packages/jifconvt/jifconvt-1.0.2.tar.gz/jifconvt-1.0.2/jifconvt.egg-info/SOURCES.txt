@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+jifconvt/__init__.py
+jifconvt/jifconvt.py
+jifconvt.egg-info/PKG-INFO
+jifconvt.egg-info/SOURCES.txt
+jifconvt.egg-info/dependency_links.txt
+jifconvt.egg-info/not-zip-safe
+jifconvt.egg-info/requires.txt
+jifconvt.egg-info/top_level.txt
