@@ -1,0 +1,9 @@
+AUTHORS.rst
+LICENSE.md
+README.md
+setup.py
+statista.egg-info/PKG-INFO
+statista.egg-info/SOURCES.txt
+statista.egg-info/dependency_links.txt
+statista.egg-info/not-zip-safe
+statista.egg-info/top_level.txt
