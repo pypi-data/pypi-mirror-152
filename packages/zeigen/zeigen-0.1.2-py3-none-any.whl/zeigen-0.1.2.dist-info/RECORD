@@ -1,0 +1,13 @@
+zeigen/__init__.py,sha256=KwagQcNBA-4Lp687189lOuwKldtwAqekIZDlWLp4rFc,246
+zeigen/__main__.py,sha256=agdvg_OoNRnoDZQ0akGk_0zUXor0sz2kdYCK6coUiLQ,1327
+zeigen/common.py,sha256=5AHY8VNLCF6E9tKSQyBsu581mMa7T8lIPiicoIMYgzY,1167
+zeigen/config.py,sha256=8wLCQApNXeQEWyyKcot_wxqcd-UNxxOB3aY-14myQPc,2929
+zeigen/find.py,sha256=WYgEQhTUNE9ARivPmzowrs7n2M7PkzMhAZ6NvCh-zlU,698
+zeigen/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zeigen/query.py,sha256=UxPigIVVnloDwPiMFSzqDpYFVngtAfmlOCo8Ea2ng7c,10455
+zeigen/templates/zeigen.toml,sha256=ABoLzuo9YGBmsa5c55Zd8ZWD1fY8xVZDLFntsz2Fvnc,2259
+zeigen-0.1.2.dist-info/entry_points.txt,sha256=qfHHZfFn7262afCP3BmacmMcFlTLAZ-Hh7j4cFbKeKg,47
+zeigen-0.1.2.dist-info/LICENSE.rst,sha256=fra3RM64f33zhNFsiCJu7u0mjbl5O2-Ozrfs50yVyPk,1979
+zeigen-0.1.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+zeigen-0.1.2.dist-info/METADATA,sha256=JRCn91a8Qc856zWbDEv4tCKLlZabP1-76MycGnf7K_8,6051
+zeigen-0.1.2.dist-info/RECORD,,
