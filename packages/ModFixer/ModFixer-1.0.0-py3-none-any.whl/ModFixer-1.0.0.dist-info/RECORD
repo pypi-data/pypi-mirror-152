@@ -1,0 +1,9 @@
+modfixer/__init__.py,sha256=hTkDi0p7bnUfVQmv0U1Haqmx2MBiYMo8bs-BzbKRbdM,771
+modfixer/__main__.py,sha256=qknoM4M2awNX2WnaCCm_Qo7CPVAXxzfWQ1fciMU8D94,3322
+modfixer/builder.py,sha256=dZJ7cMVtebjamT9SUryxulViV6kLRwHHTjeZqkX-NfA,2035
+modfixer/unbuilder.py,sha256=wS4FqaJ6OTnEcsW0E8ZsLWrqHbKTL3XoSr81EGDQ-Vg,1984
+ModFixer-1.0.0.dist-info/METADATA,sha256=X0GNJJH268LMKltQgvPKJ9YvNRrH0l0LXftLSYVcwkg,2082
+ModFixer-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ModFixer-1.0.0.dist-info/entry_points.txt,sha256=EqU8w0AwY5hQgO_ozFD2h1DkaxPtBP1hoz72ceFpO8Q,225
+ModFixer-1.0.0.dist-info/top_level.txt,sha256=Ci6NqCB9Bqhu9WoXo5JPLUM5SENH1c0UOk7c-GSPXTM,9
+ModFixer-1.0.0.dist-info/RECORD,,
