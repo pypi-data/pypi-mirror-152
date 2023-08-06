@@ -1,0 +1,14 @@
+field_audit/__init__.py,sha256=qLF6xn9BG-SBIpEp2pG_ef4BeBRW1xdU3ORcr23sv6I,73
+field_audit/apps.py,sha256=4HJUHmWxC1SNP9XWoDNleYfRA8UQ6fqLeg-n4MrwWWM,763
+field_audit/auditors.py,sha256=HFEsCbK7EOqfupZbEaicOBW-Q1g_urDpWO5hHG1kChY,4357
+field_audit/field_audit.py,sha256=MP7yWcwczeu-n9UlB0-vCt1UFptCEVqFHAwxJ4w-eX8,2439
+field_audit/middleware.py,sha256=D-5wWPWlbdhYc_085GA_rGJzX7ye3018RYSD9-4lvao,449
+field_audit/models.py,sha256=UiD5lJzyP1dspLsEW7Rb7b5yWr4XPn9_elLA3MURs8E,12746
+field_audit/utils.py,sha256=-5cbH5iUzs-MOsiABCasanWLH00ZYRzVOnSdvS58wew,1797
+field_audit/migrations/0001_initial.py,sha256=gnn_wsbzulOBrrep9uSKjs7xe76ru54A8b79c8G_5W0,1993
+field_audit/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+django_field_audit-0.2.dist-info/LICENSE,sha256=DUmNjtND8byIKaTpjoksSUVazUJ_-3sPWOyyLiOvyDs,1508
+django_field_audit-0.2.dist-info/METADATA,sha256=WIah_gmDnb3V3ZRZQiyos-5vFsJCWpEEFKTRPCzjX28,5149
+django_field_audit-0.2.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+django_field_audit-0.2.dist-info/top_level.txt,sha256=wa_olzk0PU62yd5m6tScO-flaKF_xQyLIV_hZY0vi38,12
+django_field_audit-0.2.dist-info/RECORD,,
