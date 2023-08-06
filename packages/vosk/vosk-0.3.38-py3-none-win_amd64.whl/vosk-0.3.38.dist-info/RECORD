@@ -1,0 +1,14 @@
+vosk/__init__.py,sha256=qPTnQ8bWgjDMaQFvLWE-WcF0SqnusxGN_4v0Mc8NdOM,4731
+vosk/libgcc_s_seh-1.dll,sha256=4W3oPUgkfN4lgew2J5EC3aALfXs2VYytchZOPEyq4KQ,1266641
+vosk/libstdc++-6.dll,sha256=F2b24lJBAIbCZACrCF4BfnrV6Jk_PRndqHoToel48KI,19442799
+vosk/libvosk.dll,sha256=nuAwHowpun4iGemWZLy2h_4lddA3m3az0L45zMARIDg,25989632
+vosk/libwinpthread-1.dll,sha256=W2CQffQgCfG6Q35_KmJ4ZRvpf0mThpEF2KMQhhOORXA,592104
+vosk/vosk_cffi.py,sha256=jBkc7FF_5Tvx96wV9hE4zFP-kUZenfr687HqfIXOH_E,3859
+vosk/transcriber/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vosk/transcriber/cli.py,sha256=9whUDs9UiZoB2dfSBVkdrPnbwbVhtDT4prgxCzYPhI0,3705
+vosk/transcriber/transcriber.py,sha256=O_JWctr4sQo9lHoO5s31lX4eWL5QOUvV5mcK7TNg3GU,5058
+vosk-0.3.38.dist-info/METADATA,sha256=uvxikNfB0HKBcQvGJ4JZYbpc5AYBvt1pZ8dB2DEzd70,1734
+vosk-0.3.38.dist-info/WHEEL,sha256=5M5xWEErikXCBzw-ULgxpYH97bPSs-4QjD668kpnw9Q,98
+vosk-0.3.38.dist-info/entry_points.txt,sha256=ai-RrCqWYjw2PThXOIX6badY516GdVCO0DDWYLeBGSM,63
+vosk-0.3.38.dist-info/top_level.txt,sha256=VyhCKFInHWKAvlbaAYoqHJ2Y35GrQNYA-Ul2CRc30Uk,5
+vosk-0.3.38.dist-info/RECORD,,
