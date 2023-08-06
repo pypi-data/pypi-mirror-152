@@ -1,0 +1,72 @@
+Metadata-Version: 2.1
+Name: freshworks
+Version: 0.0.25
+Summary: Python client library for interacting with Freshworks products.
+Home-page: https://github.com/AceofSpades5757/freshworks
+Author: Kyle L. Davis
+Author-email: AceofSpades5757.github@gmail.com
+License: MIT
+Project-URL: Documentation, https://fzflib.readthedocs.io/en/latest/
+Project-URL: Author, https://github.com/AceofSpades5757
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+[![PyPI](https://img.shields.io/pypi/v/freshworks?color=darkred)](https://pypi.org/project/freshworks/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/freshworks?label=Python%20Version&logo=python&logoColor=yellow)](https://pypi.org/project/freshworks/)
+[![PyPI - License](https://img.shields.io/pypi/l/freshworks?color=green)](https://github.com/AceofSpades5757/freshworks/blob/main/LICENSE)
+
+[![Tests](https://github.com/AceofSpades5757/freshworks/actions/workflows/test.yml/badge.svg)](https://github.com/AceofSpades5757/freshworks/actions/workflows/test.yml)
+
+[![Read the Docs](https://img.shields.io/readthedocs/freshworks)](https://freshworks.readthedocs.io/en/latest/)
+
+# Description
+
+Python client library for interacting with Freshworks products.
+
+# Installation
+
+`pip install freshworks`
+
+This will install all available packages for working with those Freshworks products.
+
+- `freshdesk`
+- `freshcaller`
+
+# Usage
+
+## Basic
+
+```python
+from freshdesk import Client
+
+
+fd = Client(domain='mydomain', api_key='MY_API_KEY')
+```
+
+## Different Plan
+
+```python
+from freshdesk import Client
+from freshdesk import Plan
+
+
+fd = Client(
+    domain='mydomain',
+    api_key='MY_API_KEY',
+    plan=Plan.ESTATE,
+)
+```
+
+
