@@ -1,0 +1,13 @@
+[package]
+name = "pyspongebobizer"
+version = "0.4.1"
+edition = "2021"
+
+[lib]
+name = "pyspongebobizer"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = { version = "0.16.3", features = ["extension-module"] }
+spongebobizer = "0.4"
+
