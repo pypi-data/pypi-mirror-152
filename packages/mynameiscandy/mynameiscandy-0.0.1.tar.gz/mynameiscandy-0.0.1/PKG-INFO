@@ -1,0 +1,57 @@
+Metadata-Version: 1.1
+Name: mynameiscandy
+Version: 0.0.1
+Summary: Who is Candy
+Home-page: https://github.com/Perzyploy/
+Author: Candy Catja
+Author-email: ploymiony@gmail.com
+License: MIT
+Download-URL: https://github.com/Perzyploy/
+Description: แพ็คเกจนี้เป็นแพคเกจ python ที่โชว์ข้อมูลเกี่ยวกับคุณแคนดี้
+        ===========================================================
+        
+        PyPi: https://pypi.org/project/mynameiscandy/
+        
+        สวัสดีจ้าาาา นี่คือแพ็คเกจที่แสดงข้อมูลเกี่ยวกับคุณแคนดี้
+        ทำเพื่อประกอบการเรียน python EP10 จ้า
+        
+        วิธีติดตั้ง
+        ~~~~~~~~~~~
+        
+        เปิด CMD / Terminal
+        
+        .. code:: python
+        
+           pip install mynameiscandy
+        
+        วิธีใช้งานแพ็คเพจนี้
+        ~~~~~~~~~~~~~~~~~~~~
+        
+        -  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+        
+        .. code:: python
+        
+           from mynameiscandy import Candylady
+        
+           candy = Candylady() # ประกาศชื่อ class
+           candy.show_name() # โชว์ชื่อ
+           candy.show_youtube() # โชว์ลิงค์ youtube
+           candy.about() # โชว์ลิงค์เพจเกี่ยวกับคุณแคนดี้
+           candy.show_art() # โชว์ภาพศิลปะ
+        
+        พัฒนาโดย: Candy Catja
+        
+Keywords: Candy,ASCII ART
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10

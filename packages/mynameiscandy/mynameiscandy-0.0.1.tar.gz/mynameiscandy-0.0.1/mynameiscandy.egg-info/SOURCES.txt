@@ -1,0 +1,9 @@
+README.rst
+setup.cfg
+setup.py
+mynameiscandy/__init__.py
+mynameiscandy/candy.py
+mynameiscandy.egg-info/PKG-INFO
+mynameiscandy.egg-info/SOURCES.txt
+mynameiscandy.egg-info/dependency_links.txt
+mynameiscandy.egg-info/top_level.txt
