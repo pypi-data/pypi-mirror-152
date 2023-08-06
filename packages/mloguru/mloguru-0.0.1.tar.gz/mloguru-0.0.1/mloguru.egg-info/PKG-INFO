@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mloguru
+Version: 0.0.1
+Summary: self define logger format based on loguru.
+Home-page: https://github.com/Mas0nShi/mloguru
+Author: Mas0n
+Author-email: fishilir@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
+
+# mloguru
+
+simple format logger based on [loguru](https://github.com/Delgan/loguru).
+
+## preview
+
+![](preview.png)
+
