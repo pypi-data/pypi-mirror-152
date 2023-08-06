@@ -1,0 +1,2 @@
+[covalent.executor.executor_plugins]
+dask = covalent_dask_plugin.dask
