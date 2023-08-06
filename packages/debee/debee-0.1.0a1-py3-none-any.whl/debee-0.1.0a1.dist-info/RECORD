@@ -1,0 +1,16 @@
+debee/__init__.py,sha256=eZsSMeGjP5KQfgdqw5lTAZtlFSOY7HeRDYezm7mZY7g,88
+debee/__main__.py,sha256=G8xWD1QhdIZDo99lzESIeKcs9jTfxpOvGtm-Fh3kqcw,7552
+debee/__main__.py-,sha256=oqRocrgcWY8XY1IrlNLJX2USr3Qjxmqq-LQokv9hBtA,905
+debee/cmat2html.py,sha256=3vsLQbamaoM4WH7owWXm1uig5GGu_yfJwTbINDHvcW4,4510
+debee/debee.py,sha256=1OZc_fgsd9_yQF2DXyJCyHaRehaNvt7BfUr85hb2Qos,1620
+debee/gen_cmat.py,sha256=zQmXI0KdltER2eKdd7Ueq8rcEMeSJV5cC2p-EKQ0oCk,3880
+debee/loadparas.py,sha256=-o50JXoQnaFkqiYbOMtlXvpxnmMBdY6EN2xFVXo6VGQ,1967
+debee/loadtext.py,sha256=Dbxn78znfjYVvXJykoDUwY3NZ9_na3M96oqMMD0mZjU,2317
+debee/remove_punct.py,sha256=AR92Tscsaxw2vg5O81AoBQqCw9fRz05PAUtQWrcnkl0,465
+debee/save_xlsx_tsv_csv.py,sha256=pctXs6sfaO_rgNEAsfqXKV0bgG_9H1YzMIPyBTACFLI,3415
+debee/text2lists.py,sha256=qqX7ychzvKdxz1lj5koVw8S-PHTGDZHOJ_Czlcbr1WE,4892
+debee-0.1.0a1.dist-info/entry_points.txt,sha256=KohdAF-atOiCWcylph4tqTv_kt-tNmkMK62xp2gdKc0,44
+debee-0.1.0a1.dist-info/LICENSE,sha256=2Z4g7Eq1bQRfTQoryBnNsyhlWBpAGylKyp1KFJMlTWU,1085
+debee-0.1.0a1.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+debee-0.1.0a1.dist-info/METADATA,sha256=YMG_j-g4LdsPG8jNV4WATjYBs7yghmkjGq2XnpSjMaA,1752
+debee-0.1.0a1.dist-info/RECORD,,

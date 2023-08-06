@@ -1,0 +1,3 @@
+[console_scripts]
+debee=debee.__main__:app
+
