@@ -1,0 +1,10 @@
+test_scraper_pypi/__init__.py,sha256=1okXjmX0zQFH8RPZUhH8-KShbeabx0cZnOkoiP67DB4,252
+test_scraper_pypi/cli.py,sha256=-t2w_JQw85b0YZWFXGCCsI6xVf-5UUbcPYBcfPGVQmc,429
+test_scraper_pypi/test_scraper_pypi.py,sha256=faLQZX5vlr6HEZG9rF0j1JEG5YuCjH3UT1A9S1Bnz-8,292
+test_scraper_pypi-0.1.1.dist-info/AUTHORS.rst,sha256=yrAwFVaSrbAov7iyaOuu4OgmaOBXsDVIqTqWhHPN720,177
+test_scraper_pypi-0.1.1.dist-info/LICENSE,sha256=8MW5FiqDqOjs65eqTBKwqDfzHiKPL2frOJaxxB9C9SA,1074
+test_scraper_pypi-0.1.1.dist-info/METADATA,sha256=HRK5IWexvZdD0hKieGw9fgFX0fG7ihp1H9HltAWbLH8,1970
+test_scraper_pypi-0.1.1.dist-info/WHEEL,sha256=kGT74LWyRUZrL4VgLh6_g12IeVl_9u9ZVhadrgXZUEY,110
+test_scraper_pypi-0.1.1.dist-info/entry_points.txt,sha256=cMfDfPwN8CSGiPpvviqAqNIXTlJk6I6GKnMYcw7hgXk,66
+test_scraper_pypi-0.1.1.dist-info/top_level.txt,sha256=2iqMWvJ-Mo4fPQCEt77laHqsx46tyNI5_RryVRlj174,18
+test_scraper_pypi-0.1.1.dist-info/RECORD,,
