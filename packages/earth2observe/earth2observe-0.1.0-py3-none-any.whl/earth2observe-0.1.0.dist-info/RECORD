@@ -1,0 +1,10 @@
+earth2observe/__init__.py,sha256=FfBh0xKT23-J1LuovuQrpflbXScvfa7HWs_1pDT-De8,1139
+earth2observe/chirps.py,sha256=tjijltOKEcnSlmnqbGix767gEpIJGixeduj4IbZDNhc,10081
+earth2observe/ecmwf.py,sha256=uiUpZwBIi6_WtDQOi-3geosSbZeK3rS9Imi-2LrFdeY,18578
+earth2observe/utils.py,sha256=H-qW6TE-iq8fgfS_D_AwT8ybpBwflhBsgVy4gEQ-kXk,1783
+earth2observe-0.1.0.dist-info/AUTHORS.rst,sha256=hvh7WnQ_wEYkFCQmmtxdl6TlJAEUag8xf0r_6dE_T7k,173
+earth2observe-0.1.0.dist-info/LICENSE.md,sha256=EH-Fmd7W6AJflRi9ucTJQ5LCLfNyB_iHMU1XPQ_fBIQ,35591
+earth2observe-0.1.0.dist-info/METADATA,sha256=sh_CXGl5bVWwbbi-BTrpPG-gN1gFJy_4JLL0rw94Jlo,2812
+earth2observe-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+earth2observe-0.1.0.dist-info/top_level.txt,sha256=v8JsE3f4rj1uSfNzHF45JSYaS3U614by70jkSekqDOw,14
+earth2observe-0.1.0.dist-info/RECORD,,
