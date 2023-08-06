@@ -1,0 +1,14 @@
+limonade/__init__.py,sha256=VxywR42MvYtDrxfguOHiVwQpP_tdWlQfTGPxxT7D8rw,124
+limonade/data.py,sha256=yLRhXP452a1xVN8ov_-BJrwZ0tPZO5aajGW16BLyOc8,149270
+limonade/exceptions.py,sha256=ZXjjtmITGWJVsrkoICr4wRPi5PGoouXhlV5rpriZkbw,758
+limonade/histo_utils.py,sha256=UcD3MabQT3Lozr33qWyG2UAhpMQKzIZoZFKQ1d0rTgY,27386
+limonade/loaders.py,sha256=wF7a7P8beMuqzF8GuOoRSeh2vDtKPZAZtCL52-QqyP8,60080
+limonade/misc.py,sha256=eOqqXgKC8OBGJx5AEq65hDUjqtf1s4_SMgD4oa2FvRQ,12068
+limonade/plot.py,sha256=ZzxrznX7IA2yNbB-gNkVZAa1D7OWqMC5I2BppZzZefY,45652
+limonade/utils.py,sha256=XSBFeVuZkzPsgi0p6jozhnJnCErb1XqYbshuHa2gRyg,19539
+limonade-0.8.2.dist-info/LICENCE,sha256=w6NdkfXE0Y84gXsHXjrUAo4rxXq2kmBYRwDC7Nukm3Q,1125
+limonade-0.8.2.dist-info/METADATA,sha256=aDOgOdZ_3bgMaVEkSVNhivfnqVnyhwId0Hvv6moxik0,1345
+limonade-0.8.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+limonade-0.8.2.dist-info/entry_points.txt,sha256=eu_2sPBA1qCPa-i5Ecl7erq51sJLmEvjGT4wO3jPfYs,241
+limonade-0.8.2.dist-info/top_level.txt,sha256=NrFyDTClQRKa33VA-AjfD80YF54SPRZG0I1oMRS05U8,9
+limonade-0.8.2.dist-info/RECORD,,
