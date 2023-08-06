@@ -1,0 +1,14 @@
+nyxus/_version.py,sha256=ZOrzW2rsCTmUHaGHb139qcZuQs_6u526R-i7gz-0taY,497
+nyxus/backend.cpython-38-darwin.so,sha256=kPHf41pdIT_wmd_qk5z-0HZfQICyBEG8qbN1DcAmGu8,752896
+nyxus/interface.py,sha256=vJRaP0Hxd3GQbV3tY5ofOFGNvUgsKoK5o0NCTjpHUVg,4412
+nyxus/__init__.py,sha256=CVFY5-M2HsuJ5YEU2X8qeL9bBJmKDjvmSjW727nPSJM,98
+nyxus/nyxus.py,sha256=p_n_SulEMq13O3BnbHHVfXiz3U4swA8OMMnMrF8Yjks,4619
+nyxus/.dylibs/libc++abi.1.0.dylib,sha256=4ghaB2a4EVW9GSBJVYWP9KjxfnnhsZ3VDJ7n1alzDww,338144
+nyxus/.dylibs/libc++.1.0.dylib,sha256=SVYQYKSjMJCiBx69WbOUvzf1C0e1uvA7iEOSPJ8myFw,877440
+nyxus/.dylibs/libjpeg.9.dylib,sha256=7vzCVz6BoPQCxaTPZfD5SeJLdz2o2qg4Vmo5cq0YvjA,268064
+nyxus/.dylibs/libtiff.5.dylib,sha256=DyjcE3eUMuSKwWj06Ckvt1QKjHQoZxZMy-VZhiXGPKY,498976
+nyxus-0.2.2.dist-info/RECORD,,
+nyxus-0.2.2.dist-info/LICENSE,sha256=dQhTh4F5f_QasaeL9FUAXSWabYeVbzeFZY5todRXZtQ,1084
+nyxus-0.2.2.dist-info/WHEEL,sha256=Spe8PxrSQDV5z7UbWW_sTF_Z4i3fKk9urg_LSsjaJNg,110
+nyxus-0.2.2.dist-info/top_level.txt,sha256=VSeqIm9my0j36BMlBNzVdw0hJE6Q-ztdFuF0JgQutgs,20
+nyxus-0.2.2.dist-info/METADATA,sha256=JmI7EI3MkLltFt8IshLTpmUBwspuamM0sE8xKZWzvYA,16788
