@@ -1,0 +1,7 @@
+click
+pygithub
+python-dateutil
+GitPython
+delegator.py
+pyyaml
+yaspin

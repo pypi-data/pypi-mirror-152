@@ -1,0 +1,157 @@
+#!/usr/bin/env python
+import os
+import sys
+from typing import Tuple, List, Optional
+
+import click
+
+from cherrytree.branch import CherryTreeBranch
+from cherrytree.github_utils import check_if_branch_exists
+
+sys.path.insert(0, os.path.abspath(".."))
+
+
+@click.group()
+def cli():
+    click.secho("🍒🌳🍒 CherryTree", fg="cyan")
+
+
+@cli.command()
+@click.argument("release-branch")
+@click.option(
+    "--target-branch", "-t", help="target branch for baking. Leave empty for dry run"
+)
+@click.option(
+    "--main_branch",
+    "-m",
+    help="name of branch containing cherries, usually `master` or `main`",
+    default="master",
+)
+@click.option(
+    "--repo",
+    "-r",
+    help='The name of the main repo. Example: apache/superset',
+    required=True,
+)
+@click.option(
+    "--label",
+    "-l",
+    multiple=True,
+    help='Name of label to use for cherry picking. Supports multiple labels, e.g. `-l Label1 -l Label2`',
+)
+@click.option(
+    "--blocking-label",
+    "-b",
+    multiple=True,
+    help='Name of labels to block cherry picking operation. Supports multiple labels, e.g. `-b Blocker1 -b Blocker2`',
+)
+@click.option(
+    "--pull-request",
+    "-pr",
+    multiple=True,
+    help='Pull request id to add to list of cherries to pick. Supports multiple ids, e.g. `-pr 1234 -pr 5678`',
+)
+@click.option(
+    "--no-dryrun", "-nd",
+    is_flag=True,
+    help="Should cherries be committed to target branch",
+    show_default=True,
+    default=False,
+)
+@click.option(
+    "--error-mode",
+    "-e",
+    help="What to do in case of an error. `skip` skips conflicted cherries, "
+         "`dryrun` reverts to dryrun for subsequent prs and `break` stops "
+         "cherry picking.",
+    type=click.Choice(["break", "dryrun", "skip"], case_sensitive=False),
+    default="skip",
+    show_default=True,
+)
+@click.option(
+    "--force-rebuild-target",
+    "-f",
+    is_flag=True,
+    help="Forcefully remove target branch before applying cherries. Only relevant "
+         "when using `--target-branch`",
+    show_default=True,
+    default=False,
+)
+@click.option(
+    "--access-token",
+    "-at",
+    multiple=False,
+    help="GitHub access token. If left undefined, will use the GITHUB_TOKEN "
+         "environment variable",
+)
+def bake(
+    release_branch: str,
+    main_branch: str,
+    repo: str,
+    target_branch: str,
+    label: Tuple[str],
+    blocking_label: Tuple[str],
+    pull_request: Tuple[int],
+    no_dryrun: bool,
+    error_mode: str,
+    force_rebuild_target: bool,
+    access_token: Optional[str],
+):
+    """Applies cherries to release"""
+    if no_dryrun:
+        click.secho(
+            "Running in non-dryrun mode, all changes will be committed!", fg="red"
+        )
+        if force_rebuild_target and target_branch:
+            click.secho(
+                f"Forcefully rebuilding target branch `{target_branch}` "
+                f"from base branch `{release_branch}`!", fg="red"
+            )
+    else:
+        click.secho(
+            "Running in dryrun mode, all changes will be rolled back", fg="cyan"
+        )
+    if no_dryrun and error_mode == "dryrun":
+        click.secho(
+            "In case of conflict: skip conflicted cherry, "
+            "revert to dryrun mode for subsequent cherries", fg="cyan"
+        )
+    elif no_dryrun and error_mode == "skip":
+        click.secho(
+            "In case of conflict: skip conflicted cherry, "
+            "continue applying subsequent cherries", fg="cyan"
+        )
+    elif no_dryrun:
+        click.secho(
+            "In case of conflict: stop applying cherries, "
+            "revert to dry-run for subsequent cherries", fg="cyan"
+        )
+
+    if force_rebuild_target is False and target_branch and check_if_branch_exists(target_branch):
+        release_branch = target_branch
+    pull_requests: List[int] = []
+    for id_ in pull_request:
+        try:
+            pull_requests.append(int(id_))
+        except ValueError:
+            click.secho(f"Non-numeric pull request id: {id_}", fg="red")
+            exit(1)
+    cherry_tree = CherryTreeBranch(
+        repo=repo,
+        release_branch=release_branch,
+        main_branch=main_branch,
+        labels=list(label),
+        blocking_labels=list(blocking_label),
+        pull_requests=pull_requests,
+        access_token=access_token,
+    )
+    cherry_tree.apply_cherries(
+        target_branch=target_branch,
+        dryrun=not no_dryrun,
+        error_mode=error_mode,
+        force_rebuild_target=force_rebuild_target,
+    )
+
+
+if __name__ == "__main__":
+    cli()
