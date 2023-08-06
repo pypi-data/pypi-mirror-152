@@ -1,0 +1,3 @@
+[pytest11]
+pytest-maybe-raises = pytest_maybe_raises
+
