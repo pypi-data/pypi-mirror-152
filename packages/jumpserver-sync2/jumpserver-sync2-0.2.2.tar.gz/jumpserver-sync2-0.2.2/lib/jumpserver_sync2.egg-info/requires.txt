@@ -1,0 +1,9 @@
+hsettings>=0.1
+requests
+click
+colorama
+diskcache
+boto3
+pyyaml
+httpsig
+pyyaml==5.4.1
