@@ -1,0 +1,10 @@
+target_gcs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+target_gcs/sinks.py,sha256=hb-cCcvz02R_CRxdedLSYPa2pFPiSi7SQennk5ic_O0,2667
+target_gcs/target.py,sha256=Iodzjb1j7W4Tuby8yLeEc6TfQJUi2vv1LTb119Sbzxs,607
+target_gcs/tests/__init__.py,sha256=YwiG_tnEXLJzSr1tshx8nHbT2WMN3RtEm_q4PvKcXUM,33
+target_gcs/tests/test_core.py,sha256=DjIZIR35PGkTgocafH_dQaKrCnf5Go_c8NVSE4GiqSg,638
+target_gcs/tests/test_sinks.py,sha256=gWg0RCCGMOVLnJqmVb2TdSIJ4uMk-1J9OCPTjDCpEoQ,2026
+target_gcs-1.0.2.dist-info/entry_points.txt,sha256=SZl_uv8Ohkkfm44P6jDRbIs1-tEWVVKFYCDyQ0RmZgY,62
+target_gcs-1.0.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+target_gcs-1.0.2.dist-info/METADATA,sha256=QSqCpyrGZvfK6nQZRpiIE1jJy9Uui56qo4VsNYc0gE4,778
+target_gcs-1.0.2.dist-info/RECORD,,
