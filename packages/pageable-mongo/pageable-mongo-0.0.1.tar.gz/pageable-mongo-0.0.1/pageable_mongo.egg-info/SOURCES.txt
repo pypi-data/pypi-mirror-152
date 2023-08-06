@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+setup.py
+.github/README.md
+pageable_mongo/__init__.py
+pageable_mongo.egg-info/PKG-INFO
+pageable_mongo.egg-info/SOURCES.txt
+pageable_mongo.egg-info/dependency_links.txt
+pageable_mongo.egg-info/requires.txt
+pageable_mongo.egg-info/top_level.txt
