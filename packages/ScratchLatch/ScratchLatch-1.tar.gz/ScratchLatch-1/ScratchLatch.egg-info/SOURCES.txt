@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+ScratchLatch.egg-info/PKG-INFO
+ScratchLatch.egg-info/SOURCES.txt
+ScratchLatch.egg-info/dependency_links.txt
+ScratchLatch.egg-info/requires.txt
+ScratchLatch.egg-info/top_level.txt
