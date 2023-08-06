@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: dectime
+Version: 0.2.0
+Summary: Decimal time cli.
+Author-email: allan bailey <zirpubolci@gmail.com>
+License: The MIT License (MIT)
+        
+        Copyright (c) 2022 allan bailey
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Keywords: cli
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Description-Content-Type: text/x-rst
+License-File: LICENSE.txt
+License-File: AUTHORS.rst
+
+.. These are examples of badges you might want to add to your README:
+   please update the URLs accordingly
+
+    .. image:: https://api.cirrus-ci.com/github/<USER>/dectime.svg?branch=main
+        :alt: Built Status
+        :target: https://cirrus-ci.com/github/<USER>/dectime
+    .. image:: https://readthedocs.org/projects/dectime/badge/?version=latest
+        :alt: ReadTheDocs
+        :target: https://dectime.readthedocs.io/en/stable/
+    .. image:: https://img.shields.io/coveralls/github/<USER>/dectime/main.svg
+        :alt: Coveralls
+        :target: https://coveralls.io/r/<USER>/dectime
+    .. image:: https://img.shields.io/pypi/v/dectime.svg
+        :alt: PyPI-Server
+        :target: https://pypi.org/project/dectime/
+    .. image:: https://img.shields.io/conda/vn/conda-forge/dectime.svg
+        :alt: Conda-Forge
+        :target: https://anaconda.org/conda-forge/dectime
+    .. image:: https://pepy.tech/badge/dectime/month
+        :alt: Monthly Downloads
+        :target: https://pepy.tech/project/dectime
+    .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
+        :alt: Twitter
+        :target: https://twitter.com/dectime
+
+.. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
+    :alt: Project generated with PyScaffold
+    :target: https://pyscaffold.org/
+
+|
+
+=======
+dectime
+=======
+
+
+    Add a short description here!
+
+
+A longer description of your project goes here...
+
+
+.. _pyscaffold-notes:
+
+Note
+====
+
+This project has been set up using PyScaffold 4.2.1. For details and usage
+information on PyScaffold see https://pyscaffold.org/.
