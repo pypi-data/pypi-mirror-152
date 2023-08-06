@@ -1,0 +1,2 @@
+[pytest11]
+iters = pytest_iters
