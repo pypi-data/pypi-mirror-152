@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: rincewindwizzard-example-cli
+Version: 0.0.2
+Summary: Example PyBuilder / Git project
+Home-page: https://github.com/awwsmm/PybGit
+Author: RincewindWizzard
+Author-email: git@magierdinge.de
+Maintainer: 
+Maintainer-email: 
+License: None
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python
+
+An example command line tool
