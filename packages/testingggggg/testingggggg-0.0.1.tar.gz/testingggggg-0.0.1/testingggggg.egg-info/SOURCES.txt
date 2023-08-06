@@ -1,0 +1,7 @@
+setup.py
+pack/__inti__.py
+testingggggg.egg-info/PKG-INFO
+testingggggg.egg-info/SOURCES.txt
+testingggggg.egg-info/dependency_links.txt
+testingggggg.egg-info/requires.txt
+testingggggg.egg-info/top_level.txt
