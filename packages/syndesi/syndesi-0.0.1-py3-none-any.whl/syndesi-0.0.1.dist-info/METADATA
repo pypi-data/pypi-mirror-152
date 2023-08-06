@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: syndesi
+Version: 0.0.1
+Summary: Syndesi test platform
+Home-page: UNKNOWN
+Author: Sebastien Deriaz
+Author-email: sebastien.deriaz1@gmail.com
+License: UNKNOWN
+Keywords: python,syndesi,test,platform,measurment,testbench
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+# Syndesi Python package
+
+This package is used in the host device
+
+## Installation
+
+    pip install syndesi
+
+
