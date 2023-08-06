@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+muggle_speech/__init__.py
+muggle_speech/decoder.onnx
+muggle_speech/encoder.onnx
+muggle_speech/label_map.py
+muggle_speech.egg-info/PKG-INFO
+muggle_speech.egg-info/SOURCES.txt
+muggle_speech.egg-info/dependency_links.txt
+muggle_speech.egg-info/requires.txt
+muggle_speech.egg-info/top_level.txt
