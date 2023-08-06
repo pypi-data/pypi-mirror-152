@@ -1,0 +1,35 @@
+# aviasales pirate API wrapper
+Async convenient wrapper for the unofficial aviasales API
+
+### Installation
+
+```bash
+pip install aviasales
+```
+
+### Example of usage
+
+```python
+from aviasales import AviaSalesAPI
+
+api = AviaSalesAPI()
+
+
+async def run():
+    search_uuid = await api.start(
+        origin="DME", destination="IST", departure_at="2022-05-30"
+    )
+    results = await api.get_flight_legs(search_uuid)
+
+    print(results.flight_legs)  # show flight transfers and routes
+    print(results.tickets)      # show available tickets
+
+
+if __name__ == '__main__':
+    import asyncio
+    asyncio.run(run())
+```
+
+### Terminal output
+![Terminal output](https://i.ibb.co/54KrkbM/img.png)
+
