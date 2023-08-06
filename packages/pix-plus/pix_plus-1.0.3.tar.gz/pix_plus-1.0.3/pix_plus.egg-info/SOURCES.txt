@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+pix_plus/__init__.py
+pix_plus.egg-info/PKG-INFO
+pix_plus.egg-info/SOURCES.txt
+pix_plus.egg-info/dependency_links.txt
+pix_plus.egg-info/top_level.txt
+pix_plus/protos/__init__.py
+pix_plus/protos/proto_pixplus_pb2.py
+pix_plus/service_packages/__init__.py
+pix_plus/service_packages/_version.py
+pix_plus/service_packages/logger.py
+pix_plus/service_packages/shared.py
