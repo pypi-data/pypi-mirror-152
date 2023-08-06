@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: sendwave-pants-docker
+Version: 1.0
+Summary: Pants Plugin to automatically generate docker images from pants targets
+Home-page: UNKNOWN
+Author: compyman@compyman.net
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: pantsbuild.pants.testutil (<2.10,>=2.9.0rc0)
+Requires-Dist: pantsbuild.pants (<2.10,>=2.9.0rc0)
+
+UNKNOWN
+

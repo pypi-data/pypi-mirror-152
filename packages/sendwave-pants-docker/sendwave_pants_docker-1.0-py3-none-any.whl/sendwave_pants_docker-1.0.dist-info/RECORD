@@ -1,0 +1,13 @@
+sendwave/pants_docker/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sendwave/pants_docker/docker_component.py,sha256=o7PmMbDmFzCsyoLlvzbZV1XVQo1rbTJffW2zIR0K4Pg,353
+sendwave/pants_docker/package.py,sha256=_CInttrwmhLHgEhbbW4G2bGd5reKbdvGEm-sUHsTApY,8144
+sendwave/pants_docker/python_requirement.py,sha256=V951IfDhkmdAZlbxXfmmN6LzR1OfFkW3UojAk4X13qc,3192
+sendwave/pants_docker/register.py,sha256=fnkrTycVLkThmQCc2ddsHJocFNQmDyDxqd3O-bQRRCM,409
+sendwave/pants_docker/sources.py,sha256=bQ5_M8crpONmhZqVxiVKnCmMNcmbmf_C5c9xTcd1y_w,2915
+sendwave/pants_docker/target.py,sha256=1EyjVuffqNuDNyFMfQRggvqjQjlGRih4zk3OeJXvqoQ,2914
+sendwave/pants_docker/utils.py,sha256=I0OO8YtpeanLwjK5oWTAGaV933RFJ-aEAD0TU3kkoHI,464
+sendwave_pants_docker-1.0.dist-info/METADATA,sha256=BoJpboyMuBkKMWVDaVZQ1IvMWW63NKwHmBQFoi5a7pA,349
+sendwave_pants_docker-1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+sendwave_pants_docker-1.0.dist-info/namespace_packages.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+sendwave_pants_docker-1.0.dist-info/top_level.txt,sha256=ZSCRg3jD8Bd_A8D-IDM7-lf3izogY1_3ksj-bWqjR-U,9
+sendwave_pants_docker-1.0.dist-info/RECORD,,
