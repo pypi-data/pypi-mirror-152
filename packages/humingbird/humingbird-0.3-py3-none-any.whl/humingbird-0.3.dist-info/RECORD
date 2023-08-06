@@ -1,0 +1,8 @@
+humingbird/__init__.py,sha256=ACfGUkOE5tTIoFslhOmcIRndk8UkHlnX3_lDLZYPUqs,44
+humingbird/resources/__init__.py,sha256=lQKauluuHe71JRXutn9MKx8CxuksH7dDMYxyGz0ib_4,87
+humingbird/resources/image.py,sha256=POemJMqSjIkjLm_1gcADMQ4pASSnn4JWcCdKpGfxRGY,1574
+humingbird/resources/text.py,sha256=1StJS1Tu6AISERCsm9ftS7Z2AeJjuirIrtuu83hnuik,1098
+humingbird-0.3.dist-info/METADATA,sha256=6QPMR5qaP95sBXusXLoWBU6UmqBh5vCwZef4jZUY3ik,341
+humingbird-0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+humingbird-0.3.dist-info/top_level.txt,sha256=28y1a7vQQOJ__F_sQWKPrrmMNZhfz_uVfpAToFYOSmI,11
+humingbird-0.3.dist-info/RECORD,,
