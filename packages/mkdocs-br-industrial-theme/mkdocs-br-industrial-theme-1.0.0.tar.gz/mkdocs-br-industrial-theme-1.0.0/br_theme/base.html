@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="{{ "css/theme.css"|url }}">
+  <link rel="stylesheet" href="{{ "css/help.css"|url }}">
+  <link rel="stylesheet" href="{{ "css/styles.css"|url }}">
+
+  <!-- This is to handle the showing/hidding of elements in a dropdown -->
+  <script type="text/javascript">
+    function toggleDropDown(elem){
+      var children = elem.children;
+      for(var i=0; i < children.length; i++){
+        if(children[i].style.display == 'none' || children[i].nodeName == '' ){
+          children[i].style.display = 'none';
+        }
+        else{
+          children[i].style.display = '';
+        }
+      }
+    }
+    window.onload = function() {
+        var details = document.getElementsByTagName('details');
+        for(var i = 0; i < details.length; i++) {
+            var detail = details[i];
+            var cls = detail.className;
+            var dropdownCls = "dropdown-ct";
+            var indx = cls.indexOf(dropdownCls);
+            if(indx >= 0){
+              detail.onclick = toggleDropDown.bind(detail,detail);
+            }
+                        
+        }
+    }
+  </script>
+
+  {% for path in config.extra_css %}
+  <link href="{{ path|url }}" rel="stylesheet">
+  {% endfor %}
+
+  {% block extrahead %}
+  {% endblock %}
+
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+
+</head>
+
+<body>
+  {% block content %}
+  {{ page.content }}
+  {% endblock %}
+
+  {% if page.url_to_print_page %}
+    <a href="{{ page.url_to_print_page }}" title="Print Site" class="md-content__button md-icon">
+    </a>
+  {% endif %}
+</body>
+
+</html>

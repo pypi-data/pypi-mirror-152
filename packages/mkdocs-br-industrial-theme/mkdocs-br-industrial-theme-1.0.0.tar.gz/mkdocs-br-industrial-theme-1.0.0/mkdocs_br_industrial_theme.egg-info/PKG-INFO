@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: mkdocs-br-industrial-theme
+Version: 1.0.0
+Home-page: https://github.com/brcclark/mkdocs-br-theme
+Author: Connor Trostel
+Author-email: connor.trostel@br-automation.com
+License: GPL-3
+License-File: LICENSE
+
+Theme to match with the standard B&R Industrial Automation documentation styling.
