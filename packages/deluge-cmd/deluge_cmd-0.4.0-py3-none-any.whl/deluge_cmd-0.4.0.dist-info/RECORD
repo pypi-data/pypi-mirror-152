@@ -1,0 +1,9 @@
+deluge_cmd/__init__.py,sha256=20IjscP0dePLWab8B8tK3Vfo7QZkj9FDCU0k8x1m300,138
+deluge_cmd/cli.py,sha256=iPKpe3_Wne7iy_OtwzJw5lXECgvv0fGoAps3Dq6XPC4,306
+deluge_cmd/deluge_dls.py,sha256=yYKjuEd4C0JVgTR0QptC1L0njZV6p-4kXAqTbvSHdfY,2406
+deluge_cmd/deluge_dmv.py,sha256=e5iV24a7yaLHCVEfrkif3h9FW-iQnjbDhKd1dYDE2N4,2121
+deluge_cmd-0.4.0.dist-info/entry_points.txt,sha256=L7DqhKoY2baOuYM3bCGdF4CaTRPIeX5LCXDmbw6spuA,81
+deluge_cmd-0.4.0.dist-info/LICENSE,sha256=maIdWPA4cOHPJWivyggJhy5HxXlUb1YWBlrj_fZW0A4,1077
+deluge_cmd-0.4.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+deluge_cmd-0.4.0.dist-info/METADATA,sha256=1ZpPxCqm2zX6LbFFPUpPmHBD7tfM1noXdPPheJmdzlk,3453
+deluge_cmd-0.4.0.dist-info/RECORD,,
