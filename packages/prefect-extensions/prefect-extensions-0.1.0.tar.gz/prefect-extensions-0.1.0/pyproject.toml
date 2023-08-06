@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "prefect-extensions"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Neururer <neud@zhaw.ch>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+prefect = "^2.0b"
+pydantic = "^1.9.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+autopep8 = "^1.6.0"
+black = "^22.3.0"
+yapf = "^0.32.0"
+bandit = "^1.7.4"
+flake8 = "^4.0.1"
+mypy = "^0.950"
+pycodestyle = "^2.8.0"
+pydocstyle = "^6.1.1"
+pylint = "^2.13.9"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
