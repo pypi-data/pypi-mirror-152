@@ -1,0 +1,13 @@
+cdhf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cdhf/channel.py,sha256=edQBBq6g3Ss15StbSOo9rUQnJNW4IS1SSk1uEsfYB1E,2768
+cdhf/channel_member.py,sha256=4ouPiIkK9cW1XfK9z5Ze3rgBdK02uckzoHcG7CHFLU8,1382
+cdhf/channel_member_history_entry.py,sha256=himPsZH7YIoDD_HLp-XjX-lzNV7l-X08-DOmU44ldAw,1471
+cdhf/data.py,sha256=tmFTx4hVRoH-I3IMIYcxgNstenL7PUjfBla3PIdzfi0,9366
+cdhf/team.py,sha256=Ig-bUMlETWkbnPPikcAX5_mesEHvPK_aZAP-B88QBnc,2196
+cdhf/team_member.py,sha256=tAKwBI19e6gqzUH_ldGGahzVtJDYKHOrY26H6k5JLdI,1221
+cdhf/user_data.py,sha256=6DQXY69uD59lHh538hhh0OxAWA59A9Fnlc8NP6uf7wc,1098
+cdhf-1.1.dist-info/LICENSE,sha256=46mU2C5kSwOnkqkw9XQAJlhBL2JAf1_uCD8lVcXyMRg,7652
+cdhf-1.1.dist-info/METADATA,sha256=KTcVRThKCPmexG4DtgNbIm2fcEUuWBlPcRkMG5CWOHo,6480
+cdhf-1.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+cdhf-1.1.dist-info/top_level.txt,sha256=8pFcn34KTThVucArH1N8emFvgbcByz7qnMkBMn8Z29M,5
+cdhf-1.1.dist-info/RECORD,,
