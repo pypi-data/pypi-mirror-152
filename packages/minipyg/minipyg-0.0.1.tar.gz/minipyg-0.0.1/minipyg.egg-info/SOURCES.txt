@@ -1,0 +1,11 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+minipyg/__init__.py
+minipyg/minipyg.py
+minipyg.egg-info/PKG-INFO
+minipyg.egg-info/SOURCES.txt
+minipyg.egg-info/dependency_links.txt
+minipyg.egg-info/entry_points.txt
+minipyg.egg-info/top_level.txt
