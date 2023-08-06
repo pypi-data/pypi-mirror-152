@@ -1,0 +1,10 @@
+barcodeQrSDK/barcodeQrSDK.cpython-36m-darwin.so,sha256=DUp3zLnXKwJf-QHgpxbbDqq3_vlThcRPwAT9IlJb1pY,56240
+barcodeQrSDK/__init__.py,sha256=k7Qu0un2b3t-3qg_lrApayKcPlfvziNW0vtTD4qIpsY,50
+barcodeQrSDK/libDynamsoftBarcodeReader.dylib,sha256=bX_SNKp9MQDCLHJLXhjGHwXXaEVDDjiaNKPLRts2cFI,10919632
+barcodeQrSDK/libDynamsoftLicenseClient.dylib,sha256=UhQ2wVYu99Y2dv5Z7jbBuGh-rXltrJsiYefqSW-VEZc,280512
+barcodeQrSDK/.dylibs/libDynamsoftBarcodeReader.dylib,sha256=i9Bg4ijKv3da_cS3-57yMyBIXaTgK78LDYgT2zeXF3Y,10928672
+barcode_qr_code_sdk-9.0.2.dist-info/RECORD,,
+barcode_qr_code_sdk-9.0.2.dist-info/LICENSE,sha256=DAmxMjpovFRr_yJbYQlkcLM-BkN73YpLVgjc4qSdHbY,1081
+barcode_qr_code_sdk-9.0.2.dist-info/WHEEL,sha256=lX-b_5uAxCvaFhrE9FQLQr5GkAwAwB4HF8otD8COfQE,105
+barcode_qr_code_sdk-9.0.2.dist-info/top_level.txt,sha256=9sFUTx2v6wi9YHMVoPRcs_XXMXO3X2O7cYOzL6f-qP8,13
+barcode_qr_code_sdk-9.0.2.dist-info/METADATA,sha256=lq3LQqz-AR11xFEjpOre14XMOWyATT4qcJdd01V94HE,5666
