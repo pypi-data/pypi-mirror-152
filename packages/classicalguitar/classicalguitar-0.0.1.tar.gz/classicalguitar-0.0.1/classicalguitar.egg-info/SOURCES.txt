@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+classicalguitar/__init__.py
+classicalguitar/classicgt.py
+classicalguitar.egg-info/PKG-INFO
+classicalguitar.egg-info/SOURCES.txt
+classicalguitar.egg-info/dependency_links.txt
+classicalguitar.egg-info/top_level.txt

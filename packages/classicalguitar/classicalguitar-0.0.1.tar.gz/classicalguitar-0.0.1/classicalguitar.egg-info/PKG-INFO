@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: classicalguitar
+Version: 0.0.1
+Summary: classicalguitar by Doraeboy
+Home-page: https://github.com/doraeboy/classicalguitar
+Author: Doraeboy
+Author-email: boykaewpradab@gmail.com
+License: MIT
+Download-URL: https://github.com/UncleEngineer/MangoStickyRice/archive/v0.0.1.zip
+Keywords: Classical Guitar,Doraeboy
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+ทดสอบเขียนแพ็กเกจ Python ที่เกี่ยวกับ classicalguitar
+=====================================================
+
+Link: https://www.youtube.com/watch?v=8IEezGQwgZk
+
+PyPi: https://pypi.org/project/classicalguitar/
+
+สวัสดีจ้าาาา
+แพ็คนี้คือแพ็คเกจที่อธิบายเรื่องราวเกี่ยวกับกีตาร์คลาสสิคแบบย่อๆ
+โดยมีประวัติ การเล่นกีตาร์ และรูปภาพแอสกี
+
+วิธีติดตั้ง
+~~~~~~~~~~~
+
+เปิด CMD / Terminal
+
+.. code:: python
+
+   pip install classicalguitar
+
+วิธีใช้งานแพ็คเพจนี้
+~~~~~~~~~~~~~~~~~~~~
+
+-  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+
+.. code:: python
+
+   from classicalguitar.classicgt import ClassicalGT
+
+   gt = ClassicalGT()
+   gt.show_name() #ทักทายกันหน่อย
+   gt.show_youtube() #แสดงยูทูปการเล่นกีตาร์คลาสสิค
+   gt.about() #รู้จักกับกีตาร์คลาสสิค
+   gt.show_art() #แสดงภาพแอสกี
+
+พัฒนาโดย: Doraeboy
+
+
