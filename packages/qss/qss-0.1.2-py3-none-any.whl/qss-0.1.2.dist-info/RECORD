@@ -1,0 +1,12 @@
+qss/__init__.py,sha256=XKMmiwrZqkd1k2u1IXQAH71MFesmFpzSAuIKQcwzrBM,24
+qss/matrix.py,sha256=AfWxm9KYQPDr8hQKocoyEjAe3tBrfKQlyz-EdJtScs8,580
+qss/polish.py,sha256=l9UBXDynkUFcahZWahkkW-f7peY2BWGCojkva7qyye8,3894
+qss/precondition.py,sha256=jYlTWYBwK7UUffjE8NWExFAZidhh1Thb_Tsg0DC-oi4,1589
+qss/proximal.py,sha256=QldVHQ-1LZOEHuyFGBdlJ5YtEqrdVFzSZxImSsAQ8C8,11408
+qss/qss.py,sha256=73J8FZlhvMba6vLyXq2FV2vHCAuFCvgobMimIKamWts,9429
+qss/util.py,sha256=_OhAwkt3qtkLVmVmWB0CZ9ymdBPTgYFI3i1aVQk0ODY,1185
+qss-0.1.2.dist-info/LICENSE,sha256=QwcOLU5TJoTeUhuIXzhdCEEDDvorGiC6-3YTOl4TecE,11356
+qss-0.1.2.dist-info/METADATA,sha256=LVstvj4wtREoiNOVjART72sEK239196RcJB284P25CQ,5424
+qss-0.1.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+qss-0.1.2.dist-info/top_level.txt,sha256=JcoH8sS-qulTp2JoM0QvT4i_Cc7rHtsWiAhOGr2UmZU,4
+qss-0.1.2.dist-info/RECORD,,
