@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/peakrdl/ipxact/__about__.py
+src/peakrdl/ipxact/__init__.py
+src/peakrdl/ipxact/exporter.py
+src/peakrdl/ipxact/importer.py
+src/peakrdl/ipxact/typemaps.py
+src/peakrdl_ipxact.egg-info/PKG-INFO
+src/peakrdl_ipxact.egg-info/SOURCES.txt
+src/peakrdl_ipxact.egg-info/dependency_links.txt
+src/peakrdl_ipxact.egg-info/requires.txt
+src/peakrdl_ipxact.egg-info/top_level.txt
