@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: TTW123
+Version: 1.0.3
+Summary: 你好666
+Home-page: https://github.com/gavintan/wfrpc
+Author: Gavin
+Author-email: al@inventwithpython.com
+License: BSD
+Keywords: tt tw ttw
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+## ttw-hhh
+
+我的测试
+
+
+
+`pip install ttw-hhh`
+
