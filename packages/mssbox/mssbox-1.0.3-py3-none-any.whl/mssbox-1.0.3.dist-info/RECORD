@@ -1,0 +1,11 @@
+mssbox/__init__.py,sha256=9I_Sy9wlA0mEsQltaoFGFQSY3HAIglBX6Jv5KQr8Xwo,74
+mssbox/connect.py,sha256=8Sb9VVx_RNkHZD7L1pqppVqZ6W1AOfx-JzmMW9mIPnM,1973
+mssbox/disconnect.py,sha256=bFFosxHb5TVTVBDNU8eKoHplkP8QP4VaMvpoUpcr7ZQ,869
+mssbox/util/__init__.py,sha256=wAN0MRknS-pFlRV4JyGdGQS2vQlK5VmOOF0HDguySQk,121
+mssbox/util/getters.py,sha256=FYxPr_suX1b-Z_ORQRpyT83Nhdc0LkHeqd3OdicOx-c,1736
+mssbox/util/reset.py,sha256=5YebgdtMVcuUV-WUHVzXY1cxh_syWEv9lYrSdUMw2AI,602
+mssbox-1.0.3.dist-info/LICENSE.txt,sha256=DcW4FduvV3HZMlKfxBPOe2zVtwNrmvp8xV0KV2D-I5M,1098
+mssbox-1.0.3.dist-info/METADATA,sha256=8ld6lQ5fEt2wRQ2PmLmTJakMqijdaudAgQXA26_mV8k,983
+mssbox-1.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mssbox-1.0.3.dist-info/top_level.txt,sha256=n9SBoziLEEiyymg6wlXtFJLws8IwiQegGfgsPnq9v3k,7
+mssbox-1.0.3.dist-info/RECORD,,
