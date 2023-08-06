@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: envchain-shellenv
+Version: 0.1.2
+Summary: envchain shellenv - prints export statements for your secrets in the keychain
+Home-page: https://github.com/tddschn/envchain-shellenv
+License: MIT
+Keywords: envchain,shellenv,env,environment,keychain,keyring
+Author: Xinyuan Chen
+Author-email: 45612704+tddschn@users.noreply.github.com
+Requires-Python: >=3.10,<4.0
+Classifier: Framework :: AsyncIO
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Utilities
+Requires-Dist: keyring[keyring] (>=23.5.1,<24.0.0)
+Project-URL: Bug Tracker, https://github.com/tddschn/envchain-shellenv/issues
+Project-URL: Repository, https://github.com/tddschn/envchain-shellenv
+Description-Content-Type: text/markdown
+
+
