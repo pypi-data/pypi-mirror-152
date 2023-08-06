@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+finance_enums/__init__.py
+finance_enums/exchange.py
+finance_enums.egg-info/PKG-INFO
+finance_enums.egg-info/SOURCES.txt
+finance_enums.egg-info/dependency_links.txt
+finance_enums.egg-info/requires.txt
+finance_enums.egg-info/top_level.txt
+finance_enums/data/mics.csv
+finance_enums/sectors/__init__.py
+finance_enums/sectors/us.py
+finance_enums/tests/__init__.py
+finance_enums/tests/test_all.py

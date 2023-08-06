@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: finance-enums
+Version: 0.1.1
+Summary: Standard Finance enums
+Home-page: https://github.com/timkpaine/finance_enums
+Download-URL: https://github.com/timkpaine/finance_enums/archive/v0.1.0.tar.gz
+Author: Tim Paine
+Author-email: t.paine154@gmail.com
+License: Apache 2.0
+Keywords: finance data
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE
+
+# finance_enums
+Standard Financial Enumerations
+
+[![Build Status](https://github.com/timkpaine/finance_enums/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/timkpaine/finance_enums/actions?query=workflow%3A%22Build+Status%22)
+[![Coverage](https://codecov.io/gh/timkpaine/finance_enums/branch/main/graph/badge.svg?token=ag2j2TV2wE)](https://codecov.io/gh/timkpaine/finance_enums)
+[![License](https://img.shields.io/github/license/timkpaine/finance_enums.svg)](https://pypi.python.org/pypi/finance_enums/)
+[![PyPI](https://img.shields.io/pypi/v/finance_enums.svg)](https://pypi.python.org/pypi/finance_enums/)
+
+# Sectors
+- US
+
+# Industries
+- US
+
+
