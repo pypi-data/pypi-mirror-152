@@ -1,0 +1,62 @@
+Metadata-Version: 2.1
+Name: ru_attacker
+Version: 0.0.1
+Summary: A python package for attacking Russian NLP models
+Home-page: https://github.com/yuliya1324/ru_attacker
+Author: Julia Korotkova
+Author-email: koylenka15@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ru_attacker
+
+This is a tool for attacking Russian NLP models
+
+### Installation
+```
+pip install ru_attacker
+```
+### Usage example
+
+Set model
+```
+>>> from ru_attacker.models import RobertaModel
+>>> roberta_checkpoints =  "Roberta_checkpoints"
+>>> ruRoberta = RobertaModel(roberta_checkpoints)
+```
+
+Set dataset
+```
+>>> from ru_attacker.models.set_dataset import get_data
+>>> data_dir = "TERRa/val.jsonl" 
+>>> data = get_data(data_dir)
+```
+
+Set attack
+```
+>>> from ru_attacker.ru_attacker.attacks import WordOrder
+>>> word_order_attack = WordOrder()
+```
+
+Attack model and view results
+```
+>>> results = word_order_attack.attack(ruT5, data)
+                  [Succeeded / Failed / Skipped / Total] 0 / 1 / 0 / 1:
+                  entailment --> not_entailment
+                  original premise: """Р РµС€РµРЅРёРµ РЅРѕСЃРёС‚ СЃРёРјРІРѕР»РёС‡РµСЃРєРёР№ С…Р°СЂР°РєС‚РµСЂ, С‚Р°Рє РєР°Рє РІР·С‹СЃРєР°С‚СЊ РєРѕРјРїРµРЅСЃР°С†РёСЋ РїСЂР°РєС‚РёС‡РµСЃРєРё РЅРµРІРѕР·РјРѕР¶РЅРѕ"", - РѕС‚РјРµС‡Р°РµС‚СЃСЏ РІ СЃРѕРѕР±С‰РµРЅРёРё."
+                  original hypothesis: Р’Р·С‹СЃРєР°С‚СЊ РєРѕРјРїРµРЅСЃР°С†РёСЋ РЅРµ РїРѕР»СѓС‡РёС‚СЃСЏ.
+                  
+                  transformed: РЅРµ РєРѕРјРїРµРЅСЃР°С†РёСЋ Р’Р·С‹СЃРєР°С‚СЊ РїРѕР»СѓС‡РёС‚СЃСЏ .
+```
+Convert results to DataFrame
+```
+>>> dataframe = pd.DataFrame(results)
+```
+
+
