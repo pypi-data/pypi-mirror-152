@@ -1,0 +1,10 @@
+gspeerconnection/gspeerconnectionbroadcaster.py,sha256=iLTp71r9mDxASvBQduWtmyQr2D8QkkflOSKcQg5HiLc,5991
+gspeerconnection/gspeerconnectionbroadcasterpi.py,sha256=bUxAAqpHsLRBqY-d-nF1E5GMUPFJPOtitmGG-y3TJ2k,6115
+gspeerconnection/gspeerconnectionbroadcasteruniversal.py,sha256=oo8nhaFwghxe04n8NY9e37Hgz8PPPs98L1Y7Al_PVsM,5234
+gspeerconnection/gspeerconnectionwatcher.py,sha256=CPwCP8j_z2QZyYsdr1ySo-8QtR5P-MOfw-jnSSmgw2Q,4183
+gspeerconnection/pitrack.py,sha256=tcd_pKWkBmZYHHlZcGkFeT2GPCPK8kjW2I1gi7JFt20,7017
+gs_peer_connection-0.0.30.8.dist-info/METADATA,sha256=eAKLzcdQETdE89odhGfHuLBKu2p7d5mPqoQ0blii1IQ,684
+gs_peer_connection-0.0.30.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+gs_peer_connection-0.0.30.8.dist-info/entry_points.txt,sha256=xbPCTyO76J0bnt7mJKgAE4XccSVjuhbv71q3z5LVLjo,63
+gs_peer_connection-0.0.30.8.dist-info/top_level.txt,sha256=yQf4498LSfD-QSwdg0yIrjRB9yYLaR-lWJm-1PT2qKw,17
+gs_peer_connection-0.0.30.8.dist-info/RECORD,,
