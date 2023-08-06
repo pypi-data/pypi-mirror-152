@@ -1,0 +1,12 @@
+src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/python/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/python/definitions.py,sha256=O34TQy8QkN4yVvGDJsCsowVOr-WqioA3gQQfYzam_MA,245
+src/python/gui-windows.py,sha256=3zqZ4MvkS9b80vEm_E38H69LAg-Rv0VcEj_VxDn27us,1376
+src/python/gui.py,sha256=4kjdiUUw6jusNvBEctdhkvn3Vwmlhng6mWRWU8WEaXQ,17897
+src/python/match.py,sha256=FVgQJ7GVN-2vtoV_xbbXMg6LbzsTABcMUrSr1YC7Fyk,7087
+phylo_match-0.0.3.dist-info/LICENSE,sha256=KBQ-9KYIN-GvUzNtgfUyt_5A2956t6b3lP2WpQPt_tI,35151
+phylo_match-0.0.3.dist-info/METADATA,sha256=Cy0Udb5OX80xUx3KfAty-dLVjIOM31A4Y3pgNzG-yh4,1944
+phylo_match-0.0.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+phylo_match-0.0.3.dist-info/entry_points.txt,sha256=aHbru2qilXHmNbKQgggzHi2YRx1yNBDQHIfjgpfUqZ0,52
+phylo_match-0.0.3.dist-info/top_level.txt,sha256=74rtVfumQlgAPzR5_2CgYN24MB0XARCg0t-gzk6gTrM,4
+phylo_match-0.0.3.dist-info/RECORD,,
