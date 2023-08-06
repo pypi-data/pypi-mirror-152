@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pybazel.py
+setup.py
+pybazel.egg-info/PKG-INFO
+pybazel.egg-info/SOURCES.txt
+pybazel.egg-info/dependency_links.txt
+pybazel.egg-info/top_level.txt
