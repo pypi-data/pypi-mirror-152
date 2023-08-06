@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+FCropping.egg-info/PKG-INFO
+FCropping.egg-info/SOURCES.txt
+FCropping.egg-info/dependency_links.txt
+FCropping.egg-info/top_level.txt
+cropface/__init__.py

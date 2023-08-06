@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: FCropping
+Version: 0.0.1
+Summary: Face Cropping App
+Home-page: UNKNOWN
+Author: Abdul Rafay
+Author-email: rafayrana036@gmail.com
+License: MIT
+Keywords: Face Crop
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+This is an app which will be used to crop the faces
+
+Change Log
+==========
+
+0.0.1 (26/5/22)
+- First Release
+
