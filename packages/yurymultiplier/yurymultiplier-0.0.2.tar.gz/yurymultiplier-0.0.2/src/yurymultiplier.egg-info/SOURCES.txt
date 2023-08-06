@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/yurymultiplier/__init__.py
+src/yurymultiplier/yurymultiplier.py
+src/yurymultiplier.egg-info/PKG-INFO
+src/yurymultiplier.egg-info/SOURCES.txt
+src/yurymultiplier.egg-info/dependency_links.txt
+src/yurymultiplier.egg-info/top_level.txt
