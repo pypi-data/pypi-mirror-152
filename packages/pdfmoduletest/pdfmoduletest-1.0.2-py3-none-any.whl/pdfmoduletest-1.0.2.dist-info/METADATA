@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pdfmoduletest
+Version: 1.0.2
+Summary: https://www.qq.com
+Home-page: https://www.qq.com
+Author: 作者名
+Author-email: 作者@qq.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: requests (>=2.25.0)
+
+UNKNOWN
+
+
