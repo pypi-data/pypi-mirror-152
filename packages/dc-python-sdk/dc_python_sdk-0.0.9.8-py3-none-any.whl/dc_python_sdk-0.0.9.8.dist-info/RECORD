@@ -1,0 +1,10 @@
+dc_sdk/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dc_sdk/conftest.py,sha256=tn0dzyNOtvQZt-P1Eyeg_BYKg8AmjnJmc9lSZO9bhGk,6556
+dc_sdk/errors.py,sha256=_tl6JQHQFyvQu6_G2_JXMfjBvzO-C9gwSQJe0LlqxMc,11194
+dc_sdk/pytest.txt,sha256=Q-nB_VAFTUL0ATkzcOx-GKIta_zKpEFQwbhTGh8Yb2g,472
+dc_sdk/test_connector.py,sha256=8UQI8MjMc37eXLBFYYcpzmIOxqG3zV1s6QKBM9p87Oo,9657
+dc_python_sdk-0.0.9.8.dist-info/LICENSE,sha256=GSAKapQH5ZIGWlpQTA7v5YrfECyaxaohUb1vJX-qepw,1090
+dc_python_sdk-0.0.9.8.dist-info/METADATA,sha256=VonqUIItLvM7XtQWyZNDUOxk6p5gRUvvUhqH7eTN1mg,752
+dc_python_sdk-0.0.9.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+dc_python_sdk-0.0.9.8.dist-info/top_level.txt,sha256=gD_FZnF6mZfFU5EmdB2knYHDHKfH5kXJMtSgEZga3BI,7
+dc_python_sdk-0.0.9.8.dist-info/RECORD,,
