@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+create_icon.egg-info/PKG-INFO
+create_icon.egg-info/SOURCES.txt
+create_icon.egg-info/dependency_links.txt
+create_icon.egg-info/not-zip-safe
+create_icon.egg-info/top_level.txt
