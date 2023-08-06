@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: aqueduct-sdk
+Version: 0.0.1
+Summary: Python SDK for the Aqueduct prediction infrastructure.
+Home-page: https://github.com/aqueducthq/aqueduct
+Author: Aqueduct, Inc.
+Author-email: hello@aqueducthq.com
+License: Apache License 2.0
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7,<=3.10
+Requires-Dist: setuptools
+Requires-Dist: cloudpickle
+Requires-Dist: numpy
+Requires-Dist: pipreqsnb
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: IPython
+Requires-Dist: croniter
+Requires-Dist: pydantic
+Requires-Dist: ipynbname
+Requires-Dist: plotly
+
