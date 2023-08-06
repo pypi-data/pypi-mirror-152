@@ -1,0 +1,2 @@
+[console_scripts]
+letsgoing-rpi-arduinocontrol = letsgoing_rpi_arduinocontrol.__main__:main
