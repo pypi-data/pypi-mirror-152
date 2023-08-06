@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: mynameischang
+Version: 0.0.1
+Summary: Who is Uncle Chang?
+Home-page: https://github.com/Changnoixx
+Author: Uncle Chang
+Author-email: changnoixx@gmail.com
+License: MIT
+Download-URL: https://github.com/Changnoixx
+Keywords: Uncle Chang,ASCII ART
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+สร้างไลบรารี Python อัพโหลดขึ้น PyPi.org แสดงข้อมูลเกี่ยวกับ ลุงช้าง
+====================================================================
+
+PyPi: https://pypi.org/project/mynameischang/
+
+สวัสดี นี่คือ package ที่แสดงข้อมูลเกี่ยวกับลุงช้าง page link youtube
+ได้
+
+วิธีติดตั้ง
+~~~~~~~~~~~
+
+เปิด CMD / Terminal
+
+.. code:: python
+
+   pip install mynameischang
+
+วิธีใช้งานแพ็คเพจนี้
+~~~~~~~~~~~~~~~~~~~~
+
+-  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+
+.. code:: python
+
+   from mynameischang import Chang
+
+   name = Chang() #ประกาศชื่อคลาส
+   name.show_name() #โชว์ชื่อ
+   name.show_page() #โชว์เพจ
+   name.show_youtube() #โชว์ youtube
+   name.about() #เกี่ยวกับ
+   name.show_pic() #โชว์ภาพ ASCII
+
+พัฒนาโดย: ลุงช้าง FB: https://www.facebook.com
+
+YouTube: https://www.youtube.com
+
+

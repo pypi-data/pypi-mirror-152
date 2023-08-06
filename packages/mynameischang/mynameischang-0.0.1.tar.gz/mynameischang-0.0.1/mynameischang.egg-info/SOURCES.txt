@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+mynameischang/__init__.py
+mynameischang/chang.py
+mynameischang.egg-info/PKG-INFO
+mynameischang.egg-info/SOURCES.txt
+mynameischang.egg-info/dependency_links.txt
+mynameischang.egg-info/top_level.txt
