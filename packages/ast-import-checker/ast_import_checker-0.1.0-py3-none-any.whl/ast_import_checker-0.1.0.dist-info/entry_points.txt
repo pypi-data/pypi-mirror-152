@@ -1,0 +1,3 @@
+[console_scripts]
+import_checker=import_checker.import_checker:main
+

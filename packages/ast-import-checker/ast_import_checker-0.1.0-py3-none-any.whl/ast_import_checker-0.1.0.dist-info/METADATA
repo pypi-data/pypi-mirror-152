@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: ast-import-checker
+Version: 0.1.0
+Summary: A small utility for checking python imports via the AST module
+Author: Zach Taira
+Requires-Python: >=3.10.0,<4.0.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: absolutely_nothing (>=0.1,<0.2)
+Requires-Dist: pytest (>=6.0,<7.0)
