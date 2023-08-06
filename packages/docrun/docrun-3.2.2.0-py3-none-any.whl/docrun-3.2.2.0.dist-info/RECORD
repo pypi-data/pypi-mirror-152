@@ -1,0 +1,14 @@
+docrun/__init__.py,sha256=TQphIB8LgAjC_CjRAobZHnSbXoTUlnKoEXE3S9tL-u8,76
+docrun/__main__.py,sha256=2M6wRLexOaDxtHeXhvwQ0QK3aKSLPvi2R1fW2_hb0Z0,413
+docrun/en.py,sha256=BAJ8_hhROYxPf2_iZblg08Y3OLc4HVTJc0hMQnAs1GQ,3250
+docrun/kernels.py,sha256=TB30uEy7usQXIvWB2-_mDa_WB7DM1UJ997VfLbtiglg,103
+docrun/lang.py,sha256=3Nzxw76wIkKRyKomDm1qEtUm52MiPLW7b6BrRtMGciI,1724
+docrun/server_kernel.py,sha256=fmlF_vfTPAAzvnTUfKOgC4rKmsEIwpb_c3OS7nKPV34,15409
+docrun/server_ssh.py,sha256=PX7kADy6p7f1k3dTBIHjgIllNj8Vu9NDQhKq7y8frUo,57120
+docrun/version.py,sha256=30OnhFAFslzU48da6MgAfqZpPbXaxK9IQs6os7Laozo,21
+docrun/zh.py,sha256=5yRQO2nhmQtZKO-7MkRhlTiJ8tAQoxPC_FU2QhyNIiA,5471
+docrun-3.2.2.0.dist-info/LICENSE,sha256=ACwmltkrXIz5VsEQcrqljq-fat6ZXAMepjXGoe40KtE,1069
+docrun-3.2.2.0.dist-info/METADATA,sha256=RkTOEFbBF-gZti9QDCa5AaCAQsKScI5zLKQOHaf242A,775
+docrun-3.2.2.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+docrun-3.2.2.0.dist-info/top_level.txt,sha256=7lLm3yQZvL2JwWLoyqz3BGuX9I2oPcJvlbWG4xvIoB4,7
+docrun-3.2.2.0.dist-info/RECORD,,
