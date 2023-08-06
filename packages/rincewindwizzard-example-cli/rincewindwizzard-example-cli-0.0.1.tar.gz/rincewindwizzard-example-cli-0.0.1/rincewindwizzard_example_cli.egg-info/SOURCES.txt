@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+example_cli/__init__.py
+example_cli/hello.py
+rincewindwizzard_example_cli.egg-info/PKG-INFO
+rincewindwizzard_example_cli.egg-info/SOURCES.txt
+rincewindwizzard_example_cli.egg-info/dependency_links.txt
+rincewindwizzard_example_cli.egg-info/namespace_packages.txt
+rincewindwizzard_example_cli.egg-info/top_level.txt
+rincewindwizzard_example_cli.egg-info/zip-safe
+scripts/example-cli
