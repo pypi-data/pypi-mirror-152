@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/listwalker/__init__.py
+src/listwalker.egg-info/PKG-INFO
+src/listwalker.egg-info/SOURCES.txt
+src/listwalker.egg-info/dependency_links.txt
+src/listwalker.egg-info/top_level.txt
