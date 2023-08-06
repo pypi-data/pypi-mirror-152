@@ -1,0 +1,5 @@
+prefect_extensions/__init__.py,sha256=5ZxI4oRwobBSf71fAyreXLvIwRC92Qzq5XRFTJLqPuc,106
+prefect_extensions/portal.py,sha256=ZE46Oj0ejlsaewj5sVBrVImMt2V76oxce7W20F6tdhU,4638
+prefect_extensions-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+prefect_extensions-0.1.0.dist-info/METADATA,sha256=L5fx_spHJDL3Co87PiEZPxLrOnUNJ2XKkS4XZ4WkH1c,378
+prefect_extensions-0.1.0.dist-info/RECORD,,
