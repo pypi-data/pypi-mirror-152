@@ -1,0 +1,272 @@
+Metadata-Version: 2.1
+Name: pyRetroGame
+Version: 1.1.26
+Summary: A Python library for creating games in the terminal. test
+Home-page: UNKNOWN
+Author: Lorix & JProgrammer
+Author-email: <ciminata08@gmail.com>
+License: UNKNOWN
+Keywords: python,consoleGames,games,terminalGames,console,terminal,game,gameEngine,gameEngineLibrary,gameEngineLibraryPython
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+# PyRetroGame ( Demo )
+
+## Installation
+
+```py
+pip install pyretrogame
+```
+---
+## Getting Started
+### Create a file and import the library
+
+```py
+import pyRetroGame
+```
+
+### Declare the game variable
+```py
+game = pyRetroGame.game.Game(size = Vector2(15, 15))
+```
+
+### And start the game
+```py
+game.start()
+```
+
+
+
+## Congrats! Now you can initialize the game window.
+
+---
+
+## Initialize Player
+### Create a Player class and extend pyRetroGame.objects.gameEntity
+
+```py
+class Player(pyRetroGame.objects.gameEntity):
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+    def __str__(self):
+        # return the Player Texture
+        return 'X'
+```
+
+### Declare the player variable
+
+```py
+# Must return game var to the player
+player = Player(position=Vector2(0, 0), game=game)
+```
+
+### Spawn the player
+
+```py
+game.spawn(player)
+```
+
+## Congrats! You've spawned the Player.
+
+---
+
+## Player Movements and Keyboard Inputs
+
+### To move the Player we use the move function that accepts the direction argument as Vector2(x, y)
+
+```py
+player.move(Vector2(1, 0))
+```
+
+
+### In pyRetroGame for getting inputs we use Decorators, Here's an example:
+
+```py
+@game.inputHandler('w')
+def moveUp():
+    player.move(Vector2(0, -1))
+```
+
+### You can also use a list of key, but you must pass a key argument to the function
+
+```py
+@game.inputHandler(['w', 's', 'a', 'd'])
+def movements(key):
+    if key == 'w':
+        player.move(Vector2(0, -1))
+```
+
+### Here's a total movements function
+```py
+@game.inputHandler(['w', 's', 'a', 'd'])
+def movements(key):
+    if key == 'w':
+        player.move(Vector2(0, -1))
+    if key == 's':
+        player.move(Vector2(0, 1))
+    if key == 'a':
+        player.move(Vector2(-1, 0))
+    if key == 'd':
+        player.move(Vector2(1, 0))
+```
+
+## Congrats! Now you have a Player who moves in the game window.
+
+---
+
+## Custom Background
+
+### To change the background of the game window you need to use a Background class that return the background texture
+
+```py
+class Background():
+    def __str__(self):
+        # return the Background Texture
+        return '0'
+```
+
+### And pass the Background class to game
+
+```py
+game = pyRetroGame.game.Game(background=Background, size = Vector2(15, 15))
+```
+
+
+## Congrats! You have changed the background of the game window.
+
+---
+
+## Game Objects and Collisions
+
+### To create a game object you need to create a class and extend pyRetroGame.objects.gameObject
+
+```py
+class SolidBlock(pyRetroGame.objects.gameObject):
+    def __init__(self, *argvs, **kwargs):
+        super().__init__(*argvs, **kwargs)
+
+        # Game Objects has an argument called solid, if you want to make the object solid you need to set it to True
+        self.solid = True
+
+    def __str__(self):
+        # return the SolidBlock Texture
+        return 'B'
+```
+
+### Declare the solidBlock variable
+
+```py
+wall = SolidBlock(position=Vector2(5, 2), game=game)
+```
+### And spawn the solid block
+
+```py
+game.spawn(wall)
+```
+
+### Now, when the player collides with the solidBlock, it will be stopped
+
+### If you want to check when the player collides with the solidBlock, you can use the collisionHandler decorator
+
+```py 
+@player.collisionHandler(wall)
+def onCollideWithWall():
+    # Do something when the player collides with the wall
+    pass
+```
+
+### If you want to check when the player collides with the solidBlock, you can use the limitHandler decorator
+
+```py
+@player.limitHandler()
+def onCollideWithLimit(side):
+    # side argument return 'right' - 'left' - 'top' - 'bottom'
+
+    # Do something when the player collides with the limit of the game window
+    pass
+```
+
+
+
+## Congrats! Now you have a solid block that stops the player when it collides with it.
+
+---
+
+## Game Process
+
+### If you need a loop you can use the @game.process decorator
+
+```py
+@game.process()
+def process():
+    deltaTime = 0.1
+
+    while True:
+        
+        # Insert your Code Here
+
+        # Very important to declare a delay if you won't the game crash
+        time.sleep(deltaTime)
+```
+
+## Congrats! Now you have a game loop.
+
+---
+
+# Congrats! You've finished the tutorial. You're now ready to start your own game.
+
+
+
+
+## Other Functionalities
+
+### In the game var you can pass the fixedSize argument to set the window size perfectly match with the game size
+
+```py
+game = pyRetroGame.game.Game(background=Background, size = Vector2(15, 15), fixedSIze = True)
+```
+
+### In game.start() you can pass the fps argument to set the game FPS
+
+```py
+game.start(fps = 60)
+```
+
+### And you can also pass a debugging argument to set the debug mode
+
+```py
+game.start(fps = 60, debugging = True)
+```
+
+### If you need to print some Text you have 2 built-in functions:
+
+```py
+game.printText(text = "Hello World", timeout = 2)
+game.printAnimatedText(text = "Hello World", animationTimeout = 0.05, timeout = 2)
+```
+
+### If you need for some assets you can import the assets package
+
+```py
+from pyRetroGame.assets import *
+
+TextAssets.FilledBlock # 'â–ˆ'
+TextAssets.BlankSpace # ' '
+```
+
+### If need for some calculations you can import the gameMath package
+
+```py
+from pyRetroGame.gameMath import *
+
+# Return the distance beetween two Vector2
+gameMath.distance(Vector2(0, 0), Vector2(1, 1)) # 1.4142135623730951
+```
+
+
