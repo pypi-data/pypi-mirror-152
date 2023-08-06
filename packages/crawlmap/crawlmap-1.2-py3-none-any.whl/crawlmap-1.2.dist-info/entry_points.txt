@@ -1,0 +1,3 @@
+[console_scripts]
+crawlmap = crawlmap.__main__:main
+
