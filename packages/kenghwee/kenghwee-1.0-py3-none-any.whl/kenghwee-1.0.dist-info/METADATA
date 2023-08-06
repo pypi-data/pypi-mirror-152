@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: kenghwee
+Version: 1.0
+Summary: A package where a meme becomes reality.
+Home-page: https://github.com/RussellDash332/kenghwee
+Download-URL: https://pypi.org/project/kenghwee/
+Author: Russell Saerang
+Author-email: russellsaerang@gmail.com
+License: MIT
+Keywords: Kenghwee,Keng Hwee
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: seaborn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: pillow
+Requires-Dist: pyglet
+Requires-Dist: cocos2d
+
+# kenghwee
+A package where a meme becomes reality.
+
+## Description
+
+As of now, the `kenghwee` package supports two things:
+
+- `solution`: living up the meme `from kenghwee import solution`
+- `mission04`: additional function that is under development
+
+## Installation
+
+### Normal installation
+
+```bash
+pip install kenghwee
+```
+
+### Development installation
+
+```bash
+git clone https://github.com/RussellDash332/kenghwee.git
+cd kenghwee
+pip install --editable .
+```
+
+## Contributing
+Make a pull request, that's it :)
+
+# Change log
+
+## [1.0] - 2022-05-26
+
+### Added
+- `kenghwee.solution`
+- `kenghwee.mission04`
+
+### Changed
+
+### Removed
