@@ -1,0 +1,19 @@
+global:
+  default_inherits: default
+
+tools:
+  default:
+    cores: 2
+    mem: 8
+    env: {}
+    rules:
+      - if: input_size < 5
+        fail: We don't run piddling datasets
+  bwa:
+    rules:
+      - id: highmem_rule
+        if: input_size > 40
+        fail: a different kind of error
+    scheduling:
+      require:
+        - pulsar
