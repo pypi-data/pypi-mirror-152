@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: FreeFortniteAPI
+Version: 1.0.4
+Summary: Easy to use FreeFortniteAPI module.
+Home-page: 
+Author: faktor
+Author-email: minibots010@gmail.com
+License: MIT
+Keywords: FreeFortniteAPI
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# FreeFortniteAPI
+![PyPI Python Version](https://img.shields.io/pypi/pyversions/fortnite-api?label=python%20version&logo=python&logoColor=yellow)
+[![discord server invite](https://discordapp.com/api/guilds/881251978951397396/embed.png)](https://discord.com/invite/pFUTyqqcUx)
+Easy to use FreeFortniteAPI module.
+
+## Installing
+
+Python 3.5 or higher is required
+
+```
+pip install FreeFortniteAPI
+```
+
+## Documentation
+
+To get started we first need to import the api and initialize the client.
+
+```
+import FreeFortniteAPI
+
+api = FreeFortniteAPI.FortniteAPI
+```
+
+## Aes
+
+```
+api.aes("build", "main key", "updated")
+```
+
+## News
+```
+api.news("image gif", "date", "hash")
+```
+
+## Creator Code
+```
+api.creator_code(code="", type="code", "status")
+```
+
+## Creative Mode
+```
+api.creative_mode_island(code="", type="title", "description", "published date", "image", "creator")
+```
+
+## Cosmetics By ID
+```
+api.cosmetics_by_id(id="", type="id", "name", "description", "type", "rarity", "image", "introduction", "file")
+```
