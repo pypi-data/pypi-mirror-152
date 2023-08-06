@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+python/src/marc.egg-info/PKG-INFO
+python/src/marc.egg-info/SOURCES.txt
+python/src/marc.egg-info/dependency_links.txt
+python/src/marc.egg-info/requires.txt
+python/src/marc.egg-info/top_level.txt
