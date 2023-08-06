@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Auto-ML-study
+Version: 0.0.2
+Summary: This library was created for students studying autoML.
+Home-page: https://github.com/dev-jay-yong/Auto-DL-Study
+Author: EunJae Yong (Jay Yong)
+Author-email: jayyong.dev@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Auto-ML-Study
+
+이 라이브러리는 머신러닝 알고리즘을 공부하는 <b>학생</b>들을 위하여 개발되었습니다.
+
+
+

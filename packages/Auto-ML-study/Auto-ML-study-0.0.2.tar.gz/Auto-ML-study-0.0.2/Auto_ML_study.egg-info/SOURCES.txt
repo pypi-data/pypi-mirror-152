@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Auto_ML_study.egg-info/PKG-INFO
+Auto_ML_study.egg-info/SOURCES.txt
+Auto_ML_study.egg-info/dependency_links.txt
+Auto_ML_study.egg-info/top_level.txt
+machine_learning/__init__.py
