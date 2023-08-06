@@ -1,0 +1,12 @@
+git_bbb/__init__.py,sha256=v_oAfqai6rwAdPvrFl0xfDp0MeNJzMk0iliPEDkOVYk,1404
+git_bbb/browser.py,sha256=OX0j3UO5-8JUKnNPwRaON3qbOOG6bZyGdgG5AB0nh9Q,11776
+git_bbb/cli.py,sha256=YihCmoGOk4_bWth_OCpysIieyhJF_gkPDmJIpDZDL98,1326
+git_bbb/git_plumbing.py,sha256=iC8rfzsEZIGrl2wwmkvlk2zAoqenvN6857CtyzVcuBM,5069
+git_bbb/key_bindings.py,sha256=z8p9o8tWXLbGVqvW4lXPbo_2c9RBKmOoNmqaUou_BXQ,3322
+git_bbb/undo_redo.py,sha256=-h9JL6E_dB1-GViFC4oWlElEJRMUaIZhv0XHD8T0B5M,1446
+git_bbb-0.0.6.dist-info/LICENSE,sha256=gXf5dRMhNSbfLPYYTY_5hsZ1r7UU1OaKQEAQUhuIBkM,18092
+git_bbb-0.0.6.dist-info/METADATA,sha256=8G0ZHmLEg_wku0oqvpUW4MXOsuDVHxc3XmfeZZO56Ts,23518
+git_bbb-0.0.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+git_bbb-0.0.6.dist-info/entry_points.txt,sha256=3lVSwT_VtOI8YmrogpDH8ip9Xt4oSct9JFRkL-ndhhw,48
+git_bbb-0.0.6.dist-info/top_level.txt,sha256=kgRnURKDV7_9N8sSvRIeDZ9Ah9DPfaKIA0vfSwuKejY,8
+git_bbb-0.0.6.dist-info/RECORD,,
