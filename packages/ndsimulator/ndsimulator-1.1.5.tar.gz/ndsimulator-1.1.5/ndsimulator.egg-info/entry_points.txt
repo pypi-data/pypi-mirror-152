@@ -1,0 +1,4 @@
+[console_scripts]
+ndPEL = ndsimulator.scripts.plot_pot:main
+ndsimulator = ndsimulator.scripts.run:main
+
