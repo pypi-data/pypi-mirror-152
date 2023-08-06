@@ -1,0 +1,11 @@
+aws_ext/__init__.py,sha256=2rVdyUw5c9r08uuz4gCA9Su7hH6LxqSEXZEYaoJ2xY4,20
+aws_ext/command_line.py,sha256=arz6SBm5azIHnVVmwa4U0KTufcEtE3rgo7tfigcZCks,2546
+aws_ext/glue_database.py,sha256=1TAryocd4jRZdIspdNXYWoVrGGkZh4MGGBN2ea-ouuI,3124
+aws_ext/glue_databases.py,sha256=9A7NH4BMxnl5GiZSKDL9AkPqM-QmQi8wIL6bsy4ZYhw,2723
+aws_ext/glue_tables.py,sha256=IpF-_BskZT-kYfSnVuKYSdRZNMnHW1qtXRf118VTGX0,2834
+aws_ext-0.1.0.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+aws_ext-0.1.0.dist-info/METADATA,sha256=tpAdMlHZC3WNudPyvjp1Q-d5K4zN7ezuCitdxMEspVc,1487
+aws_ext-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aws_ext-0.1.0.dist-info/entry_points.txt,sha256=DZN-tQLB1R4DE0vmCFrO16QACOfWBhXaqNUxfek-Za0,54
+aws_ext-0.1.0.dist-info/top_level.txt,sha256=iQcdIBKAMk6H_KpCDYdnfDDdXIXykRRZZife2Fa23b0,8
+aws_ext-0.1.0.dist-info/RECORD,,
