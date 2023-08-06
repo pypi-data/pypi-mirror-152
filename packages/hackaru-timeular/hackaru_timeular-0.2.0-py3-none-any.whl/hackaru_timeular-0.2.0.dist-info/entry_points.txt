@@ -1,0 +1,2 @@
+[console_scripts]
+hackaru-timeular = hackaru_timeular:main
