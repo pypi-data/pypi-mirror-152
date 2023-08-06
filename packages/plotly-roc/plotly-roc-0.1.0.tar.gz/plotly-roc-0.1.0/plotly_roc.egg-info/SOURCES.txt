@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+plotly_roc/__init__.py
+plotly_roc/graphs.py
+plotly_roc/metrics.py
+plotly_roc.egg-info/PKG-INFO
+plotly_roc.egg-info/SOURCES.txt
+plotly_roc.egg-info/dependency_links.txt
+plotly_roc.egg-info/requires.txt
+plotly_roc.egg-info/top_level.txt
+plotly_roc.egg-info/zip-safe
