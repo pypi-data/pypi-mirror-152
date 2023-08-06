@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: telebot-components
+Version: 0.0.2
+Summary: Framework/toolkit for building Telegram bots with telebot and redis
+Home-page: https://github.com/bots-against-war/telebot-components
+License: GPLv3
+Author: Igor Vaiman
+Author-email: gosha.vaiman@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: redis (>=4.3.1,<5.0.0)
+Requires-Dist: telebot-against-war (==0.2.1)
+Project-URL: Repository, https://github.com/bots-against-war/telebot-components
+Description-Content-Type: text/markdown
+
+# telebot-components
+
+Framework / toolkit for building bots with [telebot](https://github.com/bots-against-war/telebot).
+
+<!-- ## Development -->
+
