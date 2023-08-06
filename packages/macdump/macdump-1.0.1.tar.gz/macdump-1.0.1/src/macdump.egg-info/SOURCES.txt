@@ -1,0 +1,16 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+src/macdump/__init__.py
+src/macdump/__main__.py
+src/macdump/file.py
+src/macdump/log.py
+src/macdump/shared.py
+src/macdump/system.py
+src/macdump.egg-info/PKG-INFO
+src/macdump.egg-info/SOURCES.txt
+src/macdump.egg-info/dependency_links.txt
+src/macdump.egg-info/entry_points.txt
+src/macdump.egg-info/requires.txt
+src/macdump.egg-info/top_level.txt
