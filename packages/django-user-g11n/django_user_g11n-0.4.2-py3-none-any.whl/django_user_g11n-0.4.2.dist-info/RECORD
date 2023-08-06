@@ -1,0 +1,13 @@
+user_g11n/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+user_g11n/apps.py,sha256=-cW8mTcMx9Kyj5RfLIY2X45-Dchm0sXEGpVreQZQlK8,94
+user_g11n/factories.py,sha256=s-3tHhWMA53EiTiQARu2M0kbUuNtHW6VMpyYKH5nNTo,837
+user_g11n/middleware.py,sha256=OsoXo6551umd-tQK720ztquj16RJxYp7s2Q9hExkoOA,1976
+user_g11n/models.py,sha256=FcigYfPvejiDM6BvTZ3FLP8hSp-4PYlmdfxJprysLlw,1423
+user_g11n/utils.py,sha256=0Kd-fqd029Qc87NIKu4H1CHcy_z0JT5mb8f8wLjOkaM,176
+user_g11n/views.py,sha256=zCeJbGaKkVTBcIOWjjqRZOHa0ZlxIted_drGohLeQq0,364
+django_user_g11n-0.4.2.dist-info/AUTHORS.md,sha256=A_TDRF40Ak4q9WFiMaP11r9n4EpL2mTdqY-khUU8Rrk,275
+django_user_g11n-0.4.2.dist-info/LICENSE,sha256=ACwmltkrXIz5VsEQcrqljq-fat6ZXAMepjXGoe40KtE,1069
+django_user_g11n-0.4.2.dist-info/METADATA,sha256=_7E87MuYRrxWAdVKocTLkxEeQfzD-DzEVi5wgvQOnRo,5724
+django_user_g11n-0.4.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+django_user_g11n-0.4.2.dist-info/top_level.txt,sha256=ndqZmFAY-F3TGYDl2eWChn4kY72hkbDUykF913UJ6Zw,10
+django_user_g11n-0.4.2.dist-info/RECORD,,
