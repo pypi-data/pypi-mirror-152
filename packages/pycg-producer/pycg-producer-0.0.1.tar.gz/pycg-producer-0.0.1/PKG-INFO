@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pycg-producer
+Version: 0.0.1
+Summary: Call Graph Producer for PyPI Packages with the use of PyCG 
+Home-page: https://github.com/fasten-project/pypi-tools/tree/main/cg-producer
+Author: Georgios-Petros Drosos
+Author-email: drosos007@gmail.com
+License-File: LICENCE.txt
