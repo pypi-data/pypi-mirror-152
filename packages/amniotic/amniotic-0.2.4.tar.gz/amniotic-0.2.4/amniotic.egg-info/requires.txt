@@ -1,0 +1,6 @@
+appdirs
+getmac
+johnnydep
+paho-mqtt
+python-vlc
+pyyaml
