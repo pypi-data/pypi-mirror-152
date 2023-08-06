@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pyqt_ani_toolbutton/__init__.py
+pyqt_ani_toolbutton/aniToolButton.py
+pyqt_ani_toolbutton.egg-info/PKG-INFO
+pyqt_ani_toolbutton.egg-info/SOURCES.txt
+pyqt_ani_toolbutton.egg-info/dependency_links.txt
+pyqt_ani_toolbutton.egg-info/requires.txt
+pyqt_ani_toolbutton.egg-info/top_level.txt
