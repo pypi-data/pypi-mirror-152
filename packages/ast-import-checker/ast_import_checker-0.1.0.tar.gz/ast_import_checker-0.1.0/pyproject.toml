@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "ast_import_checker"
+version = "0.1.0"
+description = "A small utility for checking python imports via the AST module"
+authors = ["Zach Taira"]
+
+[tool.poetry.dependencies]
+python = "^3.10.0"
+absolutely_nothing = "^0.1"
+pytest = "^6.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+mypy = "^0.782"
+pylint = "^2.4.4"
+pytest-cov = "^2.7.1"
+reorder-python-imports = "^1.8.0"
+safety = "^1.9.0"
+
+[build-system]
+requires = ["poetry>=1.0.0"]
+build-backend = "poetry.masonry.api"
+
+[tool.poetry.scripts]
+import_checker = "import_checker.import_checker:main"
