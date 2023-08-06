@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+MynameisWillson/Willson.py
+MynameisWillson/__init__.py
+MynameisWillson.egg-info/PKG-INFO
+MynameisWillson.egg-info/SOURCES.txt
+MynameisWillson.egg-info/dependency_links.txt
+MynameisWillson.egg-info/top_level.txt
