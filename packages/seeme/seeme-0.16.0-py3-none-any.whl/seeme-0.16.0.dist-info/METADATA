@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: seeme
+Version: 0.16.0
+Summary: SeeMe.ai - AI Marketplace
+Home-page: https://seeme.ai
+Author: Jan Van de Poel
+Author-email: jan.vandepoel@seeme.ai
+License: Apache
+Description-Content-Type: text/markdown
+Requires-Dist: requests (>=2.18.4)
+Requires-Dist: requests-toolbelt (>=0.9.1)
+Requires-Dist: python-dotenv
+
+# Intro
+
+Create, use, and share AI.
