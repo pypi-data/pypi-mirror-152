@@ -1,0 +1,3 @@
+[console_scripts]
+netflix=netflix.cli:main
+
