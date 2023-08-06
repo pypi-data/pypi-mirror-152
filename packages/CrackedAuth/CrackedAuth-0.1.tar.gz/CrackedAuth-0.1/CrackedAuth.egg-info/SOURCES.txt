@@ -1,0 +1,6 @@
+setup.py
+CrackedAuth/__init__.py
+CrackedAuth.egg-info/PKG-INFO
+CrackedAuth.egg-info/SOURCES.txt
+CrackedAuth.egg-info/dependency_links.txt
+CrackedAuth.egg-info/top_level.txt
