@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: roboticspy
+Version: 0.0.1
+Summary: Python package for doing science.
+Home-page: https://github.com/davidcmccoll/roboticspy
+Author: roboticspy
+Author-email: davidcmccoll@gmail.com
+License: BSD (3-clause)
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+License-File: LICENSE
+License-File: AUTHORS.rst
+
+==========
+roboticspy
+==========
+
+.. image:: https://img.shields.io/travis/davidcmccoll/roboticspy.svg
+        :target: https://travis-ci.org/davidcmccoll/roboticspy
+
+.. image:: https://img.shields.io/pypi/v/roboticspy.svg
+        :target: https://pypi.python.org/pypi/roboticspy
+
+
+Python package for doing science.
+
+* Free software: 3-clause BSD license
+* Documentation: (COMING SOON!) https://davidcmccoll.github.io/roboticspy.
+
+Features
+--------
+
+* TODO
+
+
