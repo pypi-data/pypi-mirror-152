@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+pyangexcel/__init__.py
+pyangexcel/excel.py
+pyangexcel.egg-info/PKG-INFO
+pyangexcel.egg-info/SOURCES.txt
+pyangexcel.egg-info/dependency_links.txt
+pyangexcel.egg-info/not-zip-safe
+pyangexcel.egg-info/requires.txt
+pyangexcel.egg-info/top_level.txt
