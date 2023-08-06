@@ -1,0 +1,12 @@
+numpy
+jsondiff
+pytz
+python-dateutil
+requests
+ipykernel
+ipython
+ipympl
+notebook
+ipywidgets
+matplotlib
+uncertainties
