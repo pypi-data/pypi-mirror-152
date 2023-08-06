@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+kagsa.egg-info/PKG-INFO
+kagsa.egg-info/SOURCES.txt
+kagsa.egg-info/dependency_links.txt
+kagsa.egg-info/entry_points.txt
+kagsa.egg-info/requires.txt
+kagsa.egg-info/top_level.txt
+src/__init__.py
+src/__main__.py
+src/built_modules.py
+src/compiler.py
+src/lexer.py
+src/methods.py
+src/parser.py
+src/syntax_checker.py
