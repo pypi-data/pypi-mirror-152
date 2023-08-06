@@ -1,0 +1,16 @@
+br_theme/404.html,sha256=b57QXWBPOwwMRFaPr92MpUyEMGRbYqDXRiOliUebM7Y,157
+br_theme/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+br_theme/base.html,sha256=Qa1bNUHZMHvIepUmFcBBWpIcTl25558EIbQKuxwdJZI,1837
+br_theme/main.html,sha256=vG6HvZZk7LgHc_SDAADfTAdRR5zyCzlFH8_o_lGmlJI,25
+br_theme/mkdocs_theme.yml,sha256=ccPX2mYZFHrLBoxqnHY0Wxf-vMpfnClyieIynox2Cw4,62
+br_theme/nav.html,sha256=CMmGVa1IUW0RRp2nDpFyQepASCHnFaWJxM5arzxOjY0,369
+br_theme/search.html,sha256=4Xpxp2RDUDBioCWVEDXl7J9ixKDQbR0Li2NWaj2LpMI,595
+br_theme/css/help.css,sha256=U-KPkfMQTuA8HjDbHIZ7rFXTHnGQuZRXJOs8MKr-C44,42146
+br_theme/css/styles.css,sha256=E7C0qBMZtym79tODizDPXP-Y2vFw8TGLrsiPWg4C0mE,5538
+br_theme/css/theme.css,sha256=JmCblG8VJhQM9s8XyokGxqRZf5zFLss9_8V0AWjtRrU,88
+mkdocs_br_industrial_theme-1.0.0.dist-info/LICENSE,sha256=gcuuhKKc5-dwvyvHsXjlC9oM6N5gZ6umYbC8ewW1Yvg,35821
+mkdocs_br_industrial_theme-1.0.0.dist-info/METADATA,sha256=YIORaM7wzPBPnFWhR56KFXJNm1_DfLc8f_0GpGJ1vpM,315
+mkdocs_br_industrial_theme-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mkdocs_br_industrial_theme-1.0.0.dist-info/entry_points.txt,sha256=_fjDLRrwriyOQg862McEno4yzcwqLwx-7ZhYLnNUEsU,35
+mkdocs_br_industrial_theme-1.0.0.dist-info/top_level.txt,sha256=0Y2V9ywuv33SOEBWLJNrT6N8C1pDqtV5hHaJwmugrEM,9
+mkdocs_br_industrial_theme-1.0.0.dist-info/RECORD,,
