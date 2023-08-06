@@ -1,0 +1,7 @@
+yaaredis<4,>=3.0.0
+
+[manual]
+sphinx<5,>=4
+
+[test]
+asynctest<0.14
