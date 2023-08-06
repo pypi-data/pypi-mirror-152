@@ -1,0 +1,12 @@
+jblibaws/__init__.py,sha256=UyRj0Pn65BwsqxdBkn0Tz7KC1bbYwX7PyJsb3I4dFWM,63
+jblibaws/aws/__init__.py,sha256=1Lh58CtfP_JzIdx2KC23au7igX5NqDrCBA2I98P7b2I,76
+jblibaws/aws/cognito.py,sha256=ssfoNw3GSoqKBFdnRMvfkXskXdyiP2oyqOWG1fbaPNg,1215
+jblibaws/aws/dynamodb.py,sha256=noX3ZC0M9ThZJ6EBWh7z_hKeXTDQa_xW-B4Q_6-fZrE,9558
+jblibaws/aws/secretsManager.py,sha256=zeJXOmrlmnpv3YG1lXpurciX4dxMO1U_pryIcYjpr80,2182
+jblibaws/dict_tools/__init__.py,sha256=8zYc-V8oMq6nWj3abEFVHl0p3MadBRDif6dD9vpEvBE,25
+jblibaws/dict_tools/dict_tools.py,sha256=fmhzQ781v38Op_aYmxPcf8VvaWACEjSRpmYF8t42efY,1061
+jblibaws-1.0.13.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+jblibaws-1.0.13.dist-info/METADATA,sha256=P-mb_Cjq_ZKqTQnyHRmJm82pXOzXKcQ6k-TC2XNanAQ,2505
+jblibaws-1.0.13.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+jblibaws-1.0.13.dist-info/top_level.txt,sha256=T-kMZTcCwn9ToNsLCW0A9owGmf-f4q2wEsXuvD_VMcI,9
+jblibaws-1.0.13.dist-info/RECORD,,
