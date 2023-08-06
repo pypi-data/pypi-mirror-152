@@ -1,0 +1,8 @@
+setup.py
+basic_module/__init__.py
+basic_module/add.py
+basic_module/subtract.py
+basic_module.egg-info/PKG-INFO
+basic_module.egg-info/SOURCES.txt
+basic_module.egg-info/dependency_links.txt
+basic_module.egg-info/top_level.txt
