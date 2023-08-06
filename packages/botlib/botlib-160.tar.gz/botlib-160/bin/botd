@@ -1,0 +1,34 @@
+#!/usr/bin/env python3
+# This file is placed in the Public Domain.
+
+
+"irc bot service"
+
+
+from bot.obj import Config
+
+
+Config.name = "botd"
+Config.version = "160"
+Config.workdir = "/var/lib/botd/"
+
+
+from bot.hdl import Callbacks, dispatch
+from bot.irc import IRC
+from bot.rss import Fetcher
+
+
+import bot.cmd.all
+
+
+def main():
+    Callbacks.add("command", dispatch)
+    Callbacks.threaded = True
+    i = IRC()
+    i.start()
+    f = Fetcher()
+    f.start()
+    i.forever()
+
+
+main()
