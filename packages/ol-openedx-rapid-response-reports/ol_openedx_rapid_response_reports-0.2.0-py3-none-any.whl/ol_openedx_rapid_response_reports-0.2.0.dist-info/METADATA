@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: ol-openedx-rapid-response-reports
+Version: 0.2.0
+Summary: An Open edX plugin to add rapid response reports support
+Home-page: UNKNOWN
+License: BSD-3-Clause
+Platform: UNKNOWN
+Requires-Dist: Django (>2.0)
+Requires-Dist: edx-django-utils (<5.0.0,>=4.0.0)
+
+UNKNOWN
+
