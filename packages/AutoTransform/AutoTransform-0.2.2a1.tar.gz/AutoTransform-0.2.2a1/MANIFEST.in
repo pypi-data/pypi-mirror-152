@@ -1,0 +1,9 @@
+include examples/sample_config.ini
+include examples/schedule.json
+include examples/manage.json
+include examples/requirements.txt
+include examples/schemas/black_format.json
+include examples/workflows/autotransform_manage.yml
+include examples/workflows/autotransform_run.yml
+include examples/workflows/autotransform_schedule.yml
+include examples/workflows/autotransform_update.yml
