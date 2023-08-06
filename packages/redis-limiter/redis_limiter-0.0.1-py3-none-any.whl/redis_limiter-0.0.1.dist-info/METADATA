@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: redis-limiter
+Version: 0.0.1
+Home-page: https://github.com/laobaox/redis-limiter.git
+Author: bao xie
+Requires-Python: >=2.7.9
+License-File: LICENSE
+
