@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/maxima_interface/__init__.py
+src/maxima_interface/maxima_interface.py
+src/maxima_interface.egg-info/PKG-INFO
+src/maxima_interface.egg-info/SOURCES.txt
+src/maxima_interface.egg-info/dependency_links.txt
+src/maxima_interface.egg-info/requires.txt
+src/maxima_interface.egg-info/top_level.txt

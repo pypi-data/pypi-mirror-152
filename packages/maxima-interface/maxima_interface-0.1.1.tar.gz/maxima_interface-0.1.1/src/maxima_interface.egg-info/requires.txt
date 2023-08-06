@@ -1,0 +1,5 @@
+psutil==5.9.*
+
+[dev]
+pre-commit
+bumpver
