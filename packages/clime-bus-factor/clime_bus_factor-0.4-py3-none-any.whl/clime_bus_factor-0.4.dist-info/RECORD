@@ -1,0 +1,12 @@
+clime_bus_factor/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+clime_bus_factor/args.py,sha256=h8BD-HJRvAh1uGtqixVXsi67muNQ95gkzHftQs836Sw,3855
+clime_bus_factor/bus_factor.py,sha256=R_4tL3YU03IYGJiohRct5dauFPRaQbbk9TKv-vIjfC0,1792
+clime_bus_factor/developer_count.py,sha256=4bEGhlLOCoPqiFT9k79DUhwHeOViBzO9tTODWmA-Jfs,1279
+clime_bus_factor/graph.py,sha256=K6s_mmnqyJRyqESD1PD_vlhxfLYzZwCii9_FSfzg-U4,1347
+clime_bus_factor/version.py,sha256=BCww46atDiteQh-go79EO4LHqb09XSnTJePHZKBnVew,60
+clime_bus_factor-0.4.dist-info/LICENSE,sha256=HfZeEdCZOlB4t1x4L1Li1jIBF7H2ks5zdfsNVw_ieoM,1539
+clime_bus_factor-0.4.dist-info/METADATA,sha256=Cnsy8tKzWkfwfHjvxVsVhV_VgJazjFapDc3MQAY7H-s,4801
+clime_bus_factor-0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+clime_bus_factor-0.4.dist-info/entry_points.txt,sha256=xyH8l1T4a5MfafKvTaWgn84-hggjPFBdX55olY8UKqU,275
+clime_bus_factor-0.4.dist-info/top_level.txt,sha256=hdBLLcsdJFVKgOy1McoR3-n_wtkVmWBRSoCxpso6tOc,17
+clime_bus_factor-0.4.dist-info/RECORD,,
