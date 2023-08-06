@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+requirements.txt
+setup.py
+aiob2/__init__.py
+aiob2/bucket.py
+aiob2/exceptions.py
+aiob2/types.py
+aiob2.egg-info/PKG-INFO
+aiob2.egg-info/SOURCES.txt
+aiob2.egg-info/dependency_links.txt
+aiob2.egg-info/top_level.txt
