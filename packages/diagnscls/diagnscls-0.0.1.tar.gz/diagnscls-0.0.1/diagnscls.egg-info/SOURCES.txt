@@ -1,0 +1,7 @@
+setup.py
+diagnscls/start_with_bam.sh
+diagnscls/start_with_fastq.sh
+diagnscls.egg-info/PKG-INFO
+diagnscls.egg-info/SOURCES.txt
+diagnscls.egg-info/dependency_links.txt
+diagnscls.egg-info/top_level.txt

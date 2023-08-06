@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: diagnscls
+Version: 0.0.1
+Summary: diagnosis non-small cell lung cancer
+Home-page: https://github.com/cheymingyu/Biomarker
+Author: cmg56
+Author-email: cmg5691@naver.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
