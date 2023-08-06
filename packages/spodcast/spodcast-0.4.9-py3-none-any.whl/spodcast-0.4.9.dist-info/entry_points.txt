@@ -1,0 +1,2 @@
+[console_scripts]
+spodcast = spodcast.__main__:main
