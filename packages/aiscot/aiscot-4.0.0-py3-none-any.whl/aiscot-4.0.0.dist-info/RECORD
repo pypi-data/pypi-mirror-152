@@ -1,0 +1,16 @@
+aiscot/__init__.py,sha256=1jbr5-EBUxkfmEG7wrmw7D1GrBh-bI0WxQDwLdP_G2M,863
+aiscot/classes.py,sha256=lkqIHLGTm1bqsW7WrKOekvH6bzfotqVZZxrbeGMrOhg,10553
+aiscot/commands.py,sha256=_ujcsCi8O9V29Dy6iecnQFXjit82pbZtdunH5tcFRsY,2448
+aiscot/constants.py,sha256=KU4yGT2TOl7mAW-hV936MGaKqVC0KDzLH96MtP2dI9A,1273
+aiscot/functions.py,sha256=k7LG1oWslo7L4Y8r1CK50I-ambqWm0nJdLteYx7JWBY,8862
+aiscot/pyAISm.py,sha256=i58qEFJtTNL2dRsxVGpkCw9Dyms2CY2lTZsqytS-8Bs,26585
+aiscot/data/MMSI_SHIP_DL.zip,sha256=2lZ59w8ntoYJqtwrIRVxuLMSt9gntkyC--2vKJKMa-U,109206
+aiscot/data/MaritimeIdentificationDigits-bb62983a-cf0e-40a1-9431-cd54eaeb1c85.csv,sha256=-6RsX67wKWDuNG2iHjGZFf0aU1tbZ2LDkWVdhiqvL5Q,9711
+aiscot/data/yadd_mmsi_coast_2021-11-03-163012.txt,sha256=h0b5aHnYUyK6ZvwskGltWW3ALZVR-QcjnpHE33aJdHw,27751
+aiscot/data/yadd_mmsi_ship_2021-11-03-170131.txt,sha256=-8OP6gWgVQ7kIOS8iaMpAaispchMxbzfK01wpyqxkec,2593030
+aiscot-4.0.0.dist-info/LICENSE,sha256=-ICQAZg4NjDTt4byXKu6RF2Xru9U25dcp0Q4w0_wMw8,554
+aiscot-4.0.0.dist-info/METADATA,sha256=2TR_kFOr7WJkd6Y-TnEjYK3V2YnUGf687Bravhffnbo,7815
+aiscot-4.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aiscot-4.0.0.dist-info/entry_points.txt,sha256=dy6Yy0tUSdNKBmhUQL_JuDMPSI7A1fGGzDHvPnK6BrY,48
+aiscot-4.0.0.dist-info/top_level.txt,sha256=Td4buWPv3UZZNA2zxL_JEbsiSyUc99id6f-xNmZcpIY,7
+aiscot-4.0.0.dist-info/RECORD,,
