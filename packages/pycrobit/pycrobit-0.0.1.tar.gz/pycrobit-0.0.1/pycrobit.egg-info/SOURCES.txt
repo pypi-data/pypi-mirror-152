@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pycrobit.py
+setup.cfg
+setup.py
+pycrobit.egg-info/PKG-INFO
+pycrobit.egg-info/SOURCES.txt
+pycrobit.egg-info/dependency_links.txt
+pycrobit.egg-info/requires.txt
+pycrobit.egg-info/top_level.txt
