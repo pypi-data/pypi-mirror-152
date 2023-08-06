@@ -1,0 +1,7 @@
+avocado_robot/robot.py,sha256=HE-IUAoTbkonZionAnLkzf81XavD2L4IbwrpAu25aVA,2669
+avocado_robot/runner.py,sha256=eQNA0HdjzrAEn-29iuYKYyCkPt_ICd-mX9PkMakM7GM,4456
+avocado_framework_plugin_robot-97.0.dist-info/METADATA,sha256=6rzy0Sb4tvZUlZ244hKxClFIcyt3PORg7ift9VUVfLE,330
+avocado_framework_plugin_robot-97.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+avocado_framework_plugin_robot-97.0.dist-info/entry_points.txt,sha256=9i6vg2koaYYvyPawRRxhGW3qqRf0g-Yq8sefdHootxg,213
+avocado_framework_plugin_robot-97.0.dist-info/top_level.txt,sha256=Jp5CAD_mxEnI-SM6-OK3e1aPJEANERzxRGch5oTgl2o,14
+avocado_framework_plugin_robot-97.0.dist-info/RECORD,,
