@@ -1,0 +1,6 @@
+[console_scripts]
+debug = modfixer.__main__:shell_debug
+fix = modfixer.__main__:shell_main
+pdebug = modfixer.__main__:shell_partial_debug
+shell_sarc = modfixer.__main__:shell_sarc
+unfix = modfixer.__main__:shell_main_unbuild
