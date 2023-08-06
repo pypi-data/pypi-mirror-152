@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: myrqalpha
+Version: 1.0.0
+Summary: A small example package
+Home-page: https://mp.weixin.qq.com/s/9FQ-Tun5FbpBepBAsdY62w
+Author: heiuLi
+Author-email: 1073816019@qq.com
+License: MIT
+Description: #Example Package
+        
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries

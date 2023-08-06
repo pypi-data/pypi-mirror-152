@@ -1,0 +1,8 @@
+README.rst
+setup.py
+myrqalpha/__init__.py
+myrqalpha/main.py
+myrqalpha.egg-info/PKG-INFO
+myrqalpha.egg-info/SOURCES.txt
+myrqalpha.egg-info/dependency_links.txt
+myrqalpha.egg-info/top_level.txt
