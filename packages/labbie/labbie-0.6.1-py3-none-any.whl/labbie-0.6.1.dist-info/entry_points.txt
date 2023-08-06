@@ -1,0 +1,4 @@
+[console_scripts]
+labbie=labbie.__main__:main
+package=package:package
+
