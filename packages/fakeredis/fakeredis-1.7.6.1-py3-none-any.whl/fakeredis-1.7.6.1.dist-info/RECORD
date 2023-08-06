@@ -1,0 +1,11 @@
+fakeredis/__init__.py,sha256=ewomaA81b5WeSXilMrn2Zqim2SsdmzizvPIB808qGlA,174
+fakeredis/_aioredis1.py,sha256=CcXgoUeWDEBf6GVW6Q19C94yU9n9BayKx7GMcfnl1EU,6555
+fakeredis/_aioredis2.py,sha256=SWW4e3GN2dCbd2Dq61GlFTztf5FkaFvRj5mWgHKK21g,5446
+fakeredis/_async.py,sha256=Vt-9FmO6HZV4W24y1YD4CiMcFqVAIcohY3TXdfyYHKo,1728
+fakeredis/_server.py,sha256=_1yV4o2l_VA8MiXImHGGZ12lF8kfhfaO6eaoXFCkd3g,96837
+fakeredis/_zset.py,sha256=YeppTthgIo6R-YCwJFZwM9-69Qn4oDURpfEDd3Ne76o,2693
+fakeredis/aioredis.py,sha256=gYYGjk0Q9413bfkFxZN-3EAdyvOBulPJOJN2RpQkb8A,786
+fakeredis-1.7.6.1.dist-info/LICENSE,sha256=3bfHxmfKZyn05N533ol1koNZsFk8tcXjXHuf-gHWsKI,2728
+fakeredis-1.7.6.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+fakeredis-1.7.6.1.dist-info/METADATA,sha256=0sIvfN1Luq0zKaADKZfVXwj_8iQI36JmAwuAD1Wg3vQ,9858
+fakeredis-1.7.6.1.dist-info/RECORD,,
