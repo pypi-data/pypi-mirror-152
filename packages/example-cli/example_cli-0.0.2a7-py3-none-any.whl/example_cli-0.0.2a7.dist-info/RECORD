@@ -1,0 +1,8 @@
+example_cli/__init__.py,sha256=IMjkMO3twhQzluVTo8Z6rE7Eg-9U79_LGKMcsWLKBkY,22
+example_cli/__main__.py,sha256=AozbTdxVAYi2yre0gClqo4NQyF5mr8EZuxxTTy1VBcI,941
+example_cli/openlibrary.py,sha256=IkeYCrjmWZt-qQaXNENZnAr5kD77R7lpJ0be7DA1nFU,547
+example_cli/sunrise.py,sha256=L95Auo2lNo5mCZ1algzN75GyEWtEGn35uKPX7pm8lzw,836
+example_cli-0.0.2a7.dist-info/entry_points.txt,sha256=eO795WP02J5e2ldqOYG8AkjwHCy67qgUT2QI1IJUDxE,57
+example_cli-0.0.2a7.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+example_cli-0.0.2a7.dist-info/METADATA,sha256=L0VI6n0ikX_vipfQ_WSmJBIXpuXfSoKZKbqoIE2DKdI,392
+example_cli-0.0.2a7.dist-info/RECORD,,
