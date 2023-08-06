@@ -1,0 +1,5 @@
+scyjava
+
+[testing]
+pytest
+pytest-cov

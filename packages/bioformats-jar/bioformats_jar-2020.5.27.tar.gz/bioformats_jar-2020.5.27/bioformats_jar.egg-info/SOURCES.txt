@@ -1,0 +1,16 @@
+.gitignore
+.pre-commit-config.yaml
+LICENSE
+README.md
+bioformats_jar.py
+pyproject.toml
+setup.cfg
+.github/ISSUE_TEMPLATE.md
+.github/workflows/ci.yml
+bioformats_jar.egg-info/PKG-INFO
+bioformats_jar.egg-info/SOURCES.txt
+bioformats_jar.egg-info/dependency_links.txt
+bioformats_jar.egg-info/requires.txt
+bioformats_jar.egg-info/top_level.txt
+tests/sample.czi
+tests/test_bioformats_jar.py
