@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+otda.egg-info/PKG-INFO
+otda.egg-info/SOURCES.txt
+otda.egg-info/dependency_links.txt
+otda.egg-info/requires.txt
+otda.egg-info/top_level.txt
+src/__init__.py
+src/otda.py
+src/run.py
