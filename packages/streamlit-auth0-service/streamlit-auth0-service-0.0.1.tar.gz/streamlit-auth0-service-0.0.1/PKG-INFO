@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: streamlit-auth0-service
+Version: 0.0.1
+Summary: Service to authorize Streamlit page based on token in URL param.
+Author: Mohammad Yazdani
+Author-email: mohammad@atlasai.co
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+
