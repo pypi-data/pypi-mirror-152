@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: clitify
+Version: 0.1.4
+Summary: CLI for the Spotify API using Spotipy
+Home-page: https://github.com/marcpartensky/clitify
+Author: Marc Partensky
+Author-email: marc.partensky@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: rich (>=12.4.4,<13.0.0)
+Requires-Dist: spotipy (>=2.19.0,<3.0.0)
+Requires-Dist: termcolors (>=0.1.0,<0.2.0)
+Project-URL: Repository, https://github.com/marcpartensky/clitify
+Description-Content-Type: text/markdown
+
+# Install
+```sh
+pip install clitify
+```
+
+# Run
+```sh
+# Like a song
+splike
+
+# Move song position
+spseek +10 # +10 seconds
+spseek -2.5 # -2.5 seconds
+
+# List song queue when on playlist
+spq
+```
+
+# Source
+[![github.com/marcpartensky/clitify](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/marcpartensky/clitify))
+
