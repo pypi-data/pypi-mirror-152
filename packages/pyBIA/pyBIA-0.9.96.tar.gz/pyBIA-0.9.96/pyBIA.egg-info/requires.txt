@@ -1,0 +1,9 @@
+numpy
+tensorflow
+scikit-learn
+scikit-optimize
+scipy
+photutils
+matplotlib
+pandas
+missingpy
