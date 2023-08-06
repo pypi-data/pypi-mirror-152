@@ -1,0 +1,8 @@
+include .editorconfig
+include .pre-commit-config.yaml
+include mkdocs.yml
+include *.md
+include docs *.md
+include docs *.txt
+include examples *.py
+include tests *.py

@@ -1,0 +1,27 @@
+site_name: TlHelp32 | Tool Help Library
+site_url: https://tlhelp32.rtfd.io/
+site_description: An idiomatic Python API for the Windows Tool Help library
+site_author: demberto
+repo_url: https://github.com/demberto/tlhelp32
+copyright: Copyright (c) 2022 demberto
+strict: true
+nav:
+  - Introduction: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Reference: api.md
+  - Contributor's Guide: contributing.md
+  - Issue Tracker: https://github.com/demberto/tlhelp32/issues
+theme: readthedocs
+markdown_extensions:
+  - admonition
+plugins:
+  - include-markdown
+  - mkdocstrings:
+      handlers:
+        python:
+          rendering:
+            heading_level: 3
+            show_root_toc_entry: false
+      watch:
+        - tlhelp32
