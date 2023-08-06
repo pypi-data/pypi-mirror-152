@@ -1,0 +1,2 @@
+[console_scripts]
+git-mr = git_mr_linear.main:run
