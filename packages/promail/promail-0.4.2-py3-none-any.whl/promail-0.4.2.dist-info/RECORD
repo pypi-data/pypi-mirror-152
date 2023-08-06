@@ -1,0 +1,14 @@
+src/.credentials/gmail_credentials.json,sha256=mBhdMg1m_Rwvlr2D02jE9AoECknIbHmtxaZHA3Zx458,403
+promail/__init__.py,sha256=86KcLjwBwdxYDdEPofZBZd_OJnlXEYJFjEpwFUquRr0,403
+promail/clients/__init__.py,sha256=T0xzhJD_r_iNDiLEWw0xF03QrDr6Q9UaaxRUo6RJJxM,431
+promail/clients/email_manager.py,sha256=PVj8K_pdeCUq_YAnrn5chOGoReaxLZvkWtXwxAFePc8,3376
+promail/clients/gmail.py,sha256=ycU9oMFU6OmjoASRSPCgo0lkYGQnROQlWAsE1P3T4h0,5036
+promail/clients/microsoft.py,sha256=1uOIt1vMCAux9F7GYBUrWBru_fknwz6SuZFy4uOIsWY,169
+promail/clients/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+promail/clients/smtp_client.py,sha256=yofqvx8gXPcDUGTJDX9U4shfjZ_xVEmNBioXvpl7Fa4,2192
+promail/core/__init__.py,sha256=y177nV7o2qOEFYZzP870gUAlzG7ZzraKXGIOsN-I1YM,27
+promail/core/embedded_attachments.py,sha256=ezqanFrerUi_-KlZCVEqI-uD-UwwRnwE3Fd3Th1vgU0,784
+promail-0.4.2.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+promail-0.4.2.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+promail-0.4.2.dist-info/METADATA,sha256=y4EuyTjdP3G9foEiqr-ikFk35DPyTTZGvRAWbSVkJY8,2080
+promail-0.4.2.dist-info/RECORD,,
