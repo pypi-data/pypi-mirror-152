@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "prompt_importer"
+version = "0.1.2"
+description = "A base class for building prompt-based beancount importers"
+authors = ["Harry Eldridge <eldridgemharry@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/heldridge/prompt_importer"
+license = "GPL-3.0-only"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+beancount = "^2.3.5"
+blessed = "^1.19.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.5"
+black = "^22.3.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
