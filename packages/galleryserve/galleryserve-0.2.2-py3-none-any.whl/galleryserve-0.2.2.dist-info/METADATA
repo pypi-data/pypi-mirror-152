@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: galleryserve
+Version: 0.2.2
+Summary: Adapted from imageserve to fit broader gallery needs such as video embedding and content for controls.
+Home-page: https://github.com/ImaginaryLandscape/django-galleryserve
+License: MIT
+Author: Imagescape
+Author-email: info@imagescape.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: Pillow (>=9.1.1,<10.0.0)
+Description-Content-Type: text/markdown
+
+# galleryserve
+A django app for serving collections of images or videos
+
+## Dependencies:
+Pillow
+
+## To install:
+    pip install galleryserve
+
+Add 'galleryserve' to INSTALLED_APPS
+
+## Configuration Options:
+**GALLERYSERVE_EXCLUDE_FIELDS** - This can be added as a list in your settings.py 
+file to exclude certain fields from appearing in the admin.
+
+## Template tag example:
+```
+{% load gallerytags %}
+
+{% get_gallery name %}
+{% for slide in gallery %}
+<div title="{{ slide.title }} - {{ slide.credit }}">
+{% if slide.url %}<a href="{{ slide.url }}">{% endif %}
+{% if slide.image %}<img src="{{ slide.image.url }}" alt="{{ slide.alt }}" />{% endif %}
+{% if slide.url %}</a>{% endif %}
+{% if slide.video_url %}<a href="{{ slide.video_url }}">{{ slide.title }}</a>{% endif %}
+{{ slide.title }} - {{ slide.credit }}<br />
+{{ slide.content|safe }}
+</div>
+{% endfor %}
+```
+
+## Change log:
+Changes in 0.2.0 - 05-25-22
+Updated build process for py3 compatible app
+
+Changes in 0.1.5 - 06-27-13
+Allow for gallery title to be passed in as context variable instead of always
+treating it as a string.
+
+Changes in 0.1.3 - 11-02-12
+Moved to git. Added ANTIALIAS to image processing
+
+Changes in 0.1.2 - 10-22-11
+Fail silently on gallery not existing
+
+Changes in 0.1.1 - 9-20-11
+Added random boolean to control whether gallery item sort should be random
+psql command to insert column:
+alter table galleryserve_gallery ADD column random boolean not null default false;
+
