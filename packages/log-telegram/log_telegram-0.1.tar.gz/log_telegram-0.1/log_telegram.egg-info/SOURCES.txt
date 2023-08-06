@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+log_telegram/__init__.py
+log_telegram/handlers.py
+log_telegram.egg-info/PKG-INFO
+log_telegram.egg-info/SOURCES.txt
+log_telegram.egg-info/dependency_links.txt
+log_telegram.egg-info/requires.txt
+log_telegram.egg-info/top_level.txt
