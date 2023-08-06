@@ -1,0 +1,3 @@
+[console_scripts]
+mcddns=mcddns.cli:main
+
