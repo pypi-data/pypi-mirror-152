@@ -1,0 +1,10 @@
+polisher/__init__.py,sha256=hAu4LFWkkg1wYBvXxm-MwXiS-98EZWB0Yc2Ikr9bhgk,161
+polisher/cleaner.py,sha256=JX0mGNEOFyAKFr-LUxi1f1899Oqh1v_6m5KgjBWx_Xs,2027
+polisher/configs.py,sha256=Cio4rWvCoZEsEzoT0dB2YF2K1lkI-gZ8Mv1iGuT90so,17
+polisher/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+polisher/tests/test_cleaner.py,sha256=tNMxCsee0xUZo8g9PN4fMINe2z2LHx1hBBMEbbAdQqY,1428
+polisher-1.0.2.dist-info/LICENCE.txt,sha256=Poj6Y__KY5k9QvOQ8J6gxr8TVXJlBQ8DPBJeMxobyxA,1083
+polisher-1.0.2.dist-info/METADATA,sha256=tUL118v13XGrQAprvmjdtIzhDXewGIZNl3_BOIOTRnw,4889
+polisher-1.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+polisher-1.0.2.dist-info/top_level.txt,sha256=ASsnAC8Ayb7DBaR9BEA5y9M3eLY-QITzx5iHRX1Wch8,9
+polisher-1.0.2.dist-info/RECORD,,
