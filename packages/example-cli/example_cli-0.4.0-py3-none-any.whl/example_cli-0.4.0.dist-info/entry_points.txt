@@ -1,0 +1,4 @@
+[console_scripts]
+example-cli=example_cli.__main__:main
+sunrise-cli=example_cli.sunrise:main
+
