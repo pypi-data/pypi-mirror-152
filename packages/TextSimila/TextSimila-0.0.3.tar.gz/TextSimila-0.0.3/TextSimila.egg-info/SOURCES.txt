@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+TextSimila/__init__.py
+TextSimila/preprocess.py
+TextSimila/text_sim_reco.py
+TextSimila.egg-info/PKG-INFO
+TextSimila.egg-info/SOURCES.txt
+TextSimila.egg-info/dependency_links.txt
+TextSimila.egg-info/top_level.txt
+example/__init__.py
+example/exe.py
