@@ -1,0 +1,9 @@
+matplotlib
+python-casacore
+argparse
+ipython
+codex-africanus[dask]
+astropy
+scipy
+dask-ms[xarray,zarr]
+pytest>=6.2.2

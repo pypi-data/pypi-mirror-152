@@ -1,0 +1,15 @@
+README.md
+setup.py
+surfvis/__init__.py
+surfvis/flagchi2.py
+surfvis/surfchi2.py
+surfvis/surfvis.py
+surfvis/utils.py
+surfvis.egg-info/PKG-INFO
+surfvis.egg-info/SOURCES.txt
+surfvis.egg-info/dependency_links.txt
+surfvis.egg-info/entry_points.txt
+surfvis.egg-info/requires.txt
+surfvis.egg-info/top_level.txt
+tests/__init__.py
+tests/test_trivial.py
