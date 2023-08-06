@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+notion2obsidian/__init__.py
+notion2obsidian/__main__.py
+notion2obsidian/n2o.py
+notion2obsidian.egg-info/PKG-INFO
+notion2obsidian.egg-info/SOURCES.txt
+notion2obsidian.egg-info/dependency_links.txt
+notion2obsidian.egg-info/entry_points.txt
+notion2obsidian.egg-info/requires.txt
+notion2obsidian.egg-info/top_level.txt
