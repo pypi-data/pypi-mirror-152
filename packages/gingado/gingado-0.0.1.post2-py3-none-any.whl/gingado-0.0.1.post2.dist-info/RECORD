@@ -1,0 +1,12 @@
+gingado/__init__.py,sha256=OJGQeW5jjyFq1fQCttNCdOByCyH3cRzvM722A4Ir3cM,24
+gingado/_nbdev.py,sha256=XUVLsUC6dHt1IOEjALsxGdHOhpwoVex68pxWCH_7n1A,855
+gingado/augmentation.py,sha256=s5UaA-L7khVNhSWJPBAbQIWJgJVNc4CGGNMw94rgSx8,6573
+gingado/benchmark.py,sha256=c1Fd7U-f3asZtk8IiEcKKQX-1pCWXgynPoaeNDDBWaY,7759
+gingado/model_documentation.py,sha256=938NvpFWw3TwwkdnmsKjdmzzsBzL-vaeAR7trsmCoDA,3642
+gingado/utils.py,sha256=ak7b8tRg_opxozOh8nkYCqFOzTXahiYCKVQjTn0Q9F8,3116
+gingado-0.0.1.post2.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+gingado-0.0.1.post2.dist-info/METADATA,sha256=jD6_YrjbLCaB5ua7JqGoIpa_h8dUtkw6b0YkZ4wrtFk,3251
+gingado-0.0.1.post2.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+gingado-0.0.1.post2.dist-info/entry_points.txt,sha256=eqGnTHtEVMYwfXVk1Z9MhC8O2N8wuqAbr0lisLmrkxs,20
+gingado-0.0.1.post2.dist-info/top_level.txt,sha256=e69SculYItaz4Z00maoM8VV9Q4Zx822pjvO46iCqLyY,8
+gingado-0.0.1.post2.dist-info/RECORD,,
