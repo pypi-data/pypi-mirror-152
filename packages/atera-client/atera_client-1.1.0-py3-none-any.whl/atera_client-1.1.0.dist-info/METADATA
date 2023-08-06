@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: atera-client
+Version: 1.1.0
+Summary: Welcome to the Atera API
+Home-page: https://github.com/InoGo-Software/atera-client
+Author-email: roelvandenboom@inogo.nl
+License: UNKNOWN
+Keywords: Atera,Welcome to the Atera API
+Platform: UNKNOWN
+Requires-Dist: certifi (>=2017.4.17)
+Requires-Dist: python-dateutil (>=2.1)
+Requires-Dist: six (>=1.10)
+Requires-Dist: urllib3 (>=1.23)
+
+Generated Atera API Python client.
+
