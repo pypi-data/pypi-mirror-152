@@ -1,0 +1,4 @@
+[console_scripts]
+ast_import_checker=ast_import_checker.import_checker:main
+import_checker=ast_import_checker.import_checker:main
+
