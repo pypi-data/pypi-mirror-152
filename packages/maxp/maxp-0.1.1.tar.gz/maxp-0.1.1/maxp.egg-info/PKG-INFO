@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: maxp
+Version: 0.1.1
+Summary: 3ds Max Python library
+Home-page: https://github.com/thomascswalker/maxp
+Author: thomascswalker
+Author-email: thomascswalker@gmail.com
+License: MIT
+Keywords: template
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Better Max Tools
+
+
