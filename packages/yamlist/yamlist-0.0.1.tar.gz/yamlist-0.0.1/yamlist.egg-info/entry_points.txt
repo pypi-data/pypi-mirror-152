@@ -1,0 +1,3 @@
+[console_scripts]
+yamlist = yamlist.main:main
+
