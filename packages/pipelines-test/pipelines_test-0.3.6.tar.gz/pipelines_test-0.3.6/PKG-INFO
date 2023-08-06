@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pipelines_test
+Version: 0.3.6
+Summary: Test Pipelines
+Author: Julia Patacz
+Author-email: julia.patacz@skillcorner.com
+Requires-Python: >=3.6
