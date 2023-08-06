@@ -1,0 +1,6 @@
+gobotz_rabbitmq/__init__.py,sha256=N5_VhZOpa6UFpxX23v2gfNWwVQ93uHvbfSff66esDEI,44
+gobotz_rabbitmq/rmq.py,sha256=0G-aNh82HOAVVHySzZMIIgfUh3neGIEdPUp3HUM-8KU,8373
+gobotz_rabbitmq-0.0.9.dist-info/LICENSE,sha256=awOCsWJ58m_2kBQwBUGWejVqZm6wuRtCL2hi9rfa0X4,1211
+gobotz_rabbitmq-0.0.9.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+gobotz_rabbitmq-0.0.9.dist-info/METADATA,sha256=0Susw6NkivTzZlPWiZGATjnPliMIdzHaDryZMj2897E,455
+gobotz_rabbitmq-0.0.9.dist-info/RECORD,,
