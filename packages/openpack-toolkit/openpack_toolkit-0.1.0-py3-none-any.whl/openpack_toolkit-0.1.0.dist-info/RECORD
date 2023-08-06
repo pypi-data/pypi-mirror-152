@@ -1,0 +1,9 @@
+openpack_toolkit/__init__.py,sha256=zRtE47xRq8M9qpSRb5YdZ7Zc1XS8s-Q1GcPnZssIGME,198
+openpack_toolkit/activity/__init__.py,sha256=VQqf8a7LZFsZ9mv9YJIhdB2QZ85t6f-xG072RQ0yNZA,2431
+openpack_toolkit/codalab/__init__.py,sha256=AYNlC4e8SkEOfq8uL667DYmeryC0UKXp4tcO2ZoFh2o,216
+openpack_toolkit/codalab/workprocess_segmentation/__init__.py,sha256=sLou4193RI2wVEBrWZFn0srVf77nZJyVwYo8WykEkrY,746
+openpack_toolkit/codalab/workprocess_segmentation/eval.py,sha256=8g--UFAdEBsiMEh55_9A0pBBmW-ga3hxsntQsfHxfUA,4012
+openpack_toolkit/codalab/workprocess_segmentation/utils.py,sha256=oTR6Pi0j3ns-PsPAf5xUOuIW1T6Aa72lXgML_uDyyNw,5996
+openpack_toolkit-0.1.0.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+openpack_toolkit-0.1.0.dist-info/METADATA,sha256=CTqURTi5zWFKZWGDny0CB1KFiE_LzwTk1jKMpd_2lKk,1325
+openpack_toolkit-0.1.0.dist-info/RECORD,,
