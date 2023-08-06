@@ -1,0 +1,14 @@
+pixivpy3>=3.7.1
+pwinput>=1.0.2
+requests>=2.27.1
+selenium>=4.1.2
+types-requests>=2.27.1
+types-selenium>=3.141.8
+
+[dev]
+black
+flake8
+mypy
+pre-commit
+setuptools>=46.4.0
+wheel
