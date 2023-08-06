@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: PETAnnotationDataset
+Version: 0.0.1a3
+Summary: PET annotation dataset
+Home-page: http://www.example.com/it
+Author: Patrizio Bellan
+Author-email: patrizio.bellan@gmail.com
+Maintainer: Patrizio Bellan
+Maintainer-email: patrizio.bellan@gmail.com
+License: MIT
+Keywords: PET,dataset
+Platform: Any
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Utilities
+Requires-Python: !=2.7, >=3.7.*
+Description-Content-Type: text/x-rst
+
+Titoli:
+
+Titolo di sezione
+==================
+
+Sottotitolo di sezione
+-----------------------
+
+Liste:
+
+ - Elemento di una lista puntata
+
+ - Secondo elemento
+
+   - Sottoelemento
+
+ - Terzo elemento
+
+ 1) Elemento di una lista numerata
+
+ 2) Secondo elemento
+
+    a) Sottoelemento
+
+       i) Sotto-sottoelemento
+
+ 3) Terzo elemento
+
+Link titolati:
+
+ Frasi con link a Google_ e all' `archivio kernel Linux`_.
+
+ .. _Google: http://www.google.com/
+ .. _archivio kernel Linux: http://www.kernel.org/
+
+Link anonimi:
+
+ Un'altra frase con un link `anonimo al sito web di Python`__.
+
+ __ http://www.python.org/
+

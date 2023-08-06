@@ -1,0 +1,13 @@
+README.rst
+setup.py
+PETAnnotationDataset/AnnotationDataset.py
+PETAnnotationDataset/CONSTANTS.py
+PETAnnotationDataset/__init__.py
+PETAnnotationDataset.egg-info/PKG-INFO
+PETAnnotationDataset.egg-info/SOURCES.txt
+PETAnnotationDataset.egg-info/dependency_links.txt
+PETAnnotationDataset.egg-info/top_level.txt
+PETannotationdataset/AnnotationDataset.py
+PETannotationdataset/CONSTANTS.py
+PETannotationdataset/__init__.py
+PETannotationdataset/annotationdataset.py
