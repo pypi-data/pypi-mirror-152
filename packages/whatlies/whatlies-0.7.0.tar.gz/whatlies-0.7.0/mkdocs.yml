@@ -1,0 +1,68 @@
+site_name: whatlies
+extra_css: [style.css]
+repo_url: https://github.com/koaning/whatlies
+site_url: https://koaning.github.io/whatlies/
+site_description: A python package to discover "what lies" in word embeddings.
+site_author: Vincent D. Warmerdam @ Rasa Research
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Quickstart: tutorial/quickstart/index.md
+    - What Are Embeddings: tutorial/embeddings/index.md
+    - Interactive Visualisation: tutorial/embeddingsets/index.md
+    - Scikit-Learn Compatibility: tutorial/scikit-learn.md
+    - FAQ: faq.md
+  - API:
+    - Embedding: api/embedding.md
+    - EmbeddingSet: api/embeddingset.md
+    - Helpers: api/helpers.md
+    - Transformers:
+      - Pca: api/transformers/pca.md
+      - Umap: api/transformers/umap.md
+      - Tsne: api/transformers/tsne.md
+      - Noise: api/transformers/noise.md
+      - Add Random: api/transformers/addrandom.md
+    - Language:
+      - spaCy: api/language/spacy_lang.md
+      - Sense2Vec: api/language/s2v_lang.md
+      - floret: api/language/floret_lang.md
+      - fasttext: api/language/fasttext_lang.md
+      - CountVector: api/language/countvector_lang.md
+      - TFIDFVector: api/language/tfidf_lang.md
+      - BytePair: api/language/bpemb_lang.md
+      - ConveRT: api/language/convert_lang.md
+      - Gensim: api/language/gensim_lang.md
+      - Huggingface: api/language/transformers.md
+      - LaBSE: api/language/labse.md
+      - TFHub: api/language/tfhub.md
+      - USE: api/language/universal_sentence.md
+      - Sent TFM: api/language/sentence_tfm.md
+  - Examples:
+    - Debiasing Projections: examples/lipstick-pig/index.md
+    - Arabic Benchmarks: examples/arabic/index.md
+  - Roadmap: roadmap.md
+  - Releases: releases.md
+plugins:
+  - mkdocstrings
+  - search
+copyright: Copyright &copy; 2020 Maintained by <a href="https://twitter.com/fishnets88">Vincent</a>.
+theme:
+  name: material
+  custom_dir: theme/
+  favicon: images/fig.png
+  logo: arrow.png
+  feature:
+    tabs: true
+  palette:
+    primary: white
+    accent: purple
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - js/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

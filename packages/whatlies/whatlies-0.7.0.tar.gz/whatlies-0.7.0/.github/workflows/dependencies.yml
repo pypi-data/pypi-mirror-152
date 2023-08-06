@@ -1,0 +1,47 @@
+name: Check Optional Dependencies
+
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        pip install flake8 pytest black
+    - name: Run Base Install
+      run: |
+        python -m pip install -e ".[base]"
+    - name: Run Checks
+      run: |
+        python tests/scripts/check_pip.py missing tensorflow spacy fasttext umap
+        python tests/scripts/check_pip.py contains gensim
+        python tests/scripts/import_all.py
+    - name: Show Pretty Error
+      run: python tests/scripts/import_msg_demo.py
+    - name: Install Tensorflow Dependencies
+      run: |
+        python -m pip install -e ".[tfhub]"
+    - name: Run Checks
+      run: |
+        python tests/scripts/check_pip.py missing spacy fasttext sentence-transformers umap
+        python tests/scripts/check_pip.py contains gensim tensorflow
+        python tests/scripts/import_all.py
+    - name: Install All
+      run: |
+        python -m pip install -e ".[all]"
+    - name: Run Checks
+      run: |
+        python tests/scripts/check_pip.py contains spacy tensorflow transformers sense2vec sentence-transformers umap
