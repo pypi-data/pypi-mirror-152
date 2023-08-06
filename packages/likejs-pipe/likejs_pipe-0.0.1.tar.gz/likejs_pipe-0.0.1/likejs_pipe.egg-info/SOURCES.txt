@@ -1,0 +1,5 @@
+setup.py
+likejs_pipe.egg-info/PKG-INFO
+likejs_pipe.egg-info/SOURCES.txt
+likejs_pipe.egg-info/dependency_links.txt
+likejs_pipe.egg-info/top_level.txt
