@@ -1,0 +1,12 @@
+LICENCE.txt
+README.md
+setup.py
+polisher/__init__.py
+polisher/cleaner.py
+polisher/configs.py
+polisher.egg-info/PKG-INFO
+polisher.egg-info/SOURCES.txt
+polisher.egg-info/dependency_links.txt
+polisher.egg-info/top_level.txt
+polisher/tests/__init__.py
+polisher/tests/test_cleaner.py
