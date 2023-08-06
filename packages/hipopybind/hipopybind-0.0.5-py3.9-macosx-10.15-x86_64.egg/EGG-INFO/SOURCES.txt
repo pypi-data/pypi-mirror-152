@@ -1,0 +1,15 @@
+.gitignore
+.gitmodules
+CMakeLists.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+hipopybind.egg-info/PKG-INFO
+hipopybind.egg-info/SOURCES.txt
+hipopybind.egg-info/dependency_links.txt
+hipopybind.egg-info/not-zip-safe
+hipopybind.egg-info/requires.txt
+hipopybind.egg-info/top_level.txt
+src/main.cpp
+tests/test_basic.py
