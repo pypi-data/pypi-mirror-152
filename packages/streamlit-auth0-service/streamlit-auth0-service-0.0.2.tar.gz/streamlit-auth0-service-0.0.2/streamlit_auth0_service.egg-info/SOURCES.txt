@@ -1,0 +1,9 @@
+README.md
+setup.py
+auth0/__init__.py
+auth0/streamlit_auth0_service.py
+streamlit_auth0_service.egg-info/PKG-INFO
+streamlit_auth0_service.egg-info/SOURCES.txt
+streamlit_auth0_service.egg-info/dependency_links.txt
+streamlit_auth0_service.egg-info/requires.txt
+streamlit_auth0_service.egg-info/top_level.txt
