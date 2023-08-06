@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: datamanipy
+Version: 1.0.0
+Summary: A Python package that provides tools to help you manipulating data.
+Home-page: UNKNOWN
+Author: Alexandre Le Potier
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Requires-Dist: sqlalchemy
+Requires-Dist: pandas
+Requires-Dist: datetime
+Requires-Dist: getpass
+Requires-Dist: keyring
+Requires-Dist: json
+Requires-Dist: pathlib
+Requires-Dist: os
+
+UNKNOWN
+
+
