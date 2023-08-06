@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+truestrive/__init__.py
+truestrive/libs/__init__.py
+truestrive/libs/filetypes/__init__.py
+truestrive/libs/filetypes/common.py
+truestrive/libs/filetypes/file.py
+truestrive/libs/filetypes/file_signature.json
+truestrive/libs/filetypes/utils.py
+validate_extension_file.egg-info/PKG-INFO
+validate_extension_file.egg-info/SOURCES.txt
+validate_extension_file.egg-info/dependency_links.txt
+validate_extension_file.egg-info/top_level.txt
