@@ -1,0 +1,8 @@
+didas/__init__.py,sha256=v_19unwjeqvbVRz4NvJUr5flrFNGdny_Rl3wgE1MNrQ,412
+didas/_version.py,sha256=RsZjRjMprNcDm97wqRRSk6rTLgTX8N0GyicZyZ8OsBQ,22
+didas/mlflow.py,sha256=hcm7TEwRKYc2xvFS1nNlzrrrP0TBLr3NugnU0ZWRAIc,898
+didas/oracle.py,sha256=T54g55uqjFFwSvo20EpZlxArNMIOQKPv_c2VFXpHLx8,9696
+didas-1.0.0.dist-info/METADATA,sha256=TcyOQECijadg9r5KK-H7yjhRFoxXD-YXsEaVZVQKudw,775
+didas-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+didas-1.0.0.dist-info/top_level.txt,sha256=_MqsyH3SadH3nWE4avMMt5YMPgZaHNlteXBRn2v5UEE,6
+didas-1.0.0.dist-info/RECORD,,
