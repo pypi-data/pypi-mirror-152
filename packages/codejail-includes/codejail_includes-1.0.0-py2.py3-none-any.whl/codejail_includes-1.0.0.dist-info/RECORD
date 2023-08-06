@@ -1,0 +1,11 @@
+eia.py,sha256=Bpj8OU8gAWsPVUDm8fH0lmqLw1F6_tg8GnbGMr6RVr8,3411
+loncapa/__init__.py,sha256=q3ML2BnXYi2AyadEPI4vUNjsdn5Tl43O6AeCSlX6OeM,157
+loncapa/loncapa_check.py,sha256=ZJ06nIU2WMGmLKzFCnz6VbFqoUjbseu3Nq-cy8KO3Dw,1151
+verifiers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+verifiers/draganddrop.py,sha256=hj0hEuGxzKCZL5X_BhqUIh7_ct8BSyVdrRTqxvj8t5k,15245
+verifiers/tests_draganddrop.py,sha256=zinWXDGgL9MDCuavBZs8oYQYJ7Yb4JNW2Vm46uM8zA8,31808
+codejail_includes-1.0.0.dist-info/LICENSE,sha256=hIahDEOTzuHCU5J2nd07LWwkLW7Hko4UFO__ffsvB-8,34523
+codejail_includes-1.0.0.dist-info/METADATA,sha256=sjvkEkB-IZ49K7hulkfCdn8mWe_am6ns_QU7U4CDZ0s,4855
+codejail_includes-1.0.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+codejail_includes-1.0.0.dist-info/top_level.txt,sha256=xM4UezZiZV2_UFTM_qwNp40wMEwXS9GdXslRXH121_U,22
+codejail_includes-1.0.0.dist-info/RECORD,,
