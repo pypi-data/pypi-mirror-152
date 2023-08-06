@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: fyo
+Version: 0.1.0
+Summary: Pure synthatic sugar for filesystem tasks.
+Home-page: https://github.com/ericmiguel/fyo
+License: MIT
+Keywords: filesystem,pathlib
+Author: ericmiguel
+Author-email: ericmiguel@id.uff.br
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Project-URL: Repository, https://github.com/ericmiguel/fyo
+Description-Content-Type: text/markdown
+
+# Yoyo - pure synthatic sugar for filesystem tasks
+
+**Yoyo** extends python's built-in `pathlib` module with a few syntactic sugar methods.
+
+This package is a work in progress.
+
