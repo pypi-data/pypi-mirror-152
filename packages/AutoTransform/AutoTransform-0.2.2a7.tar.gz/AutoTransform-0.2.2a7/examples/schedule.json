@@ -1,0 +1,24 @@
+{
+    "base_time": 1650870000,
+    "runner": {
+        "type": "github",
+        "params": {
+            "run_workflow": "autotransform.run.yml",
+            "update_workflow": "autotransform.update.yml"
+        }
+    },
+    "excluded_days": [
+        5,
+        6
+    ],
+    "schemas": [
+        {
+            "type": "file",
+            "schema": "autotransform/schemas/black_format.json",
+            "schedule": {
+                "repeats": "daily",
+                "hour_of_day": 7
+            }
+        }
+    ]
+}
