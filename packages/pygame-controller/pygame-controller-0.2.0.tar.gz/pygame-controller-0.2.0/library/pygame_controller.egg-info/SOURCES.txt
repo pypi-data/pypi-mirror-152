@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+library/pygame_controller.egg-info/PKG-INFO
+library/pygame_controller.egg-info/SOURCES.txt
+library/pygame_controller.egg-info/dependency_links.txt
+library/pygame_controller.egg-info/requires.txt
+library/pygame_controller.egg-info/top_level.txt
+library/pygamecontroller/__init__.py
