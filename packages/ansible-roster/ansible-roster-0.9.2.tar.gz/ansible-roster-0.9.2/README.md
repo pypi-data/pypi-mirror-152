@@ -1,0 +1,141 @@
+[![documentation](https://img.shields.io/badge/documentation-html-informational)](https://jlecomte.gitlab.io/projects/ansible-roster)
+[![python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-informational)](https://pypi.org/project/ansible-roster)
+
+# Ansible Roster Inventory Plugin
+
+Roster is an Ansible inventory plugin with focus on groups applied to hosts instead of hosts included in groups. It supports ranges (eg: "[0:9]"), regex hostnames (eg: "(dev|prd)-srv"), file inclusions, and variable merging.
+
+This inventory plugin has been written with [*debops*](https://docs.debops.org/en/master/) in mind.
+
+## Installation from Ansible Galaxy
+
+You can install the latest version from Ansible Galaxy repository.
+
+~~~bash
+ansible-galaxy collection install -U julien_lecomte.roster
+python3 -mpip install boltons cerberus exrex torxtools
+~~~
+
+## Installation from PyPI
+
+You can install the latest version from PyPI package repository.
+
+~~~bash
+python3 -mpip install -U ansible-roster
+~~~
+
+## Usage
+
+The roster is a file in yaml format and 'yml' or 'yaml' file extension.
+
+In order for Ansible to use the plugin and parse your roster file, several conditions must be met:
+
+* Your yaml file must contain a line indicating that the file is in the roster format.
+
+* You must activate plugins and enable the roster inventory plugin in your `ansible.cfg`, or in your `.debops.cfg` if using *debops*. If using *debops*, refresh the configuration with *debops project refresh*.
+
+**Sample `ansible.cfg`**
+
+~~~toml
+[defaults]
+# The following line prevents having to pass -i to ansible-inventory.
+# Filename can be anything as long as it has a 'yml' or 'yaml' extension although
+inventory = roster.yml
+
+[inventory]
+# You must enable the roster plugin if 'auto' does not work for you.
+# Use 'roster' if installed via the Python package,
+# Use 'julien_lecomte.roster.roster' if installed via Ansible Galaxy
+enable_plugins = julien_lecomte.roster.roster
+~~~
+
+**Sample `.debops.cfg`**
+
+~~~toml
+[ansible inventory]
+enabled = roster
+# Use 'roster' if installed via the Python package,
+# Use 'julien_lecomte.roster.roster' if installed via Ansible Galaxy
+enable_plugins = julien_lecomte.roster.roster
+~~~
+
+**Sample `roster.yml`**
+
+~~~yaml
+---
+# This line is mandatory, and enables the plugin differenciating between
+# any yaml file and a roster yaml file.
+plugin: roster
+
+vars:
+  foobar01: "a global var"
+
+groups:
+  debian:
+    vars:
+      distrib: "debian"
+  buster:
+    parents:
+      - debian
+    vars:
+      release: "buster"
+  desktops:
+    vars:
+      components: "main contrib non-free"
+
+hosts:
+  desktop01.internal.example.com:
+    groups:
+      - desktops
+      - buster
+~~~
+
+### Syntax
+
+The inventory has a focus on specifying hosts and then applying groups to the hosts. It supports multiple groups per host, and group inheritance. Variables specified in hosts and groups will either be overwritten with priority via inheritance, or merged together.
+
+The inventory is created from at least one yaml file which must contain the *plugin* variable set to *roster*, and then from optional additional files that can be included. Files must be explicitly included, and wildcards are supported.
+
+The inventory also supports ranges (eg: "[0:9]") and regex hostnames (eg: "(dev|prd)-srv").
+
+A sample, commented, and minimal file named 'roster.yml.tpl' is located at the root of the git repository.
+
+### File inclusion
+
+Instead of including every file found in a inventory folder, a roster inventory will only include explicitly specified files. Globbing is supported.
+
+~~~yaml
+plugin: roster
+
+include:
+  # include an exact file match
+  - distrib/debian.yml
+
+  # include with wildcard:
+  - hosts/*.yml
+~~~
+
+### Ranges and Regex support
+
+~~~yaml
+plugin: roster
+
+hosts:
+  # Generate 10 hosts: sql-0.example.com to sql-9.example.com
+  sql-[0:9].example.com:
+
+  # Generate 2 hosts: frontend.example.com and backend.example.com
+  (front|back)end.example.com:
+~~~
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Locations
+
+  * Documentation: [https://jlecomte.gitlab.io/projects/ansible-roster/](https://jlecomte.gitlab.io/projects/ansible-roster)
+  * GitLab: [https://gitlab.com/jlecomte/projects/ansible-roster](https://gitlab.com/jlecomte/projects/ansible-roster)
+  * PyPi: [https://pypi.org/project/ansible-roster](https://pypi.org/project/ansible-roster)
+  * Galaxy: [https://galaxy.ansible.com/julien_lecomte/roster](https://galaxy.ansible.com/julien_lecomte/roster)
+
