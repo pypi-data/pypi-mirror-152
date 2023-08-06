@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+ifrn_estatistica/__init__.py
+ifrn_estatistica/descriptive_table.py
+ifrn_estatistica/emparn.py
+ifrn_estatistica/emparn_old_site.py
+ifrn_estatistica/plotting_graphs.py
+ifrn_estatistica.egg-info/PKG-INFO
+ifrn_estatistica.egg-info/SOURCES.txt
+ifrn_estatistica.egg-info/dependency_links.txt
+ifrn_estatistica.egg-info/not-zip-safe
+ifrn_estatistica.egg-info/requires.txt
+ifrn_estatistica.egg-info/top_level.txt
