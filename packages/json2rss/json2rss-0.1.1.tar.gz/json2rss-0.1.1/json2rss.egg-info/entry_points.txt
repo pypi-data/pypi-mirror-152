@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        json2rss=json2rss:main
+    

@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: json2rss
+Version: 0.1.1
+Summary: Json2RSS converter (supports JsonFeed input)
+Home-page: UNKNOWN
+Author: proteus
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Topic :: Utilities
+Requires-Python: >=3

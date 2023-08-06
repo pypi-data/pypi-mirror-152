@@ -1,0 +1,7 @@
+setup.py
+json2rss/__init__.py
+json2rss.egg-info/PKG-INFO
+json2rss.egg-info/SOURCES.txt
+json2rss.egg-info/dependency_links.txt
+json2rss.egg-info/entry_points.txt
+json2rss.egg-info/top_level.txt
