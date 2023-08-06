@@ -1,0 +1,15 @@
+t_rex_typer/__init__.py,sha256=EKcrih4vyfuj6IEaCXQr87_QH6GX9FvvWPyAIeRcXMk,30
+t_rex_typer/__main__.py,sha256=NYCLrRNMvwf9lXPTXVmIvUkGkJbGMOxFw8VdnWXWiWo,79
+t_rex_typer/t_rex_typer.py,sha256=1s4STDOVtQJoGbRcR1PT488dTcAaf9pCXPanNvoTPV8,26061
+t_rex_typer/translation_dict.py,sha256=KwQ9SCwvo6keuxCIpAA12Gzz3GGex77Kly_IUzxUCMA,7206
+t_rex_typer/widgets.py,sha256=O3eHDpvp56JFVv9ittospstesjXzizL52B-5ZbZtaFo,5039
+t_rex_typer/resources/keyboard_48.png,sha256=ydZUUQTl1SKpTXevS0O2kK1j-mziEKtmUBSczHDowyM,172
+t_rex_typer/resources/trex_48.png,sha256=6swRyTZcT6KOorF-Q3RpgfFtBB3cbNxBmCJ5Cokh9hw,13373
+t_rex_typer/resources/trex_96.png,sha256=lzDa4GlcvYxVre-VGhCWfzyrWMepnfOchCtP-73lmGg,16122
+t_rex_typer/resources/trex_w_board_48.png,sha256=IsdNY7ugbtsoMOuPtygObvRTC55DIEbID-NbdXa0LFo,16411
+t_rex_typer/resources/trex_w_board_96.png,sha256=TI5T1VFDTKVrF2cP4ylgudj6C5-Sp5tzuh7Cu-sDdWw,19099
+t_rex_typer-0.1.3.dist-info/METADATA,sha256=ZTVIpN2AxcSA6ShQnbSdecY34EzNkh3h_Mw21slMZCg,1397
+t_rex_typer-0.1.3.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+t_rex_typer-0.1.3.dist-info/entry_points.txt,sha256=kEw1IwzHJqEHMtcamAeDCNil9xfJrbV_1aF8UnDynC0,49
+t_rex_typer-0.1.3.dist-info/top_level.txt,sha256=8BPDvP2NIB33tkxjiPOUfOog6o8CAkSTtm6YlBBjWoQ,12
+t_rex_typer-0.1.3.dist-info/RECORD,,
