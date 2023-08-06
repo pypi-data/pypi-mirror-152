@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+easyi/__init__.py
+easyi.egg-info/PKG-INFO
+easyi.egg-info/SOURCES.txt
+easyi.egg-info/dependency_links.txt
+easyi.egg-info/top_level.txt
