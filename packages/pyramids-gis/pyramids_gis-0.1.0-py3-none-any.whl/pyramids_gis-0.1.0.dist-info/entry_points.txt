@@ -1,0 +1,2 @@
+[console_scripts]
+pyramids = pyramids.cli:main
