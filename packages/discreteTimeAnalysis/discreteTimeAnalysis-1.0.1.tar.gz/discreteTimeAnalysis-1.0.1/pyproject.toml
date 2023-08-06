@@ -1,0 +1,34 @@
+# pyproject.toml
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "discreteTimeAnalysis"
+version = "1.0.1"
+description = "The module provides a class for finite discrete distributions which are utilized for discrete-time analysis. For example, discrete-time GI/GI/1 systems can be analyzed with functions of the module."
+readme = "README.md"
+authors = [{ name = "Tobias Hossfeld", email = "tobias.hossfeld@uni-wuerzburg.de" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: Other/Proprietary License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["discrete-time analysis", "queueing system", "GI/GI/1"]
+dependencies = [
+    "numpy",
+    "matplotlib",    
+]
+requires-python = ">=3.7"
+
+
+[project.urls]
+Homepage = "https://modeling.systems/"
+Github = "https://hossfeld.github.io/performance-modeling/"
+Documentation = "https://hossfeld.github.io/performance-modeling/chapter6_discreteTimeAnalysis/discreteTimeAnalysis.html"
+
+
+
+
