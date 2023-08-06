@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: AntFake
+Version: 0.1.1
+Summary: Ant is library for generation random string, float, eth address and pk, etc
+Home-page: https://github.com/inkviz96/antFake
+Author: Inkviz96
+Author-email: b-semen-b@mail.ru
+License: MIT
+Keywords: fake test web3 eth
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+## Ant Fake
+
+[Github repository](https://github.com/inkviz96/antFake)
+
+[PyPi](https://pypi.org/project/AntFake/)
+
+### Install
+```shell
+pip install AntFake==0.1.0
+```
+
+Get random string
+```python
+from ant_fake import r_string
+random_string = r_string(length=16, space=True)
+
+>>> 'Sdw rrvSfreHL fs'
+```
+
+Random eth address
+```python
+from ant_fake import address
+random_addr = address()
+
+>>> '0x1a1ec25DC08e98e5E93F1104B5e5cdD298707d31'
+```
+
+Random float
+```python
+from ant_fake import r_digital
+random_addr = r_digital(start=0, end=1000, decimals=8)
+
+>>> 26.42244885
+```
+
+Random digital
+```python
+from ant_fake import r_digital
+random_addr = r_digital(start=0, end=1000)
+
+>>> 197
+```
+
