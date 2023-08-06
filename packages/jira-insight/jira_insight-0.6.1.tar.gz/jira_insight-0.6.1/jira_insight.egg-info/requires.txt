@@ -1,0 +1,6 @@
+lazy
+requests
+
+[oauth]
+oauthlib
+requests-oauthlib
