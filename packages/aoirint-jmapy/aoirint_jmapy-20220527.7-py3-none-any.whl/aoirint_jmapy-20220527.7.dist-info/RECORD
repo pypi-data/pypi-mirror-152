@@ -1,0 +1,11 @@
+aoirint_jmapy/__init__.py,sha256=0UgJ8wSFLiYzlx6Hga7OKpQ_8vN54z18GH3q8elTC3Y,78
+aoirint_jmapy/api.py,sha256=DPFI13PTcle-7kM2OQlNXVrIyUdEL62oWrtjZiNigSI,15290
+aoirint_jmapy/const.py,sha256=KrlXNen9N1_UYrJYZvkxc6FnJGFS2UhlUfXk-IUgw2I,253
+aoirint_jmapy/static/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aoirint_jmapy/static/const_telops.json,sha256=ATxUKkHauoAKx2AMYktreoX0yDtC-FJ9FHEsmsbnoYg,10045
+aoirint_jmapy/static/__pycache__/__init__.cpython-310.pyc,sha256=0xa2rPfI7tZRX5HT1Mf-6a_IxzQ3Z8ISy97rjacN68M,171
+aoirint_jmapy-20220527.7.dist-info/LICENSE,sha256=bAWS4B1q4hZS8YUO3QNTIjV17KMBMpuKTzlpLS5cg7w,1064
+aoirint_jmapy-20220527.7.dist-info/METADATA,sha256=U8onyaUv5yW94keRUDWnE0bRI7Ny9SnRFKG2RdYwwvM,4893
+aoirint_jmapy-20220527.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+aoirint_jmapy-20220527.7.dist-info/top_level.txt,sha256=F9EUFdcAJdbEG6mqBpAIWzZ7sM36CjBFNkuTJPESAPI,14
+aoirint_jmapy-20220527.7.dist-info/RECORD,,
