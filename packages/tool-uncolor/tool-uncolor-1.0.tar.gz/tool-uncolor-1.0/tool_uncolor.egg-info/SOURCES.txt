@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+tool_uncolor.egg-info/PKG-INFO
+tool_uncolor.egg-info/SOURCES.txt
+tool_uncolor.egg-info/dependency_links.txt
+tool_uncolor.egg-info/top_level.txt
+uncolor/__init__.py
