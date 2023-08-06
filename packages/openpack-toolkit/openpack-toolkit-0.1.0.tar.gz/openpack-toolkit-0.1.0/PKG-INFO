@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: openpack-toolkit
+Version: 0.1.0
+Summary: Toolkit for OpenPack Dataset
+Home-page: https://open-pack.github.io/home
+Author: Yoshimura Naoya
+Requires-Python: >=3.7.11,<3.10
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: numpy (<1.22.0)
+Requires-Dist: pandas (>=1.2.4)
+Requires-Dist: pytest-cov (>=3.0.0,<4.0.0)
+Requires-Dist: sklearn (>=0.0)
+Project-URL: Repository, https://github.com/open-pack/open-pack-toolkit-dev
+Description-Content-Type: text/markdown
+
+# OpenPack Dataset Toolkit (optk)
+
+"OpenPack Dataset" is a new large-scale multi modal dataset of manual packing process.
+OpenPack is an open access logistics-dataset for human activity recognition, which contains human movement and package information from 17 distinct subjects.
+This repository provide utilities to explore our exciting dataset.
+
+## Setup
+
+We provide some utility functions as python package. You can install via pip with the following command.
+
+```bash
+# Pip
+pip install openpack-toolkit
+
+# Poetry
+poetry add  openpack-toolkit
+```
+
+## Documentation
+
+- [Dataset Page](https://open-pack.github.io/)
+- API Docs (Comming soon...)
+
+## Examples
+
+- ST-GCN with Keypoints Data (TBA)
+- U-Net with Accelration Data
+
