@@ -1,0 +1,7 @@
+streamlit_auth0_service/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+streamlit_auth0_service/auth0_service.py,sha256=LbrBcF4ZnI28sYTYfRiwfNNKzWhNmNDW4VKhN_Uho_0,1572
+streamlit_auth0_service/guard.py,sha256=4Ayz-L9zUxqABJ0m1ppsjWtzgJsUmAbwQdeHEZK8uvo,373
+streamlit_auth0_service-0.0.9.dist-info/METADATA,sha256=XFS_girxsgJFaBSSnBWsR91UcqpzyL64tZtdF8q0Y_g,529
+streamlit_auth0_service-0.0.9.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+streamlit_auth0_service-0.0.9.dist-info/top_level.txt,sha256=Oa0upRyyc1EiW5u86O531U0arGha8qN6VL8rmZSncOU,48
+streamlit_auth0_service-0.0.9.dist-info/RECORD,,
