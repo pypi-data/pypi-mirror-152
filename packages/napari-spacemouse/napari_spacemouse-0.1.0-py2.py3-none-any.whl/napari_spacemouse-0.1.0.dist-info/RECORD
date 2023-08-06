@@ -1,0 +1,12 @@
+napari_spacemouse/__init__.py,sha256=6S3b7j0teFiqLBNID8CwgUDiIYbGcT-V3Qh8AT9_SBo,1585
+napari_spacemouse/_napari.py,sha256=Xt_METEs9Q78_czCvbvQw6xaT4Lkbfji2-zevRxSG3s,3610
+napari_spacemouse/_osx.py,sha256=txfRJjx0MQFWV2AGXGqYw5THyT5Dm3bPA4mORai82WE,1712
+napari_spacemouse/_spacemouse.py,sha256=ulsMH-HLY_yVsu63f66-tQPAlTYdNwvw4JSgDPUWNcE,22229
+napari_spacemouse/_widget.py,sha256=z52EASqEZ5HlsKvPCReq1FV9hjt3ZVF78-cSLEe8VAg,2139
+napari_spacemouse/napari.yaml,sha256=Ss181JdpmVis9kwSglH2J65CG2Hs9ImVYouW_bkstRU,495
+napari_spacemouse-0.1.0.dist-info/LICENSE,sha256=5ROkwWmgWgWYR1n7JOpLBcB__r_aiUDT8YpW7kaqOa8,1514
+napari_spacemouse-0.1.0.dist-info/METADATA,sha256=nL8SmlYGno6ySCDIxObcLq-_7TBAHrp-HbDgN4q-s6c,3308
+napari_spacemouse-0.1.0.dist-info/WHEEL,sha256=z9j0xAa_JmUKMpmz72K0ZGALSM_n-wQVmGbleXx2VHg,110
+napari_spacemouse-0.1.0.dist-info/entry_points.txt,sha256=3uk8OCvoF9hKMLVhOBoYENVG9oHriR6X2oWpWRkqWWo,68
+napari_spacemouse-0.1.0.dist-info/top_level.txt,sha256=nOBx8bM8LJ9Zy2ZN_KwuXV__VvjtwcDReKf1wxwk4YQ,18
+napari_spacemouse-0.1.0.dist-info/RECORD,,
