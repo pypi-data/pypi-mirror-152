@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: deeplib-ml
+Version: 0.1.0
+Summary: Library to train deep learning models using PyTorch
+Home-page: https://github.com/jbergq/deeplib
+Download-URL: https://pypi.org/project/deeplib-ml/
+Author: Jonathan Bergqvist
+Author-email: jonathan.bergqvist96@gmail.com
+License: MIT
+Keywords: PyTorch
+Description-Content-Type: text/markdown
+
+# deeplib
+
+Framework for training deep learning models. Implemented for use in personal projects and as a way of learning more about PyTorch and deep learning. 
+
+
+
