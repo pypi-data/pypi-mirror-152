@@ -1,0 +1,11 @@
+stratilib/__init__.py,sha256=7XE_Dbo1BdM01XsLLcc6yHTp2Yk9L-lE4Wor85kPbp4,100
+stratilib/defaults.py,sha256=1npBH--eZyZ3LpPd6xe5UCIJUM6EzqpQYgmfCtyC6M0,1952
+stratilib/functions.py,sha256=6YkGAcJmGDGoHaHGa2ZbpduTi0ZMhZnQbJxbjBDApww,8949
+stratilib/lithology.py,sha256=f2BW2F_FfgaJVM8pMO5AxGhADrxN4_nJIME9Y2xrc68,1259
+stratilib/sedlogdef.py,sha256=DotqqQO3ICutV2B0mgm6kKseUCgfXBr6Mdja2fuq7V0,2027
+stratilib/sedlogfunc.py,sha256=HxlCXFGukYEsf_1UmT_n6YP_KXa9mU0J_ZgW0ctmNs4,1819
+stratilib-0.0.1.dist-info/LICENCE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+stratilib-0.0.1.dist-info/METADATA,sha256=_2n2TjSu5hcF0cyJzFC0evej_5eogC-lTmMh9TCUSp0,2096
+stratilib-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+stratilib-0.0.1.dist-info/top_level.txt,sha256=Y9OTNCYuriH_k-euOCdBX9U3-kXNUk79PVXEFo0IkMY,10
+stratilib-0.0.1.dist-info/RECORD,,
