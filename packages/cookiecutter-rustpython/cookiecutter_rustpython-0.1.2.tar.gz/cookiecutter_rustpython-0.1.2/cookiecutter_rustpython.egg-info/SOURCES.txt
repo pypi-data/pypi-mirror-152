@@ -1,0 +1,15 @@
+Cargo.toml
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+cookiecutter_rustpython/__init__.py
+cookiecutter_rustpython/test.py
+cookiecutter_rustpython.egg-info/PKG-INFO
+cookiecutter_rustpython.egg-info/SOURCES.txt
+cookiecutter_rustpython.egg-info/dependency_links.txt
+cookiecutter_rustpython.egg-info/not-zip-safe
+cookiecutter_rustpython.egg-info/top_level.txt
+src/lib.rs
+src/main.rs
