@@ -1,0 +1,14 @@
+lightguide-0.1.0.dist-info/METADATA,sha256=WsXXvguOG0aI9iXGgCgVx6WJwyiHkGmjcfsPlir2S_w,3829
+lightguide-0.1.0.dist-info/WHEEL,sha256=TY_53veaMc0YtDKRNPO-tEGeOoNiSu2wY8Ax0Ulv2v4,96
+lightguide-0.1.0.dist-info/license_files/LICENSE,sha256=1NMYmHrcPg60HpHJfFkwAr-ZtmWhvCJpGaboqHB7NAg,34902
+lightguide/afk_filter.py,sha256=u5xxaXcI2-qODL42FNvyhyBHdOyRKqFHtcWTBrZODxw,3493
+lightguide/data/das-data.npy,sha256=yx4AYgNirkG7kom8U1PiSPOkniwhM2ntgcNhF_GxjUQ,9313408
+lightguide/data/data-DAS-gfz2020wswf.npy,sha256=wj1DgrAEqmeeKkYNre3n71HC7zMVv2J3b3FIhgy2RoQ,13109888
+lightguide/gf.py,sha256=4B6anIsJDFy18525RA2nSZfHNEcRJysTNmD5b8L-YPY,9595
+lightguide/io/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lightguide/lightguide.pyi,sha256=uU5GJAHcbDTpENyZ0h-9vDweIT_RbvzwfEOuwUE8koc,602
+lightguide/restitution.py,sha256=OkxxP9HzKlx7impmNYKdJROWIAgirxhxuwqhxirhFPs,2774
+lightguide/utils.py,sha256=tzwh6gKwPApDeqp8-P4XufYJcoH2Bucbju4xdMw16CQ,1055
+lightguide/__init__.py,sha256=LzchtVpS9xq_sd4VPrpQ-vU72RuUZK0xmcMI-sYuJS4,50
+lightguide/lightguide.cp39-win_amd64.pyd,sha256=CxzRjS0OXFFFNW9Z9u_jpS7SDkBmujRKC_tulo_mjT4,449024
+lightguide-0.1.0.dist-info/RECORD,,
