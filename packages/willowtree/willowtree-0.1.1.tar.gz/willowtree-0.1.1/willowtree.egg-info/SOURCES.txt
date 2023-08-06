@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+willowtree/__init__.py
+willowtree/celltree.py
+willowtree/compare.py
+willowtree/tree.py
+willowtree.egg-info/PKG-INFO
+willowtree.egg-info/SOURCES.txt
+willowtree.egg-info/dependency_links.txt
+willowtree.egg-info/top_level.txt
