@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: mbsutils
+Version: 0.2
+Summary: Utilities for MB Scientific analyzer data
+Home-page: http://github.com/mueslo/mbs
+Author: mueslo
+Author-email: mueslo@mueslo.de
+License: GPLv3
+Platform: UNKNOWN
+Provides-Extra: xarray
+Provides-Extra: widgets
+Provides-Extra: docs
+Provides-Extra: tests
+License-File: LICENSE
+
+UNKNOWN
+
