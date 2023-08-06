@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: mynameiskat
+Version: 0.0.2
+Summary: Who is dimon-ton
+Home-page: https://github.com/UncleEngineer
+Author: Dimon_ton
+Author-email: test@gmail.com
+License: MIT
+Download-URL: https://github.com/UncleEngineer
+Keywords: Dimon-ton,Ascii art
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE
+License-File: LICENSE.txt
+
+แพ็คเก็จนี้เป็นแพ็คเก็จไพธอนที่แสดงข้อมูลเกี่ยวกับ Dimon-ton
+============================================================
+
+PyPi: https://pypi.org/project/mynameisdimon/
+
+สวัสดีจ้าาาา นี่คือแพ็คเก็จที่แสดงข้อมูลเกี่ยวกับ Dimon-ton
+ท่านสามารถที่จะดูลิงค์เฟสบุค ลิงค์ยูทูป ลิงค์เพจได้ แสดงภาพศิลปะ ASCII
+
+วิธีติดตั้ง
+~~~~~~~~~~~
+
+เปิด CMD / Terminal
+
+.. code:: python
+
+   pip install mynameisdimon
+
+วิธีใช้งานแพ็คเพจนี้
+~~~~~~~~~~~~~~~~~~~~
+
+-  เปิด IDLE ขึ้นมาแล้วพิมพ์…
+
+.. code:: python
+
+   from mynameisdimon import Dimon
+
+   user = Dimon() #ประกาศชื่อคลาส
+   user.show_name() #โชว์ชื่อ
+   user.show_youtube() #โชว์ลิงค์ยูทูป
+   user.show_page() #โชว์เพจ
+   user.about() #โชว์เกียวกับฉัน
+   user.show_art() #โชว์ศิลปะ
+
+พัฒนาโดย: ลุงวิศวกร สอนคำนวณ FB: https://www.facebook.com/UncleEngineer
+
+YouTube: https://www.youtube.com/UncleEngineer
+
+
