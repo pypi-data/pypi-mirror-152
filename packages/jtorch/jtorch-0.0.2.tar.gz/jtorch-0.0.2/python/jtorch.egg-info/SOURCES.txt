@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+python/jtorch/__init__.py
+python/jtorch/autograd.py
+python/jtorch/compiler.py
+python/jtorch/nn.py
+python/jtorch/optim.py
+python/jtorch.egg-info/PKG-INFO
+python/jtorch.egg-info/SOURCES.txt
+python/jtorch.egg-info/dependency_links.txt
+python/jtorch.egg-info/requires.txt
+python/jtorch.egg-info/top_level.txt
+python/torch/__init__.py
+python/torch/autograd.py
