@@ -1,0 +1,9 @@
+dask_mongo/__init__.py,sha256=w_qSmWlAj0y3vgB1K994n2qXJcRTxkBU5FTZ6Q9t-XU,73
+dask_mongo/_version.py,sha256=hDC9JgcsYoEEOU3kpR0Y-wAoXKl4OaO3gO6jttqtk1I,25
+dask_mongo/core.py,sha256=AIHKDoBrZxY2MoO0jTEESEwYwepSlbMXbktvDQmsb0I,4589
+dask_mongo/tests/test_core.py,sha256=VuGLMrJjo9zQld5P2mnXWt9ntnyS7h7tJ1sdvYYvjec,5493
+dask_mongo-2022.5.0.dist-info/LICENSE,sha256=HNWwDA-m_QVmldFRpD9yuX2jYcnFEbLEs4qer7m5gmM,1514
+dask_mongo-2022.5.0.dist-info/METADATA,sha256=0oFEN2KN8QtvLwCbCDLz6DxvnQXfGTf3Ukndg46vNyo,1693
+dask_mongo-2022.5.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+dask_mongo-2022.5.0.dist-info/top_level.txt,sha256=hbuHQnmaW-l7Kqwts_27ywyOsjljgnzpxGZpfqsh2WY,11
+dask_mongo-2022.5.0.dist-info/RECORD,,
