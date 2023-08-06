@@ -1,0 +1,89 @@
+Metadata-Version: 2.1
+Name: justshowit
+Version: 0.1
+Summary: Display images without any shenanigans
+Home-page: UNKNOWN
+Author: Jako-K
+License: UNKNOWN
+Description: # Install
+        `pip install git+https://github.com/Jako-K/justshowit`
+        
+        # How to use
+        ```python
+        from justshowit import show 
+        show(<your_image_source>)
+        ```
+        
+        # Demo
+        
+        
+        ```python
+        from justshowit import show 
+        import cv2
+        import numpy as np
+        import torch
+        import random
+        
+        # Example of different input images
+        url = "https://github.com/Jako-K/justshowit/blob/readme_stuff/test_image1.png"
+        numpy_image = np.random.rand(250, 400, 1)
+        torch_image = torch.ones((3, 300, 200)) * 255
+        image_bgr = cv2.imread("./test_images/test_image2.jpg")
+        path1 = "./readme_stuff/test_image2.jpg"
+        path2 = "./readme_stuff/test_image3.png"
+        path3 = "./readme_stuff/test_image4.png"
+        ```
+        
+        
+        ```python
+        # You can show a single image
+        image = show(path1)
+        ```
+        
+        ![](https://github.com/Jako-K/justshowit/blob/main/readme_stuff/1.jpg?raw=True)
+        
+        
+        ```python
+        # Do some basic, but very common stuff
+        show(image_bgr, resize_factor=0.50, BGR2RGB=True, save_to_path="./super_nice_image.png")
+        ```
+        
+        ![](https://github.com/Jako-K/justshowit/blob/main/readme_stuff/2.png?raw=True)
+        
+        
+        ```python
+        # Show a bunch of similiar sized images 
+        show([image_bgr, path1], resize_factor=0.5)
+        ```
+        
+        ![](https://github.com/Jako-K/justshowit/blob/main/readme_stuff/3.png?raw=True)
+        
+        
+        ```python
+        # This will automatically decide an appropriate column and row layout + resize
+        show([image_bgr for i in range(27)], BGR2RGB=True)
+        ```
+        
+        ![](https://github.com/Jako-K/justshowit/blob/main/readme_stuff/4.png?raw=True)
+        
+        
+        ```python
+        # Finally, you can also show a bunch of differently shaped images together
+        show([url, torch_image, numpy_image, path1, path2, path3], resize_factor=0.5)
+        ```
+        
+        ![](https://github.com/Jako-K/justshowit/blob/main/readme_stuff/5.png?raw=True)
+        
+        ```python
+        # This will use a packing algorithm which will try and find an effecient layout
+        random_images = [random.choice([url, torch_image, numpy_image, path1, path2, path3]) 
+                         for _ in range(100)]
+        show(random_images)
+        ```
+        
+        ![](https://github.com/Jako-K/justshowit/blob/main/readme_stuff/6.png?raw=True)
+        
+        
+Keywords: python,image,images,show,display
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
