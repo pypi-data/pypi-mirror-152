@@ -1,0 +1,2 @@
+speech_recognition
+yaml-1.3
