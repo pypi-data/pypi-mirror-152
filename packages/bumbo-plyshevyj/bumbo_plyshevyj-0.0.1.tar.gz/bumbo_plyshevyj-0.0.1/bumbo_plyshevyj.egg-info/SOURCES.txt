@@ -1,0 +1,7 @@
+README.md
+setup.py
+bumbo_plyshevyj.egg-info/PKG-INFO
+bumbo_plyshevyj.egg-info/SOURCES.txt
+bumbo_plyshevyj.egg-info/dependency_links.txt
+bumbo_plyshevyj.egg-info/requires.txt
+bumbo_plyshevyj.egg-info/top_level.txt
