@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: pyemo
+Version: 0.0.3
+Summary: Emoji based semantic scoped debuging 
+Home-page: https://github.com/teal-finance/emo
+Author: Teal Finance
+Author-email: Teal.Finance@pm.me
+License: UNKNOWN
+Keywords: debuging,emoji
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Description-Content-Type: text/markdown
+
+# Pyemo
+
+[![pub package](https://img.shields.io/pypi/v/pyemo)](https://pypi.org/project/pyemo/)
+
+## Install
+
+```
+pip install pyemo
+```
+
+## Usage
+
+Declare an instance namespace
+
+```python
+from pyemo import Emo
+
+emo = Emo("pipeline")
+```
+
+Then use it in the code
+
+```python
+emo.start("Starting data pipeline")
+emo.arrow_in("Loading csv file")
+# ...
+emo.data("Processing data transformation")
+# ...
+emo.query("Processing indexes")
+# ...
+emo.ok("Finished")
+```
+
