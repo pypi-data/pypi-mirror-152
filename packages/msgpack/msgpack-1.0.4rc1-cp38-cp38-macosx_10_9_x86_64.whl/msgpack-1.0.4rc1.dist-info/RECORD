@@ -1,0 +1,10 @@
+msgpack/__init__.py,sha256=XEkLE5u93E5LuqA6kH4sH-ewtYf78qIckcIhqojbgVI,1142
+msgpack/_cmsgpack.cpython-38-darwin.so,sha256=AQU1LFI6fqdHWarX6t0PpQ0gNdYYkKbrc2szRn1Mrqg,179408
+msgpack/exceptions.py,sha256=dCTWei8dpkrMsQDcjQk74ATl9HsIBH0ybt8zOPNqMYc,1081
+msgpack/ext.py,sha256=TuldJPkYu8Wo_Xh0tFGL2l06-gY88NSR8tOje9fo2Wg,6080
+msgpack/fallback.py,sha256=OORDn86-fHBPlu-rPlMdM10KzkH6S_Rx9CHN1b7o4cg,34557
+msgpack-1.0.4rc1.dist-info/COPYING,sha256=SS3tuoXaWHL3jmCRvNH-pHTWYNNay03ulkuKqz8AdCc,614
+msgpack-1.0.4rc1.dist-info/METADATA,sha256=qm-hcnjBXygwmfdx7sBuavlR-75mv_LbuK0qSZQGQak,8703
+msgpack-1.0.4rc1.dist-info/WHEEL,sha256=pXLpj1wTvqlD6RVUEKOuGQGeFX0NOPyDrsC-9xVDmYU,109
+msgpack-1.0.4rc1.dist-info/top_level.txt,sha256=2tykSY1pXdiA2xYTDR6jPw0qI5ZGxRihyhf4S5hZyXk,8
+msgpack-1.0.4rc1.dist-info/RECORD,,
