@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+mhealth_dataviz.egg-info/PKG-INFO
+mhealth_dataviz.egg-info/SOURCES.txt
+mhealth_dataviz.egg-info/dependency_links.txt
+mhealth_dataviz.egg-info/requires.txt
+mhealth_dataviz.egg-info/top_level.txt
