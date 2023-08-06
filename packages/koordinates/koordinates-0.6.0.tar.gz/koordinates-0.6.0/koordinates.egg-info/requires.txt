@@ -1,0 +1,4 @@
+python-dateutil<3,>=2
+pytz
+requests<3,>=2.5
+requests-toolbelt<1,>=0.4
