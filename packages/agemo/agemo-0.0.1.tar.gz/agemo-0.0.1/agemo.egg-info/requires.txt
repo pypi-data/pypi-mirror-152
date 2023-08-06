@@ -1,0 +1,7 @@
+numpy<1.22,>=1.18
+numba>=0.54.0
+
+[tests]
+pytest>=6.2.5
+sage>=9.2
+maxima>=5.45.0
