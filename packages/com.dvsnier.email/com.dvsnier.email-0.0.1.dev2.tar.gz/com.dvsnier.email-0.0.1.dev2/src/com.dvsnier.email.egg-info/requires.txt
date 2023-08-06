@@ -1,0 +1,14 @@
+com.dvsnier.config
+com.dvsnier.directory
+Deprecated
+
+[docs]
+
+[test]
+
+[typing]
+mypy==0.800
+typing-extensions>=3.7.4.3
+
+[virtualenv]
+virtualenv>=20.0.35
