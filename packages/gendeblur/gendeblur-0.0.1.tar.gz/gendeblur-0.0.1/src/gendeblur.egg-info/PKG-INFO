@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: gendeblur
+Version: 0.0.1
+Summary: Library for blind image deconvolution using genetic algorithm
+Home-page: https://github.com/EpigramxD/GenDeblur
+Author: Medvedkov Nikita
+Author-email: nikitakruspe@gmail.com
+Project-URL: Bug Tracker, https://github.com/EpigramxD/GenDeblur/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+
+# GenDeblur
+Library for blind image deconvolution using genetic algorithm.
+### Requirements:
+- Python 3.8.0
+- all packages from requirements.txt
+
+Build package: python -m build
