@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ioclib-falcon
+Version: 1.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: ioclib-injector (>=1.4)
+Requires-Dist: falcon (==3.0.1)
+
+UNKNOWN
+
+
