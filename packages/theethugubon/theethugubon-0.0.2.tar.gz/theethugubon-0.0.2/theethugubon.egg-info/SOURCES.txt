@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.rst
+setup.cfg
+setup.py
+theethugubon/__init__.py
+theethugubon/thee.py
+theethugubon.egg-info/PKG-INFO
+theethugubon.egg-info/SOURCES.txt
+theethugubon.egg-info/dependency_links.txt
+theethugubon.egg-info/top_level.txt
