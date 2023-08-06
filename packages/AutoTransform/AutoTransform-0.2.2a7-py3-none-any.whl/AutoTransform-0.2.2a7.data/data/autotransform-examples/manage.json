@@ -1,0 +1,46 @@
+{
+    "repo": {
+        "params": {
+            "base_branch_name": "<BASE BRANCH>",
+            "full_github_name": "<GITHUB REPO>"
+        },
+        "type": "github"
+    },
+    "runner": {
+        "type": "github",
+        "params": {
+            "run_workflow": "autotransform.run.yml",
+            "update_workflow": "autotransform.update.yml"
+        }
+    },
+    "steps": [
+        {
+            "params": {
+                "condition": {
+                    "params": {
+                        "comparison": "eq",
+                        "state": "approved"
+                    },
+                    "type": "change_state"
+                },
+                "action_type": "merge",
+                "continue_if_passed": false
+            },
+            "type": "conditional"
+        },
+        {
+            "params": {
+                "condition": {
+                    "params": {
+                        "comparison": "eq",
+                        "state": "changes_requested"
+                    },
+                    "type": "change_state"
+                },
+                "action_type": "abandon",
+                "continue_if_passed": false
+            },
+            "type": "conditional"
+        }
+    ]
+}
