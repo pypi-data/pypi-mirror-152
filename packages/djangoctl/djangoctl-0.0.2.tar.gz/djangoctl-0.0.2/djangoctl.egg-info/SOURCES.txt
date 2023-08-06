@@ -1,0 +1,16 @@
+CONTRIBUTING.md
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+djangoctl/__init__.py
+djangoctl/_nbdev.py
+djangoctl/core.py
+djangoctl.egg-info/PKG-INFO
+djangoctl.egg-info/SOURCES.txt
+djangoctl.egg-info/dependency_links.txt
+djangoctl.egg-info/entry_points.txt
+djangoctl.egg-info/not-zip-safe
+djangoctl.egg-info/requires.txt
+djangoctl.egg-info/top_level.txt
