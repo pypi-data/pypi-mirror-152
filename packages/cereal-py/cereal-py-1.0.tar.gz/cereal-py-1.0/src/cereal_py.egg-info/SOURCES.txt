@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/cereal/__init__.py
+src/cereal/eat.py
+src/cereal/py.typed
+src/cereal_py.egg-info/PKG-INFO
+src/cereal_py.egg-info/SOURCES.txt
+src/cereal_py.egg-info/dependency_links.txt
+src/cereal_py.egg-info/requires.txt
+src/cereal_py.egg-info/top_level.txt
