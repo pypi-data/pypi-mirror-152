@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Config",
+        "version": "v1.0.0",
+        "checksum": "6e8caec55043ee011b4c7f4fa8198778"
+    },
+    {
+        "name": "Debug",
+        "version": "v1.0.0",
+        "checksum": "adecedf70a8766f2f1737e8dc5d9e6c9"
+    },
+    {
+        "name": "Publish",
+        "version": "v1.0.0",
+        "checksum": "fd1e8ce91f5a84ff016a5f19d3e86bf2"
+    }
+]
