@@ -1,0 +1,8 @@
+License
+setup.py
+NEWGUNIA/__init__.py
+NEWGUNIA/main.py
+NewGunia.egg-info/PKG-INFO
+NewGunia.egg-info/SOURCES.txt
+NewGunia.egg-info/dependency_links.txt
+NewGunia.egg-info/top_level.txt
