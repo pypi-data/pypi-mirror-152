@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: retag-opus
+Version: 0.3.0
+Summary: An app to tag music files downloaded from Youtube with all the information available in the Youtube description.
+License: GPL-3.0-or-later
+Author: Simon Bengtsson
+Author-email: gevhaz@tutanota.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: colorama (>=0.4.4,<0.5.0)
+Requires-Dist: mutagen (>=1.45.1,<2.0.0)
+Requires-Dist: shtab (>=1.5.4,<2.0.0)
+Requires-Dist: simple-term-menu (>=1.4.1,<2.0.0)
