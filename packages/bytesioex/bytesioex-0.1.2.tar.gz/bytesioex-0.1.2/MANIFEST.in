@@ -1,0 +1,12 @@
+include .editorconfig
+include .vscode/*
+include pyproject.toml
+include docs/*
+include mkdocs.yml
+include tox.ini
+include VERSION
+include *.md
+include requirements-dev.txt
+include .pre-commit-config.yaml
+recursive-include bytesioex *.typed
+recursive-include tests *.py
