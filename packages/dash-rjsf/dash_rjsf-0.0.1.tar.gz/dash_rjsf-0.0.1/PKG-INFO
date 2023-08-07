@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: dash_rjsf
+Version: 0.0.1
+Summary: Dash component based on the react-jsonschema-form
+Home-page: UNKNOWN
+Author: Lasse Hyyrynen <lasse.hyyrynen@anomalia.io>
+License: MIT
+Platform: UNKNOWN
+Classifier: Framework :: Dash
+License-File: LICENSE
+
+UNKNOWN
+
