@@ -1,0 +1,7 @@
+deprecated
+gpflow>=2.1
+numpy
+scipy
+tensorflow<2.9.0,>=2.5.0
+tensorflow-probability<0.17.0,>=0.13.0
+protobuf~=3.19.0
