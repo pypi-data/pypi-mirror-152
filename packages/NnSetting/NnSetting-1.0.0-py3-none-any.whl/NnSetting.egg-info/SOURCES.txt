@@ -1,0 +1,13 @@
+LICENSE
+README.md
+requirements.txt
+setup.py
+NnSetting/Source.py
+NnSetting/__init__.py
+NnSetting.egg-info/PKG-INFO
+NnSetting.egg-info/SOURCES.txt
+NnSetting.egg-info/dependency_links.txt
+NnSetting.egg-info/not-zip-safe
+NnSetting.egg-info/requires.txt
+NnSetting.egg-info/top_level.txt
+test/test.py

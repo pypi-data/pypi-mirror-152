@@ -1,0 +1,17 @@
+LICENSE,sha256=JDGlf_8v-MTpkuOBfg8TzL6nAfKTSgGNjdv10YGFlgY,1067
+README.md,sha256=oJqYI7ISpCMFtSYAUJ-OQjXCQ0wMfIFBMm0r6DFm1qE,6594
+requirements.txt,sha256=xdsMsVOC47ErBjOXwTdEekx9BbEuzHdWmvKUfyiFqDA,79
+NnSetting/Source.py,sha256=ygJe4AehDI4EtS9PUDaZVKjtsyKlNU4J1xG1AN4PN4w,1202
+NnSetting/__init__.py,sha256=Hbsu0V-1QoB9gRo4XNYm46DpEGbNqubE4lqbnxvVoi8,3764
+NnSetting.egg-info/PKG-INFO,sha256=Of_2ZXEqSzAnxZqG6wjcDbvSe_2h6-HrwIP8OfA5TOQ,655
+NnSetting.egg-info/SOURCES.txt,sha256=IEKdSfqJ8D3t7py2OC2hVtvQenTa7c0SNAKdM8O_Sk8,294
+NnSetting.egg-info/dependency_links.txt,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+NnSetting.egg-info/not-zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+NnSetting.egg-info/requires.txt,sha256=x7ekc7ZoQjmlCDB-D5IQQCyVpCr7rlnTxElB_T41OTg,80
+NnSetting.egg-info/top_level.txt,sha256=uvj6iYofX3n6qxHfE9s-td2-I76vzFVqisFmKHlkjzM,11
+test/test.py,sha256=DKjd1kWRkEy-jVAEJ23jwdVC0DqLkBp2zBWpqmwPGZ0,248
+NnSetting-1.0.0.dist-info/LICENSE,sha256=JDGlf_8v-MTpkuOBfg8TzL6nAfKTSgGNjdv10YGFlgY,1067
+NnSetting-1.0.0.dist-info/METADATA,sha256=xqDQTiPstICq8frwQLN6tx6PitsFMz3hZ1r5TbONByw,837
+NnSetting-1.0.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+NnSetting-1.0.0.dist-info/top_level.txt,sha256=uvj6iYofX3n6qxHfE9s-td2-I76vzFVqisFmKHlkjzM,11
+NnSetting-1.0.0.dist-info/RECORD,,
