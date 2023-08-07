@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/binary2strings/__init__.py
+src/binary2strings.egg-info/PKG-INFO
+src/binary2strings.egg-info/SOURCES.txt
+src/binary2strings.egg-info/dependency_links.txt
+src/binary2strings.egg-info/not-zip-safe
+src/binary2strings.egg-info/top_level.txt
