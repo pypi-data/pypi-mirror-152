@@ -1,0 +1,12 @@
+redmind/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+redmind/dataloader.py,sha256=-lwh94zIIkLAXFFg5ZQFwPcGo7jcB7TTNEqeiZP8mlc,2594
+redmind/functions.py,sha256=JK_pZw0kXiP1IXvFjmfnhPZXHbOWI_Q3Poa-7rqYSIk,426
+redmind/layers.py,sha256=SHkbquAbwMYFI4uasBOIfL8WaLLVVW2UGOSdhydHTKI,5496
+redmind/network.py,sha256=P7hGonua-j45AL6xEolGeR-XhE0JwGgNQgD-kGRZcfA,3238
+redmind/optimizers.py,sha256=aNjjpNX4p3ChdEfysEbcnSEdQRudWALB69pmKjlFrxA,4520
+redmind/utils.py,sha256=MY0HtNyzkuy_ttTwasnqf4wnhlGK-KVeumRSMSpXIjc,851
+redmind-0.0.4.dist-info/LICENSE,sha256=9j2yt9iyvMC95RTXDg8hQ3pPyGCabyIk68EE-N4sS7I,1066
+redmind-0.0.4.dist-info/METADATA,sha256=2eisvbmnOUFRabZ5asJQyTiCvItUUtBst1BxOfOuF5Y,5400
+redmind-0.0.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+redmind-0.0.4.dist-info/top_level.txt,sha256=m5GU1OQ5YF2s3xkEQFc78mK8lhwYDpNnOajlKdZSypI,8
+redmind-0.0.4.dist-info/RECORD,,
