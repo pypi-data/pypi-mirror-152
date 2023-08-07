@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "strawberry-django-auth"
+packages = [
+    {include = "gqlauth"}
+]
+version = "0.3.2"
+description = "Graphql authentication system with Strawberry for Django."
+authors = ["nir <nrbnlulu@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+strawberry-graphql = "^0.114.0"
+strawberry-django-jwt = "^0.2.0"
+Pillow = "^9.1.1"
+
+
+[tool.poetry.dev-dependencies]
+pytest-cov = "^3.0.0"
+pytest-django = "^4.5.2"
+coveralls = "^3.3.1"
+black = "^22.3.0"
+flake8 = "^4.0.1"
+tox = "^3.25.0"
+Faker = "^13.12.0 "
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
