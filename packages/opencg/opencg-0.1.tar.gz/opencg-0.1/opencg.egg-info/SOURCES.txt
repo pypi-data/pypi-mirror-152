@@ -1,0 +1,7 @@
+README.md
+setup.py
+opencg/__init__.py
+opencg.egg-info/PKG-INFO
+opencg.egg-info/SOURCES.txt
+opencg.egg-info/dependency_links.txt
+opencg.egg-info/top_level.txt
