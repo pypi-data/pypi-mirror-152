@@ -1,0 +1,5 @@
+flexlate>=0.14.0
+py-app-conf>=1.1.0
+watchdog
+typer
+rich
