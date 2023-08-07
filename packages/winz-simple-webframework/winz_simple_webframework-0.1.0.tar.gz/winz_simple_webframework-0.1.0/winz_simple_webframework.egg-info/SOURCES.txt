@@ -1,0 +1,11 @@
+README.md
+setup.py
+winz/__init__.py
+winz/api.py
+winz/middleware.py
+winz/response.py
+winz_simple_webframework.egg-info/PKG-INFO
+winz_simple_webframework.egg-info/SOURCES.txt
+winz_simple_webframework.egg-info/dependency_links.txt
+winz_simple_webframework.egg-info/requires.txt
+winz_simple_webframework.egg-info/top_level.txt
