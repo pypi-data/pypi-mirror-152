@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/genbit/dnaseq_genbit.egg-info/PKG-INFO
+src/genbit/dnaseq_genbit.egg-info/SOURCES.txt
+src/genbit/dnaseq_genbit.egg-info/dependency_links.txt
+src/genbit/dnaseq_genbit.egg-info/requires.txt
+src/genbit/dnaseq_genbit.egg-info/top_level.txt
+src/genbit/genbit.py
+src/genbit/dnaseq_genbit.egg-info/SOURCES.txt
