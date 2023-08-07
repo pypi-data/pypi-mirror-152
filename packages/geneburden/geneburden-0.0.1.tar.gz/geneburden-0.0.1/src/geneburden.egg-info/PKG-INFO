@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: geneburden
+Version: 0.0.1
+Summary: Tools for testing variant burden in genomic features
+Home-page: https://github.com/zwebbs/geneburden
+Author: Zach Weber
+Author-email: zach.weber.813@gmail.com
+Project-URL: Bug Tracker, https://github.com/zwebbs/geneburden/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# geneburden
+A python package for testing outsized variant burdens in genomic elements
