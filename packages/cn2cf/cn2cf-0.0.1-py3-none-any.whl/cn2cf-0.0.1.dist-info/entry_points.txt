@@ -1,0 +1,3 @@
+[console_scripts]
+cn2cf = Cn2cf.cn2c:main
+
