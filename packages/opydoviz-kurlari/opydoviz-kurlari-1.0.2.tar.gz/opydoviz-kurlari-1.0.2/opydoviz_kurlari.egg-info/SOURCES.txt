@@ -1,0 +1,9 @@
+README.md
+opydoviz.py
+setup.py
+opydoviz_kurlari.egg-info/PKG-INFO
+opydoviz_kurlari.egg-info/SOURCES.txt
+opydoviz_kurlari.egg-info/dependency_links.txt
+opydoviz_kurlari.egg-info/entry_points.txt
+opydoviz_kurlari.egg-info/requires.txt
+opydoviz_kurlari.egg-info/top_level.txt
