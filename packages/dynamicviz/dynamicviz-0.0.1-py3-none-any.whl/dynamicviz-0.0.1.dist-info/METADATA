@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: dynamicviz
+Version: 0.0.1
+Summary: DynamicViz provides a wrapper for generating and interpreting dynamic visualizations from traditional static dimensionality reduction visualization methods
+Author-email: Eric Sun <edsun97@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Requires-Dist: dash==2.1.0
+Requires-Dist: dash_core_components==2.0.0
+Requires-Dist: dash_html_components==2.0.0
+Requires-Dist: werkzeug==2.0.3
+Requires-Dist: joblib==1.1.0
+Requires-Dist: matplotlib==3.5.0
+Requires-Dist: numpy==1.21.2
+Requires-Dist: opencv_python==4.5.5.62
+Requires-Dist: pandas==1.3.5
+Requires-Dist: Pillow==9.0.1
+Requires-Dist: plotly==5.5.0
+Requires-Dist: scikit_learn==1.0.2
+Requires-Dist: scipy==1.7.3
+Requires-Dist: tqdm==4.62.3
+Requires-Dist: umap==0.1.1
+Requires-Dist: umap_learn==0.5.2
+Project-URL: Home, https://github.com/sunericd/dynamicviz
+
+# Dynamic visualization
+
+### Eric Sun
+
+Python package for generating bootstrap visualizations of high-dimensional data. Great for assessing stability of visualizations and increasing robustness of interpretations. Also included are methods for computing variance scores along with classical concordance scores for quantifying the quality of a visualization.
+
+## Installation and setup
+
+Currently, the easiest to port the package is to clone the directory and then install the requirements for using the package. To do this, first clone the repository using git (you can install git following the instructions [here](https://github.com/git-guides/install-git)):
+
+```
+git clone https://github.com/sunericd/dynamicviz.git
+```
+
+We recommend setting up a conda environment to install the requirements for the package (instructions for installing conda and what conda environment can do can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)). Installation of requirements can then be done with the following commands:
+
+```
+conda create -n dynamicviz python=3.8
+conda activate dynamicviz
+
+cd dynamicviz
+pip install -r requirements.txt
+```
+
+To test that the installation is working correctly, you can use the Jupyter notebook ```tutorial.ipynb``` (requires installing Jupyter, instructions found [here](https://jupyter.org/install), and adding the conda environment we just created to the Jupyter notebook kernels, instructions found [here](https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084)) or the test script ```test.py``` (under development). We are working on providing direct installation over PyPI (pip) in the next few weeks.
+
