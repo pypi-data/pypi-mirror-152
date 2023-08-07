@@ -1,0 +1,9 @@
+lazysdk/__init__.py,sha256=JpqxRSwbfoxPSI2Wjohez13JqMPPmy0W0QRyXdOo9zw,261
+lazysdk/lazybase64.py,sha256=KUes0YYmC29y6wF79KWMLV4a7r89Kh3mc10JQvoIY7E,555
+lazysdk/lazyprocess.py,sha256=zAdxC0kzIEwOY25SBUEj_3vYLgQBIef5VEhR44_gKGk,4539
+lazysdk/lazyrequests.py,sha256=h23oq1sQu-eZQKLCRZiYlcD7XbmS3CPE1A4VaqKZTxo,2511
+lazysdk/lazywebhook.py,sha256=HwJIZ5j3wUpnEfPkFY-Xq9T_9xdhCJ71dYsWNX22_3Y,8386
+lazysdk-0.0.8.dist-info/METADATA,sha256=e_F0jh0JSWU1CQL9Jga42gF04eW5btxE-rzLNFZpKdA,478
+lazysdk-0.0.8.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+lazysdk-0.0.8.dist-info/top_level.txt,sha256=--bGS42ZHUhVeO83y1wfvKFg6OjkTLxQ4V4riqPQljY,8
+lazysdk-0.0.8.dist-info/RECORD,,
