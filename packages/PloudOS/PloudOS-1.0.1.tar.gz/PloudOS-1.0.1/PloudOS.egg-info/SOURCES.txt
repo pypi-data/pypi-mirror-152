@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+PloudOS.egg-info/PKG-INFO
+PloudOS.egg-info/SOURCES.txt
+PloudOS.egg-info/dependency_links.txt
+PloudOS.egg-info/requires.txt
+PloudOS.egg-info/top_level.txt
+ploudos/__init__.py
+ploudos/ploudos.py
