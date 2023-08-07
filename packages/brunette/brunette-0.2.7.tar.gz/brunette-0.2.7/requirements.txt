@@ -1,0 +1,4 @@
+setuptools
+wheel
+black==21.12b0
+click
