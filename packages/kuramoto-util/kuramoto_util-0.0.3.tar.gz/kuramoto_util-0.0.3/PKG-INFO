@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: kuramoto_util
+Version: 0.0.3
+Summary: package for Kuramoto model simulations
+Home-page: https://github.com/michael-960/kuramoto_util
+Author: Michael Wang
+Author-email: mike.wang96029@gmail.com
+Project-URL: Bug Tracker, https://github.com/michael-960/kuramoto_util/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+
+Kuramoto simulation in python
+==============================
+
+kuramoto_util is a python package for Kuramoto model simulations.
+
+Required Packages
+======================
+* numpy
+* scipy
+* matplotlib
+* pyfftw
+* tqdm
+* torusgrid
+* michael960lib
+
+Modules
+========
+
