@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/concall_tools/__init__.py
+src/concall_tools/extract_speakers.py
+src/concall_tools/stop_words.py
+src/concall_tools.egg-info/PKG-INFO
+src/concall_tools.egg-info/SOURCES.txt
+src/concall_tools.egg-info/dependency_links.txt
+src/concall_tools.egg-info/requires.txt
+src/concall_tools.egg-info/top_level.txt
