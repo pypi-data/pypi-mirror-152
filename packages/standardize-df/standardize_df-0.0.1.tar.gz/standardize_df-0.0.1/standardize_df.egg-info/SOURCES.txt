@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+standardize_df/__init__.py
+standardize_df/adjust_df.py
+standardize_df/df_operations.py
+standardize_df/pipeline.py
+standardize_df/standards.py
+standardize_df/utils.py
+standardize_df.egg-info/PKG-INFO
+standardize_df.egg-info/SOURCES.txt
+standardize_df.egg-info/dependency_links.txt
+standardize_df.egg-info/requires.txt
+standardize_df.egg-info/top_level.txt
