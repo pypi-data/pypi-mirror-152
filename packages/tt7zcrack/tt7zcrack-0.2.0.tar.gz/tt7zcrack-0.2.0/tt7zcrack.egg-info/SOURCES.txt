@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/7z2hashcat.pl
+src/7z2john.pl
+src/__init__.py
+src/attackers.py
+src/bashutil.py
+src/tt7zcrack.py
+tt7zcrack.egg-info/PKG-INFO
+tt7zcrack.egg-info/SOURCES.txt
+tt7zcrack.egg-info/dependency_links.txt
+tt7zcrack.egg-info/entry_points.txt
+tt7zcrack.egg-info/top_level.txt
