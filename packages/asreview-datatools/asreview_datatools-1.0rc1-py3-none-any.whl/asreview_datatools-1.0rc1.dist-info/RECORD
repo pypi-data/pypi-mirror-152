@@ -1,0 +1,12 @@
+asreviewcontrib/datatools/__init__.py,sha256=PiUSiFLCm0YX5rbHS4xOLGdqdPDC8j3etV3nmEaelzI,92
+asreviewcontrib/datatools/_version.py,sha256=WQmW6X1EG4cY4FSK0DmwD0uRKXflPhCTe5UAmGfvqTU,498
+asreviewcontrib/datatools/convert.py,sha256=C7FSyQgkZGKU1JCqWa6AbiqCDffRFckSNWveO0TIxaY,509
+asreviewcontrib/datatools/dedup.py,sha256=kZACZx1Cd9hAq5dlhj6fXhjohUBpGUTyMDWNGEOte9g,1021
+asreviewcontrib/datatools/describe.py,sha256=UWNPf3UDH0JGpQikkkrYzs4mVKdgUe4jQ4ihyATne_c,3059
+asreviewcontrib/datatools/entrypoint.py,sha256=X1ebkASqIQ8F0PJX6NZqIEfLROawMLyfnGRuDFyut3o,2447
+asreview_datatools-1.0rc1.dist-info/LICENSE,sha256=c5pe02QKfmGmMXvvIUaGbR0ZswgvKw3OdkFIG2XLghs,1086
+asreview_datatools-1.0rc1.dist-info/METADATA,sha256=97efW-4OqvcF1Fcs3UiiwRhFa6MXlnhTsXUb_B7K5rI,4918
+asreview_datatools-1.0rc1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+asreview_datatools-1.0rc1.dist-info/entry_points.txt,sha256=y8v_q24OsF8PTjWUQTlUuLRLCjCBzVq1BaHKLqXgNNA,84
+asreview_datatools-1.0rc1.dist-info/top_level.txt,sha256=-csz-bYFHwIuinKUJ9gUZ_RbXwYqB80-4MPymSjd_Tg,16
+asreview_datatools-1.0rc1.dist-info/RECORD,,
