@@ -1,0 +1,52 @@
+Metadata-Version: 2.1
+Name: PloudOS
+Version: 1.0.0
+Summary: Unofficial API for PloudOS
+Home-page: https://github.com/mytja/PloudOS-API
+Author: mytja
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PloudOS-API
+An unofficial API for PloudOS.
+
+This library contains a lot of functions and is fully asynchronous.
+
+# Example
+```py
+import asyncio
+from ploudos import PloudOS
+
+myserverid = 0
+ploudos = PloudOS("myusername", "mypassword", myserverid)
+
+async def main():
+    await ploudos.login()
+    info = await ploudos.get_server_info()
+    if info.get("isRunning") is True and info.get("isStarted") is True:
+        # It's already started and running
+        return
+    print(info)
+    cr = await ploudos.can_restart()
+    print(cr)
+    if cr:
+        await ploudos.restart()
+    else:
+        print(await ploudos.queue())
+        print(await ploudos.accept_server())
+    await asyncio.sleep(10)
+    print(await ploudos.stop())
+
+    # Close the session. Class is unusable after this is called.
+    await ploudos.close()
+
+asyncio.run(main())
+```
+
+
