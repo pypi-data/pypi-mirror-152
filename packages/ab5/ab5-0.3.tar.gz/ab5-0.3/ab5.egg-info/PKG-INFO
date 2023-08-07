@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: ab5
+Version: 0.3
+Summary: cool things
+Home-page: https://github.com/xxa2005/
+Author: Ab.5#3363
+Author-email: <later@later.com>
+License: UNKNOWN
+Keywords: color,python,colors,cool,gratient,fade,shadow
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UwU
+
+example:
+```py
+from ab5 import gratient
+print(gratient(('A'*100+'\n')*10,[0,223,50],[0,25,222]))
+```
+
