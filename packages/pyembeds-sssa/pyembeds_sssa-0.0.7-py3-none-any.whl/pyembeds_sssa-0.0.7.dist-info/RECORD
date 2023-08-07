@@ -1,0 +1,17 @@
+pyembeds/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyembeds/data/MyRestaurant_AD_Reviews.txt,sha256=ntmcB0HwE_6GHJ5xoKq1i1DnFPYtolnwcM0w1JNWpHQ,401924
+pyembeds/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyembeds/data/load_data.py,sha256=WNo06byE6we_64jK6epIZmNhryGHIyqx7X3_-43HpzQ,1396
+pyembeds/data/manzoni_1.txt,sha256=0zmShrBCvwucy8UBhVm3ckNZxyoEzDBMKGzD4W3TxCo,38705
+pyembeds/data/negative-words.txt,sha256=jXVOwUuMQocwBeXMDTvwWjo-i1W7a0BlVkuTSxGY3RM,44758
+pyembeds/data/positive-words.txt,sha256=vk5iBQl2WILWbhrb-TvIywROq462eVtk3FZJhaH9ti4,19090
+pyembeds/data/stopwords_italian.txt,sha256=RreJc23qbeOwTL-X9q7RhI5O450jImjxmghfbAaanMI,1933
+pyembeds/testing/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyembeds/testing/auto_testing.py,sha256=THq9lYRUvjA6tgA1fbPwwyaj0MzPkvvwNUOw74VQiZk,4670
+pyembeds/vis/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyembeds/vis/utils.py,sha256=HgChPgCs9wIts44g8SEjXF9uXtUCjy5w1xcXfRpmCec,18576
+pyembeds_sssa-0.0.7.dist-info/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+pyembeds_sssa-0.0.7.dist-info/METADATA,sha256=e_OtDvZzyolc4J-C_GfBOO8PhuZ2XnuOg-gOXaQO9o0,2364
+pyembeds_sssa-0.0.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+pyembeds_sssa-0.0.7.dist-info/top_level.txt,sha256=XU8nlp_CLpHU6RyWQ7Dy39M9n2-911gXkT4K5xOc0d0,9
+pyembeds_sssa-0.0.7.dist-info/RECORD,,
