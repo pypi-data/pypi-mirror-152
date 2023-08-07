@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: jmt2
+Version: 0.1.0.dev0
+Summary: PyTorch Model Trainer
+Home-page: https://github.com/joonas-yoon/jmt
+Author: joonas
+Author-email: joonas.yoon@gmail.com
+License: MIT
+Keywords: pytorch,deep learning,trainer
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.6.0
+License-File: LICENSE
+
+# pt-trainer
+PyTorch Model Trainer
