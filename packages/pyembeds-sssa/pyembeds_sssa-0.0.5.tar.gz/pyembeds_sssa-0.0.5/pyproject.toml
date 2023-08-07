@@ -1,0 +1,8 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    'pathlib',
+    'urllib3'
+]
+build-backend = "setuptools.build_meta"
