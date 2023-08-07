@@ -1,0 +1,8 @@
+ignore_extensions: []
+ignore_folders:
+- site-packages
+- .git
+- $RECYCLE.BIN
+- node_modules
+- __pycache__
+- .vscode
