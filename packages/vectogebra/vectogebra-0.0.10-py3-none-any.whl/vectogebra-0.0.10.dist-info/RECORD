@@ -1,0 +1,9 @@
+vectogebra/__init__.py,sha256=baNchg1jqBasnswNSJUhKRbzNgt3cW9bv_vkw-J0gPE,1640
+vectogebra/geometry.py,sha256=l5hW0STFzxqX7MIP07PAgBX4cqFRYwREqTsVuj2QZ08,29579
+vectogebra/utilities.py,sha256=yfiaRXNapuIr_XM5i1SfeUq7Bk0W1ghFwTqO1PPxSkY,10947
+vectogebra/vector.py,sha256=IPs5QS3I3PestDyMQyTzZ-swBiCIfmP6apRbKgKNkDE,12223
+vectogebra-0.0.10.dist-info/LICENSE,sha256=Qg2DXNAZ1Gj4B0ta1z7_eXXUQH0nNkwZTeJupwMuM2s,1081
+vectogebra-0.0.10.dist-info/METADATA,sha256=5d4SYSiwiz_u4MJfALyU5CH60twXA25Xi8rhWmi7AYU,11424
+vectogebra-0.0.10.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+vectogebra-0.0.10.dist-info/top_level.txt,sha256=MlOlmgre8X8LpJ06b34wyyelLzlrtQJ-2ehH7jLcVO0,11
+vectogebra-0.0.10.dist-info/RECORD,,
