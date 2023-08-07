@@ -1,0 +1,17 @@
+nonebot_plugin_admin/__init__.py,sha256=5Vm0CQBjSiJzdUoZJoL5JFZ4aZ5paYgSkI_-2N6xk4I,15679
+nonebot_plugin_admin/approve.py,sha256=fTfAy1EmfDxNkpAwdavNk8qIkBk8UFkqjKD4ertzPl0,4869
+nonebot_plugin_admin/auto_ban.py,sha256=yQOGg7eBiAmpprsQt6QnM_GlWCQkxoBylKQPrlANZCY,5461
+nonebot_plugin_admin/group_request.py,sha256=tw-qMYPJTVDEl0NO7Q1AIjAhsq-kgP0LXTXu_V-MFw8,8033
+nonebot_plugin_admin/group_request_verify.py,sha256=zLVunbi-v_l4PmESBjy6o4jG7NYtvnxCtBEJ-W58zbk,1078
+nonebot_plugin_admin/notice.py,sha256=kan7U0t7x2wv7EYHYMxZWEwDrMke9buWGGLJmgk_afQ,5217
+nonebot_plugin_admin/path.py,sha256=j8aWLlsQgJ9RLxOurtRKOuF-WPoNDMfioPc9lMSvNiM,1243
+nonebot_plugin_admin/r18_pic_ban.py,sha256=QVj_nzhd3WgfUdNHYAhUa8kQm_TTzeVBWVfSzZhnEhc,2590
+nonebot_plugin_admin/switcher.html,sha256=V3xSzwbbs1cXHciXRwjqiRyvobqEejPX5BPhOAuSEKU,877
+nonebot_plugin_admin/switcher.py,sha256=pk3VGC8tTzMNyGekBOaAtOrJnSwu91w6vaeolcNSORc,3792
+nonebot_plugin_admin/utils.py,sha256=bY5y-YPpK6pxpwqedtClecPu0lEYFX7Nm8S342WmJ6c,14953
+nonebot_plugin_admin/word_analyze.py,sha256=AzIjcadfqih_HWkQOokJRzajWlK9T4fwWeliQ7hq1_k,4254
+nonebot_plugin_admin-0.3.19.dist-info/LICENSE,sha256=E_tIpsMacuDitpZQsc6-iVT3tzRJhISS3P0islvZGvo,35182
+nonebot_plugin_admin-0.3.19.dist-info/METADATA,sha256=sVoVxOFy7UJIRyWI5GZGULiXGm385cB15jM2HUjgt8A,12169
+nonebot_plugin_admin-0.3.19.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+nonebot_plugin_admin-0.3.19.dist-info/top_level.txt,sha256=GOpb4kBLmU-fsKt3Srmyz9TDKADrhp1a8ak1N8MSva8,21
+nonebot_plugin_admin-0.3.19.dist-info/RECORD,,
