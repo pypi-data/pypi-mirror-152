@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+interactions/ext/persistence/__init__.py
+interactions/ext/persistence/base.py
+interactions/ext/persistence/decor.py
+interactions/ext/persistence/extension.py
+interactions/ext/persistence/parse.py
+interactions_persistence.egg-info/PKG-INFO
+interactions_persistence.egg-info/SOURCES.txt
+interactions_persistence.egg-info/dependency_links.txt
+interactions_persistence.egg-info/requires.txt
+interactions_persistence.egg-info/top_level.txt
