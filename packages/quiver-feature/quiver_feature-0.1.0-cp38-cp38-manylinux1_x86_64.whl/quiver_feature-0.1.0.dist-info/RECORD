@@ -1,0 +1,13 @@
+qvf.so,sha256=1qURUDhn8x6mi2nDI1leHJfDSt2rApa9DxjQf7tvwR4,271608
+quiver_feature/__init__.py,sha256=qq6SO6TAC6IAWi9c_LLtAJ72bI2oMBNKcdjYwISSIOo,414
+quiver_feature/common.py,sha256=ye9FRFc__B_vubFH6yhDW0l1J8cTVqttSODJauaui20,167
+quiver_feature/dist_helper.py,sha256=K1CO-aKA09li2yI46F9lczLT5_QxMs98v_KtSDhwPjk,3987
+quiver_feature/dist_tensor_pgas.py,sha256=Jr3g6qqTBN4cgoUQWivIUENiwW0G992-v7jD5ilxlNU,5086
+quiver_feature/dist_tensor_rpc.py,sha256=j0twohqiZHCb-UiUHfJprImFLvFejIKhkj-mHKxUy8M,4403
+quiver_feature/local_tensor_pgas.py,sha256=InM-fmOhrTbHIHdnBHmlbhSyAWasGmbEkgaw2VkRtmg,61
+quiver_feature/tensor_loader.py,sha256=SspQtWMUioCXcNnf6eo8YiCgARypFvHqMwZHTWbmWLI,1571
+quiver_feature-0.1.0.dist-info/LICENSE,sha256=WNHhf_5RCaeuKWyq_K39vmp9F28LxKsB4SpomwSZ2L0,11357
+quiver_feature-0.1.0.dist-info/METADATA,sha256=i5o9OgNozcQp_fiBKl2Dn6dZeqOiWmIgkGE0IsMZ_Yw,475
+quiver_feature-0.1.0.dist-info/WHEEL,sha256=w1d_q2QQYYWFjc1BOr71GnX8BifSnUvEochN_fqB7tA,108
+quiver_feature-0.1.0.dist-info/top_level.txt,sha256=CR9HDWh6fSHweMLGCiaVtWXFFLmpIEfuQrG4Z-4Z_jM,19
+quiver_feature-0.1.0.dist-info/RECORD,,
