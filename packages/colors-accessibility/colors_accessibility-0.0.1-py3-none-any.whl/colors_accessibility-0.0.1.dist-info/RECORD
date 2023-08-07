@@ -1,0 +1,17 @@
+colors_accessibility/__init__.py,sha256=bhl_g2ILgemuHc3DdIoi-gfpqCCt2SwRFvp3BrsiYxM,125
+colors_accessibility/accessibility_processor.py,sha256=c__DS9wlKVPjNq9mke8G4GUJ2-hqGPKd1BUtdXq9gZg,15336
+colors_accessibility/color.py,sha256=X1STD2LTrE5gp5MVJ4-oH6z600Cd0SVUS_kyHdVE7NM,10726
+colors_accessibility/validator.py,sha256=DqdAe-x_5T_525MRzO-m39qCUAeelQd-w3bUiqLucXo,2995
+colors_accessibility/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+colors_accessibility/data/configuration_data.py,sha256=g6l_II-B53Tn5mEdC8HStFnEYXowMxWa5qUarrvAHYE,399
+colors_accessibility/data/test_data.py,sha256=iR56XKbFeC42xiqVM-RHoQGD4d7qK58HnX5QOAfGfSI,6038
+colors_accessibility/utils/__init__.py,sha256=J1VCWSLA5mDjzG80lzlJffEuqFGeIxFdqX-2-E-M4LQ,3644
+colors_accessibility/utils/classes.py,sha256=TrXjVs4ahUG6r_gj9vSrIViXbefTHbJzly4vt1iCV_0,305
+colors_accessibility/utils/decorators.py,sha256=CltmqdH8Y9SvtFvr9t1nxG77LLdPB1ZPoHINgdnbdws,1338
+colors_accessibility/utils/errors.py,sha256=846LPYzVU-tyzefI_18RfzhTQhhw7S98tYUTmLaGG3I,5187
+colors_accessibility/utils/registry.py,sha256=c9BKO77QJacyb1nOrKjFGDpxLkABFrCIDxO4bRug56k,230
+colors_accessibility-0.0.1.dist-info/LICENSE,sha256=dc9Eaq7jArxBdZjUZ83P1KpycnT_n2WyUTNZMtRX4s8,1089
+colors_accessibility-0.0.1.dist-info/METADATA,sha256=y0hk0PiEpL52D3_9VU7z17tp6KbzgUuy5YWvnVzQf0A,10371
+colors_accessibility-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+colors_accessibility-0.0.1.dist-info/top_level.txt,sha256=uWHhpoiguzkadACmEciKyfoeTZYJf8JlD8eVGEuW0aw,21
+colors_accessibility-0.0.1.dist-info/RECORD,,
