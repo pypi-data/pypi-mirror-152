@@ -1,0 +1,3 @@
+[console_scripts]
+my-project=multichain_explorer.main:run
+
