@@ -1,0 +1,17 @@
+{
+    "build": {
+        "version": "1.0.3b7"
+    },
+    "autoupdate": false,
+    "defaults": {
+        "providers": {
+            "local": "http://127.0.0.1:7545",
+            "remote": "https://mainnet.infura.io/v3/"
+        }
+    },
+    "environment": {
+        "apis": {
+            "etherscan": ""
+        }
+    }
+}
