@@ -1,0 +1,2 @@
+[certbot.plugins]
+dns-cloudflare-cname = certbot_dns_cloudflare_cname._internal.dns_cloudflare_cname:Authenticator
