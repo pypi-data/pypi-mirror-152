@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/Goordinates/Gmap.py
+src/Goordinates/__init__.py
+src/Goordinates.egg-info/PKG-INFO
+src/Goordinates.egg-info/SOURCES.txt
+src/Goordinates.egg-info/dependency_links.txt
+src/Goordinates.egg-info/requires.txt
+src/Goordinates.egg-info/top_level.txt
