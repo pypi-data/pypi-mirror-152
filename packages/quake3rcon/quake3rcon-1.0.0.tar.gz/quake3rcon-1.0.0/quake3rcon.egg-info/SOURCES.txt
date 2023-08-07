@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+quake3rcon/__init__.py
+quake3rcon/rcon.py
+quake3rcon.egg-info/PKG-INFO
+quake3rcon.egg-info/SOURCES.txt
+quake3rcon.egg-info/dependency_links.txt
+quake3rcon.egg-info/not-zip-safe
+quake3rcon.egg-info/top_level.txt
