@@ -1,0 +1,17 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+inbound/__init__.py
+inbound/main.py
+shell2trickle.egg-info/PKG-INFO
+shell2trickle.egg-info/SOURCES.txt
+shell2trickle.egg-info/dependency_links.txt
+shell2trickle.egg-info/entry_points.txt
+shell2trickle.egg-info/not-zip-safe
+shell2trickle.egg-info/requires.txt
+shell2trickle.egg-info/top_level.txt
+trickle/__init__.py
+trickle/config.py
+trickle/trickle.py
+trickle/utils.py
