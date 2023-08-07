@@ -1,0 +1,9 @@
+LICENSE.txt
+pyproject.toml
+setup.cfg
+src/Log4jGluu/__init__.py
+src/Log4jGluu/gluulog4jscript.py
+src/Log4jGluu.egg-info/PKG-INFO
+src/Log4jGluu.egg-info/SOURCES.txt
+src/Log4jGluu.egg-info/dependency_links.txt
+src/Log4jGluu.egg-info/top_level.txt
