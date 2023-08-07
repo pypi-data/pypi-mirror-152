@@ -1,0 +1,15 @@
+retag_opus/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+retag_opus/__main__.py,sha256=f9NU5sHlgV0IY8gqHi4_Wqvh-ix9jUNHpyTEvEUncp8,91
+retag_opus/app.py,sha256=qLvO9tcn8Smjztwc1oheCHosv7ww0-yMR0SDIhvvBQo,6949
+retag_opus/cli.py,sha256=e4gBCVGGcjYSxZy0chnXVsC0EvU4RKpDA0v-o1gideE,1322
+retag_opus/colors.py,sha256=JhY7BHhzeU1BeayWZnCaUVFbAGxNJ7m_YSneEofER4I,112
+retag_opus/constants.py,sha256=ay2H821pBxK6baTPC26PkvOnGC_4hBcSolH5o893MQ8,4320
+retag_opus/description_parser.py,sha256=LU0kKr2pJp9HmIMS5Xfb9eTAtU4KihRfqOctsQAZUI4,4051
+retag_opus/music_tags.py,sha256=ltTmNq2wMPoXZnSLNvT_UDdrlWjIfW9WrewmC2q0EOU,20208
+retag_opus/tags_parser.py,sha256=284tvbu4JVBzBvG3hQD8idp1ip2ZVa0_HhR3lSy8Thg,4139
+retag_opus/utils.py,sha256=D38f41v5Mr3Yt_0N_0sTOUGPNgEZiJ9SPigdHDmcPKE,2341
+retag_opus-0.3.0.dist-info/entry_points.txt,sha256=FjCm5hlWS178Q_fR3oLSIEMCWxwp5-YNYAd8nfBLfQk,44
+retag_opus-0.3.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+retag_opus-0.3.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+retag_opus-0.3.0.dist-info/METADATA,sha256=5GIFIOWcxOAzr3TQ2jAib5nE3Gy6G6v7wgoIK0xPjA0,644
+retag_opus-0.3.0.dist-info/RECORD,,
