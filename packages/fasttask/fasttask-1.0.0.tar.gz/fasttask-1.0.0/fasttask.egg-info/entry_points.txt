@@ -1,0 +1,2 @@
+[console_scripts]
+fasttask = src:main
