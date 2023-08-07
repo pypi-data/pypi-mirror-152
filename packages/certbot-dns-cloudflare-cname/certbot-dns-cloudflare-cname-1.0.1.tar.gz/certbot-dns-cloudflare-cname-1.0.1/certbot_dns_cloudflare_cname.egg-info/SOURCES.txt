@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+setup.py
+certbot_dns_cloudflare_cname/__init__.py
+certbot_dns_cloudflare_cname/py.typed
+certbot_dns_cloudflare_cname.egg-info/PKG-INFO
+certbot_dns_cloudflare_cname.egg-info/SOURCES.txt
+certbot_dns_cloudflare_cname.egg-info/dependency_links.txt
+certbot_dns_cloudflare_cname.egg-info/entry_points.txt
+certbot_dns_cloudflare_cname.egg-info/requires.txt
+certbot_dns_cloudflare_cname.egg-info/top_level.txt
+certbot_dns_cloudflare_cname/_internal/__init__.py
+certbot_dns_cloudflare_cname/_internal/dns_cloudflare_cname.py
+tests/dns_cloudflare_test.py
