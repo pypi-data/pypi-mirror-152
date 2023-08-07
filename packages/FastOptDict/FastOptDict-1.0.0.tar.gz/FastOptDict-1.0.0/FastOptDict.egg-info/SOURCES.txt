@@ -1,0 +1,7 @@
+setup.py
+FastOptDict/FastOptDict.py
+FastOptDict/__init__.py
+FastOptDict.egg-info/PKG-INFO
+FastOptDict.egg-info/SOURCES.txt
+FastOptDict.egg-info/dependency_links.txt
+FastOptDict.egg-info/top_level.txt
