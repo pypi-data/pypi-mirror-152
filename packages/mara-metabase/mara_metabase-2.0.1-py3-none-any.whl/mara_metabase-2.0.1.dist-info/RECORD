@@ -1,0 +1,13 @@
+mara_metabase/__init__.py,sha256=Lo5XWpmjnb6Gd0sGjH7TP7-J3GNaZcNNrhdjf503QYg,472
+mara_metabase/acl.py,sha256=MV-J6b6lWa4NlYS1MhtrSSyReg3Z3f2RnwIbWhWO-xk,5642
+mara_metabase/cli.py,sha256=0-N34m-WUUIOML-SycVn6YvNdt09T2GP3pgFZLdoN4A,432
+mara_metabase/client.py,sha256=U8SFyo1fqQANCcOPod-SAScnQAl_24yUva-PUATf0Gw,1535
+mara_metabase/config.py,sha256=fs0Fyh4XbdvR5jK4SodwijcBjPJh7kTW27R-VhjR98g,1490
+mara_metabase/metadata.py,sha256=Bh3o_nYWmhuvLSBaaCGDMbIoMNtiibeFXKEBf0EcVMI,7303
+mara_metabase/setup.py,sha256=34Gf5dX-CRfYr2WUcMDP5DWAA0IJNxvgFGXvFj2UGp4,6795
+mara_metabase/views.py,sha256=g-JzRzTZQkK7x0oc-2B6XrkCHvLfNCcpNUDPj8_pXow,906
+mara_metabase-2.0.1.dist-info/LICENSE,sha256=u4nEAqSi9IeFDo_VpM4dH4Nc3p3UJx6pZhyz723QgeA,1061
+mara_metabase-2.0.1.dist-info/METADATA,sha256=sxEOMV5oZFKQrSkF2kt5SARRrErOmIEysx1gQfyZ_Tk,5871
+mara_metabase-2.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mara_metabase-2.0.1.dist-info/top_level.txt,sha256=NleQmMAVXmG4SD1YR1rKXOcFAkBkJjzp9eNOclOwmpY,14
+mara_metabase-2.0.1.dist-info/RECORD,,
