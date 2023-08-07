@@ -1,0 +1,3 @@
+[console_scripts]
+wi_integration = ws_wi_sync.ws_wi_integration:main
+
