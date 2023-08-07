@@ -1,0 +1,9 @@
+lctest/__init__.py,sha256=inIcXdoFBXk3YuRT8rbcjFN-6kustGoajqvdK_DJ1Dg,449
+lctest/lib.py,sha256=pf7Vces_eJhhWlsNcdMwys7YVEAn_9tIwbAVLkhK8MQ,3718
+lctest/stdlib.py,sha256=4KEbUBj3oFx31ZT94gsJ2VOiKQy0qXAqUapImBdUXyU,300
+lctest/test.py,sha256=wrOSJm_hhfoY1O0U4xankxuQkttLWK7Fd9XUrbMQO4o,2134
+lctest/testcase.py,sha256=wXsh4ONCKBIXTpSkmdenRAhjFKTvTxqNZNkGV6EzHW8,8801
+lctest-0.1.0.dist-info/METADATA,sha256=jtwNIOmOvL3Q0AJ9WQFv0RF5trpf9ElGiwa50YnqjjU,765
+lctest-0.1.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+lctest-0.1.0.dist-info/top_level.txt,sha256=GHymxGoGZaWQbW_ms5mPgN22-7rV1ceA7t9sZ16v37U,7
+lctest-0.1.0.dist-info/RECORD,,
