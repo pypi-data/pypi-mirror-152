@@ -1,0 +1,11 @@
+kindly/__init__.py,sha256=thmqySmcIhwxmyR-ctWrdtIp3msgm4nzQxOf4oZnQmo,233
+kindly/__main__.py,sha256=nJUffVJhvLwkPEEuMytGsAGbPtrvYGpRuMbOkUieklA,83
+kindly/_version.py,sha256=cgGbDHF8SclENsf8sXbqc3_0xuHJdMRsjK2MPwrPsP0,139
+kindly/cli.py,sha256=_i0NtBIp3ycbHUB5W4hyLSlGaafe46fqLiyKew5eSMQ,2955
+kindly/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kindly-0.1a0.dist-info/LICENSE,sha256=OYamW9EEpeUV6xP518SCn-Y_9FdUehfoSkYY9YAnp3I,1069
+kindly-0.1a0.dist-info/METADATA,sha256=T55vKzKo6t9AqZpneDXsZbaGqNnFD7K6MWmyXKtRVKs,459
+kindly-0.1a0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+kindly-0.1a0.dist-info/entry_points.txt,sha256=oTb9CYcjALIPeViYWgecM1HPOy21aThDrB3mkKKq4aQ,48
+kindly-0.1a0.dist-info/top_level.txt,sha256=PGMKYFvzMb5oTtT9aGZnPi9OaMGfHIgi98vu8U8okhk,7
+kindly-0.1a0.dist-info/RECORD,,
