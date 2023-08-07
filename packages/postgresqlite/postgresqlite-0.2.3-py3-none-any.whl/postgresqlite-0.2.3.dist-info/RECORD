@@ -1,0 +1,5 @@
+postgresqlite/__init__.py,sha256=T8XUee5qo0vdfvtuBd9AqFjPYHrI7uiUemI_exxK-pc,12554
+postgresqlite/__main__.py,sha256=1UZx-5Uomp0yE8JkN4TwVEOsRUynHvwlONiA3XOnd-U,617
+postgresqlite-0.2.3.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+postgresqlite-0.2.3.dist-info/METADATA,sha256=gInbveTq3I2oBWoc2u11kRfm9FrOVjv_2NhBM39M68s,11284
+postgresqlite-0.2.3.dist-info/RECORD,,
