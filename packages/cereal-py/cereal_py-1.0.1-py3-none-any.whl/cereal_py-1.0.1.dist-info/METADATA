@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: cereal-py
+Version: 1.0.1
+Summary: Create an iterable set of pointers to a specified length. Utilities for working with ZeroIntensity's pointers.py
+Author: Joshua Auchincloss
+Author-email: <joshua.auchincloss@proton.me>
+License: MIT
+Project-URL: Source, https://github.com/joshua-auchincloss/cereal
+Project-URL: Documentation, https://cereal-py.netlify.app
+Keywords: python,cereal,pointers
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typing-extensions
+Requires-Dist: pointers.py
+
+# cereal
+Parallelization requires tools to reference data without overuse of memory. cereal allows you to reference PyObjects to pointers without creating a deep copy in memory. An extension for [ZeroIntensity's](https://github.com/ZeroIntensity/pointers.py) pointers.py.
+
+cereal:
+- [Documentation](https://cereal-py.netlify.app)
+- [Repository](https://github.com/joshua-auchincloss/cereal-py)
+- [PyPI](https://pypi.org/project/cereal-py)
+
+pointers.py:
+- [Author](https://github.com/ZeroIntensity)
+- [Documentation](https://pointerspy.netlify.app/)
+- [Repository](https://github.com/ZeroIntensity/pointers.py)
+- [PyPI](https://pypi.org/project/pointers.py)
+
+```py
+import numpy as np
+from cereal import eat
+
+x = [1, 2, 3, 4]
+
+yum = eat(x, its = 4, np.array, copy = False)
+
+>> yum
+>> array([<pointer to list object at 0x113b3edc0>,
+          <pointer to list object at 0x113b3edc0>,
+          <pointer to list object at 0x113b3edc0>,
+          <pointer to list object at 0x113b3edc0>], dtype=object) # 4 pointers to the original object
+
+>> (~yum[0])[0]
+>> 1
+
+yum[0][0] = 4
+
+>> x # the original object
+>> [4, 2, 3, 4] # it changed!
+```
