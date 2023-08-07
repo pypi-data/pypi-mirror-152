@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: polisher
+Version: 2.0.3
+Summary: Graph polisher is a library that helps you clean your plotly figures.
+License: MIT
+Author: Rodrigo da Silva
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: plotly (>=5.8.0,<6.0.0)
