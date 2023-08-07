@@ -1,0 +1,2 @@
+[sphinx.html_themes]
+name_of_theme = sphinx_rtd_light_dark
