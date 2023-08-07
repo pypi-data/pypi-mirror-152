@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "python-chips"
+version = "1.0.14"
+description = "A tool that inserts \"chips\" to your code, detecting unused fragments. Might be used for developing, refactoring and manual testing purposes"
+authors = ["Ruslan Kovalchuk <russkovalchuk@gmail.com>"]
+packages = [
+    { include = "chips" },
+]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.7"
+colorama = "^0.4.4"
+gitignore-parser = "^0.0.8"
+ast2json = "^0.3"
+prettytable = "^3.3.0"
+
+[tool.poetry.extras]
+runtime = ["pyobjc-framework*"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
