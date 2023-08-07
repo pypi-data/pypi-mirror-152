@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/justpfm/__init__.py
+src/justpfm/justpfm.py
+src/justpfm.egg-info/PKG-INFO
+src/justpfm.egg-info/SOURCES.txt
+src/justpfm.egg-info/dependency_links.txt
+src/justpfm.egg-info/requires.txt
+src/justpfm.egg-info/top_level.txt
