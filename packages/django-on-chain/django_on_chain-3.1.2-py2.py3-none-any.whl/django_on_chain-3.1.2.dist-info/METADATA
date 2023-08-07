@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: django-on-chain
+Version: 3.1.2
+Summary: Django On Chain
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: Closed-Source Proprietary License
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: coverage (==6.*)
+Requires-Dist: django (==2.1.*)
+Requires-Dist: djangorestframework (==3.11.*)
+Requires-Dist: mock (==4.*)
+Requires-Dist: psycopg2-binary (==2.*)
+Requires-Dist: PyJWT (==1.*)
+Requires-Dist: requests (<3)
+
+The D is silent.
+
+
