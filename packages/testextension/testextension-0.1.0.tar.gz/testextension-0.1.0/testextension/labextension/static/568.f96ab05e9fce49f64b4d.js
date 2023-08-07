@@ -1,0 +1,1 @@
+(self.webpackChunktestextension=self.webpackChunktestextension||[]).push([[568],{568:e=>{e.exports=[{id:"testextension",autoStart:!0,activate:function(e){console.log("JupyterLab extension testextension is activated!"),console.log(e.commands)}}]}}]);
