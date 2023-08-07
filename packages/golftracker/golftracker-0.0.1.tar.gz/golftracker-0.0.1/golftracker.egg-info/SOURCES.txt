@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+golftracker/__init__.py
+golftracker/draw.py
+golftracker/golfeditor.py
+golftracker/tracker.py
+golftracker.egg-info/PKG-INFO
+golftracker.egg-info/SOURCES.txt
+golftracker.egg-info/dependency_links.txt
+golftracker.egg-info/entry_points.txt
+golftracker.egg-info/requires.txt
+golftracker.egg-info/top_level.txt
