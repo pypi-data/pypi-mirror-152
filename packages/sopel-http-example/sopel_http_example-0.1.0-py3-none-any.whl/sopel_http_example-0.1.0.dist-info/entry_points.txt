@@ -1,0 +1,3 @@
+[sopel.plugins]
+http-example=sopel_http_example
+
