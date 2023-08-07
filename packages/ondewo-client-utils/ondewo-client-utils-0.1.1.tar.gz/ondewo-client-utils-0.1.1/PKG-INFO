@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: ondewo-client-utils
+Version: 0.1.1
+Summary: This library contains utilities and base classes for gRPC clients.
+Home-page: https://github.com/ondewo/ondewo-client-utils-python
+Author: Ondewo GbmH
+Author-email: info@ondewo.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=2.6,!=3.0.*
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+<p align="center">
+    <a href="https://www.ondewo.com">
+      <img alt="ONDEWO Logo" src="https://raw.githubusercontent.com/ondewo/ondewo-logos/master/github/ondewo_logo_github_2.png"/>
+    </a>
+</p>
+
+Ondewo Client Utils Library
+======================
+
+This library contains base classes and utilities for higher-level interface clients interacting with gRPC servers.
+
+Python Installation
+-------------------
+You can install the library by installing it directly from the pypi:
+```bash
+pip install ondewo-client-utils
+```
+
+Or, you could clone it and install the requirements:
+```bash
+git clone git@github.com:ondewo/ondewo-client-utils-python.git
+cd ondewo-client-utils-python
+pip install -e .
+```
+
+
