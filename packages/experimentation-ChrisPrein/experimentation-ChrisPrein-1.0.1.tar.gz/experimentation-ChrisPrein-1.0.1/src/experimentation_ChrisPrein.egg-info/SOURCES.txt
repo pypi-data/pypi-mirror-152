@@ -1,0 +1,14 @@
+LICENSE
+pyproject.toml
+setup.cfg
+setup.py
+src/experimentation/__init__.py
+src/experimentation/experiment/__init__.py
+src/experimentation/experiment/abstractions/__init__.py
+src/experimentation/experiment/abstractions/experiment_result.py
+src/experimentation/experiment/abstractions/experiment_settings.py
+src/experimentation/experiment/abstractions/experimentation_service.py
+src/experimentation_ChrisPrein.egg-info/PKG-INFO
+src/experimentation_ChrisPrein.egg-info/SOURCES.txt
+src/experimentation_ChrisPrein.egg-info/dependency_links.txt
+src/experimentation_ChrisPrein.egg-info/top_level.txt
