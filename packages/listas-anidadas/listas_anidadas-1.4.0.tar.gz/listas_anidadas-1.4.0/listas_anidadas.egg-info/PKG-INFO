@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: listas-anidadas
+Version: 1.4.0
+Summary: Module that prints nested list items line by line
+Home-page: https://fortinux.com
+Author: Fortinux
+Author-email: info@fortinux.com
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Listas anidadas
+- Módulo que incluye una función para imprimir los ítems de listas anidadas separados en cada línea. La función también permite tabularlos.    
+
+# Nested lists
+- This module includes a function that prints nested list's items line by line. It may also indent them.    
+        
+- Author: Fortinux    
+- Email: info@fortinux.com        
+- Web: https://fortinux.com    
+- License: GNU General Public License v3.0    
+

@@ -1,0 +1,11 @@
+# Listas anidadas
+- Módulo que incluye una función para imprimir los ítems de listas anidadas separados en cada línea. La función también permite tabularlos.    
+
+# Nested lists
+- This module includes a function that prints nested list's items line by line. It may also indent them.    
+        
+- Author: Fortinux    
+- Email: info@fortinux.com        
+- Web: https://fortinux.com    
+- License: GNU General Public License v3.0    
+
