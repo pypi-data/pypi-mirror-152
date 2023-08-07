@@ -1,0 +1,553 @@
+[
+    {
+        "aantalArmen": "1",
+        "armlengte": "2",
+        "assetId": {
+            "identificator": "031C9.T01",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bevestigingToestellen": {
+            "standaardMethode": "paaltop-60mm"
+        },
+        "dwarsdoorsnede": "vierkant",
+        "geometry": "POINT Z (144094.1 165007.7 0)",
+        "isDraaibaar": false,
+        "leverancier": "metalogalva",
+        "naam": "031C9.T01",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#PunctueleVerlichtingsmast"
+    },
+    {
+        "aantalArmen": "1",
+        "armlengte": "3.2",
+        "assetId": {
+            "identificator": "031C9.T02",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bevestigingToestellen": {
+            "standaardMethode": "paaltop-60mm"
+        },
+        "dwarsdoorsnede": "vierkant",
+        "geometry": "POINT Z (144081.9 165015.4 0)",
+        "isDraaibaar": false,
+        "leverancier": "metalogalva",
+        "naam": "031C9.T02",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#PunctueleVerlichtingsmast"
+    },
+    {
+        "aantalTeVerlichtenRijstroken": "R2",
+        "assetId": {
+            "identificator": "031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "heeftAntiVandalisme": false,
+        "isFaunavriendelijk": false,
+        "kleurTemperatuur": "4000",
+        "lichtkleur": "wit",
+        "lichtpuntHoogte": "H06",
+        "merk": "Schreder",
+        "modelnaam": "andere",
+        "naam": "031C9.T01.LED",
+        "overhang": "o+0.5",
+        "protector": "vlak-glas",
+        "systeemvermogen": 134.0,
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED",
+        "verlichtGebied": "punctuele-verlichting",
+        "verlichtingsNiveau": "zr3"
+    },
+    {
+        "aantalTeVerlichtenRijstroken": "R2",
+        "assetId": {
+            "identificator": "031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "heeftAntiVandalisme": false,
+        "isFaunavriendelijk": false,
+        "kleurTemperatuur": "4000",
+        "lichtkleur": "wit",
+        "lichtpuntHoogte": "H06",
+        "merk": "Schreder",
+        "modelnaam": "andere",
+        "naam": "031C9.T02.LED",
+        "overhang": "o+0.5",
+        "protector": "vlak-glas",
+        "systeemvermogen": 134.0,
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VerlichtingstoestelLED",
+        "verlichtGebied": "punctuele-verlichting",
+        "verlichtingsNiveau": "zr3"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "merk": "Dummydot",
+        "naam": "031C9.T01.AMC",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Armatuurcontroller"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "merk": "Dummydot",
+        "naam": "031C9.T02.AMC",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Armatuurcontroller"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01_-_031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02_-_031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.LED_-_031C9.T01.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.LED_-_031C9.T02.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01_-_e8b4022a-00d6-4b01-9766-0e50ecfda150-bGdjOmluc3RhbGxhdGllI1ZWT1A",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "e8b4022a-00d6-4b01-9766-0e50ecfda150-bGdjOmluc3RhbGxhdGllI1ZWT1A",
+            "toegekendDoor": "AWV"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02_-_63b832e0-16be-4edb-a6ac-2fe8ff3f786b-bGdjOmluc3RhbGxhdGllI1ZWT1A",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "63b832e0-16be-4edb-a6ac-2fe8ff3f786b-bGdjOmluc3RhbGxhdGllI1ZWT1A",
+            "toegekendDoor": "AWV"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#LEDDriver"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#LEDDriver"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.leddriver_-_031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Sturing"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.leddriver_-_031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Sturing"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.leddriver_-_031C9.T01.LED_bevestiging",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.leddriver_-_031C9.T02.LED_bevestiging",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.LED",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.AMC_-_031C9.T02.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VoedtAangestuurd"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.AMC_-_031C9.T01.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.leddriver",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#VoedtAangestuurd"
+    },
+    {
+        "assetId": {
+            "identificator": "e8b4022a-00d6-4b01-9766-0e50ecfda150-bGdjOmluc3RhbGxhdGllI1ZWT1A_-_0a1d21eb-f0d7-4d6d-8778-67d38167c10b-bGdjOmluc3RhbGxhdGllI1ZWT1BHcm9lcA",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "e8b4022a-00d6-4b01-9766-0e50ecfda150-bGdjOmluc3RhbGxhdGllI1ZWT1A",
+            "toegekendDoor": "AWV"
+        },
+        "doelAssetId": {
+            "identificator": "0a1d21eb-f0d7-4d6d-8778-67d38167c10b-bGdjOmluc3RhbGxhdGllI1ZWT1BHcm9lcA",
+            "toegekendDoor": "AWV"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "63b832e0-16be-4edb-a6ac-2fe8ff3f786b-bGdjOmluc3RhbGxhdGllI1ZWT1A_-_0a1d21eb-f0d7-4d6d-8778-67d38167c10b-bGdjOmluc3RhbGxhdGllI1ZWT1BHcm9lcA",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "63b832e0-16be-4edb-a6ac-2fe8ff3f786b-bGdjOmluc3RhbGxhdGllI1ZWT1A",
+            "toegekendDoor": "AWV"
+        },
+        "doelAssetId": {
+            "identificator": "0a1d21eb-f0d7-4d6d-8778-67d38167c10b-bGdjOmluc3RhbGxhdGllI1ZWT1BHcm9lcA",
+            "toegekendDoor": "AWV"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Montagekast"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Montagekast"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T01.mkast_-_031C9.T01.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T01.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedt"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.T02.mkast_-_031C9.T02.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.T02.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.AMC",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedt"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.str",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Stroomkring"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.str_-_031C9.T01.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.str",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T01.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedt"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.str_-_031C9.T02.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.str",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.T02.mkast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedt"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.lsb",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Laagspanningsbord",
+        "vermogen": 40.0
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.lsb_-_031C9.str",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.lsb",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.str",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "adres": {
+            "gemeente": "sint-Pieters-Leeuw",
+            "huisnummer": "206",
+            "postcode": "1600",
+            "straatnaam": "Bergensesteenweg"
+        },
+        "assetId": {
+            "identificator": "031C9.kast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Wegkantkast"
+    },
+    {
+        "assetId": {
+            "identificator": "031C9.kast_-_031C9.lsb",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "031C9.kast",
+            "toegekendDoor": "OTLMOW"
+        },
+        "doelAssetId": {
+            "identificator": "031C9.lsb",
+            "toegekendDoor": "OTLMOW"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "afbeelding": [
+            {
+                "uri": "https://wegcode.be/images/stories/verkeerstekens/F/F49.png"
+            }
+        ],
+        "afmeting": {
+            "vierhoekig": {
+                "breedte": 70.0,
+                "hoogte": 70.0
+            }
+        },
+        "afwerkingsgraad": "volledig-afgewerkt",
+        "assetId": {
+            "identificator": "031C9.T01.bord1",
+            "toegekendDoor": "OTLMOW"
+        },
+        "grootteorde": "klein",
+        "kleurAchterkant": "7043",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#RetroreflecterendVerkeersbord"
+    },
+    {
+        "afbeelding": [
+            {
+                "uri": "https://wegcode.be/images/stories/verkeerstekens/F/F49.png"
+            }
+        ],
+        "afmeting": {
+            "vierhoekig": {
+                "breedte": 70.0,
+                "hoogte": 70.0
+            }
+        },
+        "afwerkingsgraad": "volledig-afgewerkt",
+        "assetId": {
+            "identificator": "031C9.T01.bord2",
+            "toegekendDoor": "OTLMOW"
+        },
+        "grootteorde": "klein",
+        "kleurAchterkant": "7043",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#RetroreflecterendVerkeersbord"
+    },
+    {
+        "afbeelding": [
+            {
+                "uri": "https://wegcode.be/images/stories/verkeerstekens/F/F49.png"
+            }
+        ],
+        "afmeting": {
+            "vierhoekig": {
+                "breedte": 70.0,
+                "hoogte": 70.0
+            }
+        },
+        "afwerkingsgraad": "volledig-afgewerkt",
+        "assetId": {
+            "identificator": "031C9.T02.bord1",
+            "toegekendDoor": "OTLMOW"
+        },
+        "grootteorde": "klein",
+        "kleurAchterkant": "7043",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#RetroreflecterendVerkeersbord"
+    },
+    {
+        "afbeelding": [
+            {
+                "uri": "https://wegcode.be/images/stories/verkeerstekens/F/F49.png"
+            }
+        ],
+        "afmeting": {
+            "vierhoekig": {
+                "breedte": 70.0,
+                "hoogte": 70.0
+            }
+        },
+        "afwerkingsgraad": "volledig-afgewerkt",
+        "assetId": {
+            "identificator": "031C9.T02.bord2",
+            "toegekendDoor": "OTLMOW"
+        },
+        "grootteorde": "klein",
+        "kleurAchterkant": "7043",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#RetroreflecterendVerkeersbord"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "assetId": {
+            "identificator": "360C6.1"
+        },
+        "geometry": "POINT Z (171277.9 173790.9 0)",
+        "naam": "360C6.1",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Flitspaalbehuizing"
+    },
+    {
+        "assetId": {
+            "identificator": "360C6"
+        },
+        "externeReferentie": {
+            "externReferentienummer": "https://bmidata.drive-it.be/sites/sites/321",
+            "externePartij": "Belgisch Meet Instituut"
+        },
+        "isRoodLicht": true,
+        "naam": "360C6",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Flitsgroep"
+    },
+    {
+        "assetId": {
+            "identificator": "360C6.1_-_360C6",
+            "toegekendDoor": "OTLMOW"
+        },
+        "bronAssetId": {
+            "identificator": "360C6.1"
+        },
+        "doelAssetId": {
+            "identificator": "360C6"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6.1"
+        },
+        "geometry": "POINT Z (173600.1 173138.6 0)",
+        "naam": "421C6.1",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Flitspaalbehuizing"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6"
+        },
+        "isRoodLicht": false,
+        "naam": "421C6",
+        "toestand": "in-gebruik",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/installatie#Flitsgroep"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-421C6.1"
+        },
+        "bronAssetId": {
+            "identificator": "421C6.1"
+        },
+        "doelAssetId": {
+            "identificator": "421C6"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-str"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Stroomkring"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6.1-421C6-str"
+        },
+        "bronAssetId": {
+            "identificator": "421C6-str"
+        },
+        "doelAssetId": {
+            "identificator": "421C6.1"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedt"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-lsb"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Laagspanningsbord"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-lsb-421C6-str"
+        },
+        "bronAssetId": {
+            "identificator": "421C6-lsb"
+        },
+        "doelAssetId": {
+            "identificator": "421C6-str"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "R23N3.85.K"
+        },
+        "naam": "R23N3.85.K",
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Wegkantkast"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-lsb-R23N3.85.K"
+        },
+        "bronAssetId": {
+            "identificator": "421C6-lsb"
+        },
+        "doelAssetId": {
+            "identificator": "R23N3.85.K"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6.1-legacy"
+        },
+        "bronAssetId": {
+            "identificator": "421C6.1"
+        },
+        "doelAssetId": {
+            "identificator": "1c6dbec3-62e6-4e30-8fe1-19ba58a73151-bGdjOmluc3RhbGxhdGllI1NOQ1BhYWw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-legacy"
+        },
+        "bronAssetId": {
+            "identificator": "421C6"
+        },
+        "doelAssetId": {
+            "identificator": "6fec1fbf-9037-4daa-976d-4ccd54e2d554-bGdjOmluc3RhbGxhdGllI1NOQw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-str-legacy"
+        },
+        "bronAssetId": {
+            "identificator": "421C6-str"
+        },
+        "doelAssetId": {
+            "identificator": "adbd8726-d026-4c5d-80e1-5343a2fa4d34-bGdjOmluc3RhbGxhdGllI0xTRGVlbA"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-lsb-legacy"
+        },
+        "bronAssetId": {
+            "identificator": "421C6-lsb"
+        },
+        "doelAssetId": {
+            "identificator": "adbd8726-d026-4c5d-80e1-5343a2fa4d34-bGdjOmluc3RhbGxhdGllI0xTRGVlbA"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "R23N3.85.K-legacy"
+        },
+        "bronAssetId": {
+            "identificator": "R23N3.85.K"
+        },
+        "doelAssetId": {
+            "identificator": "e88f3270-91ed-4fa8-a605-0969805790d4-bGdjOmluc3RhbGxhdGllI0thc3Q"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#HoortBij"
+    },
+    {
+        "assetId": {
+            "identificator": "3013974-421C6-str"
+        },
+        "bronAssetId": {
+            "identificator": "85ab7233-4d69-4702-841e-aace94b42410-b25kZXJkZWVsI0VuZXJnaWVtZXRlckROQg"
+        },
+        "doelAssetId": {
+            "identificator": "421C6-str"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Voedt"
+    },
+    {
+        "assetId": {
+            "identificator": "R23N3.85.K-aansluiting"
+        },
+        "bronAssetId": {
+            "identificator": "R23N3.85.K"
+        },
+        "doelAssetId": {
+            "identificator": "f63bfc00-2951-401e-8dbb-6667a479e0ea-b25kZXJkZWVsI0ROQkxhYWdzcGFubmluZw"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    },
+    {
+        "assetId": {
+            "identificator": "421C6-lsb-3013974"
+        },
+        "bronAssetId": {
+            "identificator": "421C6-lsb"
+        },
+        "doelAssetId": {
+            "identificator": "85ab7233-4d69-4702-841e-aace94b42410-b25kZXJkZWVsI0VuZXJnaWVtZXRlckROQg"
+        },
+        "typeURI": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#Bevestiging"
+    }
+]
