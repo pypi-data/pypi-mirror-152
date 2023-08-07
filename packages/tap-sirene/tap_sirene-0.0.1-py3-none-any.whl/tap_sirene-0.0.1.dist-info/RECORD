@@ -1,0 +1,12 @@
+tap_sirene/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tap_sirene/client.py,sha256=bMI9LmOO1QWgvWdhhpNOhZZNPY37Mbk_b2cFbeh-QiU,4436
+tap_sirene/schemas/siren.json,sha256=7oc5R2p4_csVGYEg2wgZEG1vA3cSLEfSaMuMdED4AcE,1381
+tap_sirene/schemas/siret.json,sha256=vhzhaNEQpblL9hhpe6JU55qYGX4EVGB7cUdn_kfU0jU,1397
+tap_sirene/streams.py,sha256=RUeGtGlrKFckaB7FZQH9OTM5R2rKYnKFUqnGKzvHTtk,1364
+tap_sirene/tap.py,sha256=JkbKKaTW8hW9vJ6MMhk0lxf6AS-Qf0dKazWwm33kGbU,1496
+tap_sirene/tests/__init__.py,sha256=TWpuEWeTPx1TelSBFHwmoV9-ik9KQ_YbKuAPGO5ubKA,34
+tap_sirene/tests/test_core.py,sha256=uFPpJuycAxdc97AeZlZFvrxGd1A1HfIuDamB-o17g10,674
+tap_sirene-0.0.1.dist-info/entry_points.txt,sha256=gcS79281q0guZrtDl6gy0euVdCyOPlWf0rlJVNt_7_w,59
+tap_sirene-0.0.1.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+tap_sirene-0.0.1.dist-info/METADATA,sha256=s2FOmSdND0m7R_cUgTnsuZyF_fpfUby78scP0fNiZx0,575
+tap_sirene-0.0.1.dist-info/RECORD,,
