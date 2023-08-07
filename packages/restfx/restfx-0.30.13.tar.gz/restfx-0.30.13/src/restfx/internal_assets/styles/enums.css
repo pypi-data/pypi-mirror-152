@@ -1,0 +1,8 @@
+#enum-panel .panel{width:80%;}
+#enum-list{padding-bottom:100px;}
+#enum-list .is-empty{font-size:20px;text-align:center;color:#aaaaaa;}
+#enum-list .enum-table{width:100%;margin-bottom:20px;}
+#enum-list .enum-index{display:inline-block;margin-right:10px;font-size:18px;}
+#enum-list .enum-name{font-weight:bold;margin:10px 0;transition-property:font-size,color;transition-duration:500ms;transition-timing-function:ease-in-out;transition-delay:200ms;font-family:Consolas,Monospaced,FangSong,serif;font-size:20px;}
+#enum-list .enum-title.highlight .enum-name{font-size:80px;color:#00a6ff;}
+#enum-list .enum-comment.route-description{height:auto;}
