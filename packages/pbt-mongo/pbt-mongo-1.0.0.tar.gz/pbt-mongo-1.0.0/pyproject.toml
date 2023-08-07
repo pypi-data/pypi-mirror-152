@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "pbt-mongo"
+version = "1.0.0"
+
+packages = [
+    { include = "mongos" },
+]
+
+description = "Mongo driver"
+
+authors = ["everhide <i.tolkachnikov@gmail.com>"]
+include = [".example.env"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+motor="^3.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.pytest.ini_options]
+addopts = 'tests -p no:warnings -s'
+asyncio_mode = 'auto'
+python_files = 'test_*.py tests_*.py'
+log_cli = 0
+log_level = 'CRITICAL'
