@@ -1,0 +1,14 @@
+asreviewcontrib/insights/__init__.py,sha256=KiBo5VpkIuAzskUtvtGyRKdY3OqQvaqSYtfaukQxfdY,301
+asreviewcontrib/insights/_version.py,sha256=ETyufVZ48qJad1A_NqRk-oDahOQiQNXLVoGeUhTrvtQ,498
+asreviewcontrib/insights/algorithms.py,sha256=Yxj7m5y8k3qTws3bOOSZzKm7otIXjYd_5uJCjAat2h0,1643
+asreviewcontrib/insights/entrypoint.py,sha256=eRvIpUudCU5NBKAkbPy0J3CS_XS0pkZQNK73Vw-kLhk,6734
+asreviewcontrib/insights/metrics.py,sha256=Ik-d5G7bYNPMl3JFRPjDhFvcYUOGlV6TB2noryAMsWE,2238
+asreviewcontrib/insights/plot.py,sha256=wSLcNPnu3i4xeqlPAyVMNEGPxXf8cIha7toXav6mfik,8139
+asreviewcontrib/insights/stats.py,sha256=hG-ql47pGDTAQdWWk5rVyM0tEj89W-CJUgP4i6EEjIw,1823
+asreviewcontrib/insights/utils.py,sha256=JcgsqN-dQ1DnCkHoI67USP38Sp-R80uzbmWuxKsYBmU,399
+asreview_insights-1.0rc2.dist-info/LICENSE,sha256=me8q0dTXl7wi_J7I6MPXUd0Yh675wUKmxbVNyu7WXew,11416
+asreview_insights-1.0rc2.dist-info/METADATA,sha256=FpJj9zpYi2m-NlI7SZMocBenmq-AL1NDqb1Dcgbb-Es,20718
+asreview_insights-1.0rc2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+asreview_insights-1.0rc2.dist-info/entry_points.txt,sha256=qpQt1_VYj4oTUJsjM7-9W05f7P0CHlpu2Iw8TkHLv20,143
+asreview_insights-1.0rc2.dist-info/top_level.txt,sha256=-csz-bYFHwIuinKUJ9gUZ_RbXwYqB80-4MPymSjd_Tg,16
+asreview_insights-1.0rc2.dist-info/RECORD,,
