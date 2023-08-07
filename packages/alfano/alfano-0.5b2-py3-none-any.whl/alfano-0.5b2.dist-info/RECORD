@@ -1,0 +1,11 @@
+alfano/__init__.py,sha256=fwUi_LWudDpAVztodj9xk6TIqtNy3XO3f_H0Ut5_az4,509
+alfano/controls/GenerateControlTable.py,sha256=YWwdjVhuq2x7Rrv3ssQQNf8LCUIVCeKhR5mE61x16Aw,19525
+alfano/controls/YawAngles.py,sha256=UUBjDmhYreERgOdCdxrOh9dLP7jxyLEVpqKXyGvDI5A,22848
+alfano/controls/__init__.py,sha256=NGdC-kEL7pLn66sC9iGsyLE8bP0QBXlMrj8kpQk4v18,576
+alfano/utilities/AlfanoLib.py,sha256=xLvnL_Xjeu0KO5JxoiMtm9RTyyzCPh2o0R8Z_D7Ga3E,19672
+alfano/utilities/__init__.py,sha256=I0mybQD47JbitMWyb7EBf_bFPwSvtC3PsDdOmD9r5oY,620
+alfano-0.5b2.dist-info/LICENSE,sha256=OKlRhHzQY74Q68-nCVM0sCaTUCFtyu8TEORcR8rRZuo,36819
+alfano-0.5b2.dist-info/METADATA,sha256=SPCfbIwS1rlhIGPbJOmCCFiCbXqGQfCb3oJDYePIEH4,1470
+alfano-0.5b2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+alfano-0.5b2.dist-info/top_level.txt,sha256=fGxRoCDg23ZEmOePd_T5TVrc0Jk8pViB28mDXrPh2v0,7
+alfano-0.5b2.dist-info/RECORD,,
