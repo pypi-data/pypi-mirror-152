@@ -1,0 +1,18 @@
+name: Linux Static Binary (x64)
+on: workflow_call
+
+jobs:
+  create_static:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build the static binary
+        uses: joaompinto/build-python-static-bin-action@v1
+        with:
+          python_package: ${{ github.event.repository.name }}
+      - name: Archive the resulting executable
+        uses: actions/upload-artifact@v3
+        with:
+          name: linux-binary
+          path: ${{ github.event.repository.name }}.dist/${{ github.event.repository.name }}
+          retention-days: 1

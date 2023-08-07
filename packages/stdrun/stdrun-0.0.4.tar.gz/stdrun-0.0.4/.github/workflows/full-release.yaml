@@ -1,0 +1,31 @@
+name: Full release
+on:
+  push:
+  workflow_call:
+
+jobs:
+  windows:
+    uses: ./.github/workflows/windows-build.yaml
+  linux:
+    uses: ./.github/workflows/linux-build.yaml
+  wheel:
+    uses: ./.github/workflows/wheel-build.yaml
+
+
+  create_github_release:
+    runs-on: ubuntu-20.04
+    needs: [wheel, linux, windows]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create GitHub Release
+        uses: ./.github/actions/github-release
+
+  create_pypi_release:
+    runs-on: ubuntu-20.04
+    needs: wheel
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create Pypi Release
+        uses: ./.github/actions/pypi-release
+        with:
+          pypi_api_token: ${{ secrets.PYPI_API_TOKEN }}

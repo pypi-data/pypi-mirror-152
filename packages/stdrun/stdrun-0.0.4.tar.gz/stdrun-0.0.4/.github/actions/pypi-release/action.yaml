@@ -1,0 +1,25 @@
+name: "Create PyPI Release"
+description: "Creates a PyPi release"
+
+inputs:
+  pypi_api_token:  # id of input
+    description: 'Pypi API token'
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+
+    - name: Download the wheels artifact
+      uses: actions/download-artifact@v3
+      with:
+        name: wheels-data
+
+    - run: tar xvf dist.tar.gz
+      shell: bash
+
+    - name: Publish distribution 📦 to PyPI
+      if: startsWith(github.ref, 'refs/tags')
+      uses: pypa/gh-action-pypi-publish@master
+      with:
+        password: ${{ inputs.pypi_api_token }}

@@ -1,0 +1,57 @@
+name: "Create GitHub Release"
+description: "Creates a github release and uploads assets"
+
+runs:
+  using: "composite"
+  steps:
+
+    - name: Download the wheels artifact
+      uses: actions/download-artifact@v3
+      with:
+        name: wheels-data
+
+    - run: tar xvf dist.tar.gz
+      shell: bash
+
+    - name: Download the windows exe
+      uses: actions/download-artifact@v3
+      with:
+        name: windows-binary
+
+    - name: Download the linux bin
+      uses: actions/download-artifact@v3
+      with:
+        name: linux-binary
+        path: linux-binary
+
+    - run: ls -R
+      shell: bash
+
+    - uses: actions/create-release@v1.0.0
+      id: create_release
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: ${{ github.ref }}
+        draft: false
+        prerelease: false
+
+    - uses: svenstaro/upload-release-action@2.2.1
+      with:
+        repo_token: ${{ github.token }}
+        tag: ${{ github.ref }}
+        file_glob: true
+        file: dist/*.whl
+
+    - uses: svenstaro/upload-release-action@2.2.1
+      with:
+        repo_token: ${{ github.token }}
+        tag: ${{ github.ref }}
+        file: ${{ github.event.repository.name }}.exe
+
+    - uses: svenstaro/upload-release-action@2.2.1
+      with:
+        repo_token: ${{ github.token }}
+        tag: ${{ github.ref }}
+        file: linux-binary/${{ github.event.repository.name }}

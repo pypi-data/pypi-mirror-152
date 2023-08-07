@@ -1,0 +1,27 @@
+name: Python Wheels
+on: workflow_call
+
+jobs:
+  create_wheels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.10
+        uses: actions/setup-python@master
+        with:
+          python-version: '3.10'
+
+      - name: Upgrage core dependencies
+        run: python -m pip install --upgrade pip setuptools wheel
+
+      - name: Build a binary wheel and a source tarball
+        run: |
+          python setup.py sdist bdist_wheel
+          tar -czvf dist.tar.gz dist/
+
+      - name: Archive the resulting wheels
+        uses: actions/upload-artifact@v3
+        with:
+          name: wheels-data
+          path: dist.tar.gz
+          retention-days: 1
