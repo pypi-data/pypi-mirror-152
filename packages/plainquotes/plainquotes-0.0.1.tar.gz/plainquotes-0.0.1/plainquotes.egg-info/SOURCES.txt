@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+plainquotes/__init__.py
+plainquotes/plainquotes.py
+plainquotes.egg-info/PKG-INFO
+plainquotes.egg-info/SOURCES.txt
+plainquotes.egg-info/dependency_links.txt
+plainquotes.egg-info/top_level.txt
