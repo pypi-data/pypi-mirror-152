@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: terminalmuseum
+Version: 0.1.0
+Summary: TerminmalMuseum is a CLI Tool that displays a random piece of classical art onto your Terminal.
+License: APACHE 2.0
+Author: edincitaku
+Author-email: edin.citaku@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
