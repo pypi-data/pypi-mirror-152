@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: quick-sqlite
+Version: 1.4
+Summary: This library can you help you use sqlite3 much easier and faster.
+Home-page: https://github.com/SparkDrago05/quick_sqlite
+Author: Spark Drago
+Author-email: huzaifa.farooq05@gmail.com
+License: MIT
+Download-URL: https://github.com/SparkDrago05/quick_sqlite/archive/refs/tags/v1.4.tar.gz
+Keywords: sqlite,sqlite3,quick
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# quick_sqlite
+
+QuickSqlite helps you work with sqlite3 databases in a much easier way.
+It is simple and easy to use. You will not have to repeatedly write sql statements.
+This will also improve your productivity by recognizing what's happening because of informative function names.
+
+## Installation
+```
+pip install quick_sqlite
+```
+
+Read more in the documentation [here](https://quick-sqlite.readthedocs.io/en/latest/index.html)
+
