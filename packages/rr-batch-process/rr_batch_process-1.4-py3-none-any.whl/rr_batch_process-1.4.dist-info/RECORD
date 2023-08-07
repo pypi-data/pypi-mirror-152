@@ -1,0 +1,11 @@
+rr_batch/__init__.py,sha256=KbytPX7DboXrxxLjbyt1YvHQsPmbLzAAdcSvbosb2zA,597
+rr_batch/constants.py,sha256=MVUiB5-axB_14EDuzdBb7MPqmuCNVvXZnQAfxIoyygE,2100
+rr_batch/sql.py,sha256=cVwGylxiY6Mo01_blmb0ts85gX_NYi9sKioAsfy-H6U,9526
+rr_batch/process/__init__.py,sha256=wSVEvKy2m-FTMnQ7l-neSxGGzu3Mt-1YrB10Bh7nCrE,68
+rr_batch/process/pressure.py,sha256=XFE2kqk0Nfzqo43ltrPGqxOvprxMm4oYHJMsfBhAquY,14591
+rr_batch/process/rating.py,sha256=rSdgHGeufNvBupPH0mWC2Ttq2XwWUnTXvLuIvzS8xpM,3640
+rr_batch_process-1.4.dist-info/LICENSE,sha256=srtf6JmSEBCpFsiQUoxQSaKRRhWTBn_1bdHZmtMwaB4,1067
+rr_batch_process-1.4.dist-info/METADATA,sha256=kKUOEkSPAJg54mvLTi3u-hkUrSo-8cFFXmZL9LkTz64,536
+rr_batch_process-1.4.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+rr_batch_process-1.4.dist-info/top_level.txt,sha256=sKjnjk2iszn1oB9wBTEf7FxcYXzyvzDqkmQ8cy514h8,9
+rr_batch_process-1.4.dist-info/RECORD,,
