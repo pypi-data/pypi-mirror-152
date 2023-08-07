@@ -1,0 +1,5 @@
+inserts-0.1.1.dist-info/METADATA,sha256=puEpeVTpWjCcj13uYdynrEk86SrvY06Lcx2xWx-bCTY,256
+inserts-0.1.1.dist-info/WHEEL,sha256=dR6fPeyEWJWk8JDG8jGchZ0E12Rj9gujG2TT1RXQX4w,97
+inserts/__init__.py,sha256=KdSAuog_qmrJVBCjK6LR8FZAItVbLbpzLqaqUBV6oiw,111
+inserts/inserts.cp310-win_amd64.pyd,sha256=TpwrK1LP2lslQroq0IoxsE0rFqPYGByszoZxPff1B20,1840640
+inserts-0.1.1.dist-info/RECORD,,
