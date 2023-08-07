@@ -1,0 +1,7 @@
+defaults:
+  - _default
+  - loader: parser
+
+data_dir: ${dir.archive}/datasets/source/${.name}
+calculate_stats: true
+preprocess_text: true
