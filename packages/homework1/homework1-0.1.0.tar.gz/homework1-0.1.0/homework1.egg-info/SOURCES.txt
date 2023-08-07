@@ -1,0 +1,9 @@
+README.md
+setup.py
+homework1/__init__.py
+homework1/currencyp.py
+homework1.egg-info/PKG-INFO
+homework1.egg-info/SOURCES.txt
+homework1.egg-info/dependency_links.txt
+homework1.egg-info/requires.txt
+homework1.egg-info/top_level.txt
