@@ -1,0 +1,11 @@
+standardize_df/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+standardize_df/adjust_df.py,sha256=Pya0fGLOGxTlfrW5sG9Z9Vr80dJScDsFnk4T5Uwf7eo,12309
+standardize_df/df_operations.py,sha256=y4XqM05x3lIIbw2If1j3LnoG_mpX9YPTL3LvNkuCT4Y,39360
+standardize_df/pipeline.py,sha256=WHDCgbh9HlQ-ncZoSJmbSBtahZSrh4TrimJ2atdwgN0,16014
+standardize_df/standards.py,sha256=Jue9D2hyNcCbWgmTieVT5GymW6RYyIjhqTaB0y9F6fk,19506
+standardize_df/utils.py,sha256=P8Oyinj2uH4c7luAqedZvZhx0Ch-z3rKV3mu4ZU9fBw,4436
+standardize_df-0.0.1.dist-info/LICENSE,sha256=uL4VzlDrpHhdmz2286R7RfepjBg0IuYYooFDQAIiWfA,1508
+standardize_df-0.0.1.dist-info/METADATA,sha256=8Zn83w8Tr0zHR5RfnJjxhSTdpw-HYKtohjYYy0dp0U4,6021
+standardize_df-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+standardize_df-0.0.1.dist-info/top_level.txt,sha256=0t2X7ItHkgrNHuhph1F8T4M1m7p8VA3Q70kWfFeLPQ0,15
+standardize_df-0.0.1.dist-info/RECORD,,
