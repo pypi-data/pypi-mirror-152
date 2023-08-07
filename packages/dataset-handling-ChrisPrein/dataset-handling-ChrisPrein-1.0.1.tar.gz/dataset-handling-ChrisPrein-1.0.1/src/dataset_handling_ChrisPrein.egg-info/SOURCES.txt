@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/dataset_handling/__init__.py
+src/dataset_handling/dataloader.py
+src/dataset_handling_ChrisPrein.egg-info/PKG-INFO
+src/dataset_handling_ChrisPrein.egg-info/SOURCES.txt
+src/dataset_handling_ChrisPrein.egg-info/dependency_links.txt
+src/dataset_handling_ChrisPrein.egg-info/top_level.txt
