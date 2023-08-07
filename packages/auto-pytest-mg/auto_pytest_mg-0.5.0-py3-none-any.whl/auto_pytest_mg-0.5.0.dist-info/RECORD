@@ -1,0 +1,15 @@
+auto_pytest_mg/__init__.py,sha256=qTmR_68Jhfq6Unv0DuJIKCOUF-4I18vIbY2iYPNMoAs,491
+auto_pytest_mg/__main__.py,sha256=iv1A1mrdkjRM7ocD6M1rvafu7p8LdW8KxXz-Vo03J6w,73
+auto_pytest_mg/cli.py,sha256=DlEyMqT3aO97-UK0u8K3rLqCoZLMTdTVjhfKUSdlOKY,1076
+auto_pytest_mg/console.py,sha256=UpMqeJ0C8i0pkue1AHnnyyX0bFJ9zZeJ7HBR6yhuA8A,54
+auto_pytest_mg/mg_ast.py,sha256=RDReVBT4YGmKZp4bWdmgEEvPV-tEE1Cd2f9QXesRWbQ,3584
+auto_pytest_mg/mg_class.py,sha256=nXKcfhL3G0_LR2UHAgh3NekInfmFBex9Z9DSKieUO2s,2893
+auto_pytest_mg/mg_function.py,sha256=PCOWI1cNzVawGcRtem1vc5yxttz1LMshtdK9X3elm1c,2862
+auto_pytest_mg/mg_import.py,sha256=0dmBodgzihnQab_jC9_p4QOUrllWknrP7XrXOdVeoPU,1145
+auto_pytest_mg/static.py,sha256=MB4fzXQq5vW3tzXbLRUdSOeS8Csn047OF-WBI1Q5efs,16
+auto_pytest_mg/test_mg_ast.py,sha256=jiKPscEltvFdIfZXKVNR8pjgOIAXN2-pShUXbvH-Gp8,4262
+auto_pytest_mg-0.5.0.dist-info/entry_points.txt,sha256=Wimv-7vezTmarNCjVi9DpUUED8KIUh-D8x8p0QK_wwA,62
+auto_pytest_mg-0.5.0.dist-info/LICENSE,sha256=74BTsyy7y5le10EHusVB9767637FFI6vKSkUdLo0_T8,1079
+auto_pytest_mg-0.5.0.dist-info/WHEEL,sha256=DA86_h4QwwzGeRoz62o1svYt5kGEXpoUTuTtwzoTb30,83
+auto_pytest_mg-0.5.0.dist-info/METADATA,sha256=_P2RVeYoLTfahbm6oyuBKg0y_9yOS2tsvRZcJOM3eJk,7359
+auto_pytest_mg-0.5.0.dist-info/RECORD,,
