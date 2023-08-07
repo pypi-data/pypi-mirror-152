@@ -1,0 +1,17 @@
+.gitignore
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+sphinx_rtd_light_dark/__init__.py
+sphinx_rtd_light_dark/breadcrumbs.html
+sphinx_rtd_light_dark/layout.html
+sphinx_rtd_light_dark/theme.conf
+sphinx_rtd_light_dark.egg-info/PKG-INFO
+sphinx_rtd_light_dark.egg-info/SOURCES.txt
+sphinx_rtd_light_dark.egg-info/dependency_links.txt
+sphinx_rtd_light_dark.egg-info/entry_points.txt
+sphinx_rtd_light_dark.egg-info/requires.txt
+sphinx_rtd_light_dark.egg-info/top_level.txt
+sphinx_rtd_light_dark/static/light-dark.css
+sphinx_rtd_light_dark/static/light-dark.js
