@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: hamstercage
+Version: 0.0.9
+Summary: Pets not cattle. A straightforward way to manage configuration files.
+Author: Stefan Bethke
+Author-email: stb@lassitu.de
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: importlib-resources (>=5.7.1,<6.0.0)
