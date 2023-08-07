@@ -1,0 +1,12 @@
+Installare:
+
+
+sudo pip3 install .
+
+
+
+disinstallaare:
+
+sudo pip3 uninstall Mopiqtt
+--------------------------------
+
