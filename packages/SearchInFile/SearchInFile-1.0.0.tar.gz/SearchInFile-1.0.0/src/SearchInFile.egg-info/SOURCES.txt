@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/SearchInFile.egg-info/PKG-INFO
+src/SearchInFile.egg-info/SOURCES.txt
+src/SearchInFile.egg-info/dependency_links.txt
+src/SearchInFile.egg-info/top_level.txt
+src/search/__init__.py
+src/search/find.py

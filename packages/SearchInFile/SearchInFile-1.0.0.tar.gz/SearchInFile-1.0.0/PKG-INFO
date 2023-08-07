@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: SearchInFile
+Version: 1.0.0
+Summary: Pequeno pacote para realizar ações com arquivos .txt
+Home-page: https://github.com/lucasferro0/SearchInFile
+Author: Lucas Ferro
+Author-email: lucasferrobrandao@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Projeto de uma biblioteca em Python para realizar algumas ações com arquivos .txt

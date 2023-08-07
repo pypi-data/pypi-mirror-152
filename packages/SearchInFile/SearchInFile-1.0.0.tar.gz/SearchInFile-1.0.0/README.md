@@ -1,0 +1,1 @@
+Projeto de uma biblioteca em Python para realizar algumas ações com arquivos .txt
