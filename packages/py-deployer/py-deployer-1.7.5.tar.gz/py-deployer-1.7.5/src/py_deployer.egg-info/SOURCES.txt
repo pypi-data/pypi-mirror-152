@@ -1,0 +1,17 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+src/py_deployer/pydeploy.py
+src/py_deployer.egg-info/PKG-INFO
+src/py_deployer.egg-info/SOURCES.txt
+src/py_deployer.egg-info/dependency_links.txt
+src/py_deployer.egg-info/entry_points.txt
+src/py_deployer.egg-info/requires.txt
+src/py_deployer.egg-info/top_level.txt
+src/py_deployer/app/__init__.py
+src/py_deployer/app/arguments.py
+src/py_deployer/app/config.py
+src/py_deployer/app/main.py
+src/py_deployer/app/settings.py
+src/py_deployer/app/ssh_client.py

@@ -1,0 +1,3 @@
+[console_scripts]
+pydeploy = py_deployer.app.main:main
+
