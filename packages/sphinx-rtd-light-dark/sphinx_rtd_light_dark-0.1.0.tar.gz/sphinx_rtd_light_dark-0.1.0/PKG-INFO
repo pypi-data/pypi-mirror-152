@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: sphinx_rtd_light_dark
+Version: 0.1.0
+Summary: A minimal variant of the read the docs sphinx theme with light and dark modes.
+Author: Luke Davis
+Author-email: lukelbd@gmail.com
+Maintainer: Luke Davis
+Maintainer-email: lukelbd@gmail.com
+License: MIT
+Project-URL: Issue Tracker, https://github.com/lukelbd/sphinx_rtd_light_dark/issues
+Project-URL: Source Code, https://github.com/lukelbd/sphinx_rtd_light_dark
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
+
+Read the Docs Light-Dark Theme
+------------------------------
+
+A clean variant of the [read the docs theme](https://github.com/readthedocs/sphinx_rtd_theme)
+with grayscale styling and optional light mode / dark mode toggling.
+This theme is currently used with the [proplot](https://github.com/lukelbd/proplot.git)
+and [climopy](https://github.com/lukelbd/climopy.git) projects.
+Please refer to the published [proplot](https://proplot.readthedocs.io)
+and [climopy](https://climopy.readthedocs.io) documentation for
+demonstrations of the theme.
+
+Theme Usage
+-----------
+
+In your `conf.py` file, add the entry ``'sphinx_rtd_light_dark'`` to the `extensions` list,
+and set the variable `html_theme` to ``'sphinx_rtd_light_dark'``. Example `conf.py`:
+
+```python
+extensions = [
+  ...
+  'sphinx_rtd_light_dark',
+  ...
+]
+html_theme = 'sphinx_rtd_light_dark'
+```
