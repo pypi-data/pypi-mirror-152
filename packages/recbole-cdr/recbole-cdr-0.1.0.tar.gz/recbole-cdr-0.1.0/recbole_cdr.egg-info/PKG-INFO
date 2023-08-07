@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: recbole-cdr
+Version: 0.1.0
+Summary: A unified, comprehensive and efficient cross-domain-recommendation library
+Home-page: https://github.com/RUCAIBox/RecBole-CDR
+Author: RecBoleTeam
+Author-email: recbole@outlook.com
+License: UNKNOWN
+Description: RecBole-CDR is developed based on RecBole for reproducing and developing cross-domain-recommendation algorithms in a unified, comprehensive and efficient framework for research purpose. In the first version, our library includes 10 cross-domain-recommendation algorithms. 
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Provides-Extra: hyperopt
