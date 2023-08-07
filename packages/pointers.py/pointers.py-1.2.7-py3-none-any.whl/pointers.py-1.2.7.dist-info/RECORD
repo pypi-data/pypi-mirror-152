@@ -1,0 +1,15 @@
+pointers.py,sha256=QVCsZI_1ND2BO4m6pttnpH3v43oqxj15lgW_VsMn63I,3891
+pointers/__init__.py,sha256=sXZYCwrxpRGB_NsrtIvBeF8v5An6SsKTMHjT3RA1yfo,480
+pointers/_cstd.py,sha256=HH0rjaw25r3sJqfZLBi4CvUWpixc1vPiaSyEcKCqEJY,829
+pointers/calloc.py,sha256=RdwkOiu1mmOs0stKoSpzCSsTwsPHLKlULqUF-foxjcs,3668
+pointers/decay.py,sha256=iCchmecJkjGCXrfwgMbZQIZIquJrQNFP8foLv7Wj3dI,1468
+pointers/exceptions.py,sha256=BVkQJYhgdjzP-dO0aXDpFq6z-mRM7oO7NPM6GKq54Xg,1645
+pointers/frozen_pointer.py,sha256=eC086bfSsJgbBZ2FSXMm12uQT_Kq22tvoYGRIyUUifc,777
+pointers/malloc.py,sha256=aeKJH-6v3GHYpSrU-ixcTGl4TlX7rjpuaHkkUxfHzoY,4065
+pointers/pointer.py,sha256=VkQiPeQyrQs_jkVqdnXF2Kwrrrnf7Q80iwcQn5CA_kE,5952
+pointers/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pointers.py-1.2.7.dist-info/LICENSE,sha256=NyTEdL_Fkrp3mWQ5GM6dSxCpeRyQbpdbxtKnGn7SmeE,1091
+pointers.py-1.2.7.dist-info/METADATA,sha256=lHTVu1ZIJ5Qpo_QOIK2Fk5r5L5DDh33AGucRYoPwjf0,2097
+pointers.py-1.2.7.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+pointers.py-1.2.7.dist-info/top_level.txt,sha256=_5RS1HgpnuCUXdUN74XZWrrB33rYvbdcz2SkZyX9xgs,9
+pointers.py-1.2.7.dist-info/RECORD,,
