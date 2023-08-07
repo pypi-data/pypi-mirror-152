@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: pyccs
+Version: 1.1.0
+Author: Jinyang Zhang <zhangjinyang@biols.ac.cn
+Author-email: Jinyang Zhang <zhangjinyang@biols.ac.cn
+Maintainer: Jinyang Zhang
+Maintainer-email: zhangjinyang@biols.ac.cn
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+Project-URL: homepage, https://github.com/Kevinzjy/pyccs
+
+# Pyccs
+
+Detecting cyclic consensus sequences in nanopore long reads
+
+```
+pip install pyccs
+```
+
+## Usage 
+
+```
+>>> from pyccs import find_consensus
+>>>
+>>> segment = "TCCCGGTCATCATAACCCCGATCGTACCCTCTGTCATAATAGTCTCGGCGGCGAGAACTGCCACTGTAAATCTGATCCCTGTCTTGAGCTGCTCTCCATCCACCTCCCTCCACCACCTCCTCCTCTGTATGATCTGCTGTAATAG"
+>>>
+>>> segment_str, ccs_seq = find_consensus(segment * 3)
+>>> segment_str
+'10-155;155-300;300-434'
+>>>
+>>> ccs_seq
+'CATAACCCCGATCGTACCCTCTGTCATAATAGTCTCGGCGGCGAGAACTGCCACTGTAAATCTGATCCCTGTCTTGAGCTGCTCTCCATCCACCTCCCTCCACCACCTCCTCCTCTGTATGATCTGCTGTAATAGTCCCGGTCAT'
+>>>
+>>> len(segment), len(ccs_seq)
+(145, 145)
+```
+
+## License
+
+The code is released under the `MIT` License. See the LICENSE file for more detail
