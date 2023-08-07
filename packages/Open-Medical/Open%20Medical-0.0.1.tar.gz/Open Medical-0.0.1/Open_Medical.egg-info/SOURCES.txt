@@ -1,0 +1,8 @@
+setup.py
+Open_Medical.egg-info/PKG-INFO
+Open_Medical.egg-info/SOURCES.txt
+Open_Medical.egg-info/dependency_links.txt
+Open_Medical.egg-info/requires.txt
+Open_Medical.egg-info/top_level.txt
+open_medical/__init__.py
+open_medical/main.py

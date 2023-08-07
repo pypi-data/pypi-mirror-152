@@ -1,0 +1,10 @@
+bert-extractive-summarizer
+bert-extractive-summarizer
+sacremoses
+pyvis
+awscli
+wikipedia-api
+neuralcoref
+transformers
+pymed
+pyLDAvis
