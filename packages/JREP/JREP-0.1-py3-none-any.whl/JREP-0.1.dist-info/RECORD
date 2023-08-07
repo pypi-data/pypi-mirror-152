@@ -1,0 +1,12 @@
+jrep/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+jrep/jrep.py,sha256=gc1P57o4ueHK5dS_qldFqULXcnbUgnSw5znwq8J18cA,61517
+jrep/modded_glob.py,sha256=ELmdUWFTvSu41rkmrZ3MKd3PJ_D8-DxGErPAPzx0SHs,9423
+jrep/sre_compile.py,sha256=F2PRjGpqlIGDzL6GA04PZOYiDt_YWPJRwCszS8eL39U,27479
+jrep/sre_constants.py,sha256=HLU3DG6mmiIs-_0375dQ8S2cJdy2UqfNYwDRd_Lsms8,7413
+jrep/sre_parse.py,sha256=DtjqJBfaTSG7ySbuJEZce3oi1M62_TjbMfeanr5rs9c,41294
+JREP-0.1.dist-info/LICENSE,sha256=nntMbH9anplkXmW0mE1wa4r8Abpkgj5Cj_p5_UReMgo,1162
+JREP-0.1.dist-info/METADATA,sha256=xW_FuOKMbYVmqIPewaLWAWy33RO8WheyRcs_pX8xT1g,20697
+JREP-0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+JREP-0.1.dist-info/entry_points.txt,sha256=slB7ayqXfTuChCtsanZjfE4pLBhEpcds_T8Z43UtsOk,40
+JREP-0.1.dist-info/top_level.txt,sha256=3Y3DmzKEginQRw4N1vh0KhqJ0BQ1_cmfrtncRRNo7h0,5
+JREP-0.1.dist-info/RECORD,,
