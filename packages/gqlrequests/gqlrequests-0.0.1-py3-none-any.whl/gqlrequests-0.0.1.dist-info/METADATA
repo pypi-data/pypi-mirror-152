@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: gqlrequests
+Version: 0.0.1
+Summary: A Python library for making GraphQL requests easier!
+Home-page: https://github.com/BeatsuDev/GraphQLRequests
+Author: BeatsuDev
+Author-email: 
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.7.0
+Description-Content-Type: text/markdown
+
+# gqlrequests - A Python library for making GraphQL requests easier!
+Define GraphQL types in Python, then use them to build queries super easy:
+```py
+class Episode(GraphQLType):
+    name = str
+    length = float
+
+class Character(GraphQLType):
+    name = str
+    appearsIn = [Episode]
+
+print(Character)
+
+print(Character.query())
+# {
+#     name
+#     appearsIn {
+#         name
+#         length
+#     }
+# } 
+
+print(Character.query("name"))
+# {
+#     name
+# } 
+
+print(Character.query(indent=2)) # Default indent is 4
+# {
+#   name
+#   appearsIn {
+#     name
+#     length
+#   }
+# } 
+```
+
