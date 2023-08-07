@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/FileTree/FileTree.py
+src/FileTree/__init__.py
+src/file_tree_ds.egg-info/PKG-INFO
+src/file_tree_ds.egg-info/SOURCES.txt
+src/file_tree_ds.egg-info/dependency_links.txt
+src/file_tree_ds.egg-info/top_level.txt
