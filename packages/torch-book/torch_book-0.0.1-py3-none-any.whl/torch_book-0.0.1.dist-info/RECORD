@@ -1,0 +1,7 @@
+torch_book/__init__.py,sha256=T3HZiXMwjWmzJVtT2woIr3oIwinob3JP3OUz6waRUnA,45
+torch_book/data/__init__.py,sha256=66kBgYcDNa8y3VKE5i6VIiLD1LZw77qo7MTZnh5UdtQ,30
+torch_book/data/imagenet.py,sha256=FByifoL_yQEXbEo2l0_qah_jSrcsBZInonTlbbZANeA,1660
+torch_book-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+torch_book-0.0.1.dist-info/WHEEL,sha256=4TfKIB_xu-04bc2iKz6_zFt-gEFEEDU_31HGhqzOCE8,81
+torch_book-0.0.1.dist-info/METADATA,sha256=xHNjtOSdK16i1SXW7ubb8A9se2cTRmnV1gjbcgLbqcU,2643
+torch_book-0.0.1.dist-info/RECORD,,
