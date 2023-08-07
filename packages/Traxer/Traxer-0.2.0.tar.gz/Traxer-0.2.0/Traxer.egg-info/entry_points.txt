@@ -1,0 +1,3 @@
+[console_scripts]
+traxer = traxer.server.run_server:run
+
