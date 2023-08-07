@@ -1,0 +1,13 @@
+rest_celery/__init__.py,sha256=RzT9zqEPkTS_sQiptXacg4vE73DXkZzdrXK3VJ0rk_Y,4479
+rest_celery/admin.py,sha256=cUeHC0dyGG-ot-n99_nzW37UKItgAiemTqIAR1MGs3E,1374
+rest_celery/apps.py,sha256=DAlc7L19ddRlVeNiq7ynx33sz-cKdqsrsJZpsHsJE7g,153
+rest_celery/models.py,sha256=nroLQ3cmvFMLXgPW42n-1gMAaKh-pcMuzL7h2XabWG0,402
+rest_celery/serializers.py,sha256=JMhTJNQLvCadQZQhaaOymdpY7vYzKUcafE5xQrMiZnM,535
+rest_celery/swagger.py,sha256=GJATilExX_lAy1NXiuMLc_Ki_0VkgFVOQJkOVT0QOxA,839
+rest_celery/tests.py,sha256=mrbGGRNg5jwbTJtWWa7zSKdDyeB4vmgZCRc2nk6VY-g,60
+rest_celery/views.py,sha256=3aiMeFGz-F9g4hvLaJBY5EFmd1UR0fgxnHJGn-xGHSE,680
+rest_celery/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+rest_celery-0.1.0.dist-info/METADATA,sha256=Q2SLUWga-d0EwreGafLpxcYUCKBPpyIml82PUyMebMQ,871
+rest_celery-0.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+rest_celery-0.1.0.dist-info/top_level.txt,sha256=c9TGegoWp5zALhjprZmQomHL8R4DBVOJzPL26S7HGsA,12
+rest_celery-0.1.0.dist-info/RECORD,,
