@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+control_scnu.egg-info/PKG-INFO
+control_scnu.egg-info/SOURCES.txt
+control_scnu.egg-info/dependency_links.txt
+control_scnu.egg-info/requires.txt
+control_scnu.egg-info/top_level.txt
