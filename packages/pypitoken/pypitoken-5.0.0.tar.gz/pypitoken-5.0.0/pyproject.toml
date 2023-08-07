@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "pypitoken"
+version = "5.0.0"
+description = "Manipulate PyPI API tokens"
+license = "MIT"
+authors = ["Joachim Jablon <ewjoachim@gmail.com>"]
+classifiers = [
+    "Topic :: Security",
+    "Topic :: System :: Archiving :: Packaging"
+]
+readme = "README.rst"
+homepage = "https://pypitoken.readthedocs.io/en/latest/"
+repository = "https://github.com/ewjoachim/pypitoken"
+documentation = "https://pypitoken.readthedocs.io/en/latest/"
+keywords = ["pypi", "api", "token", "security", "packaging"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+pymacaroons = "^0.13.0"
+jsonschema = "*"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+pytest-cov = "*"
+Sphinx = "<4"
+sphinx-material = "*"
+sphinx-github-changelog = "*"
+sphinx-autodoc-typehints = "*"
+dunamai = "*"
+black = "*"
+isort = "*"
+flake8 = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
