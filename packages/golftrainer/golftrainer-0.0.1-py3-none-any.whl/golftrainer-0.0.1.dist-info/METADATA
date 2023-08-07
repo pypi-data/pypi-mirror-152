@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: golftrainer
+Version: 0.0.1
+Summary: Analyze a golf swing looking at critical points.
+Home-page: https://github.com/sanjeevs/golftrainer
+Author: Sanjeev Singh
+Author-email: snjvsingh123@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: opencv-python
+Provides-Extra: dev
+Requires-Dist: pytest (>=3.7) ; extra == 'dev'
+Requires-Dist: check-manifest ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+
+# Introdction
+This package provides a utility for analyzing a golf swing. The user needs to provide the tracking points in each frame as specified by the golftracker package.
+
+# Initial Version
+Create a script golftrainer that reads the list of json files in a directory and displays the swing.
+

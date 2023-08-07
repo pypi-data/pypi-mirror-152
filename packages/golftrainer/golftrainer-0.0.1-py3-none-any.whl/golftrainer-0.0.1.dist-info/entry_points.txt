@@ -1,0 +1,3 @@
+[console_scripts]
+golfmodel1 = golftrainer.golfmodel1:main
+
