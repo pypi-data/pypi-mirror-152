@@ -1,0 +1,2 @@
+opy-logger>=2.0
+lxml>=4.8.0

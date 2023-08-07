@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        opydoviz=opydoviz:opydoviz
+    
