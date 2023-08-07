@@ -1,0 +1,15 @@
+chips/__init__.py,sha256=_3lU5s3nKDG3D8zg_gnO0ziWcqe9mtJohjq6MYHoBBE,63
+chips/__main__.py,sha256=7ESYlkSlUj0sZQ4Tm16zvidvZN88ZGlvUOSYjgWYng4,2313
+chips/commands/add.py,sha256=y8MmTTl_9K2GmH3OKkIzV3JH6N0nMXhZaqREqscu4gI,807
+chips/commands/remove.py,sha256=pwYjuJi5xUc4m_RoeGnVKaCEw7fA2vWZ_7kqgka_3fs,796
+chips/commands/results.py,sha256=xsDQecfVulcy6WI-Z6hZV7MUpJTxJ0RcGXFE8b9DMM0,107
+chips/commands/setup.py,sha256=ioRwDCcEgaOaqpht11bJCmxrTyqsru_xP2dVVCBqxJw,1377
+chips/common/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chips/common/basic_excludes.py,sha256=XjqaE6e6wOB54sdQYmPXrLzeTWuPJP-hZ9HKeKIIvrU,1001
+chips/common/messages_service.py,sha256=kMv1pDLoTVpLhQVYNAA519BQ1NxqrfAH-04iAbl8pco,648
+chips/services/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chips/services/chipper.py,sha256=5GMJ-eu0VxyxcGJhMT31JUhD_-Jq0liGt3BaU8a1Emg,1196
+chips/services/main.py,sha256=GSQ4uRxmi6lFvXJda5tS8whmkoGNBfgkB-nzzUwcm3I,25348
+python_chips-1.0.12.dist-info/WHEEL,sha256=y3eDiaFVSNTPbgzfNn0nYn5tEn1cX6WrdetDlQM4xWw,83
+python_chips-1.0.12.dist-info/METADATA,sha256=NOORyd9ze2aZk_tBjqWX6o6tZ5Q9_W31dV9lIYRSRA8,3552
+python_chips-1.0.12.dist-info/RECORD,,
