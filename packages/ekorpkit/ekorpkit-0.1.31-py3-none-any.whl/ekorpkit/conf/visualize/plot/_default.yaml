@@ -1,0 +1,12 @@
+defaults:
+  - series: default
+  - plot: default
+  - subplots: default
+  - figure: default
+  - savefig: default
+
+output_dir: ${oc.select:..output_dir, ./figs}
+output_file: ${oc.select:..output_file, plot1.png}
+verbose: ${oc.select:verbose, true}
+figures:
+  - ${..figure}

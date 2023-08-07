@@ -1,0 +1,7 @@
+defaults:
+  - default
+  - lineplot: default
+
+output_file: ${oc.select:..output_file, lineplot.png}
+plots:
+  - ${..lineplot}

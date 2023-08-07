@@ -1,0 +1,10 @@
+_func_: stackplot
+axno: 0
+dataform: transpose
+x:
+y:
+secondary_y: false
+secondary_to: 0
+_parms_:
+  colors:
+  baseline: zero
