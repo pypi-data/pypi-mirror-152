@@ -1,0 +1,3 @@
+[console_scripts]
+terminalmuseum=terminalmuseum.main:main
+
