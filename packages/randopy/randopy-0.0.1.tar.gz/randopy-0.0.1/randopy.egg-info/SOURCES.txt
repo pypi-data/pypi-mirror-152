@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+randopy/__init__.py
+randopy/_first.py
+randopy/_last.py
+randopy/_rando.py
+randopy.egg-info/PKG-INFO
+randopy.egg-info/SOURCES.txt
+randopy.egg-info/dependency_links.txt
+randopy.egg-info/top_level.txt

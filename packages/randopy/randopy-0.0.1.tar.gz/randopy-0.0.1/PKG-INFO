@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: randopy
+Version: 0.0.1
+Summary: A package for randomness
+Home-page: UNKNOWN
+Author: Zalman Belinow
+Author-email: zalmanbelinow@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Randopy
+It's simple enough; figure it out yourself.
+    
+
