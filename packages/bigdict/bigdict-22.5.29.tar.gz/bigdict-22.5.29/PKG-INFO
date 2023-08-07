@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: bigdict
+Version: 22.5.29
+Summary: Bigdict based on rocksdb
+Author-email: Zepu Zhang <zepu.zhang@gmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: lbry-rocksdb
+Requires-Dist: bandit ; extra == "test"
+Requires-Dist: coverage[toml] ; extra == "test"
+Requires-Dist: flake8 ; extra == "test"
+Requires-Dist: mypy ; extra == "test"
+Requires-Dist: pylint ; extra == "test"
+Requires-Dist: pytest ; extra == "test"
+Requires-Dist: pytest-asyncio ; extra == "test"
+Project-URL: Source, https://github.com/zpz/bigdict
+Provides-Extra: test
+
+# bigdict
+
+`bigdict` implements a persisted, out-of-memory dict for Python.
+
+Tested with Python 3.7, 3.8.
+
+The usage API strives to be as close as possible to the built-in `dict`, with a small number of extras.
+
+The "engine", or "back-end", is currently `rocksdb`. However, `rocksdb` is not the point; the point is rather a "persisted, out-of-memory dict".
+
+Installation:
+
+```
+$ pip install bigdict
+```
+
+
+Possible enhancements in the future:
+
+- Support remote storage.
+- Implement a cache backed by `bigdict`.
+- A more performant engine to replace `rocksdb`.
+- Make updates to the package `python-rocksdb`, which is not very active as of now.
+
+
+## Release 21.4.11
+
+- Changed dependency from `python-rocksdb` to `rocksdb`, which provides a built package in a wheel, greately simplifying build and installation.
+- Bumped Python requirement from 3.6 to 3.7, because `rocksdb` provides wheels for 3.7-3.8 only.
+- Enforce all `mypy` and `pylint` checks.
+
+
+## Release 21.1.5
+
+Initial release. Uploaded to Pypi.
