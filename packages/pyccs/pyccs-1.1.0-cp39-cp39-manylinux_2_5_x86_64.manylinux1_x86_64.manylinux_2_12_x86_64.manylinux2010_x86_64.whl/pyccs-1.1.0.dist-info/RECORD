@@ -1,0 +1,6 @@
+pyccs-1.1.0.dist-info/RECORD,,
+pyccs-1.1.0.dist-info/METADATA,sha256=9EyHNoDJL2uY1qyKiXPdENvUwKXYZVbO4k6XIuT1HMk,1094
+pyccs-1.1.0.dist-info/WHEEL,sha256=U398MN5Zy0gkYR9-6Bqn6tniPN79oqIs8qdwdcthn2Y,268
+pyccs/_ccs.py,sha256=BVrzjYaym-ayZTRRRAZdv_x27iyUh5hgSA27ampYt1Y,405
+pyccs/pyccs.cpython-39-x86_64-linux-gnu.so,sha256=z6zMUbOI91fDjdD1hDIy1jgYxmDlEoEeH9Nsnq5jp7Y,4179216
+pyccs/__init__.py,sha256=bqmpSVGZC-_wZDLkGRQZXVYzlNrQiln9qKiGymKznkI,37
