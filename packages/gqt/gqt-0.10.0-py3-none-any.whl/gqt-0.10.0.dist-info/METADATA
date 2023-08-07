@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: gqt
+Version: 0.10.0
+Summary: GraphQL query builder.
+Home-page: https://github.com/eerimoq/gqt
+Author: Erik Moqvist
+Author-email: erik.moqvist@gmail.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: gql[requests]
+
+GraphQL in the terminal
+=======================
+
+.. image:: docs/assets/showcase.gif
+
+Ideas
+-----
+
+- Save latest query and cursor position in ``~/.cache/gqt.toml``.
+
+- Execute or print built query.
+
+- Contols:
+
+  - Execute built query when pressing ``<Enter>``.
+
+  - Toggle checkbox with ``<Space>``.
+
+  - Use arrows ro navigate.
+
+  - Use ``/`` to fuzzy find field.
+
+- Query all selected visible leaves.
+
+- Variables?
