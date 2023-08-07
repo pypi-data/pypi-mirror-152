@@ -1,0 +1,5 @@
+allennlp
+numpy
+transformers
+sentence_transformers
+torch
