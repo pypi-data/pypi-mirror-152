@@ -1,0 +1,10 @@
+README.md
+setup.py
+guessTheNumberSDA/__init__.py
+guessTheNumberSDA/data_validations.py
+guessTheNumberSDA/guess_game.py
+guessTheNumberSDA/main.py
+guessTheNumberSDA.egg-info/PKG-INFO
+guessTheNumberSDA.egg-info/SOURCES.txt
+guessTheNumberSDA.egg-info/dependency_links.txt
+guessTheNumberSDA.egg-info/top_level.txt
