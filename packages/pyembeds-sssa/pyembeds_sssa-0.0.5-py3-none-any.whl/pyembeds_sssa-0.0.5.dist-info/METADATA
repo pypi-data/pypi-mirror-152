@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: pyembeds-sssa
+Version: 0.0.5
+Summary: A small package for Introduction to Programming and Machine Learning Course
+Home-page: https://github.com/EMbeDS-education
+Author: Daniele Licari e Andrea Vandin
+Author-email: daniele.licari@gmail.com
+Project-URL: Bug Tracker, https://github.com/EMbeDS-education/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pyEmbedsSSSA Package
+
+Package for Introduction to Programming and Machine Learning in Python
+
+## Installing pyEmbedsSSSA
+`pip install pyembeds-sssa`
+
+## Course responsible:
+- Andrea Vandin, andrea.vandin@santannapisa.it https://www.santannapisa.it/en/andrea-vandin
+- Daniele Licari, daniele.licari@santannapisa.it https://www.linkedin.com/in/daniele-licari/
+
+## Description:
+The course introduces students to programming and data analysis, using python as a reference
+language.
+ - **Module 1** 
+Introduces students to the fundamental principles of structured programming with basic applications to data processing
+
+ - **Module 2**
+Introduces the students to the components of typical data analysis processes and machine learning pipelines.
