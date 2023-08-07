@@ -1,0 +1,3 @@
+[sopel.plugins]
+http=sopel_http
+

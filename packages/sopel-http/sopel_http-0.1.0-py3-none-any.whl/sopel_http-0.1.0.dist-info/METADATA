@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: sopel-http
+Version: 0.1.0
+Summary: An HTTP server for the Sopel IRC bot framework
+Home-page: https://github.com/half-duplex/sopel-http
+License: EUPL-1.2
+Keywords: irc,sopel
+Author: Trevor Bergeron
+Author-email: mal@sec.gd
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Communications :: Chat :: Internet Relay Chat
+Requires-Dist: Flask (>=2.1.2,<3.0.0)
+Requires-Dist: gevent (>=21.12,<22.0)
+Description-Content-Type: text/markdown
+
+# sopel-http
+[![PyPi Version](https://img.shields.io/pypi/v/sopel-http.svg)](https://pypi.python.org/pypi/sopel-http)
+
+Interact with your [Sopel](https://github.com/sopel-irc/sopel) bot over HTTP
+
+## Setup
+Only developers should need to install this package directly, but they can do
+so with a simple `pip install sopel-http`.
+
+## Configuration
+You can change which IP addresses and ports `sopel-http` binds to in your Sopel
+configuration. For example, to bind to port 80 on all IPs (including public!):
+```ini
+[http]
+bind = "[::]:80"
+```
+
+## Usage
+See the example plugin,
+[sopel-http-example](https://github.com/half-duplex/sopel-http-example).
+
+Once you've created and registered the flask
+[Blueprint](https://flask.palletsprojects.com/en/2.1.x/blueprints/)
+as shown in the example, you can use it more or less like any other flask
+application.
+
