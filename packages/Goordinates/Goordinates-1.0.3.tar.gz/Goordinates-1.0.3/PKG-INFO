@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: Goordinates
+Version: 1.0.3
+Summary: Outputs latitude/longitude coordinates from any Google Map URL.
+Home-page: https://github.com/Duoslow/Goordinates
+Author: Duoslow
+Author-email: heniugur@gmail.com
+Project-URL: Bug Tracker, https://github.com/Duoslow/Goordinates/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 5 - Production/Stable
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Goordinates
+
+### Goordinates is a Python package that allows you to easily get latitude and longitude information from a Google Map URL.  
+### Usage
+```
+from Goordinates import Gmap
+
+lat, lng = Gmap.GetCoordinate(map_url)
+```
