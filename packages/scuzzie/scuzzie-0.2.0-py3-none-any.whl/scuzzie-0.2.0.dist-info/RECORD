@@ -1,0 +1,13 @@
+scuzzie/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scuzzie/cli.py,sha256=VN_7xUVK3WsN7gS_JhwQdqR-w4_ZTU9ntrqic9ZfDe4,5789
+scuzzie/comic.py,sha256=RSOjocXQUzRxFPHqkr_MID4I_PnUuHrFPGDgYNqnQys,6209
+scuzzie/exc.py,sha256=5OxkuCt7dAAtEcpclft_kBwDrBJDw9KLIiULNenj_nI,2497
+scuzzie/generator.py,sha256=CC6d7cXbL-BTbr3jeVZkOCIKsrv3Gv6txKGubBSfrq0,3959
+scuzzie/resources.py,sha256=CcxnVtl9omkN3FKNWLDkRuUMbtX-n28q3QhzYRDtYtQ,4165
+scuzzie/schemas.py,sha256=zBH4tl-u6pIL4JIuQpDtmI-B7jjZmxH11LQpZnruBeU,3358
+scuzzie/templator.py,sha256=diAyOCRULt23F7WjQsw6rBJ_XrCZFiULu2-6pz9FMdg,1156
+scuzzie-0.2.0.dist-info/entry_points.txt,sha256=AqogPh4ASDLWJZof3V3dJ-4RnKsmSF_ci7IkFdlezfc,47
+scuzzie-0.2.0.dist-info/LICENSE,sha256=TFhWn3-YH-m9ckvaiNEwCqYvKpfehJ6XOt_cFHVg89o,1051
+scuzzie-0.2.0.dist-info/WHEEL,sha256=KXNDfOTTCr-VyxnCJDozfJ6nmi3hNN9RABDaCXBsNak,85
+scuzzie-0.2.0.dist-info/METADATA,sha256=N5GOXQ4y81CUJh5lgPwCAnZQodeK__DmnuAhLXRRdsQ,760
+scuzzie-0.2.0.dist-info/RECORD,,
