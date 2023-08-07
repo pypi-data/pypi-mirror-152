@@ -1,0 +1,14 @@
+setup.py
+scrapy_demo/__init__.py
+scrapy_demo/items.py
+scrapy_demo/middlewares.py
+scrapy_demo/pipelines.py
+scrapy_demo/run_spider.py
+scrapy_demo/settings.py
+scrapy_demo/spiders/__init__.py
+scrapy_demo/spiders/test.py
+zhyscrapy.egg-info/PKG-INFO
+zhyscrapy.egg-info/SOURCES.txt
+zhyscrapy.egg-info/dependency_links.txt
+zhyscrapy.egg-info/requires.txt
+zhyscrapy.egg-info/top_level.txt
